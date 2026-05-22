@@ -22,7 +22,7 @@
     "preferred_attack_style": "Physical",
     "localized": {
         "zh": {
-            "name": "440312"
+            "name": "芙拉沃"
         }
     },
     "implemented": false,
@@ -37,7 +37,7 @@
         "id": 440312,
         "name": "440312",
         "localized": {
-            "zh": "440312"
+            "zh": "芙拉沃"
         }
     },
     "trait": null,
@@ -55,7 +55,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "440312"
+                                "name": "芙拉沃"
                             }
                         },
                         "is_leader_form": true,
@@ -82,7 +82,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "440312"
+                                "name": "芙拉沃"
                             }
                         },
                         "is_leader_form": true,
@@ -107,7 +107,7 @@
     "world_profile": {
         "type_desc": null,
         "description_habitat": null,
-        "introduction": null,
+        "introduction": "巨大的花朵盛开了，它的花瓣像是一顶遮阳帽，花朵很好闻。",
         "refresh_locations": [],
         "movement_type": null,
         "classis_id": 4,

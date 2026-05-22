@@ -22,7 +22,7 @@
     "preferred_attack_style": "Both",
     "localized": {
         "zh": {
-            "name": "3549"
+            "name": "银翼龙"
         }
     },
     "implemented": false,
@@ -37,18 +37,18 @@
         "id": 3549,
         "name": "3549",
         "localized": {
-            "zh": "3549"
+            "zh": "银翼龙"
         }
     },
     "trait": {
         "id": 200098,
-        "name": "特性 200098",
-        "description": "",
+        "name": "共鸣",
+        "description": "携带的「虫鸣」技能威力+20。",
         "icon_id": "200098",
         "localized": {
             "zh": {
-                "name": "特性 200098",
-                "description": ""
+                "name": "共鸣",
+                "description": "携带的「虫鸣」技能威力+20。"
             }
         }
     },
@@ -66,7 +66,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3549"
+                                "name": "银翼龙"
                             }
                         },
                         "is_leader_form": false,
@@ -95,7 +95,9 @@
         "type_desc": null,
         "description_habitat": null,
         "introduction": null,
-        "refresh_locations": [],
+        "refresh_locations": [
+            "由于昼夜或者天气的原因，这只精灵还没有出现哦！"
+        ],
         "movement_type": "步行",
         "classis_id": 6,
         "classis_name": null,

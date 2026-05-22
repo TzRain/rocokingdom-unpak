@@ -22,7 +22,7 @@
     "preferred_attack_style": "Physical",
     "localized": {
         "zh": {
-            "name": "13000157"
+            "name": "首领-花魁蜂后"
         }
     },
     "implemented": false,
@@ -37,18 +37,18 @@
         "id": 13000157,
         "name": "huakuifenghou_shouling",
         "localized": {
-            "zh": "13000157"
+            "zh": "首领-花魁蜂后"
         }
     },
     "trait": {
         "id": 7800240,
-        "name": "特性 7800240",
-        "description": "",
+        "name": "首领免疫",
+        "description": "免疫冰冻、吹飞，和中毒灼烧的伤害（给对手一个回合结束回满能量）",
         "icon_id": "702038",
         "localized": {
             "zh": {
-                "name": "特性 7800240",
-                "description": ""
+                "name": "首领免疫",
+                "description": "免疫冰冻、吹飞，和中毒灼烧的伤害（给对手一个回合结束回满能量）"
             }
         }
     },
@@ -66,7 +66,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "13000157"
+                                "name": "首领-花魁蜂后"
                             }
                         },
                         "is_leader_form": true,
@@ -93,7 +93,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "13000157"
+                                "name": "首领-花魁蜂后"
                             }
                         },
                         "is_leader_form": true,
@@ -118,7 +118,7 @@
     "world_profile": {
         "type_desc": null,
         "description_habitat": null,
-        "introduction": null,
+        "introduction": "穿着披风、戴着王冠的蜂后，总是带着它的两个小侍卫。高雅的女王形象令人印象深刻，它的外形曾经是许多服装设计的灵感。",
         "refresh_locations": [],
         "movement_type": null,
         "classis_id": 4,

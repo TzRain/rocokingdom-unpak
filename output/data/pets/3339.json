@@ -22,7 +22,7 @@
     "preferred_attack_style": "Both",
     "localized": {
         "zh": {
-            "name": "3339"
+            "name": "冰晶虎"
         }
     },
     "implemented": false,
@@ -37,18 +37,18 @@
         "id": 3339,
         "name": "bingjinghu",
         "localized": {
-            "zh": "3339"
+            "zh": "冰晶虎"
         }
     },
     "trait": {
         "id": 200261,
-        "name": "特性 200261",
-        "description": "",
+        "name": "冰晶古齿虎",
+        "description": "攻击应对成功时，赋予敌方3层冻结",
         "icon_id": "200074",
         "localized": {
             "zh": {
-                "name": "特性 200261",
-                "description": ""
+                "name": "冰晶古齿虎",
+                "description": "攻击应对成功时，赋予敌方3层冻结"
             }
         }
     },
@@ -66,7 +66,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3339"
+                                "name": "冰晶虎"
                             }
                         },
                         "is_leader_form": false,
@@ -93,7 +93,9 @@
         "type_desc": null,
         "description_habitat": null,
         "introduction": null,
-        "refresh_locations": [],
+        "refresh_locations": [
+            "由于昼夜或者天气的原因，这只精灵还没有出现哦！"
+        ],
         "movement_type": "步行",
         "classis_id": 6,
         "classis_name": null,

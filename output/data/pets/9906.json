@@ -1,7 +1,7 @@
 {
     "id": 9906,
     "name": "9906",
-    "form": "default",
+    "form": "百分百闪避",
     "main_type": {
         "id": 3,
         "name": "Fire",
@@ -22,7 +22,7 @@
     "preferred_attack_style": "Both",
     "localized": {
         "zh": {
-            "name": "9906"
+            "name": "测试火花2（百分百闪避）"
         }
     },
     "implemented": false,
@@ -37,18 +37,18 @@
         "id": 9906,
         "name": "9906",
         "localized": {
-            "zh": "9906"
+            "zh": "测试火花2（百分百闪避）"
         }
     },
     "trait": {
         "id": 200146,
-        "name": "特性 200146",
-        "description": "",
+        "name": "助燃",
+        "description": "使用火系技能后，获得双攻+20%。",
         "icon_id": "200146",
         "localized": {
             "zh": {
-                "name": "特性 200146",
-                "description": ""
+                "name": "助燃",
+                "description": "使用火系技能后，获得双攻+20%。"
             }
         }
     },
@@ -63,10 +63,10 @@
                     {
                         "id": 9906,
                         "name": "9906",
-                        "form": "default",
+                        "form": "百分百闪避",
                         "localized": {
                             "zh": {
-                                "name": "9906"
+                                "name": "测试火花2（百分百闪避）"
                             }
                         },
                         "is_leader_form": false,
@@ -92,7 +92,7 @@
     "world_profile": {
         "type_desc": null,
         "description_habitat": null,
-        "introduction": null,
+        "introduction": "热情、无畏、坦诚。即使有点小冒失，但依旧是值得信赖的伙伴。",
         "refresh_locations": [],
         "movement_type": null,
         "classis_id": 6,

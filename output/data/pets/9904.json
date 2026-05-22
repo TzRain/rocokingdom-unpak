@@ -22,7 +22,7 @@
     "preferred_attack_style": "Both",
     "localized": {
         "zh": {
-            "name": "9904"
+            "name": "测试喵喵2"
         }
     },
     "implemented": false,
@@ -37,18 +37,18 @@
         "id": 9904,
         "name": "9904",
         "localized": {
-            "zh": "9904"
+            "zh": "测试喵喵2"
         }
     },
     "trait": {
         "id": 200076,
-        "name": "特性 200076",
-        "description": "",
+        "name": "氧循环",
+        "description": "使用草系技能后，回复10%生命。",
         "icon_id": "200076",
         "localized": {
             "zh": {
-                "name": "特性 200076",
-                "description": ""
+                "name": "氧循环",
+                "description": "使用草系技能后，回复10%生命。"
             }
         }
     },
@@ -66,7 +66,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "9904"
+                                "name": "测试喵喵2"
                             }
                         },
                         "is_leader_form": false,
@@ -92,7 +92,7 @@
     "world_profile": {
         "type_desc": null,
         "description_habitat": null,
-        "introduction": null,
+        "introduction": "喜欢摇晃尾巴。胆小却又调皮，受到惊吓时会飞速逃跑。",
         "refresh_locations": [],
         "movement_type": null,
         "classis_id": 4,

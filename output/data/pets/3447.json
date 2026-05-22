@@ -28,7 +28,7 @@
     "preferred_attack_style": "Both",
     "localized": {
         "zh": {
-            "name": "3447"
+            "name": "雪毛角羚牛"
         }
     },
     "implemented": false,
@@ -43,18 +43,18 @@
         "id": 3447,
         "name": "xuemaojiaolinyang_huanjiao",
         "localized": {
-            "zh": "3447"
+            "zh": "雪毛角羚牛"
         }
     },
     "trait": {
         "id": 200121,
-        "name": "特性 200121",
-        "description": "",
+        "name": "迟滞",
+        "description": "每有一个其他的己方精灵携带一个系别的技能，威力+10",
         "icon_id": "200074",
         "localized": {
             "zh": {
-                "name": "特性 200121",
-                "description": ""
+                "name": "迟滞",
+                "description": "每有一个其他的己方精灵携带一个系别的技能，威力+10"
             }
         }
     },
@@ -72,7 +72,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3445"
+                                "name": "雪毛角羚牛"
                             }
                         },
                         "is_leader_form": false,
@@ -98,7 +98,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3446"
+                                "name": "雪毛角羚牛"
                             }
                         },
                         "is_leader_form": false,
@@ -124,7 +124,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3447"
+                                "name": "雪毛角羚牛"
                             }
                         },
                         "is_leader_form": false,
@@ -156,8 +156,10 @@
     "world_profile": {
         "type_desc": null,
         "description_habitat": null,
-        "introduction": null,
-        "refresh_locations": [],
+        "introduction": "永远在嚼着什么，所有长到它们嘴边的东西，全部都吃。不是正在吃东西，就在回味刚才吃的东西，还很喜欢舔东西，要么舔路边的盐岩，要么舔出汗的洛克。",
+        "refresh_locations": [
+            "由于昼夜或者天气的原因，这只精灵还没有出现哦！"
+        ],
         "movement_type": "步行",
         "classis_id": 6,
         "classis_name": null,

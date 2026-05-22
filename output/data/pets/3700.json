@@ -28,7 +28,7 @@
     "preferred_attack_style": "Physical",
     "localized": {
         "zh": {
-            "name": "3700"
+            "name": "去污香芋"
         }
     },
     "implemented": false,
@@ -43,7 +43,7 @@
         "id": 3700,
         "name": "songzai",
         "localized": {
-            "zh": "3700"
+            "zh": "去污香芋"
         }
     },
     "trait": null,
@@ -61,7 +61,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3699"
+                                "name": "不香芋"
                             }
                         },
                         "is_leader_form": false,
@@ -93,7 +93,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3700"
+                                "name": "去污香芋"
                             }
                         },
                         "is_leader_form": false,
@@ -119,7 +119,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3701"
+                                "name": "嗜污香芋"
                             }
                         },
                         "is_leader_form": false,
@@ -152,7 +152,9 @@
         "type_desc": null,
         "description_habitat": null,
         "introduction": null,
-        "refresh_locations": [],
+        "refresh_locations": [
+            "由于昼夜或者天气的原因，这只精灵还没有出现哦！"
+        ],
         "movement_type": "步行",
         "classis_id": 6,
         "classis_name": null,

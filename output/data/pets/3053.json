@@ -28,7 +28,7 @@
     "preferred_attack_style": "Both",
     "localized": {
         "zh": {
-            "name": "3053"
+            "name": "害羞球球"
         }
     },
     "implemented": false,
@@ -43,18 +43,18 @@
         "id": 3053,
         "name": "haixiuqiuqiu",
         "localized": {
-            "zh": "3053"
+            "zh": "害羞球球"
         }
     },
     "trait": {
         "id": 200101,
-        "name": "特性 200101",
-        "description": "",
+        "name": "质朴",
+        "description": "技能能耗固定为5。",
         "icon_id": "200101",
         "localized": {
             "zh": {
-                "name": "特性 200101",
-                "description": ""
+                "name": "质朴",
+                "description": "技能能耗固定为5。"
             }
         }
     },
@@ -72,7 +72,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3052"
+                                "name": "煤球憨憨"
                             }
                         },
                         "is_leader_form": false,
@@ -104,7 +104,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3053"
+                                "name": "害羞球球"
                             }
                         },
                         "is_leader_form": false,
@@ -141,7 +141,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3054"
+                                "name": "蓝衣夜灵"
                             }
                         },
                         "is_leader_form": false,
@@ -178,8 +178,10 @@
     "world_profile": {
         "type_desc": null,
         "description_habitat": null,
-        "introduction": null,
-        "refresh_locations": [],
+        "introduction": "有时会将头上的部分发射出去，但不论多远都能收回来。似乎还有一种说法认为上面的部分才是本体，害羞地把自己隐藏了起来。",
+        "refresh_locations": [
+            "由于昼夜或者天气的原因，这只精灵还没有出现哦！"
+        ],
         "movement_type": "步行",
         "classis_id": 7,
         "classis_name": null,

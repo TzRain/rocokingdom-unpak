@@ -22,7 +22,7 @@
     "preferred_attack_style": "Both",
     "localized": {
         "zh": {
-            "name": "140006"
+            "name": "50级水桶模板"
         }
     },
     "implemented": false,
@@ -37,14 +37,14 @@
         "id": 140006,
         "name": "140006",
         "localized": {
-            "zh": "140006"
+            "zh": "50级水桶模板"
         }
     },
     "trait": null,
     "move_pool": [
         {
             "id": 7020390,
-            "name": "技能 7020390",
+            "name": "扫尾",
             "icon_id": "702047",
             "move_type": {
                 "id": 1,
@@ -55,18 +55,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7020390",
-                    "description": ""
+                    "name": "扫尾",
+                    "description": "对敌方精灵造成物理伤害。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 2,
             "power": 90,
-            "description": ""
+            "description": "对敌方精灵造成物理伤害。"
         },
         {
             "id": 7030170,
-            "name": "技能 7030170",
+            "name": "荆棘爪",
             "icon_id": "703014",
             "move_type": {
                 "id": 2,
@@ -77,18 +77,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7030170",
-                    "description": ""
+                    "name": "荆棘爪",
+                    "description": "对敌方精灵造成物理伤害。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 2,
             "power": 80,
-            "description": ""
+            "description": "对敌方精灵造成物理伤害。"
         },
         {
             "id": 7050170,
-            "name": "技能 7050170",
+            "name": "水弹枪",
             "icon_id": "703101",
             "move_type": {
                 "id": 4,
@@ -99,18 +99,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7050170",
-                    "description": ""
+                    "name": "水弹枪",
+                    "description": "对敌方精灵造成魔法伤害。"
                 }
             },
             "move_category": "Magic Attack",
             "energy_cost": 2,
             "power": 80,
-            "description": ""
+            "description": "对敌方精灵造成魔法伤害。"
         },
         {
             "id": 7060090,
-            "name": "技能 7060090",
+            "name": "闪光",
             "icon_id": "704002",
             "move_type": {
                 "id": 5,
@@ -121,18 +121,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7060090",
-                    "description": ""
+                    "name": "闪光",
+                    "description": "对敌方精灵造成魔法伤害。"
                 }
             },
             "move_category": "Magic Attack",
             "energy_cost": 1,
             "power": 60,
-            "description": ""
+            "description": "对敌方精灵造成魔法伤害。"
         },
         {
             "id": 7080120,
-            "name": "技能 7080120",
+            "name": "跺地",
             "icon_id": "708012",
             "move_type": {
                 "id": 6,
@@ -143,18 +143,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7080120",
-                    "description": ""
+                    "name": "跺地",
+                    "description": "对敌方精灵造成物理伤害。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 2,
             "power": 80,
-            "description": ""
+            "description": "对敌方精灵造成物理伤害。"
         },
         {
             "id": 7110190,
-            "name": "技能 7110190",
+            "name": "触电",
             "icon_id": "711007",
             "move_type": {
                 "id": 9,
@@ -165,18 +165,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7110190",
-                    "description": ""
+                    "name": "触电",
+                    "description": "对敌方精灵造成魔法伤害。"
                 }
             },
             "move_category": "Magic Attack",
             "energy_cost": 2,
             "power": 80,
-            "description": ""
+            "description": "对敌方精灵造成魔法伤害。"
         },
         {
             "id": 7160130,
-            "name": "技能 7160130",
+            "name": "飞吻",
             "icon_id": "716001",
             "move_type": {
                 "id": 14,
@@ -187,18 +187,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7160130",
-                    "description": ""
+                    "name": "飞吻",
+                    "description": "对敌方精灵造成魔法伤害。"
                 }
             },
             "move_category": "Magic Attack",
             "energy_cost": 2,
             "power": 80,
-            "description": ""
+            "description": "对敌方精灵造成魔法伤害。"
         },
         {
             "id": 7170160,
-            "name": "技能 7170160",
+            "name": "恐吓",
             "icon_id": "705002",
             "move_type": {
                 "id": 15,
@@ -209,18 +209,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7170160",
-                    "description": ""
+                    "name": "恐吓",
+                    "description": "对敌方精灵造成魔法伤害。"
                 }
             },
             "move_category": "Magic Attack",
             "energy_cost": 2,
             "power": 80,
-            "description": ""
+            "description": "对敌方精灵造成魔法伤害。"
         },
         {
             "id": 7190210,
-            "name": "技能 7190210",
+            "name": "念力膨胀",
             "icon_id": "719008",
             "move_type": {
                 "id": 18,
@@ -231,14 +231,14 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7190210",
-                    "description": ""
+                    "name": "念力膨胀",
+                    "description": "对敌方精灵造成物理伤害。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 2,
             "power": 80,
-            "description": ""
+            "description": "对敌方精灵造成物理伤害。"
         }
     ],
     "move_stones": [],
@@ -254,7 +254,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "140006"
+                                "name": "50级水桶模板"
                             }
                         },
                         "is_leader_form": false,
@@ -282,7 +282,7 @@
     "world_profile": {
         "type_desc": null,
         "description_habitat": null,
-        "introduction": null,
+        "introduction": "喜欢摇晃尾巴，受到惊吓会快速逃跑。",
         "refresh_locations": [],
         "movement_type": null,
         "classis_id": 3,

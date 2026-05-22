@@ -22,7 +22,7 @@
     "preferred_attack_style": "Both",
     "localized": {
         "zh": {
-            "name": "3353"
+            "name": "雷暴奔奔"
         }
     },
     "implemented": false,
@@ -37,18 +37,18 @@
         "id": 3353,
         "name": "leibaobenben",
         "localized": {
-            "zh": "3353"
+            "zh": "雷暴奔奔"
         }
     },
     "trait": {
         "id": 200168,
-        "name": "特性 200168",
-        "description": "",
+        "name": "自发电",
+        "description": "在场下时回合结束时攻击提升10%；在场上时，回合结束时攻击降低30%。",
         "icon_id": "200168",
         "localized": {
             "zh": {
-                "name": "特性 200168",
-                "description": ""
+                "name": "自发电",
+                "description": "在场下时回合结束时攻击提升10%；在场上时，回合结束时攻击降低30%。"
             }
         }
     },
@@ -66,7 +66,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3353"
+                                "name": "雷暴奔奔"
                             }
                         },
                         "is_leader_form": false,
@@ -92,8 +92,10 @@
     "world_profile": {
         "type_desc": null,
         "description_habitat": null,
-        "introduction": null,
-        "refresh_locations": [],
+        "introduction": "不知道为什么在野外遇到它们的时候，它们一直在哼歌，断断续续的小调不清楚是什么曲子，但非常洗脑。使用复杂的声音和曲调进行交流，它们哼的歌里面包含了想要传递给对方的信息。",
+        "refresh_locations": [
+            "由于昼夜或者天气的原因，这只精灵还没有出现哦！"
+        ],
         "movement_type": "步行",
         "classis_id": 6,
         "classis_name": null,

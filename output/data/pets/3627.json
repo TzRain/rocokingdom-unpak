@@ -22,7 +22,7 @@
     "preferred_attack_style": "Both",
     "localized": {
         "zh": {
-            "name": "3627"
+            "name": "矮核球"
         }
     },
     "implemented": false,
@@ -37,14 +37,14 @@
         "id": 3627,
         "name": "songzai",
         "localized": {
-            "zh": "3627"
+            "zh": "矮核球"
         }
     },
     "trait": null,
     "move_pool": [
         {
             "id": 7000341,
-            "name": "技能 7000341",
+            "name": "希望超新星",
             "icon_id": "7000341",
             "move_type": {
                 "id": 18,
@@ -55,18 +55,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7000341",
-                    "description": ""
+                    "name": "希望超新星",
+                    "description": "进化成巡天幻星，解放所有的力量！"
                 }
             },
             "move_category": "Status",
             "energy_cost": 1000,
             "power": null,
-            "description": ""
+            "description": "进化成巡天幻星，解放所有的力量！"
         },
         {
             "id": 7000342,
-            "name": "技能 7000342",
+            "name": "熵增",
             "icon_id": "7000342",
             "move_type": {
                 "id": 18,
@@ -77,18 +77,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7000342",
-                    "description": ""
+                    "name": "熵增",
+                    "description": "全属性增加50%，使用后回复400绩点。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 800,
             "power": null,
-            "description": ""
+            "description": "全属性增加50%，使用后回复400绩点。"
         },
         {
             "id": 7000343,
-            "name": "技能 7000343",
+            "name": "聚变",
             "icon_id": "7000343",
             "move_type": {
                 "id": 18,
@@ -99,18 +99,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7000343",
-                    "description": ""
+                    "name": "聚变",
+                    "description": "回复40%生命值和200绩点。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 600,
             "power": null,
-            "description": ""
+            "description": "回复40%生命值和200绩点。"
         },
         {
             "id": 7000344,
-            "name": "技能 7000344",
+            "name": "对撞",
             "icon_id": "7000344",
             "move_type": {
                 "id": 18,
@@ -121,14 +121,14 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7000344",
-                    "description": ""
+                    "name": "对撞",
+                    "description": "造成魔伤。"
                 }
             },
             "move_category": "Magic Attack",
             "energy_cost": 100,
             "power": 80,
-            "description": ""
+            "description": "造成魔伤。"
         }
     ],
     "move_stones": [],
@@ -144,7 +144,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3627"
+                                "name": "矮核球"
                             }
                         },
                         "is_leader_form": false,
@@ -170,7 +170,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3628"
+                                "name": "星脉兽"
                             }
                         },
                         "is_leader_form": false,
@@ -196,7 +196,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3629"
+                                "name": "巡天幻星"
                             }
                         },
                         "is_leader_form": false,
@@ -223,7 +223,9 @@
         "type_desc": null,
         "description_habitat": null,
         "introduction": null,
-        "refresh_locations": [],
+        "refresh_locations": [
+            "由于昼夜或者天气的原因，这只精灵还没有出现哦！"
+        ],
         "movement_type": "步行",
         "classis_id": 6,
         "classis_name": null,

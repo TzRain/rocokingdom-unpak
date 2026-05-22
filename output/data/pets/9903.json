@@ -22,7 +22,7 @@
     "preferred_attack_style": "Both",
     "localized": {
         "zh": {
-            "name": "9903"
+            "name": "测试火花1"
         }
     },
     "implemented": false,
@@ -37,25 +37,25 @@
         "id": 9903,
         "name": "9903",
         "localized": {
-            "zh": "9903"
+            "zh": "测试火花1"
         }
     },
     "trait": {
         "id": 200146,
-        "name": "特性 200146",
-        "description": "",
+        "name": "助燃",
+        "description": "使用火系技能后，获得双攻+20%。",
         "icon_id": "200146",
         "localized": {
             "zh": {
-                "name": "特性 200146",
-                "description": ""
+                "name": "助燃",
+                "description": "使用火系技能后，获得双攻+20%。"
             }
         }
     },
     "move_pool": [
         {
             "id": 7040180,
-            "name": "技能 7040180",
+            "name": "闪燃",
             "icon_id": "704013",
             "move_type": {
                 "id": 3,
@@ -66,14 +66,14 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7040180",
-                    "description": ""
+                    "name": "闪燃",
+                    "description": "造成物伤，应对状态：本次技能威力变为4倍。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 1,
             "power": 40,
-            "description": ""
+            "description": "造成物伤，应对状态：本次技能威力变为4倍。"
         }
     ],
     "move_stones": [],
@@ -89,7 +89,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "9903"
+                                "name": "测试火花1"
                             }
                         },
                         "is_leader_form": false,
@@ -115,7 +115,7 @@
     "world_profile": {
         "type_desc": null,
         "description_habitat": null,
-        "introduction": null,
+        "introduction": "热情、无畏、坦诚。即使有点小冒失，但依旧是值得信赖的伙伴。",
         "refresh_locations": [],
         "movement_type": null,
         "classis_id": 6,

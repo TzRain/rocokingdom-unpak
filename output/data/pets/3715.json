@@ -22,7 +22,7 @@
     "preferred_attack_style": "Physical",
     "localized": {
         "zh": {
-            "name": "3715"
+            "name": "格斗小七"
         }
     },
     "implemented": false,
@@ -37,25 +37,25 @@
         "id": 3715,
         "name": "songzai",
         "localized": {
-            "zh": "3715"
+            "zh": "格斗小七"
         }
     },
     "trait": {
         "id": 200199,
-        "name": "特性 200199",
-        "description": "",
+        "name": "受身",
+        "description": "防御技能应对成功时，速度永久+40。",
         "icon_id": "200199",
         "localized": {
             "zh": {
-                "name": "特性 200199",
-                "description": ""
+                "name": "受身",
+                "description": "防御技能应对成功时，速度永久+40。"
             }
         }
     },
     "move_pool": [
         {
             "id": 7020780,
-            "name": "技能 7020780",
+            "name": "防御",
             "icon_id": "700023",
             "move_type": {
                 "id": 1,
@@ -66,14 +66,14 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7020780",
-                    "description": ""
+                    "name": "防御",
+                    "description": "减伤70%，应对攻击。"
                 }
             },
             "move_category": "Defense",
             "energy_cost": 1,
             "power": null,
-            "description": ""
+            "description": "减伤70%，应对攻击。"
         }
     ],
     "move_stones": [],
@@ -89,7 +89,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3715"
+                                "name": "格斗小七"
                             }
                         },
                         "is_leader_form": false,
@@ -116,7 +116,9 @@
         "type_desc": null,
         "description_habitat": null,
         "introduction": null,
-        "refresh_locations": [],
+        "refresh_locations": [
+            "由于昼夜或者天气的原因，这只精灵还没有出现哦！"
+        ],
         "movement_type": "步行",
         "classis_id": 6,
         "classis_name": null,

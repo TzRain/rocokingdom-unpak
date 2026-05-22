@@ -28,7 +28,7 @@
     "preferred_attack_style": "Magic",
     "localized": {
         "zh": {
-            "name": "440305"
+            "name": "A1最终战-吞噬"
         }
     },
     "implemented": false,
@@ -43,7 +43,7 @@
         "id": 440305,
         "name": "440305",
         "localized": {
-            "zh": "440305"
+            "zh": "A1最终战-吞噬"
         }
     },
     "trait": null,
@@ -61,7 +61,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "440305"
+                                "name": "A1最终战-吞噬"
                             }
                         },
                         "is_leader_form": false,
@@ -93,7 +93,7 @@
     "world_profile": {
         "type_desc": null,
         "description_habitat": null,
-        "introduction": null,
+        "introduction": "身体的颜色会随心情变化，游动时非常漂亮。也因此被一些洛克用作装饰品或器皿。",
         "refresh_locations": [],
         "movement_type": null,
         "classis_id": 14,

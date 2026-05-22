@@ -28,7 +28,7 @@
     "preferred_attack_style": "Physical",
     "localized": {
         "zh": {
-            "name": "3702"
+            "name": "啄疫鸟"
         }
     },
     "implemented": false,
@@ -43,7 +43,7 @@
         "id": 3702,
         "name": "songzai",
         "localized": {
-            "zh": "3702"
+            "zh": "啄疫鸟"
         }
     },
     "trait": null,
@@ -61,7 +61,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3702"
+                                "name": "啄疫鸟"
                             }
                         },
                         "is_leader_form": false,
@@ -93,7 +93,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3703"
+                                "name": "瘟疫医鸟"
                             }
                         },
                         "is_leader_form": false,
@@ -126,7 +126,9 @@
         "type_desc": null,
         "description_habitat": null,
         "introduction": null,
-        "refresh_locations": [],
+        "refresh_locations": [
+            "由于昼夜或者天气的原因，这只精灵还没有出现哦！"
+        ],
         "movement_type": "步行",
         "classis_id": 6,
         "classis_name": null,

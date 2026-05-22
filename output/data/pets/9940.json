@@ -22,7 +22,7 @@
     "preferred_attack_style": "Both",
     "localized": {
         "zh": {
-            "name": "9940"
+            "name": "测试AI鸭吉吉1"
         }
     },
     "implemented": false,
@@ -37,7 +37,7 @@
         "id": 9940,
         "name": "9940",
         "localized": {
-            "zh": "9940"
+            "zh": "测试AI鸭吉吉1"
         }
     },
     "trait": null,
@@ -55,7 +55,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "9940"
+                                "name": "测试AI鸭吉吉1"
                             }
                         },
                         "is_leader_form": false,
@@ -81,7 +81,7 @@
     "world_profile": {
         "type_desc": null,
         "description_habitat": null,
-        "introduction": null,
+        "introduction": "这是一只测试宠物，如果你在不该看到的地方看到了它，请联系策划。",
         "refresh_locations": [],
         "movement_type": null,
         "classis_id": 3,

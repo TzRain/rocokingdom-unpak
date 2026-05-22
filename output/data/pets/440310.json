@@ -28,7 +28,7 @@
     "preferred_attack_style": "Physical",
     "localized": {
         "zh": {
-            "name": "440310"
+            "name": "蛰蛰"
         }
     },
     "implemented": false,
@@ -43,7 +43,7 @@
         "id": 440310,
         "name": "440310",
         "localized": {
-            "zh": "440310"
+            "zh": "蛰蛰"
         }
     },
     "trait": null,
@@ -61,7 +61,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "440310"
+                                "name": "蛰蛰"
                             }
                         },
                         "is_leader_form": true,
@@ -94,7 +94,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "440310"
+                                "name": "蛰蛰"
                             }
                         },
                         "is_leader_form": true,
@@ -125,7 +125,7 @@
     "world_profile": {
         "type_desc": null,
         "description_habitat": null,
-        "introduction": null,
+        "introduction": "像是穿着披风、戴着王冠的蜂后，总是带着它的两个小侍卫。",
         "refresh_locations": [],
         "movement_type": null,
         "classis_id": 4,

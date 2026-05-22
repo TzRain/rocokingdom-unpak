@@ -22,7 +22,7 @@
     "preferred_attack_style": "Both",
     "localized": {
         "zh": {
-            "name": "3023"
+            "name": "火云斗鸡"
         }
     },
     "implemented": false,
@@ -37,18 +37,18 @@
         "id": 3023,
         "name": "huoyundouji",
         "localized": {
-            "zh": "3023"
+            "zh": "火云斗鸡"
         }
     },
     "trait": {
         "id": 200154,
-        "name": "特性 200154",
-        "description": "",
+        "name": "燃烧效率变更",
+        "description": "火系攻击技能赋予2层灼烧。",
         "icon_id": "200154",
         "localized": {
             "zh": {
-                "name": "特性 200154",
-                "description": ""
+                "name": "燃烧效率变更",
+                "description": "火系攻击技能赋予2层灼烧。"
             }
         }
     },
@@ -66,7 +66,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3009"
+                                "name": "赤毛鸡仔"
                             }
                         },
                         "is_leader_form": false,
@@ -92,7 +92,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3023"
+                                "name": "火云斗鸡"
                             }
                         },
                         "is_leader_form": false,
@@ -120,8 +120,10 @@
     "world_profile": {
         "type_desc": null,
         "description_habitat": null,
-        "introduction": null,
-        "refresh_locations": [],
+        "introduction": "将翅膀作为武器，被它攻击过的地方都会留下火焰燎烤的痕迹，但同时也会烤焦自己。身体的分泌物也是易燃物。",
+        "refresh_locations": [
+            "由于昼夜或者天气的原因，这只精灵还没有出现哦！"
+        ],
         "movement_type": "步行",
         "classis_id": 11,
         "classis_name": null,

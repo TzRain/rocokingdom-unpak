@@ -22,7 +22,7 @@
     "preferred_attack_style": "Physical",
     "localized": {
         "zh": {
-            "name": "3711"
+            "name": "胡桃王子"
         }
     },
     "implemented": false,
@@ -37,7 +37,7 @@
         "id": 3711,
         "name": "songzai",
         "localized": {
-            "zh": "3711"
+            "zh": "胡桃王子"
         }
     },
     "trait": null,
@@ -55,7 +55,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3710"
+                                "name": "咬咬小子"
                             }
                         },
                         "is_leader_form": false,
@@ -81,7 +81,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3711"
+                                "name": "胡桃王子"
                             }
                         },
                         "is_leader_form": false,
@@ -110,7 +110,9 @@
         "type_desc": null,
         "description_habitat": null,
         "introduction": null,
-        "refresh_locations": [],
+        "refresh_locations": [
+            "由于昼夜或者天气的原因，这只精灵还没有出现哦！"
+        ],
         "movement_type": "地面",
         "classis_id": 6,
         "classis_name": null,

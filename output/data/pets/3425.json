@@ -28,7 +28,7 @@
     "preferred_attack_style": "Both",
     "localized": {
         "zh": {
-            "name": "3425"
+            "name": "三叶草龙"
         }
     },
     "implemented": false,
@@ -43,7 +43,7 @@
         "id": 3425,
         "name": "sanyecaolong",
         "localized": {
-            "zh": "3425"
+            "zh": "三叶草龙"
         }
     },
     "trait": null,
@@ -61,7 +61,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3425"
+                                "name": "三叶草龙"
                             }
                         },
                         "is_leader_form": false,
@@ -93,7 +93,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3426"
+                                "name": "花叶龙"
                             }
                         },
                         "is_leader_form": false,
@@ -128,7 +128,9 @@
         "type_desc": null,
         "description_habitat": null,
         "introduction": null,
-        "refresh_locations": [],
+        "refresh_locations": [
+            "由于昼夜或者天气的原因，这只精灵还没有出现哦！"
+        ],
         "movement_type": "步行",
         "classis_id": 6,
         "classis_name": null,

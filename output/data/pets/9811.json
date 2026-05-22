@@ -22,7 +22,7 @@
     "preferred_attack_style": "Both",
     "localized": {
         "zh": {
-            "name": "9811"
+            "name": "鸭吉吉_虫"
         }
     },
     "implemented": false,
@@ -37,25 +37,25 @@
         "id": 9811,
         "name": "9811",
         "localized": {
-            "zh": "9811"
+            "zh": "鸭吉吉_虫"
         }
     },
     "trait": {
         "id": 200000,
-        "name": "特性 200000",
-        "description": "",
+        "name": "GM被动",
+        "description": "回合末恢复10能量。",
         "icon_id": "200074",
         "localized": {
             "zh": {
-                "name": "特性 200000",
-                "description": ""
+                "name": "GM被动",
+                "description": "回合末恢复10能量。"
             }
         }
     },
     "move_pool": [
         {
             "id": 7130220,
-            "name": "技能 7130220",
+            "name": "掩护",
             "icon_id": "212015",
             "move_type": {
                 "id": 11,
@@ -66,18 +66,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7130220",
-                    "description": ""
+                    "name": "掩护",
+                    "description": "减伤70%，紧急脱离，应对攻击：下个入场精灵获得减伤。"
                 }
             },
             "move_category": "Defense",
             "energy_cost": 2,
             "power": null,
-            "description": ""
+            "description": "减伤70%，紧急脱离，应对攻击：下个入场精灵获得减伤。"
         },
         {
             "id": 7130300,
-            "name": "技能 7130300",
+            "name": "网缚",
             "icon_id": "112022",
             "move_type": {
                 "id": 11,
@@ -88,18 +88,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7130300",
-                    "description": ""
+                    "name": "网缚",
+                    "description": "造成物伤，敌方获得物防-30%。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 2,
             "power": 60,
-            "description": ""
+            "description": "造成物伤，敌方获得物防-30%。"
         },
         {
             "id": 7130310,
-            "name": "技能 7130310",
+            "name": "食腐",
             "icon_id": "112023",
             "move_type": {
                 "id": 11,
@@ -110,18 +110,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7130310",
-                    "description": ""
+                    "name": "食腐",
+                    "description": "驱散敌方印记，每层印记回复自己10%生命。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 2,
             "power": null,
-            "description": ""
+            "description": "驱散敌方印记，每层印记回复自己10%生命。"
         },
         {
             "id": 7130320,
-            "name": "技能 7130320",
+            "name": "虫结阵",
             "icon_id": "112025",
             "move_type": {
                 "id": 11,
@@ -132,14 +132,14 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7130320",
-                    "description": ""
+                    "name": "虫结阵",
+                    "description": "减伤80%，应对攻击：己方队伍获得1次随机奉献。"
                 }
             },
             "move_category": "Defense",
             "energy_cost": 2,
             "power": null,
-            "description": ""
+            "description": "减伤80%，应对攻击：己方队伍获得1次随机奉献。"
         }
     ],
     "move_stones": [],
@@ -155,7 +155,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "9811"
+                                "name": "鸭吉吉_虫"
                             }
                         },
                         "is_leader_form": false,
@@ -181,7 +181,7 @@
     "world_profile": {
         "type_desc": null,
         "description_habitat": null,
-        "introduction": null,
+        "introduction": "这是一只测试宠物，如果你在不该看到的地方看到了它，请联系策划。",
         "refresh_locations": [],
         "movement_type": null,
         "classis_id": 3,

@@ -22,7 +22,7 @@
     "preferred_attack_style": "Both",
     "localized": {
         "zh": {
-            "name": "3313"
+            "name": "立叶蜥"
         }
     },
     "implemented": false,
@@ -37,7 +37,7 @@
         "id": 3313,
         "name": "liyexi",
         "localized": {
-            "zh": "3313"
+            "zh": "立叶蜥"
         }
     },
     "trait": null,
@@ -55,7 +55,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3313"
+                                "name": "立叶蜥"
                             }
                         },
                         "is_leader_form": false,
@@ -83,8 +83,10 @@
     "world_profile": {
         "type_desc": null,
         "description_habitat": null,
-        "introduction": null,
-        "refresh_locations": [],
+        "introduction": "立叶蜥被称为翠绿流星，头顶的松果体让它们就像长着第三只天眼，在迷宫似的森林里自带罗盘，脚底的吸盘让它们在过弯时稳抓地面，就像翠绿的流星一闪而过。",
+        "refresh_locations": [
+            "由于昼夜或者天气的原因，这只精灵还没有出现哦！"
+        ],
         "movement_type": "步行",
         "classis_id": 6,
         "classis_name": null,

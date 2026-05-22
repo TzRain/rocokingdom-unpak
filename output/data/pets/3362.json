@@ -28,7 +28,7 @@
     "preferred_attack_style": "Both",
     "localized": {
         "zh": {
-            "name": "3362"
+            "name": "徘徊爪爪"
         }
     },
     "implemented": false,
@@ -43,7 +43,7 @@
         "id": 3362,
         "name": "paihuaizhuazhua",
         "localized": {
-            "zh": "3362"
+            "zh": "徘徊爪爪"
         }
     },
     "trait": null,
@@ -61,7 +61,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3360"
+                                "name": "蝴蝶陶陶"
                             }
                         },
                         "is_leader_form": false,
@@ -81,7 +81,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3723"
+                                "name": "水滴蛇"
                             }
                         },
                         "is_leader_form": false,
@@ -113,7 +113,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3361"
+                                "name": "铆钉毛毛"
                             }
                         },
                         "is_leader_form": false,
@@ -139,7 +139,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3724"
+                                "name": "水蛇锁"
                             }
                         },
                         "is_leader_form": false,
@@ -173,7 +173,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3362"
+                                "name": "徘徊爪爪"
                             }
                         },
                         "is_leader_form": false,
@@ -199,7 +199,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3725"
+                                "name": "游蛇魔使"
                             }
                         },
                         "is_leader_form": false,
@@ -234,7 +234,9 @@
         "type_desc": null,
         "description_habitat": null,
         "introduction": null,
-        "refresh_locations": [],
+        "refresh_locations": [
+            "由于昼夜或者天气的原因，这只精灵还没有出现哦！"
+        ],
         "movement_type": "步行",
         "classis_id": 6,
         "classis_name": null,

@@ -22,7 +22,7 @@
     "preferred_attack_style": "Both",
     "localized": {
         "zh": {
-            "name": "3503"
+            "name": "线球鼠"
         }
     },
     "implemented": false,
@@ -37,18 +37,18 @@
         "id": 3503,
         "name": "xianqiushu",
         "localized": {
-            "zh": "3503"
+            "zh": "线球鼠"
         }
     },
     "trait": {
         "id": 200263,
-        "name": "特性 200263",
-        "description": "",
+        "name": "慈母鼠",
+        "description": "每回合提升自身10%物防，速度-10。",
         "icon_id": "200074",
         "localized": {
             "zh": {
-                "name": "特性 200263",
-                "description": ""
+                "name": "慈母鼠",
+                "description": "每回合提升自身10%物防，速度-10。"
             }
         }
     },
@@ -66,7 +66,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3503"
+                                "name": "线球鼠"
                             }
                         },
                         "is_leader_form": false,
@@ -95,7 +95,9 @@
         "type_desc": null,
         "description_habitat": null,
         "introduction": null,
-        "refresh_locations": [],
+        "refresh_locations": [
+            "由于昼夜或者天气的原因，这只精灵还没有出现哦！"
+        ],
         "movement_type": "步行",
         "classis_id": 6,
         "classis_name": null,

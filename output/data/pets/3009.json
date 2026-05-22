@@ -22,7 +22,7 @@
     "preferred_attack_style": "Both",
     "localized": {
         "zh": {
-            "name": "3009"
+            "name": "赤毛鸡仔"
         }
     },
     "implemented": false,
@@ -37,18 +37,18 @@
         "id": 3009,
         "name": "chimaojizai",
         "localized": {
-            "zh": "3009"
+            "zh": "赤毛鸡仔"
         }
     },
     "trait": {
         "id": 200154,
-        "name": "特性 200154",
-        "description": "",
+        "name": "燃烧效率变更",
+        "description": "火系攻击技能赋予2层灼烧。",
         "icon_id": "200154",
         "localized": {
             "zh": {
-                "name": "特性 200154",
-                "description": ""
+                "name": "燃烧效率变更",
+                "description": "火系攻击技能赋予2层灼烧。"
             }
         }
     },
@@ -66,7 +66,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3009"
+                                "name": "赤毛鸡仔"
                             }
                         },
                         "is_leader_form": false,
@@ -92,7 +92,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3023"
+                                "name": "火云斗鸡"
                             }
                         },
                         "is_leader_form": false,
@@ -120,8 +120,10 @@
     "world_profile": {
         "type_desc": null,
         "description_habitat": null,
-        "introduction": null,
-        "refresh_locations": [],
+        "introduction": "护食行为普遍比较严重，领地意识强，鸡仔常会为了食物大打出手。没有牙齿，有意吞下石头沙砾等物质帮助磨碎食物，尤其喜欢吃火焰石的碎粒。",
+        "refresh_locations": [
+            "由于昼夜或者天气的原因，这只精灵还没有出现哦！"
+        ],
         "movement_type": "步行",
         "classis_id": 2,
         "classis_name": null,

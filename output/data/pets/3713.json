@@ -22,7 +22,7 @@
     "preferred_attack_style": "Physical",
     "localized": {
         "zh": {
-            "name": "3713"
+            "name": "封印使者"
         }
     },
     "implemented": false,
@@ -37,18 +37,18 @@
         "id": 3713,
         "name": "songzai",
         "localized": {
-            "zh": "3713"
+            "zh": "封印使者"
         }
     },
     "trait": {
         "id": 200265,
-        "name": "特性 200265",
-        "description": "",
+        "name": "上古战龙",
+        "description": "应对成功时，下次技能无需蓄力",
         "icon_id": "200074",
         "localized": {
             "zh": {
-                "name": "特性 200265",
-                "description": ""
+                "name": "上古战龙",
+                "description": "应对成功时，下次技能无需蓄力"
             }
         }
     },
@@ -66,7 +66,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3712"
+                                "name": "封印守卫"
                             }
                         },
                         "is_leader_form": false,
@@ -92,7 +92,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3713"
+                                "name": "封印使者"
                             }
                         },
                         "is_leader_form": false,
@@ -118,7 +118,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3714"
+                                "name": "上古战龙"
                             }
                         },
                         "is_leader_form": false,
@@ -145,7 +145,9 @@
         "type_desc": null,
         "description_habitat": null,
         "introduction": null,
-        "refresh_locations": [],
+        "refresh_locations": [
+            "由于昼夜或者天气的原因，这只精灵还没有出现哦！"
+        ],
         "movement_type": "地面",
         "classis_id": 6,
         "classis_name": null,

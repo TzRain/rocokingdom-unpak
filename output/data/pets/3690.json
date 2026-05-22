@@ -22,7 +22,7 @@
     "preferred_attack_style": "Physical",
     "localized": {
         "zh": {
-            "name": "3690"
+            "name": "问卜兽"
         }
     },
     "implemented": false,
@@ -37,7 +37,7 @@
         "id": 3690,
         "name": "songzai",
         "localized": {
-            "zh": "3690"
+            "zh": "问卜兽"
         }
     },
     "trait": null,
@@ -55,7 +55,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3690"
+                                "name": "问卜兽"
                             }
                         },
                         "is_leader_form": false,
@@ -81,7 +81,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3691"
+                                "name": "卜甲梦龟"
                             }
                         },
                         "is_leader_form": false,
@@ -108,7 +108,9 @@
         "type_desc": null,
         "description_habitat": null,
         "introduction": null,
-        "refresh_locations": [],
+        "refresh_locations": [
+            "由于昼夜或者天气的原因，这只精灵还没有出现哦！"
+        ],
         "movement_type": "步行",
         "classis_id": 6,
         "classis_name": null,

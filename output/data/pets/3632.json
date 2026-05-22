@@ -22,7 +22,7 @@
     "preferred_attack_style": "Physical",
     "localized": {
         "zh": {
-            "name": "3632"
+            "name": "地底银鳞"
         }
     },
     "implemented": false,
@@ -37,7 +37,7 @@
         "id": 3632,
         "name": "songzai",
         "localized": {
-            "zh": "3632"
+            "zh": "地底银鳞"
         }
     },
     "trait": null,
@@ -55,7 +55,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3630"
+                                "name": "地银链"
                             }
                         },
                         "is_leader_form": false,
@@ -75,7 +75,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3631"
+                                "name": "地银链"
                             }
                         },
                         "is_leader_form": false,
@@ -101,7 +101,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3632"
+                                "name": "地底银鳞"
                             }
                         },
                         "is_leader_form": false,
@@ -128,7 +128,9 @@
         "type_desc": null,
         "description_habitat": null,
         "introduction": null,
-        "refresh_locations": [],
+        "refresh_locations": [
+            "由于昼夜或者天气的原因，这只精灵还没有出现哦！"
+        ],
         "movement_type": "地面",
         "classis_id": 6,
         "classis_name": null,

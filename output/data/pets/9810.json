@@ -22,7 +22,7 @@
     "preferred_attack_style": "Both",
     "localized": {
         "zh": {
-            "name": "9810"
+            "name": "鸭吉吉_毒"
         }
     },
     "implemented": false,
@@ -37,25 +37,25 @@
         "id": 9810,
         "name": "9810",
         "localized": {
-            "zh": "9810"
+            "zh": "鸭吉吉_毒"
         }
     },
     "trait": {
         "id": 200000,
-        "name": "特性 200000",
-        "description": "",
+        "name": "GM被动",
+        "description": "回合末恢复10能量。",
         "icon_id": "200074",
         "localized": {
             "zh": {
-                "name": "特性 200000",
-                "description": ""
+                "name": "GM被动",
+                "description": "回合末恢复10能量。"
             }
         }
     },
     "move_pool": [
         {
             "id": 7120230,
-            "name": "技能 7120230",
+            "name": "腐化",
             "icon_id": "111020",
             "move_type": {
                 "id": 10,
@@ -66,18 +66,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7120230",
-                    "description": ""
+                    "name": "腐化",
+                    "description": "敌方每有1层中毒效果，敌方获得双攻-30%。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 1,
             "power": null,
-            "description": ""
+            "description": "敌方每有1层中毒效果，敌方获得双攻-30%。"
         },
         {
             "id": 7120240,
-            "name": "技能 7120240",
+            "name": "疫病吐息",
             "icon_id": "211021",
             "move_type": {
                 "id": 10,
@@ -88,18 +88,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7120240",
-                    "description": ""
+                    "name": "疫病吐息",
+                    "description": "敌方获得1层中毒印记。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 3,
             "power": null,
-            "description": ""
+            "description": "敌方获得1层中毒印记。"
         },
         {
             "id": 7120250,
-            "name": "技能 7120250",
+            "name": "不可接触",
             "icon_id": "111022",
             "move_type": {
                 "id": 10,
@@ -110,14 +110,14 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7120250",
-                    "description": ""
+                    "name": "不可接触",
+                    "description": "减伤50%，敌方每有1层中毒效果，本技能减伤+10%，应对攻击。"
                 }
             },
             "move_category": "Defense",
             "energy_cost": 1,
             "power": null,
-            "description": ""
+            "description": "减伤50%，敌方每有1层中毒效果，本技能减伤+10%，应对攻击。"
         }
     ],
     "move_stones": [],
@@ -133,7 +133,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "9810"
+                                "name": "鸭吉吉_毒"
                             }
                         },
                         "is_leader_form": false,
@@ -159,7 +159,7 @@
     "world_profile": {
         "type_desc": null,
         "description_habitat": null,
-        "introduction": null,
+        "introduction": "这是一只测试宠物，如果你在不该看到的地方看到了它，请联系策划。",
         "refresh_locations": [],
         "movement_type": null,
         "classis_id": 3,

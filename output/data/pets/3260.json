@@ -22,7 +22,7 @@
     "preferred_attack_style": "Both",
     "localized": {
         "zh": {
-            "name": "3260"
+            "name": "古拉海象"
         }
     },
     "implemented": false,
@@ -37,18 +37,18 @@
         "id": 3260,
         "name": "gulahaixiang",
         "localized": {
-            "zh": "3260"
+            "zh": "古拉海象"
         }
     },
     "trait": {
         "id": 200119,
-        "name": "特性 200119",
-        "description": "",
+        "name": "海象冰屋",
+        "description": "每赋予一层冻结，速度提升20%",
         "icon_id": "200074",
         "localized": {
             "zh": {
-                "name": "特性 200119",
-                "description": ""
+                "name": "海象冰屋",
+                "description": "每赋予一层冻结，速度提升20%"
             }
         }
     },
@@ -66,7 +66,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3260"
+                                "name": "古拉海象"
                             }
                         },
                         "is_leader_form": false,
@@ -92,7 +92,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3261"
+                                "name": "大古拉海象"
                             }
                         },
                         "is_leader_form": false,
@@ -120,8 +120,10 @@
     "world_profile": {
         "type_desc": null,
         "description_habitat": null,
-        "introduction": null,
-        "refresh_locations": [],
+        "introduction": "拥有能够凝水成冰的能力，会钻到成群的沙丁鱼中，操纵冰锥捕猎。能达到数百千克之重，会选择在较厚的冰层上沐浴阳光，喜欢拍打肚皮上堆叠的脂肪。",
+        "refresh_locations": [
+            "由于昼夜或者天气的原因，这只精灵还没有出现哦！"
+        ],
         "movement_type": "地面",
         "classis_id": 6,
         "classis_name": null,

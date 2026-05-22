@@ -22,7 +22,7 @@
     "preferred_attack_style": "Both",
     "localized": {
         "zh": {
-            "name": "3160"
+            "name": "紫蔓祭祀"
         }
     },
     "implemented": false,
@@ -37,7 +37,7 @@
         "id": 3160,
         "name": "zimanjisi",
         "localized": {
-            "zh": "3160"
+            "zh": "紫蔓祭祀"
         }
     },
     "trait": null,
@@ -55,7 +55,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3159"
+                                "name": "紫蔓宝宝"
                             }
                         },
                         "is_leader_form": false,
@@ -81,7 +81,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3160"
+                                "name": "紫蔓祭祀"
                             }
                         },
                         "is_leader_form": false,
@@ -109,7 +109,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3097"
+                                "name": "灵蔓草王"
                             }
                         },
                         "is_leader_form": false,
@@ -137,8 +137,10 @@
     "world_profile": {
         "type_desc": null,
         "description_habitat": null,
-        "introduction": null,
-        "refresh_locations": [],
+        "introduction": "对陌生人敌意极大，极难接近。从藤曼触手中散发能量，令枯萎的树木发芽。",
+        "refresh_locations": [
+            "由于昼夜或者天气的原因，这只精灵还没有出现哦！"
+        ],
         "movement_type": "步行",
         "classis_id": 6,
         "classis_name": null,

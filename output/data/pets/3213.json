@@ -28,7 +28,7 @@
     "preferred_attack_style": "Both",
     "localized": {
         "zh": {
-            "name": "3213"
+            "name": "黑炎宝宝"
         }
     },
     "implemented": false,
@@ -43,18 +43,18 @@
         "id": 3213,
         "name": "heiyanbaobao",
         "localized": {
-            "zh": "3213"
+            "zh": "黑炎宝宝"
         }
     },
     "trait": {
         "id": 200176,
-        "name": "特性 200176",
-        "description": "",
+        "name": "傲慢",
+        "description": "蓄力技能获得50%吸血效果。",
         "icon_id": "200074",
         "localized": {
             "zh": {
-                "name": "特性 200176",
-                "description": ""
+                "name": "傲慢",
+                "description": "蓄力技能获得50%吸血效果。"
             }
         }
     },
@@ -72,7 +72,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3213"
+                                "name": "黑炎宝宝"
                             }
                         },
                         "is_leader_form": false,
@@ -104,7 +104,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3214"
+                                "name": "黑炎"
                             }
                         },
                         "is_leader_form": false,
@@ -138,8 +138,10 @@
     "world_profile": {
         "type_desc": null,
         "description_habitat": null,
-        "introduction": null,
-        "refresh_locations": [],
+        "introduction": "革质的双翼坚韧而有力，可以低空飞行。爪和下颚的力量已经超过其他成年精灵许多。双角是外生的骨骼，每年蜕一次，每次会变得更加坚硬锐利，蜕下的龙角据说是上好的药材，千金难求。",
+        "refresh_locations": [
+            "由于昼夜或者天气的原因，这只精灵还没有出现哦！"
+        ],
         "movement_type": "浮游",
         "classis_id": 6,
         "classis_name": null,

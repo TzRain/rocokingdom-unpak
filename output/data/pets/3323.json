@@ -28,7 +28,7 @@
     "preferred_attack_style": "Both",
     "localized": {
         "zh": {
-            "name": "3323"
+            "name": "夜游魔"
         }
     },
     "implemented": false,
@@ -43,18 +43,18 @@
         "id": 3323,
         "name": "yeyoumo",
         "localized": {
-            "zh": "3323"
+            "zh": "夜游魔"
         }
     },
     "trait": {
         "id": 200130,
-        "name": "特性 200130",
-        "description": "",
+        "name": "回声定位",
+        "description": "连续使用相同技能威力增加50。",
         "icon_id": "200074",
         "localized": {
             "zh": {
-                "name": "特性 200130",
-                "description": ""
+                "name": "回声定位",
+                "description": "连续使用相同技能威力增加50。"
             }
         }
     },
@@ -72,7 +72,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3321"
+                                "name": "觅觅蝠"
                             }
                         },
                         "is_leader_form": false,
@@ -92,7 +92,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3323"
+                                "name": "夜游魔"
                             }
                         },
                         "is_leader_form": false,
@@ -125,7 +125,9 @@
         "type_desc": null,
         "description_habitat": null,
         "introduction": null,
-        "refresh_locations": [],
+        "refresh_locations": [
+            "由于昼夜或者天气的原因，这只精灵还没有出现哦！"
+        ],
         "movement_type": "步行",
         "classis_id": 6,
         "classis_name": null,

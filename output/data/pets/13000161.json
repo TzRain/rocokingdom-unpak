@@ -28,7 +28,7 @@
     "preferred_attack_style": "Physical",
     "localized": {
         "zh": {
-            "name": "13000161"
+            "name": "首领-蹦蹦花"
         }
     },
     "implemented": false,
@@ -43,18 +43,18 @@
         "id": 13000161,
         "name": "bengbenghua_shouling",
         "localized": {
-            "zh": "13000161"
+            "zh": "首领-蹦蹦花"
         }
     },
     "trait": {
         "id": 200078,
-        "name": "特性 200078",
-        "description": "",
+        "name": "生物碱",
+        "description": "使用草系技能时，敌方获得2层中毒。",
         "icon_id": "200078",
         "localized": {
             "zh": {
-                "name": "特性 200078",
-                "description": ""
+                "name": "生物碱",
+                "description": "使用草系技能时，敌方获得2层中毒。"
             }
         }
     },
@@ -72,7 +72,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "13000161"
+                                "name": "首领-蹦蹦花"
                             }
                         },
                         "is_leader_form": true,
@@ -105,7 +105,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "13000161"
+                                "name": "首领-蹦蹦花"
                             }
                         },
                         "is_leader_form": true,
@@ -136,7 +136,7 @@
     "world_profile": {
         "type_desc": null,
         "description_habitat": null,
-        "introduction": null,
+        "introduction": "休息的时候会把脚插入地下一动不动，但似乎随时能够进入战斗状态。头上的花不允许任何人触碰，那似乎是它生命力量的来源。",
         "refresh_locations": [],
         "movement_type": null,
         "classis_id": 4,

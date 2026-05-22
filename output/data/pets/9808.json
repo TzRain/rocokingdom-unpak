@@ -22,7 +22,7 @@
     "preferred_attack_style": "Both",
     "localized": {
         "zh": {
-            "name": "9808"
+            "name": "鸭吉吉_龙"
         }
     },
     "implemented": false,
@@ -37,25 +37,25 @@
         "id": 9808,
         "name": "9808",
         "localized": {
-            "zh": "9808"
+            "zh": "鸭吉吉_龙"
         }
     },
     "trait": {
         "id": 200000,
-        "name": "特性 200000",
-        "description": "",
+        "name": "GM被动",
+        "description": "回合末恢复10能量。",
         "icon_id": "200074",
         "localized": {
             "zh": {
-                "name": "特性 200000",
-                "description": ""
+                "name": "GM被动",
+                "description": "回合末恢复10能量。"
             }
         }
     },
     "move_pool": [
         {
             "id": 7100240,
-            "name": "技能 7100240",
+            "name": "龙威",
             "icon_id": "209014",
             "move_type": {
                 "id": 8,
@@ -66,18 +66,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7100240",
-                    "description": ""
+                    "name": "龙威",
+                    "description": "自己获得1层龙噬印记 。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 3,
             "power": null,
-            "description": ""
+            "description": "自己获得1层龙噬印记 。"
         },
         {
             "id": 7100250,
-            "name": "技能 7100250",
+            "name": "龙血",
             "icon_id": "109016",
             "move_type": {
                 "id": 8,
@@ -88,18 +88,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7100250",
-                    "description": ""
+                    "name": "龙血",
+                    "description": "减伤70%，本技能可以在蓄力状态下使用，应对攻击：下次技能无需蓄力。"
                 }
             },
             "move_category": "Defense",
             "energy_cost": 2,
             "power": null,
-            "description": ""
+            "description": "减伤70%，本技能可以在蓄力状态下使用，应对攻击：下次技能无需蓄力。"
         },
         {
             "id": 7100260,
-            "name": "技能 7100260",
+            "name": "绵里藏针",
             "icon_id": "309017",
             "move_type": {
                 "id": 8,
@@ -110,14 +110,14 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7100260",
-                    "description": ""
+                    "name": "绵里藏针",
+                    "description": "造成魔伤，若自己上回合未使用攻击技能，本技能威力永久+20。"
                 }
             },
             "move_category": "Magic Attack",
             "energy_cost": 2,
             "power": 60,
-            "description": ""
+            "description": "造成魔伤，若自己上回合未使用攻击技能，本技能威力永久+20。"
         }
     ],
     "move_stones": [],
@@ -133,7 +133,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "9808"
+                                "name": "鸭吉吉_龙"
                             }
                         },
                         "is_leader_form": false,
@@ -159,7 +159,7 @@
     "world_profile": {
         "type_desc": null,
         "description_habitat": null,
-        "introduction": null,
+        "introduction": "这是一只测试宠物，如果你在不该看到的地方看到了它，请联系策划。",
         "refresh_locations": [],
         "movement_type": null,
         "classis_id": 3,

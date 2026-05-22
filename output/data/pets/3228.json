@@ -22,7 +22,7 @@
     "preferred_attack_style": "Both",
     "localized": {
         "zh": {
-            "name": "3228"
+            "name": "友爱天天"
         }
     },
     "implemented": false,
@@ -37,18 +37,18 @@
         "id": 3228,
         "name": "feiman",
         "localized": {
-            "zh": "3228"
+            "zh": "友爱天天"
         }
     },
     "trait": {
         "id": 200184,
-        "name": "特性 200184",
-        "description": "",
+        "name": "磁力",
+        "description": "0",
         "icon_id": "200074",
         "localized": {
             "zh": {
-                "name": "特性 200184",
-                "description": ""
+                "name": "磁力",
+                "description": "0"
             }
         }
     },
@@ -66,7 +66,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3228"
+                                "name": "友爱天天"
                             }
                         },
                         "is_leader_form": false,
@@ -92,7 +92,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3229"
+                                "name": "友爱星飞"
                             }
                         },
                         "is_leader_form": false,
@@ -120,8 +120,10 @@
     "world_profile": {
         "type_desc": null,
         "description_habitat": null,
-        "introduction": null,
-        "refresh_locations": [],
+        "introduction": "被某个古老贵族世代圈养的种族，几乎褪去了野生的天性，无法通过精灵的手段在野外生存。个体均沿袭了贵族般的礼仪与行为，但翻看历史发现整个种族的社交状态堪忧，除了洛克族之外，几乎没有与任何精灵保持友好联系。",
+        "refresh_locations": [
+            "由于昼夜或者天气的原因，这只精灵还没有出现哦！"
+        ],
         "movement_type": "步行",
         "classis_id": 6,
         "classis_name": null,

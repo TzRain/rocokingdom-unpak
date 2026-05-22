@@ -28,7 +28,7 @@
     "preferred_attack_style": "Both",
     "localized": {
         "zh": {
-            "name": "3725"
+            "name": "游蛇魔使"
         }
     },
     "implemented": false,
@@ -43,18 +43,18 @@
         "id": 3725,
         "name": "youshemoshi",
         "localized": {
-            "zh": "3725"
+            "zh": "游蛇魔使"
         }
     },
     "trait": {
         "id": 200248,
-        "name": "特性 200248",
-        "description": "",
+        "name": "思维之盾",
+        "description": "应对成功后，下次行动技能能耗-5。",
         "icon_id": "200248",
         "localized": {
             "zh": {
-                "name": "特性 200248",
-                "description": ""
+                "name": "思维之盾",
+                "description": "应对成功后，下次行动技能能耗-5。"
             }
         }
     },
@@ -72,7 +72,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3360"
+                                "name": "蝴蝶陶陶"
                             }
                         },
                         "is_leader_form": false,
@@ -92,7 +92,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3723"
+                                "name": "水滴蛇"
                             }
                         },
                         "is_leader_form": false,
@@ -124,7 +124,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3361"
+                                "name": "铆钉毛毛"
                             }
                         },
                         "is_leader_form": false,
@@ -150,7 +150,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3724"
+                                "name": "水蛇锁"
                             }
                         },
                         "is_leader_form": false,
@@ -184,7 +184,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3362"
+                                "name": "徘徊爪爪"
                             }
                         },
                         "is_leader_form": false,
@@ -210,7 +210,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3725"
+                                "name": "游蛇魔使"
                             }
                         },
                         "is_leader_form": false,
@@ -244,8 +244,10 @@
     "world_profile": {
         "type_desc": null,
         "description_habitat": null,
-        "introduction": null,
-        "refresh_locations": [],
+        "introduction": "炫彩的羽翼显示出它们与天空城有着不为人知的渊源。它是知识的守护者，也是智慧的卫士，传闻它们最初的使命早已失败，所以它们仍在守望，守望古老预言的认证，或是一段新的契约。",
+        "refresh_locations": [
+            "由于昼夜或者天气的原因，这只精灵还没有出现哦！"
+        ],
         "movement_type": "浮游",
         "classis_id": 6,
         "classis_name": null,
