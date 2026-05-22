@@ -28,7 +28,7 @@
     "preferred_attack_style": "Physical",
     "localized": {
         "zh": {
-            "name": "3540"
+            "name": "迷你乌"
         }
     },
     "implemented": true,
@@ -43,25 +43,25 @@
         "id": 259,
         "name": "miniwu",
         "localized": {
-            "zh": "3537"
+            "zh": "迷你乌"
         }
     },
     "trait": {
         "id": 200257,
-        "name": "特性 200257",
-        "description": "",
+        "name": "恶魔的晚宴",
+        "description": "主动击败敌方精灵时，自己永久获得双攻+50%。",
         "icon_id": "200257",
         "localized": {
             "zh": {
-                "name": "特性 200257",
-                "description": ""
+                "name": "恶魔的晚宴",
+                "description": "主动击败敌方精灵时，自己永久获得双攻+50%。"
             }
         }
     },
     "move_pool": [
         {
             "id": 7090180,
-            "name": "技能 7090180",
+            "name": "雾气环绕",
             "icon_id": "709007",
             "move_type": {
                 "id": 7,
@@ -72,18 +72,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7090180",
-                    "description": ""
+                    "name": "雾气环绕",
+                    "description": "回复能量，回复值等于敌方技能总能耗的一半。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 1,
             "power": null,
-            "description": ""
+            "description": "回复能量，回复值等于敌方技能总能耗的一半。"
         },
         {
             "id": 7090230,
-            "name": "技能 7090230",
+            "name": "冰锥",
             "icon_id": "709005",
             "move_type": {
                 "id": 7,
@@ -94,18 +94,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7090230",
-                    "description": ""
+                    "name": "冰锥",
+                    "description": "对敌方精灵造成物理伤害。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 0,
             "power": 40,
-            "description": ""
+            "description": "对敌方精灵造成物理伤害。"
         },
         {
             "id": 7180270,
-            "name": "技能 7180270",
+            "name": "诋毁",
             "icon_id": "117025",
             "move_type": {
                 "id": 16,
@@ -116,18 +116,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7180270",
-                    "description": ""
+                    "name": "诋毁",
+                    "description": "对敌方精灵造成物理伤害。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 2,
             "power": 80,
-            "description": ""
+            "description": "对敌方精灵造成物理伤害。"
         },
         {
             "id": 7180160,
-            "name": "技能 7180160",
+            "name": "贪婪",
             "icon_id": "718014",
             "move_type": {
                 "id": 16,
@@ -138,18 +138,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7180160",
-                    "description": ""
+                    "name": "贪婪",
+                    "description": "自己获得100%吸血。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 2,
             "power": null,
-            "description": ""
+            "description": "自己获得100%吸血。"
         },
         {
             "id": 7021010,
-            "name": "技能 7021010",
+            "name": "当头棒喝",
             "icon_id": "101083",
             "move_type": {
                 "id": 1,
@@ -160,18 +160,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7021010",
-                    "description": ""
+                    "name": "当头棒喝",
+                    "description": "造成物伤，若敌方本回合更换精灵，本次技能威力+100。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 3,
             "power": 80,
-            "description": ""
+            "description": "造成物伤，若敌方本回合更换精灵，本次技能威力+100。"
         },
         {
             "id": 7020620,
-            "name": "技能 7020620",
+            "name": "力量增效",
             "icon_id": "700021",
             "move_type": {
                 "id": 1,
@@ -182,18 +182,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7020620",
-                    "description": ""
+                    "name": "力量增效",
+                    "description": "自己获得物攻+100%。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 1,
             "power": null,
-            "description": ""
+            "description": "自己获得物攻+100%。"
         },
         {
             "id": 7090280,
-            "name": "技能 7090280",
+            "name": "丢冰块",
             "icon_id": "108023",
             "move_type": {
                 "id": 7,
@@ -204,18 +204,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7090280",
-                    "description": ""
+                    "name": "丢冰块",
+                    "description": "造成物伤，敌方获得速度-30。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 3,
             "power": 90,
-            "description": ""
+            "description": "造成物伤，敌方获得速度-30。"
         },
         {
             "id": 7180190,
-            "name": "技能 7180190",
+            "name": "恶意逃离",
             "icon_id": "317016",
             "move_type": {
                 "id": 16,
@@ -226,18 +226,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7180190",
-                    "description": ""
+                    "name": "恶意逃离",
+                    "description": "脱离，应对防御：额外使敌方攻击技能能耗+4。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 1,
             "power": null,
-            "description": ""
+            "description": "脱离，应对防御：额外使敌方攻击技能能耗+4。"
         },
         {
             "id": 7180340,
-            "name": "技能 7180340",
+            "name": "趁火打劫",
             "icon_id": "117033",
             "move_type": {
                 "id": 16,
@@ -248,18 +248,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7180340",
-                    "description": ""
+                    "name": "趁火打劫",
+                    "description": "造成物伤，2连击，若击败敌方，本技能连击数永久+2。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 3,
             "power": 35,
-            "description": ""
+            "description": "造成物伤，2连击，若击败敌方，本技能连击数永久+2。"
         },
         {
             "id": 7090120,
-            "name": "技能 7090120",
+            "name": "冰晶坠",
             "icon_id": "709002",
             "move_type": {
                 "id": 7,
@@ -270,18 +270,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7090120",
-                    "description": ""
+                    "name": "冰晶坠",
+                    "description": "造成物伤，敌方获得全技能能耗+1。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 4,
             "power": 90,
-            "description": ""
+            "description": "造成物伤，敌方获得全技能能耗+1。"
         },
         {
             "id": 7180130,
-            "name": "技能 7180130",
+            "name": "极限撕裂",
             "icon_id": "706002",
             "move_type": {
                 "id": 16,
@@ -292,18 +292,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7180130",
-                    "description": ""
+                    "name": "极限撕裂",
+                    "description": "造成物伤，若自己生命高于50%，使用后自己获得双攻-50%。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 4,
             "power": 135,
-            "description": ""
+            "description": "造成物伤，若自己生命高于50%，使用后自己获得双攻-50%。"
         },
         {
             "id": 7090270,
-            "name": "技能 7090270",
+            "name": "滚雪球",
             "icon_id": "108022",
             "move_type": {
                 "id": 7,
@@ -314,18 +314,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7090270",
-                    "description": ""
+                    "name": "滚雪球",
+                    "description": "造成物伤，敌方获得2层冻结，应对状态：额外获得2层，本次技能威力翻倍。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 3,
             "power": 55,
-            "description": ""
+            "description": "造成物伤，敌方获得2层冻结，应对状态：额外获得2层，本次技能威力翻倍。"
         },
         {
             "id": 7180120,
-            "name": "技能 7180120",
+            "name": "暗突袭",
             "icon_id": "718002",
             "move_type": {
                 "id": 16,
@@ -336,14 +336,14 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7180120",
-                    "description": ""
+                    "name": "暗突袭",
+                    "description": "造成物伤，吸血50%，应对状态：本次技能威力翻倍。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 4,
             "power": 70,
-            "description": ""
+            "description": "造成物伤，吸血50%，应对状态：本次技能威力翻倍。"
         }
     ],
     "move_stones": [
@@ -361,13 +361,13 @@
             "localized": {
                 "zh": {
                     "name": "防御",
-                    "description": ""
+                    "description": "减伤70%，应对攻击。"
                 }
             },
             "move_category": "Defense",
             "energy_cost": 1,
             "power": null,
-            "description": ""
+            "description": "减伤70%，应对攻击。"
         },
         {
             "id": 7140100,
@@ -383,13 +383,13 @@
             "localized": {
                 "zh": {
                     "name": "反击拳",
-                    "description": ""
+                    "description": "造成物伤，2连击，若后手攻击，改为3连击。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 2,
             "power": 25,
-            "description": ""
+            "description": "造成物伤，2连击，若后手攻击，改为3连击。"
         },
         {
             "id": 7140060,
@@ -405,13 +405,13 @@
             "localized": {
                 "zh": {
                     "name": "崩拳",
-                    "description": ""
+                    "description": "造成物伤，应对状态：自己获得物攻+100%。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 2,
             "power": 65,
-            "description": ""
+            "description": "造成物伤，应对状态：自己获得物攻+100%。"
         },
         {
             "id": 7140280,
@@ -427,13 +427,13 @@
             "localized": {
                 "zh": {
                     "name": "提气",
-                    "description": ""
+                    "description": "自己获得全技能威力+40，若敌方本回合更换精灵，额外获得威力+50。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 4,
             "power": null,
-            "description": ""
+            "description": "自己获得全技能威力+40，若敌方本回合更换精灵，额外获得威力+50。"
         },
         {
             "id": 7150210,
@@ -449,13 +449,13 @@
             "localized": {
                 "zh": {
                     "name": "风矢",
-                    "description": ""
+                    "description": "对敌方精灵造成物理伤害。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 2,
             "power": 80,
-            "description": ""
+            "description": "对敌方精灵造成物理伤害。"
         },
         {
             "id": 7020580,
@@ -471,13 +471,13 @@
             "localized": {
                 "zh": {
                     "name": "气势一击",
-                    "description": ""
+                    "description": "造成物伤，若上回合应对成功，本次技能威力+180。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 3,
             "power": 80,
-            "description": ""
+            "description": "造成物伤，若上回合应对成功，本次技能威力+180。"
         },
         {
             "id": 7020460,
@@ -493,13 +493,13 @@
             "localized": {
                 "zh": {
                     "name": "连续爪击",
-                    "description": ""
+                    "description": "造成物伤，2连击，应对状态：本次技能连击数翻倍。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 2,
             "power": 30,
-            "description": ""
+            "description": "造成物伤，2连击，应对状态：本次技能连击数翻倍。"
         },
         {
             "id": 7021090,
@@ -515,13 +515,13 @@
             "localized": {
                 "zh": {
                     "name": "热身运动",
-                    "description": ""
+                    "description": "自己获得连击数+3。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 2,
             "power": null,
-            "description": ""
+            "description": "自己获得连击数+3。"
         },
         {
             "id": 7020860,
@@ -537,13 +537,13 @@
             "localized": {
                 "zh": {
                     "name": "复写",
-                    "description": ""
+                    "description": "每回合随机变成自己未携带的技能，且该技能能耗-2。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 0,
             "power": null,
-            "description": ""
+            "description": "每回合随机变成自己未携带的技能，且该技能能耗-2。"
         },
         {
             "id": 7020700,
@@ -559,13 +559,13 @@
             "localized": {
                 "zh": {
                     "name": "伺机而动",
-                    "description": ""
+                    "description": "下一次攻击时，技能威力+70。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 1,
             "power": null,
-            "description": ""
+            "description": "下一次攻击时，技能威力+70。"
         },
         {
             "id": 7020690,
@@ -581,13 +581,13 @@
             "localized": {
                 "zh": {
                     "name": "快速移动",
-                    "description": ""
+                    "description": "自己获得速度+80，应对防御：改为速度+160。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 1,
             "power": null,
-            "description": ""
+            "description": "自己获得速度+80，应对防御：改为速度+160。"
         },
         {
             "id": 7180290,
@@ -603,13 +603,13 @@
             "localized": {
                 "zh": {
                     "name": "跌落",
-                    "description": ""
+                    "description": "造成大量物伤，自己获得物攻-50%，应对状态：改为获得物攻+50%。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 3,
             "power": 120,
-            "description": ""
+            "description": "造成大量物伤，自己获得物攻-50%，应对状态：改为获得物攻+50%。"
         },
         {
             "id": 7180170,
@@ -625,13 +625,13 @@
             "localized": {
                 "zh": {
                     "name": "力量吞噬",
-                    "description": ""
+                    "description": "敌方获得全技能威力-20，自己获得全技能威力+20。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 4,
             "power": null,
-            "description": ""
+            "description": "敌方获得全技能威力-20，自己获得全技能威力+20。"
         },
         {
             "id": 7180440,
@@ -647,13 +647,35 @@
             "localized": {
                 "zh": {
                     "name": "假冒",
-                    "description": ""
+                    "description": "自己的生命比例变为与敌方生命比例相同，巧变：恶系攻击技能。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 2,
             "power": null,
-            "description": ""
+            "description": "自己的生命比例变为与敌方生命比例相同，巧变：恶系攻击技能。"
+        },
+        {
+            "id": 7021110,
+            "name": "有效预防",
+            "icon_id": "201094",
+            "move_type": {
+                "id": 1,
+                "name": "Normal",
+                "localized": {
+                    "zh": "普通"
+                }
+            },
+            "localized": {
+                "zh": {
+                    "name": "有效预防",
+                    "description": "减伤50%，应对攻击：下一次行动获得先手+1。"
+                }
+            },
+            "move_category": "Defense",
+            "energy_cost": 1,
+            "power": null,
+            "description": "减伤50%，应对攻击：下一次行动获得先手+1。"
         }
     ],
     "legacy_moves": [
@@ -663,7 +685,7 @@
             "move_id": 7020910,
             "move": {
                 "id": 7020910,
-                "name": "技能 7020910",
+                "name": "星星撞击",
                 "icon_id": "101073",
                 "move_type": {
                     "id": 1,
@@ -674,14 +696,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "技能 7020910",
-                        "description": ""
+                        "name": "星星撞击",
+                        "description": "对敌方精灵造成魔法伤害。"
                     }
                 },
                 "move_category": "Magic Attack",
                 "energy_cost": 2,
                 "power": 90,
-                "description": ""
+                "description": "对敌方精灵造成魔法伤害。"
             }
         },
         {
@@ -690,7 +712,7 @@
             "move_id": 7030430,
             "move": {
                 "id": 7030430,
-                "name": "技能 7030430",
+                "name": "花香",
                 "icon_id": "102026",
                 "move_type": {
                     "id": 2,
@@ -701,14 +723,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "技能 7030430",
-                        "description": ""
+                        "name": "花香",
+                        "description": "对敌方精灵造成魔法伤害。"
                     }
                 },
                 "move_category": "Magic Attack",
                 "energy_cost": 1,
                 "power": 60,
-                "description": ""
+                "description": "对敌方精灵造成魔法伤害。"
             }
         },
         {
@@ -717,7 +739,7 @@
             "move_id": 7040150,
             "move": {
                 "id": 7040150,
-                "name": "技能 7040150",
+                "name": "火焰冲锋",
                 "icon_id": "704010",
                 "move_type": {
                     "id": 3,
@@ -728,14 +750,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "技能 7040150",
-                        "description": ""
+                        "name": "火焰冲锋",
+                        "description": "对敌方精灵造成物理伤害。"
                     }
                 },
                 "move_category": "Physical Attack",
                 "energy_cost": 1,
                 "power": 60,
-                "description": ""
+                "description": "对敌方精灵造成物理伤害。"
             }
         },
         {
@@ -744,7 +766,7 @@
             "move_id": 7050330,
             "move": {
                 "id": 7050330,
-                "name": "技能 7050330",
+                "name": "泡沫",
                 "icon_id": "104022",
                 "move_type": {
                     "id": 4,
@@ -755,14 +777,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "技能 7050330",
-                        "description": ""
+                        "name": "泡沫",
+                        "description": "对敌方精灵造成物理伤害。"
                     }
                 },
                 "move_category": "Physical Attack",
                 "energy_cost": 1,
                 "power": 60,
-                "description": ""
+                "description": "对敌方精灵造成物理伤害。"
             }
         },
         {
@@ -771,7 +793,7 @@
             "move_id": 7060230,
             "move": {
                 "id": 7060230,
-                "name": "技能 7060230",
+                "name": "透射",
                 "icon_id": "105015",
                 "move_type": {
                     "id": 5,
@@ -782,14 +804,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "技能 7060230",
-                        "description": ""
+                        "name": "透射",
+                        "description": "对敌方精灵造成物理伤害。"
                     }
                 },
                 "move_category": "Physical Attack",
                 "energy_cost": 1,
                 "power": 60,
-                "description": ""
+                "description": "对敌方精灵造成物理伤害。"
             }
         },
         {
@@ -798,7 +820,7 @@
             "move_id": 7080120,
             "move": {
                 "id": 7080120,
-                "name": "技能 7080120",
+                "name": "跺地",
                 "icon_id": "708012",
                 "move_type": {
                     "id": 6,
@@ -809,14 +831,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "技能 7080120",
-                        "description": ""
+                        "name": "跺地",
+                        "description": "对敌方精灵造成物理伤害。"
                     }
                 },
                 "move_category": "Physical Attack",
                 "energy_cost": 2,
                 "power": 80,
-                "description": ""
+                "description": "对敌方精灵造成物理伤害。"
             }
         },
         {
@@ -825,7 +847,7 @@
             "move_id": 7090250,
             "move": {
                 "id": 7090250,
-                "name": "技能 7090250",
+                "name": "冰爪",
                 "icon_id": "108020",
                 "move_type": {
                     "id": 7,
@@ -836,14 +858,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "技能 7090250",
-                        "description": ""
+                        "name": "冰爪",
+                        "description": "对敌方精灵造成物理伤害。"
                     }
                 },
                 "move_category": "Physical Attack",
                 "energy_cost": 2,
                 "power": 80,
-                "description": ""
+                "description": "对敌方精灵造成物理伤害。"
             }
         },
         {
@@ -852,7 +874,7 @@
             "move_id": 7100150,
             "move": {
                 "id": 7100150,
-                "name": "技能 7100150",
+                "name": "升龙咆哮",
                 "icon_id": "710004",
                 "move_type": {
                     "id": 8,
@@ -863,14 +885,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "技能 7100150",
-                        "description": ""
+                        "name": "升龙咆哮",
+                        "description": "蓄力，对敌方造成魔法伤害。"
                     }
                 },
                 "move_category": "Magic Attack",
                 "energy_cost": 3,
                 "power": 200,
-                "description": ""
+                "description": "蓄力，对敌方造成魔法伤害。"
             }
         },
         {
@@ -879,7 +901,7 @@
             "move_id": 7110300,
             "move": {
                 "id": 7110300,
-                "name": "技能 7110300",
+                "name": "球状闪电",
                 "icon_id": "110015",
                 "move_type": {
                     "id": 9,
@@ -890,14 +912,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "技能 7110300",
-                        "description": ""
+                        "name": "球状闪电",
+                        "description": "对敌方精灵造成物理伤害。"
                     }
                 },
                 "move_category": "Physical Attack",
                 "energy_cost": 1,
                 "power": 60,
-                "description": ""
+                "description": "对敌方精灵造成物理伤害。"
             }
         },
         {
@@ -906,7 +928,7 @@
             "move_id": 7120200,
             "move": {
                 "id": 7120200,
-                "name": "技能 7120200",
+                "name": "毒沼",
                 "icon_id": "111017",
                 "move_type": {
                     "id": 10,
@@ -917,14 +939,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "技能 7120200",
-                        "description": ""
+                        "name": "毒沼",
+                        "description": "对敌方精灵造成物理伤害。"
                     }
                 },
                 "move_category": "Physical Attack",
                 "energy_cost": 2,
                 "power": 80,
-                "description": ""
+                "description": "对敌方精灵造成物理伤害。"
             }
         },
         {
@@ -933,7 +955,7 @@
             "move_id": 7130260,
             "move": {
                 "id": 7130260,
-                "name": "技能 7130260",
+                "name": "噬心",
                 "icon_id": "112018",
                 "move_type": {
                     "id": 11,
@@ -944,14 +966,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "技能 7130260",
-                        "description": ""
+                        "name": "噬心",
+                        "description": "对敌方精灵造成物理伤害。"
                     }
                 },
                 "move_category": "Physical Attack",
                 "energy_cost": 1,
                 "power": 60,
-                "description": ""
+                "description": "对敌方精灵造成物理伤害。"
             }
         },
         {
@@ -960,7 +982,7 @@
             "move_id": 7140230,
             "move": {
                 "id": 7140230,
-                "name": "技能 7140230",
+                "name": "缠丝劲",
                 "icon_id": "113027",
                 "move_type": {
                     "id": 12,
@@ -971,14 +993,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "技能 7140230",
-                        "description": ""
+                        "name": "缠丝劲",
+                        "description": "造成物伤，2连击。"
                     }
                 },
                 "move_category": "Physical Attack",
                 "energy_cost": 1,
                 "power": 25,
-                "description": ""
+                "description": "造成物伤，2连击。"
             }
         },
         {
@@ -987,7 +1009,7 @@
             "move_id": 7150190,
             "move": {
                 "id": 7150190,
-                "name": "技能 7150190",
+                "name": "鹰爪",
                 "icon_id": "114014",
                 "move_type": {
                     "id": 13,
@@ -998,14 +1020,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "技能 7150190",
-                        "description": ""
+                        "name": "鹰爪",
+                        "description": "对敌方精灵造成物理伤害。"
                     }
                 },
                 "move_category": "Physical Attack",
                 "energy_cost": 1,
                 "power": 60,
-                "description": ""
+                "description": "对敌方精灵造成物理伤害。"
             }
         },
         {
@@ -1014,7 +1036,7 @@
             "move_id": 7160240,
             "move": {
                 "id": 7160240,
-                "name": "技能 7160240",
+                "name": "碰爪",
                 "icon_id": "115012",
                 "move_type": {
                     "id": 14,
@@ -1025,14 +1047,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "技能 7160240",
-                        "description": ""
+                        "name": "碰爪",
+                        "description": "对敌方精灵造成物理伤害。"
                     }
                 },
                 "move_category": "Physical Attack",
                 "energy_cost": 1,
                 "power": 60,
-                "description": ""
+                "description": "对敌方精灵造成物理伤害。"
             }
         },
         {
@@ -1041,7 +1063,7 @@
             "move_id": 7170220,
             "move": {
                 "id": 7170220,
-                "name": "技能 7170220",
+                "name": "灵媒",
                 "icon_id": "116016",
                 "move_type": {
                     "id": 15,
@@ -1052,14 +1074,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "技能 7170220",
-                        "description": ""
+                        "name": "灵媒",
+                        "description": "对敌方精灵造成魔法伤害。"
                     }
                 },
                 "move_category": "Magic Attack",
                 "energy_cost": 3,
                 "power": 100,
-                "description": ""
+                "description": "对敌方精灵造成魔法伤害。"
             }
         },
         {
@@ -1068,7 +1090,7 @@
             "move_id": 7180080,
             "move": {
                 "id": 7180080,
-                "name": "技能 7180080",
+                "name": "恶能量",
                 "icon_id": "718013",
                 "move_type": {
                     "id": 16,
@@ -1079,14 +1101,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "技能 7180080",
-                        "description": ""
+                        "name": "恶能量",
+                        "description": "对敌方精灵造成物理伤害。"
                     }
                 },
                 "move_category": "Physical Attack",
                 "energy_cost": 1,
                 "power": 60,
-                "description": ""
+                "description": "对敌方精灵造成物理伤害。"
             }
         },
         {
@@ -1095,7 +1117,7 @@
             "move_id": 7070010,
             "move": {
                 "id": 7070010,
-                "name": "技能 7070010",
+                "name": "械斗",
                 "icon_id": "720001",
                 "move_type": {
                     "id": 17,
@@ -1106,14 +1128,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "技能 7070010",
-                        "description": ""
+                        "name": "械斗",
+                        "description": "造成物伤，本技能位于1号位时威力+60，传动1。"
                     }
                 },
                 "move_category": "Physical Attack",
                 "energy_cost": 1,
                 "power": 45,
-                "description": ""
+                "description": "造成物伤，本技能位于1号位时威力+60，传动1。"
             }
         },
         {
@@ -1122,7 +1144,7 @@
             "move_id": 7190360,
             "move": {
                 "id": 7190360,
-                "name": "技能 7190360",
+                "name": "星云漩涡",
                 "icon_id": "118018",
                 "move_type": {
                     "id": 18,
@@ -1133,14 +1155,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "技能 7190360",
-                        "description": ""
+                        "name": "星云漩涡",
+                        "description": "对敌方精灵造成物理伤害。"
                     }
                 },
                 "move_category": "Physical Attack",
                 "energy_cost": 1,
                 "power": 60,
-                "description": ""
+                "description": "对敌方精灵造成物理伤害。"
             }
         }
     ],
@@ -1155,7 +1177,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3536"
+                                "name": "乌达"
                             }
                         },
                         "is_leader_form": false,
@@ -1181,7 +1203,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3539"
+                                "name": "乌达"
                             }
                         },
                         "is_leader_form": false,
@@ -1213,7 +1235,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3537"
+                                "name": "迷你乌"
                             }
                         },
                         "is_leader_form": false,
@@ -1242,7 +1264,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3540"
+                                "name": "迷你乌"
                             }
                         },
                         "is_leader_form": false,
@@ -1277,7 +1299,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3538"
+                                "name": "乌拉塔"
                             }
                         },
                         "is_leader_form": false,
@@ -1306,7 +1328,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3541"
+                                "name": "乌拉塔"
                             }
                         },
                         "is_leader_form": false,
@@ -1341,8 +1363,10 @@
     "world_profile": {
         "type_desc": null,
         "description_habitat": null,
-        "introduction": null,
-        "refresh_locations": [],
+        "introduction": "收集笑声的方式更加熟练，它们会把冷笑话冻成冰沙随身携带，需要的时候变为冰魔法投掷使用，是一种对冰系魔法的巧妙运用。被冷笑话击中的小洛克们明明听不懂精灵说的话，但却理解了他们的冷笑话。",
+        "refresh_locations": [
+            "由于昼夜或者天气的原因，这只精灵还没有出现哦！"
+        ],
         "movement_type": "步行",
         "classis_id": 6,
         "classis_name": null,

@@ -22,7 +22,7 @@
     "preferred_attack_style": "Both",
     "localized": {
         "zh": {
-            "name": "4095"
+            "name": "饮雪狂兽"
         }
     },
     "implemented": false,
@@ -37,18 +37,18 @@
         "id": 4095,
         "name": "4095",
         "localized": {
-            "zh": "4095"
+            "zh": "饮雪狂兽"
         }
     },
     "trait": {
         "id": 299002,
-        "name": "特性 299002",
-        "description": "",
+        "name": "？？？",
+        "description": "散发着危险气息的精灵，看不出特性",
         "icon_id": "img_wenhao",
         "localized": {
             "zh": {
-                "name": "特性 299002",
-                "description": ""
+                "name": "？？？",
+                "description": "散发着危险气息的精灵，看不出特性"
             }
         }
     },
@@ -66,7 +66,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "4095"
+                                "name": "饮雪狂兽"
                             }
                         },
                         "is_leader_form": true,
@@ -93,7 +93,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "4095"
+                                "name": "饮雪狂兽"
                             }
                         },
                         "is_leader_form": true,
@@ -118,7 +118,7 @@
     "world_profile": {
         "type_desc": null,
         "description_habitat": null,
-        "introduction": null,
+        "introduction": "只有当契约者死亡的时候才会寻找下一位契约者。假如原契约者活着，但它们必须更换契约者的话，可能会自我了结生命。魔法部认证的精灵契约经销商永远不会售卖和雪灵的契约。",
         "refresh_locations": [],
         "movement_type": "步行",
         "classis_id": 6,

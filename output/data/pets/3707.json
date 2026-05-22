@@ -28,7 +28,7 @@
     "preferred_attack_style": "Physical",
     "localized": {
         "zh": {
-            "name": "3707"
+            "name": "半朽蜜果灵"
         }
     },
     "implemented": false,
@@ -43,18 +43,18 @@
         "id": 3707,
         "name": "songzai",
         "localized": {
-            "zh": "3707"
+            "zh": "半朽蜜果灵"
         }
     },
     "trait": {
         "id": 200264,
-        "name": "特性 200264",
-        "description": "",
+        "name": "半朽蜜果灵",
+        "description": "敌方失去能量时，自身回复等量能量",
         "icon_id": "200264",
         "localized": {
             "zh": {
-                "name": "特性 200264",
-                "description": ""
+                "name": "半朽蜜果灵",
+                "description": "敌方失去能量时，自身回复等量能量"
             }
         }
     },
@@ -72,7 +72,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3706"
+                                "name": "蜜果骸"
                             }
                         },
                         "is_leader_form": false,
@@ -104,7 +104,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3707"
+                                "name": "半朽蜜果灵"
                             }
                         },
                         "is_leader_form": false,
@@ -139,7 +139,9 @@
         "type_desc": null,
         "description_habitat": null,
         "introduction": null,
-        "refresh_locations": [],
+        "refresh_locations": [
+            "由于昼夜或者天气的原因，这只精灵还没有出现哦！"
+        ],
         "movement_type": "浮游",
         "classis_id": 6,
         "classis_name": null,

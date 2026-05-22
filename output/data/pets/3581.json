@@ -22,7 +22,7 @@
     "preferred_attack_style": "Both",
     "localized": {
         "zh": {
-            "name": "3581"
+            "name": "剧毒魔蝎"
         }
     },
     "implemented": false,
@@ -37,18 +37,18 @@
         "id": 3581,
         "name": "judumoxie",
         "localized": {
-            "zh": "3581"
+            "zh": "剧毒魔蝎"
         }
     },
     "trait": {
         "id": 200098,
-        "name": "特性 200098",
-        "description": "",
+        "name": "共鸣",
+        "description": "携带的「虫鸣」技能威力+20。",
         "icon_id": "200098",
         "localized": {
             "zh": {
-                "name": "特性 200098",
-                "description": ""
+                "name": "共鸣",
+                "description": "携带的「虫鸣」技能威力+20。"
             }
         }
     },
@@ -66,7 +66,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3581"
+                                "name": "剧毒魔蝎"
                             }
                         },
                         "is_leader_form": false,
@@ -94,8 +94,10 @@
     "world_profile": {
         "type_desc": null,
         "description_habitat": null,
-        "introduction": null,
-        "refresh_locations": [],
+        "introduction": "借助风来移动的精灵，碰到水的时候会停下来休息。",
+        "refresh_locations": [
+            "由于昼夜或者天气的原因，这只精灵还没有出现哦！"
+        ],
         "movement_type": "步行",
         "classis_id": 6,
         "classis_name": null,

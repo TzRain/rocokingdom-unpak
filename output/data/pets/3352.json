@@ -22,7 +22,7 @@
     "preferred_attack_style": "Both",
     "localized": {
         "zh": {
-            "name": "3352"
+            "name": "雷鸣小子"
         }
     },
     "implemented": false,
@@ -37,18 +37,18 @@
         "id": 3352,
         "name": "leimingwang",
         "localized": {
-            "zh": "3352"
+            "zh": "雷鸣小子"
         }
     },
     "trait": {
         "id": 200168,
-        "name": "特性 200168",
-        "description": "",
+        "name": "自发电",
+        "description": "在场下时回合结束时攻击提升10%；在场上时，回合结束时攻击降低30%。",
         "icon_id": "200168",
         "localized": {
             "zh": {
-                "name": "特性 200168",
-                "description": ""
+                "name": "自发电",
+                "description": "在场下时回合结束时攻击提升10%；在场上时，回合结束时攻击降低30%。"
             }
         }
     },
@@ -66,7 +66,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3351"
+                                "name": "霹雳宝宝"
                             }
                         },
                         "is_leader_form": false,
@@ -92,7 +92,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3352"
+                                "name": "雷鸣小子"
                             }
                         },
                         "is_leader_form": false,
@@ -120,8 +120,10 @@
     "world_profile": {
         "type_desc": null,
         "description_habitat": null,
-        "introduction": null,
-        "refresh_locations": [],
+        "introduction": "额前虽然有闪电的印记，但平时似乎并没有包含任何电系能量。周围有音乐响起的话，会迅速进入带电状态。常看到三三两两的霹雳宝宝聚在一起一边发出电光，一边蹦跳。",
+        "refresh_locations": [
+            "由于昼夜或者天气的原因，这只精灵还没有出现哦！"
+        ],
         "movement_type": "步行",
         "classis_id": 6,
         "classis_name": null,

@@ -22,7 +22,7 @@
     "preferred_attack_style": "Both",
     "localized": {
         "zh": {
-            "name": "3505"
+            "name": "夜回犀牛"
         }
     },
     "implemented": false,
@@ -37,18 +37,18 @@
         "id": 3505,
         "name": "yehuixiniu",
         "localized": {
-            "zh": "3505"
+            "zh": "夜回犀牛"
         }
     },
     "trait": {
         "id": 200260,
-        "name": "特性 200260",
-        "description": "",
+        "name": "夜回犀牛",
+        "description": "当精灵获得防御增益时，提高对应的攻击增益",
         "icon_id": "200074",
         "localized": {
             "zh": {
-                "name": "特性 200260",
-                "description": ""
+                "name": "夜回犀牛",
+                "description": "当精灵获得防御增益时，提高对应的攻击增益"
             }
         }
     },
@@ -66,7 +66,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3505"
+                                "name": "夜回犀牛"
                             }
                         },
                         "is_leader_form": false,
@@ -95,7 +95,9 @@
         "type_desc": null,
         "description_habitat": null,
         "introduction": null,
-        "refresh_locations": [],
+        "refresh_locations": [
+            "由于昼夜或者天气的原因，这只精灵还没有出现哦！"
+        ],
         "movement_type": "步行",
         "classis_id": 6,
         "classis_name": null,

@@ -28,7 +28,7 @@
     "preferred_attack_style": "Physical",
     "localized": {
         "zh": {
-            "name": "3135"
+            "name": "飞天刀螂"
         }
     },
     "implemented": false,
@@ -43,18 +43,18 @@
         "id": 3135,
         "name": "feitiandaolang",
         "localized": {
-            "zh": "3135"
+            "zh": "飞天刀螂"
         }
     },
     "trait": {
         "id": 200134,
-        "name": "特性 200134",
-        "description": "",
+        "name": "双刃",
+        "description": "能量上限为0，技能可以使用2次。",
         "icon_id": "200134",
         "localized": {
             "zh": {
-                "name": "特性 200134",
-                "description": ""
+                "name": "双刃",
+                "description": "能量上限为0，技能可以使用2次。"
             }
         }
     },
@@ -72,7 +72,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3133"
+                                "name": "小螂"
                             }
                         },
                         "is_leader_form": false,
@@ -98,7 +98,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3134"
+                                "name": "兵螂"
                             }
                         },
                         "is_leader_form": false,
@@ -132,7 +132,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3135"
+                                "name": "飞天刀螂"
                             }
                         },
                         "is_leader_form": false,
@@ -167,8 +167,10 @@
     "world_profile": {
         "type_desc": null,
         "description_habitat": null,
-        "introduction": null,
-        "refresh_locations": [],
+        "introduction": "十分冷静有耐心的种族，可以长久埋伏观察，一旦发现机会就会迅速出击，一击必中。雄性捕猎欲相对更强烈，借由其趋光性而捕捉到的个体几乎全为雄性。",
+        "refresh_locations": [
+            "由于昼夜或者天气的原因，这只精灵还没有出现哦！"
+        ],
         "movement_type": "步行",
         "classis_id": 5,
         "classis_name": null,

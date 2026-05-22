@@ -28,7 +28,7 @@
     "preferred_attack_style": "Both",
     "localized": {
         "zh": {
-            "name": "3052"
+            "name": "煤球憨憨"
         }
     },
     "implemented": false,
@@ -43,18 +43,18 @@
         "id": 3052,
         "name": "meiqiuhanhan",
         "localized": {
-            "zh": "3052"
+            "zh": "煤球憨憨"
         }
     },
     "trait": {
         "id": 200101,
-        "name": "特性 200101",
-        "description": "",
+        "name": "质朴",
+        "description": "技能能耗固定为5。",
         "icon_id": "200101",
         "localized": {
             "zh": {
-                "name": "特性 200101",
-                "description": ""
+                "name": "质朴",
+                "description": "技能能耗固定为5。"
             }
         }
     },
@@ -72,7 +72,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3052"
+                                "name": "煤球憨憨"
                             }
                         },
                         "is_leader_form": false,
@@ -104,7 +104,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3053"
+                                "name": "害羞球球"
                             }
                         },
                         "is_leader_form": false,
@@ -141,7 +141,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3054"
+                                "name": "蓝衣夜灵"
                             }
                         },
                         "is_leader_form": false,
@@ -178,8 +178,10 @@
     "world_profile": {
         "type_desc": null,
         "description_habitat": null,
-        "introduction": null,
-        "refresh_locations": [],
+        "introduction": "在矿洞中与石头作伴，无忧无虑地生活着，性情温和憨厚。用尚不成熟的魔力将两块石头牢牢吸在头顶，那似乎是它很珍视的东西，生怕弄丢了。",
+        "refresh_locations": [
+            "由于昼夜或者天气的原因，这只精灵还没有出现哦！"
+        ],
         "movement_type": "步行",
         "classis_id": 7,
         "classis_name": null,

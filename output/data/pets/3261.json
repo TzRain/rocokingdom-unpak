@@ -22,7 +22,7 @@
     "preferred_attack_style": "Both",
     "localized": {
         "zh": {
-            "name": "3261"
+            "name": "大古拉海象"
         }
     },
     "implemented": false,
@@ -37,18 +37,18 @@
         "id": 3261,
         "name": "dagulahaixiang",
         "localized": {
-            "zh": "3261"
+            "zh": "大古拉海象"
         }
     },
     "trait": {
         "id": 200119,
-        "name": "特性 200119",
-        "description": "",
+        "name": "海象冰屋",
+        "description": "每赋予一层冻结，速度提升20%",
         "icon_id": "200074",
         "localized": {
             "zh": {
-                "name": "特性 200119",
-                "description": ""
+                "name": "海象冰屋",
+                "description": "每赋予一层冻结，速度提升20%"
             }
         }
     },
@@ -66,7 +66,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3260"
+                                "name": "古拉海象"
                             }
                         },
                         "is_leader_form": false,
@@ -92,7 +92,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3261"
+                                "name": "大古拉海象"
                             }
                         },
                         "is_leader_form": false,
@@ -120,8 +120,10 @@
     "world_profile": {
         "type_desc": null,
         "description_habitat": null,
-        "introduction": null,
-        "refresh_locations": [],
+        "introduction": "牙齿如冰晶一般剔透，凭借着锐利的海象牙，在海底甚至能与鲨鱼等顶级猎杀者一战。种群内的首领往往拥有最漂亮的鬃毛，虽然没有实质性的作用，但在海象群似乎是一种地位的象征。",
+        "refresh_locations": [
+            "由于昼夜或者天气的原因，这只精灵还没有出现哦！"
+        ],
         "movement_type": "地面",
         "classis_id": 6,
         "classis_name": null,

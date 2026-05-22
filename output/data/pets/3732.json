@@ -28,7 +28,7 @@
     "preferred_attack_style": "Magic",
     "localized": {
         "zh": {
-            "name": "3732"
+            "name": "紫花雀"
         }
     },
     "implemented": false,
@@ -43,18 +43,18 @@
         "id": 3732,
         "name": "chixinyongshi",
         "localized": {
-            "zh": "3732"
+            "zh": "紫花雀"
         }
     },
     "trait": {
         "id": 200247,
-        "name": "特性 200247",
-        "description": "",
+        "name": "圣火骑士",
+        "description": "应对成功后，下次攻击威力翻倍。",
         "icon_id": "200247",
         "localized": {
             "zh": {
-                "name": "特性 200247",
-                "description": ""
+                "name": "圣火骑士",
+                "description": "应对成功后，下次攻击威力翻倍。"
             }
         }
     },
@@ -72,7 +72,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3731"
+                                "name": "骨朵鸟"
                             }
                         },
                         "is_leader_form": false,
@@ -104,7 +104,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3732"
+                                "name": "紫花雀"
                             }
                         },
                         "is_leader_form": false,
@@ -138,8 +138,10 @@
     "world_profile": {
         "type_desc": null,
         "description_habitat": null,
-        "introduction": null,
-        "refresh_locations": [],
+        "introduction": "不休的守护者，用无私烈焰凌驾于契约之上，绝对正义才是支持这烈焰的力量源泉。 “让我见识看看吧，你的正义之心”它们的的神态仿佛这样说。",
+        "refresh_locations": [
+            "由于昼夜或者天气的原因，这只精灵还没有出现哦！"
+        ],
         "movement_type": "地面",
         "classis_id": 6,
         "classis_name": null,

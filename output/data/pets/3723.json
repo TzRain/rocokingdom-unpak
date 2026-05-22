@@ -28,7 +28,7 @@
     "preferred_attack_style": "Both",
     "localized": {
         "zh": {
-            "name": "3723"
+            "name": "水滴蛇"
         }
     },
     "implemented": false,
@@ -43,18 +43,18 @@
         "id": 3723,
         "name": "shuidishe",
         "localized": {
-            "zh": "3723"
+            "zh": "水滴蛇"
         }
     },
     "trait": {
         "id": 200248,
-        "name": "特性 200248",
-        "description": "",
+        "name": "思维之盾",
+        "description": "应对成功后，下次行动技能能耗-5。",
         "icon_id": "200248",
         "localized": {
             "zh": {
-                "name": "特性 200248",
-                "description": ""
+                "name": "思维之盾",
+                "description": "应对成功后，下次行动技能能耗-5。"
             }
         }
     },
@@ -72,7 +72,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3360"
+                                "name": "蝴蝶陶陶"
                             }
                         },
                         "is_leader_form": false,
@@ -92,7 +92,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3723"
+                                "name": "水滴蛇"
                             }
                         },
                         "is_leader_form": false,
@@ -124,7 +124,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3361"
+                                "name": "铆钉毛毛"
                             }
                         },
                         "is_leader_form": false,
@@ -150,7 +150,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3724"
+                                "name": "水蛇锁"
                             }
                         },
                         "is_leader_form": false,
@@ -184,7 +184,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3362"
+                                "name": "徘徊爪爪"
                             }
                         },
                         "is_leader_form": false,
@@ -210,7 +210,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3725"
+                                "name": "游蛇魔使"
                             }
                         },
                         "is_leader_form": false,
@@ -244,8 +244,10 @@
     "world_profile": {
         "type_desc": null,
         "description_habitat": null,
-        "introduction": null,
-        "refresh_locations": [],
+        "introduction": "“什么？如果遇到水滴蛇也不要害怕，它会逃跑？喂喂，你一定是读了旧的指南书对吧\"。 \"最新的说法是，一定要礼貌地和它交流，回答它们关于知识的问题，否则就会受到它的恶作剧!”",
+        "refresh_locations": [
+            "由于昼夜或者天气的原因，这只精灵还没有出现哦！"
+        ],
         "movement_type": "浮游",
         "classis_id": 6,
         "classis_name": null,

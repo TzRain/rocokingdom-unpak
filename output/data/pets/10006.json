@@ -22,7 +22,7 @@
     "preferred_attack_style": "Both",
     "localized": {
         "zh": {
-            "name": "10006"
+            "name": "随机精灵"
         }
     },
     "implemented": false,
@@ -37,14 +37,14 @@
         "id": 10006,
         "name": "10006",
         "localized": {
-            "zh": "10006"
+            "zh": "随机精灵"
         }
     },
     "trait": null,
     "move_pool": [
         {
             "id": 7020370,
-            "name": "技能 7020370",
+            "name": "猛烈撞击",
             "icon_id": "700001",
             "move_type": {
                 "id": 1,
@@ -55,14 +55,14 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7020370",
-                    "description": ""
+                    "name": "猛烈撞击",
+                    "description": "对敌方精灵造成物理伤害。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 1,
             "power": 65,
-            "description": ""
+            "description": "对敌方精灵造成物理伤害。"
         }
     ],
     "move_stones": [],
@@ -78,7 +78,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "10006"
+                                "name": "随机精灵"
                             }
                         },
                         "is_leader_form": false,
@@ -104,7 +104,7 @@
     "world_profile": {
         "type_desc": null,
         "description_habitat": null,
-        "introduction": null,
+        "introduction": "这是一只测试宠物，如果你在不该看到的地方看到了它，请联系策划。",
         "refresh_locations": [],
         "movement_type": null,
         "classis_id": 3,

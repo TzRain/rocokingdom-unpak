@@ -28,7 +28,7 @@
     "preferred_attack_style": "Physical",
     "localized": {
         "zh": {
-            "name": "3054"
+            "name": "蓝衣夜灵"
         }
     },
     "implemented": false,
@@ -43,18 +43,18 @@
         "id": 3054,
         "name": "lanyiyeling",
         "localized": {
-            "zh": "3054"
+            "zh": "蓝衣夜灵"
         }
     },
     "trait": {
         "id": 200101,
-        "name": "特性 200101",
-        "description": "",
+        "name": "质朴",
+        "description": "技能能耗固定为5。",
         "icon_id": "200101",
         "localized": {
             "zh": {
-                "name": "特性 200101",
-                "description": ""
+                "name": "质朴",
+                "description": "技能能耗固定为5。"
             }
         }
     },
@@ -72,7 +72,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3052"
+                                "name": "煤球憨憨"
                             }
                         },
                         "is_leader_form": false,
@@ -104,7 +104,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3053"
+                                "name": "害羞球球"
                             }
                         },
                         "is_leader_form": false,
@@ -141,7 +141,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3054"
+                                "name": "蓝衣夜灵"
                             }
                         },
                         "is_leader_form": false,
@@ -178,8 +178,10 @@
     "world_profile": {
         "type_desc": null,
         "description_habitat": null,
-        "introduction": null,
-        "refresh_locations": [],
+        "introduction": "身上有着大块石英材质，就像穿着衣服一样。对石头的操控非常熟练，能够利用头上悬浮的散石发动难以预测的攻击。",
+        "refresh_locations": [
+            "由于昼夜或者天气的原因，这只精灵还没有出现哦！"
+        ],
         "movement_type": "步行",
         "classis_id": 15,
         "classis_name": null,

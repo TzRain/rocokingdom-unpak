@@ -28,7 +28,7 @@
     "preferred_attack_style": "Physical",
     "localized": {
         "zh": {
-            "name": "3680"
+            "name": "蒸汽胖可"
         }
     },
     "implemented": false,
@@ -43,7 +43,7 @@
         "id": 3680,
         "name": "songzai",
         "localized": {
-            "zh": "3680"
+            "zh": "蒸汽胖可"
         }
     },
     "trait": null,
@@ -61,7 +61,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3679"
+                                "name": "蒸汽胖胖"
                             }
                         },
                         "is_leader_form": false,
@@ -93,7 +93,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3680"
+                                "name": "蒸汽胖可"
                             }
                         },
                         "is_leader_form": false,
@@ -126,7 +126,9 @@
         "type_desc": null,
         "description_habitat": null,
         "introduction": null,
-        "refresh_locations": [],
+        "refresh_locations": [
+            "由于昼夜或者天气的原因，这只精灵还没有出现哦！"
+        ],
         "movement_type": "步行",
         "classis_id": 6,
         "classis_name": null,

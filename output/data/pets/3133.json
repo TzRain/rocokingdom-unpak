@@ -22,7 +22,7 @@
     "preferred_attack_style": "Both",
     "localized": {
         "zh": {
-            "name": "3133"
+            "name": "小螂"
         }
     },
     "implemented": false,
@@ -37,18 +37,18 @@
         "id": 3133,
         "name": "xiaolang",
         "localized": {
-            "zh": "3133"
+            "zh": "小螂"
         }
     },
     "trait": {
         "id": 200134,
-        "name": "特性 200134",
-        "description": "",
+        "name": "双刃",
+        "description": "能量上限为0，技能可以使用2次。",
         "icon_id": "200134",
         "localized": {
             "zh": {
-                "name": "特性 200134",
-                "description": ""
+                "name": "双刃",
+                "description": "能量上限为0，技能可以使用2次。"
             }
         }
     },
@@ -66,7 +66,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3133"
+                                "name": "小螂"
                             }
                         },
                         "is_leader_form": false,
@@ -92,7 +92,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3134"
+                                "name": "兵螂"
                             }
                         },
                         "is_leader_form": false,
@@ -126,7 +126,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3135"
+                                "name": "飞天刀螂"
                             }
                         },
                         "is_leader_form": false,
@@ -161,8 +161,10 @@
     "world_profile": {
         "type_desc": null,
         "description_habitat": null,
-        "introduction": null,
-        "refresh_locations": [],
+        "introduction": "身体十分柔软，经常挥舞着还未发育完全的前肢。似乎还没有视觉。靠头顶的触角收集周围信息，如果触角受伤了，会完全迷失方向。",
+        "refresh_locations": [
+            "由于昼夜或者天气的原因，这只精灵还没有出现哦！"
+        ],
         "movement_type": "步行",
         "classis_id": 5,
         "classis_name": null,

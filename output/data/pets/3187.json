@@ -28,7 +28,7 @@
     "preferred_attack_style": "Both",
     "localized": {
         "zh": {
-            "name": "3187"
+            "name": "迷迷眼"
         }
     },
     "implemented": false,
@@ -43,18 +43,18 @@
         "id": 3187,
         "name": "mimiyan",
         "localized": {
-            "zh": "3187"
+            "zh": "迷迷眼"
         }
     },
     "trait": {
         "id": 200159,
-        "name": "特性 200159",
-        "description": "",
+        "name": "黑洞",
+        "description": "每使用2次幻系技能，清空敌方精灵能量。",
         "icon_id": "200074",
         "localized": {
             "zh": {
-                "name": "特性 200159",
-                "description": ""
+                "name": "黑洞",
+                "description": "每使用2次幻系技能，清空敌方精灵能量。"
             }
         }
     },
@@ -72,7 +72,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3187"
+                                "name": "迷迷眼"
                             }
                         },
                         "is_leader_form": false,
@@ -104,8 +104,10 @@
     "world_profile": {
         "type_desc": null,
         "description_habitat": null,
-        "introduction": null,
-        "refresh_locations": [],
+        "introduction": "拥有奇特的双眼，似乎能看到身边人脑海里浮现的事物，以目前的知识完全无法理解其中构造。头顶的小圆球似乎是某种屏蔽装置，目前猜测可能是用于屏蔽过量的信息。",
+        "refresh_locations": [
+            "由于昼夜或者天气的原因，这只精灵还没有出现哦！"
+        ],
         "movement_type": "步行",
         "classis_id": 6,
         "classis_name": null,

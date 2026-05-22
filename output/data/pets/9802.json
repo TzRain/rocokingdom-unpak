@@ -22,7 +22,7 @@
     "preferred_attack_style": "Both",
     "localized": {
         "zh": {
-            "name": "9802"
+            "name": "鸭吉吉_草"
         }
     },
     "implemented": false,
@@ -37,25 +37,25 @@
         "id": 9802,
         "name": "9802",
         "localized": {
-            "zh": "9802"
+            "zh": "鸭吉吉_草"
         }
     },
     "trait": {
         "id": 200000,
-        "name": "特性 200000",
-        "description": "",
+        "name": "GM被动",
+        "description": "回合末恢复10能量。",
         "icon_id": "200074",
         "localized": {
             "zh": {
-                "name": "特性 200000",
-                "description": ""
+                "name": "GM被动",
+                "description": "回合末恢复10能量。"
             }
         }
     },
     "move_pool": [
         {
             "id": 7030480,
-            "name": "技能 7030480",
+            "name": "筛管奔流",
             "icon_id": "102031",
             "move_type": {
                 "id": 2,
@@ -66,18 +66,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7030480",
-                    "description": ""
+                    "name": "筛管奔流",
+                    "description": "造成物伤，自己生命大于80%时，本次技能威力+75。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 3,
             "power": 80,
-            "description": ""
+            "description": "造成物伤，自己生命大于80%时，本次技能威力+75。"
         },
         {
             "id": 7030490,
-            "name": "技能 7030490",
+            "name": "花炮",
             "icon_id": "102032",
             "move_type": {
                 "id": 2,
@@ -88,18 +88,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7030490",
-                    "description": ""
+                    "name": "花炮",
+                    "description": "2连击，每次连击自己获得魔攻+60%。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 2,
             "power": null,
-            "description": ""
+            "description": "2连击，每次连击自己获得魔攻+60%。"
         },
         {
             "id": 7030500,
-            "name": "技能 7030500",
+            "name": "聚盐",
             "icon_id": "102033",
             "move_type": {
                 "id": 2,
@@ -110,18 +110,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7030500",
-                    "description": ""
+                    "name": "聚盐",
+                    "description": "2连击，每次连击自己回复8%生命，使用后本技能连击数永久+1。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 3,
             "power": null,
-            "description": ""
+            "description": "2连击，每次连击自己回复8%生命，使用后本技能连击数永久+1。"
         },
         {
             "id": 7030510,
-            "name": "技能 7030510",
+            "name": "富养化",
             "icon_id": "202034",
             "move_type": {
                 "id": 2,
@@ -132,18 +132,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7030510",
-                    "description": ""
+                    "name": "富养化",
+                    "description": "为场下每个精灵回复3能量。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 3,
             "power": null,
-            "description": ""
+            "description": "为场下每个精灵回复3能量。"
         },
         {
             "id": 7030520,
-            "name": "技能 7030520",
+            "name": "纤维化",
             "icon_id": "102036",
             "move_type": {
                 "id": 2,
@@ -154,18 +154,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7030520",
-                    "description": ""
+                    "name": "纤维化",
+                    "description": "减伤80%，应对攻击：自己获得物防+70%。"
                 }
             },
             "move_category": "Defense",
             "energy_cost": 2,
             "power": null,
-            "description": ""
+            "description": "减伤80%，应对攻击：自己获得物防+70%。"
         },
         {
             "id": 7030530,
-            "name": "技能 7030530",
+            "name": "抽枝",
             "icon_id": "102038",
             "move_type": {
                 "id": 2,
@@ -176,14 +176,14 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7030530",
-                    "description": ""
+                    "name": "抽枝",
+                    "description": "造成物伤，应对状态：自己回复50%生命和5能量。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 4,
             "power": 90,
-            "description": ""
+            "description": "造成物伤，应对状态：自己回复50%生命和5能量。"
         }
     ],
     "move_stones": [],
@@ -199,7 +199,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "9802"
+                                "name": "鸭吉吉_草"
                             }
                         },
                         "is_leader_form": false,
@@ -225,7 +225,7 @@
     "world_profile": {
         "type_desc": null,
         "description_habitat": null,
-        "introduction": null,
+        "introduction": "这是一只测试宠物，如果你在不该看到的地方看到了它，请联系策划。",
         "refresh_locations": [],
         "movement_type": null,
         "classis_id": 3,

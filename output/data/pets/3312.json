@@ -22,7 +22,7 @@
     "preferred_attack_style": "Both",
     "localized": {
         "zh": {
-            "name": "3312"
+            "name": "若叶蜥"
         }
     },
     "implemented": false,
@@ -37,7 +37,7 @@
         "id": 3312,
         "name": "ruoyexi",
         "localized": {
-            "zh": "3312"
+            "zh": "若叶蜥"
         }
     },
     "trait": null,
@@ -55,7 +55,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3312"
+                                "name": "若叶蜥"
                             }
                         },
                         "is_leader_form": false,
@@ -81,8 +81,10 @@
     "world_profile": {
         "type_desc": null,
         "description_habitat": null,
-        "introduction": null,
-        "refresh_locations": [],
+        "introduction": "若叶蜥爱好和平，是热带雨林中的低调隐士，遇事不对便先遁走，这一习性使其练就了超强的脚力。它们在树丛间滑行，却很少有洛克可以跟随它们的脚步，分辨它们隐匿在哪片树叶下。",
+        "refresh_locations": [
+            "由于昼夜或者天气的原因，这只精灵还没有出现哦！"
+        ],
         "movement_type": "步行",
         "classis_id": 6,
         "classis_name": null,

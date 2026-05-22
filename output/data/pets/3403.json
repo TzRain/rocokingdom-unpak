@@ -28,7 +28,7 @@
     "preferred_attack_style": "Both",
     "localized": {
         "zh": {
-            "name": "3403"
+            "name": "晶尾蝎"
         }
     },
     "implemented": false,
@@ -43,7 +43,7 @@
         "id": 3403,
         "name": "jingweixie",
         "localized": {
-            "zh": "3403"
+            "zh": "晶尾蝎"
         }
     },
     "trait": null,
@@ -61,7 +61,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3403"
+                                "name": "晶尾蝎"
                             }
                         },
                         "is_leader_form": false,
@@ -93,7 +93,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3404"
+                                "name": "蝎子王"
                             }
                         },
                         "is_leader_form": false,
@@ -128,7 +128,9 @@
         "type_desc": null,
         "description_habitat": null,
         "introduction": null,
-        "refresh_locations": [],
+        "refresh_locations": [
+            "由于昼夜或者天气的原因，这只精灵还没有出现哦！"
+        ],
         "movement_type": "地面",
         "classis_id": 6,
         "classis_name": null,

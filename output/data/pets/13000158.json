@@ -28,7 +28,7 @@
     "preferred_attack_style": "Physical",
     "localized": {
         "zh": {
-            "name": "13000158"
+            "name": "首领-伊里斯"
         }
     },
     "implemented": false,
@@ -43,18 +43,18 @@
         "id": 13000158,
         "name": "yilisi",
         "localized": {
-            "zh": "13000158"
+            "zh": "首领-伊里斯"
         }
     },
     "trait": {
         "id": 7800030,
-        "name": "特性 7800030",
-        "description": "",
+        "name": "能量衰退",
+        "description": "首领技，每个回合恢复能量，但恢复的能量逐渐减少。",
         "icon_id": "700025",
         "localized": {
             "zh": {
-                "name": "特性 7800030",
-                "description": ""
+                "name": "能量衰退",
+                "description": "首领技，每个回合恢复能量，但恢复的能量逐渐减少。"
             }
         }
     },
@@ -72,7 +72,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "13000158"
+                                "name": "首领-伊里斯"
                             }
                         },
                         "is_leader_form": true,
@@ -105,7 +105,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "13000158"
+                                "name": "首领-伊里斯"
                             }
                         },
                         "is_leader_form": true,
@@ -136,7 +136,7 @@
     "world_profile": {
         "type_desc": null,
         "description_habitat": null,
-        "introduction": null,
+        "introduction": "在黑暗中能够照亮周围，像神明一般圣洁而华丽。头顶的角除了攻击，还能施放出让人震撼的强大魔法冲击。",
         "refresh_locations": [],
         "movement_type": null,
         "classis_id": 7,

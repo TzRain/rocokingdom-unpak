@@ -22,7 +22,7 @@
     "preferred_attack_style": "Both",
     "localized": {
         "zh": {
-            "name": "9809"
+            "name": "鸭吉吉_电"
         }
     },
     "implemented": false,
@@ -37,25 +37,25 @@
         "id": 9809,
         "name": "9809",
         "localized": {
-            "zh": "9809"
+            "zh": "鸭吉吉_电"
         }
     },
     "trait": {
         "id": 200000,
-        "name": "特性 200000",
-        "description": "",
+        "name": "GM被动",
+        "description": "回合末恢复10能量。",
         "icon_id": "200074",
         "localized": {
             "zh": {
-                "name": "特性 200000",
-                "description": ""
+                "name": "GM被动",
+                "description": "回合末恢复10能量。"
             }
         }
     },
     "move_pool": [
         {
             "id": 7110340,
-            "name": "技能 7110340",
+            "name": "超导加速",
             "icon_id": "110019",
             "move_type": {
                 "id": 9,
@@ -66,18 +66,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7110340",
-                    "description": ""
+                    "name": "超导加速",
+                    "description": "造成魔伤，自己获得速度+30。"
                 }
             },
             "move_category": "Magic Attack",
             "energy_cost": 2,
             "power": 70,
-            "description": ""
+            "description": "造成魔伤，自己获得速度+30。"
         },
         {
             "id": 7110350,
-            "name": "技能 7110350",
+            "name": "双联脉冲",
             "icon_id": "110020",
             "move_type": {
                 "id": 9,
@@ -88,18 +88,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7110350",
-                    "description": ""
+                    "name": "双联脉冲",
+                    "description": "造成魔伤，迸发：本技能使用次数+1。"
                 }
             },
             "move_category": "Magic Attack",
             "energy_cost": 4,
             "power": 50,
-            "description": ""
+            "description": "造成魔伤，迸发：本技能使用次数+1。"
         },
         {
             "id": 7110360,
-            "name": "技能 7110360",
+            "name": "过载回路",
             "icon_id": "110021",
             "move_type": {
                 "id": 9,
@@ -110,18 +110,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7110360",
-                    "description": ""
+                    "name": "过载回路",
+                    "description": "回合结束自己返场，下回合所选技能使用次数+1。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 1,
             "power": null,
-            "description": ""
+            "description": "回合结束自己返场，下回合所选技能使用次数+1。"
         },
         {
             "id": 7110370,
-            "name": "技能 7110370",
+            "name": "远程访问",
             "icon_id": "110022",
             "move_type": {
                 "id": 9,
@@ -132,18 +132,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7110370",
-                    "description": ""
+                    "name": "远程访问",
+                    "description": "使敌方精灵返场。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 2,
             "power": null,
-            "description": ""
+            "description": "使敌方精灵返场。"
         },
         {
             "id": 7110380,
-            "name": "技能 7110380",
+            "name": "感电",
             "icon_id": "110023",
             "move_type": {
                 "id": 9,
@@ -154,18 +154,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7110380",
-                    "description": ""
+                    "name": "感电",
+                    "description": "造成魔伤，每离场1次，本技能使用次数永久+1。"
                 }
             },
             "move_category": "Magic Attack",
             "energy_cost": 2,
             "power": 60,
-            "description": ""
+            "description": "造成魔伤，每离场1次，本技能使用次数永久+1。"
         },
         {
             "id": 7110390,
-            "name": "技能 7110390",
+            "name": "强制重启",
             "icon_id": "110025",
             "move_type": {
                 "id": 9,
@@ -176,18 +176,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7110390",
-                    "description": ""
+                    "name": "强制重启",
+                    "description": "造成魔伤，应对状态：回合结束时使敌方精灵返场。"
                 }
             },
             "move_category": "Magic Attack",
             "energy_cost": 3,
             "power": 90,
-            "description": ""
+            "description": "造成魔伤，应对状态：回合结束时使敌方精灵返场。"
         },
         {
             "id": 7110400,
-            "name": "技能 7110400",
+            "name": "电容循环",
             "icon_id": "310026",
             "move_type": {
                 "id": 9,
@@ -198,18 +198,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7110400",
-                    "description": ""
+                    "name": "电容循环",
+                    "description": "每离场一次，本技能能耗-2，将天气改为雷暴天气"
                 }
             },
             "move_category": "Status",
             "energy_cost": 8,
             "power": null,
-            "description": ""
+            "description": "每离场一次，本技能能耗-2，将天气改为雷暴天气"
         },
         {
             "id": 7110410,
-            "name": "技能 7110410",
+            "name": "电离爆破",
             "icon_id": "110027",
             "move_type": {
                 "id": 9,
@@ -220,18 +220,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7110410",
-                    "description": ""
+                    "name": "电离爆破",
+                    "description": "敌方获得速度-40，3连击。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 3,
             "power": null,
-            "description": ""
+            "description": "敌方获得速度-40，3连击。"
         },
         {
             "id": 7110420,
-            "name": "技能 7110420",
+            "name": "电磁偏转",
             "icon_id": "110029",
             "move_type": {
                 "id": 9,
@@ -242,14 +242,14 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7110420",
-                    "description": ""
+                    "name": "电磁偏转",
+                    "description": "减伤70%，应对攻击：下回合所选技能使用次数+1。"
                 }
             },
             "move_category": "Defense",
             "energy_cost": 3,
             "power": null,
-            "description": ""
+            "description": "减伤70%，应对攻击：下回合所选技能使用次数+1。"
         }
     ],
     "move_stones": [],
@@ -265,7 +265,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "9809"
+                                "name": "鸭吉吉_电"
                             }
                         },
                         "is_leader_form": false,
@@ -291,7 +291,7 @@
     "world_profile": {
         "type_desc": null,
         "description_habitat": null,
-        "introduction": null,
+        "introduction": "这是一只测试宠物，如果你在不该看到的地方看到了它，请联系策划。",
         "refresh_locations": [],
         "movement_type": null,
         "classis_id": 3,

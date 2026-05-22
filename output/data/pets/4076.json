@@ -28,7 +28,7 @@
     "preferred_attack_style": "Both",
     "localized": {
         "zh": {
-            "name": "4076"
+            "name": "伊里斯"
         }
     },
     "implemented": true,
@@ -43,18 +43,18 @@
         "id": 117,
         "name": "baijindujiaoshou",
         "localized": {
-            "zh": "3063"
+            "zh": "白金独角兽"
         }
     },
     "trait": {
         "id": 280009,
-        "name": "特性 280009",
-        "description": "",
+        "name": "夺目",
+        "description": "额外获得三个未携带的随机技能，且非光系技能威力+25%。",
         "icon_id": "200075",
         "localized": {
             "zh": {
-                "name": "特性 280009",
-                "description": ""
+                "name": "夺目",
+                "description": "额外获得三个未携带的随机技能，且非光系技能威力+25%。"
             }
         }
     },
@@ -72,7 +72,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3062"
+                                "name": "小独角兽"
                             }
                         },
                         "is_leader_form": false,
@@ -98,7 +98,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3063"
+                                "name": "白金独角兽"
                             }
                         },
                         "is_leader_form": false,
@@ -130,7 +130,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "4076"
+                                "name": "伊里斯"
                             }
                         },
                         "is_leader_form": true,
@@ -156,7 +156,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "5002"
+                                "name": "彩虹独角兽"
                             }
                         },
                         "is_leader_form": true,
@@ -181,7 +181,7 @@
     "world_profile": {
         "type_desc": null,
         "description_habitat": null,
-        "introduction": null,
+        "introduction": "在黑暗中能够照亮周围，像神明一般圣洁而华丽。头顶的角除了攻击，还能施放出让人震撼的强大魔法冲击。",
         "refresh_locations": [],
         "movement_type": null,
         "classis_id": 6,

@@ -22,7 +22,7 @@
     "preferred_attack_style": "Physical",
     "localized": {
         "zh": {
-            "name": "8023"
+            "name": "特塞克"
         }
     },
     "implemented": false,
@@ -37,7 +37,7 @@
         "id": 8023,
         "name": "liuxiangmengmaxiang",
         "localized": {
-            "zh": "8023"
+            "zh": "特塞克"
         }
     },
     "trait": null,
@@ -55,7 +55,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3248"
+                                "name": "绿洲象"
                             }
                         },
                         "is_leader_form": false,
@@ -75,7 +75,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "8023"
+                                "name": "特塞克"
                             }
                         },
                         "is_leader_form": false,
@@ -103,7 +103,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3249"
+                                "name": "流星猛犸"
                             }
                         },
                         "is_leader_form": false,
@@ -131,8 +131,10 @@
     "world_profile": {
         "type_desc": null,
         "description_habitat": null,
-        "introduction": null,
-        "refresh_locations": [],
+        "introduction": "八到十只猛犸群居生活，严寒时会依偎取暖，依靠相互堆叠的厚重被毛来减少热量流失。出色的情感认知能力与分工明确的社会体系构筑了团结的猛犸象群，即便作为温和的食草动物，在成员受到侵害时也会亮出锐利的象牙。",
+        "refresh_locations": [
+            "由于昼夜或者天气的原因，这只精灵还没有出现哦！"
+        ],
         "movement_type": "步行",
         "classis_id": 6,
         "classis_name": null,

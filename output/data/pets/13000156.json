@@ -28,7 +28,7 @@
     "preferred_attack_style": "Physical",
     "localized": {
         "zh": {
-            "name": "13000156"
+            "name": "首领-千棘盔"
         }
     },
     "implemented": false,
@@ -43,18 +43,18 @@
         "id": 13000156,
         "name": "qianjikui_shouling",
         "localized": {
-            "zh": "13000156"
+            "zh": "首领-千棘盔"
         }
     },
     "trait": {
         "id": 7800240,
-        "name": "特性 7800240",
-        "description": "",
+        "name": "首领免疫",
+        "description": "免疫冰冻、吹飞，和中毒灼烧的伤害（给对手一个回合结束回满能量）",
         "icon_id": "702038",
         "localized": {
             "zh": {
-                "name": "特性 7800240",
-                "description": ""
+                "name": "首领免疫",
+                "description": "免疫冰冻、吹飞，和中毒灼烧的伤害（给对手一个回合结束回满能量）"
             }
         }
     },
@@ -72,7 +72,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "13000156"
+                                "name": "首领-千棘盔"
                             }
                         },
                         "is_leader_form": true,
@@ -105,7 +105,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "13000156"
+                                "name": "首领-千棘盔"
                             }
                         },
                         "is_leader_form": true,
@@ -136,7 +136,7 @@
     "world_profile": {
         "type_desc": null,
         "description_habitat": null,
-        "introduction": null,
+        "introduction": "棘刺中空，呈放射状散开，虽然坚硬但也可能断裂或被磨损。棘刺似乎用来帮助来完成呼吸机能，若作出轻微的接触，棘刺会随即聚合指向接触点，某些个体棘刺尖可能有毒囊。",
         "refresh_locations": [],
         "movement_type": null,
         "classis_id": 4,

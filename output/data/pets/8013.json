@@ -28,7 +28,7 @@
     "preferred_attack_style": "Both",
     "localized": {
         "zh": {
-            "name": "8013"
+            "name": "冥古龙"
         }
     },
     "implemented": false,
@@ -43,18 +43,18 @@
         "id": 8013,
         "name": "songzai",
         "localized": {
-            "zh": "8013"
+            "zh": "冥古龙"
         }
     },
     "trait": {
         "id": 7000353,
-        "name": "特性 7000353",
-        "description": "",
+        "name": "怨恨",
+        "description": "入场和回合结束扣除敌人100绩点",
         "icon_id": "img_wenhao",
         "localized": {
             "zh": {
-                "name": "特性 7000353",
-                "description": ""
+                "name": "怨恨",
+                "description": "入场和回合结束扣除敌人100绩点"
             }
         }
     },
@@ -72,7 +72,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3625"
+                                "name": "小冥龙"
                             }
                         },
                         "is_leader_form": false,
@@ -98,7 +98,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "8013"
+                                "name": "冥古龙"
                             }
                         },
                         "is_leader_form": false,
@@ -130,7 +130,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3626"
+                                "name": "冥古龙"
                             }
                         },
                         "is_leader_form": false,
@@ -163,7 +163,9 @@
         "type_desc": null,
         "description_habitat": null,
         "introduction": null,
-        "refresh_locations": [],
+        "refresh_locations": [
+            "由于昼夜或者天气的原因，这只精灵还没有出现哦！"
+        ],
         "movement_type": "步行",
         "classis_id": 6,
         "classis_name": null,

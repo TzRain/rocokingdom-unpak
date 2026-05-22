@@ -22,7 +22,7 @@
     "preferred_attack_style": "Both",
     "localized": {
         "zh": {
-            "name": "3229"
+            "name": "友爱星飞"
         }
     },
     "implemented": false,
@@ -37,18 +37,18 @@
         "id": 3229,
         "name": "feigeer",
         "localized": {
-            "zh": "3229"
+            "zh": "友爱星飞"
         }
     },
     "trait": {
         "id": 200184,
-        "name": "特性 200184",
-        "description": "",
+        "name": "磁力",
+        "description": "0",
         "icon_id": "200074",
         "localized": {
             "zh": {
-                "name": "特性 200184",
-                "description": ""
+                "name": "磁力",
+                "description": "0"
             }
         }
     },
@@ -66,7 +66,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3228"
+                                "name": "友爱天天"
                             }
                         },
                         "is_leader_form": false,
@@ -92,7 +92,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3229"
+                                "name": "友爱星飞"
                             }
                         },
                         "is_leader_form": false,
@@ -120,8 +120,10 @@
     "world_profile": {
         "type_desc": null,
         "description_habitat": null,
-        "introduction": null,
-        "refresh_locations": [],
+        "introduction": "似乎是出于自愿跟随贵族，契约世代守护，以执事自称。世世代代的友爱星飞们在精灵语和洛克语对比研究方面做出了极大的贡献。精灵语翻译法则也冠上了他们种族的名字。",
+        "refresh_locations": [
+            "由于昼夜或者天气的原因，这只精灵还没有出现哦！"
+        ],
         "movement_type": "步行",
         "classis_id": 6,
         "classis_name": null,

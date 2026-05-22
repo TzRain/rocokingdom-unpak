@@ -28,7 +28,7 @@
     "preferred_attack_style": "Physical",
     "localized": {
         "zh": {
-            "name": "3675"
+            "name": "守夜烛"
         }
     },
     "implemented": false,
@@ -43,7 +43,7 @@
         "id": 3675,
         "name": "songzai",
         "localized": {
-            "zh": "3675"
+            "zh": "守夜烛"
         }
     },
     "trait": null,
@@ -61,7 +61,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3675"
+                                "name": "守夜烛"
                             }
                         },
                         "is_leader_form": false,
@@ -93,7 +93,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3676"
+                                "name": "流明坎德拉"
                             }
                         },
                         "is_leader_form": false,
@@ -128,7 +128,9 @@
         "type_desc": null,
         "description_habitat": null,
         "introduction": null,
-        "refresh_locations": [],
+        "refresh_locations": [
+            "由于昼夜或者天气的原因，这只精灵还没有出现哦！"
+        ],
         "movement_type": "浮游",
         "classis_id": 6,
         "classis_name": null,

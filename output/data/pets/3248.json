@@ -22,7 +22,7 @@
     "preferred_attack_style": "Physical",
     "localized": {
         "zh": {
-            "name": "3248"
+            "name": "绿洲象"
         }
     },
     "implemented": false,
@@ -37,18 +37,18 @@
         "id": 3248,
         "name": "lvzhoumengmaxiang",
         "localized": {
-            "zh": "3248"
+            "zh": "绿洲象"
         }
     },
     "trait": {
         "id": 200086,
-        "name": "特性 200086",
-        "description": "",
+        "name": "蛰伏",
+        "description": "攻击生命小于自身的精灵时，威力提升50%。",
         "icon_id": "200086",
         "localized": {
             "zh": {
-                "name": "特性 200086",
-                "description": ""
+                "name": "蛰伏",
+                "description": "攻击生命小于自身的精灵时，威力提升50%。"
             }
         }
     },
@@ -66,7 +66,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3248"
+                                "name": "绿洲象"
                             }
                         },
                         "is_leader_form": false,
@@ -92,7 +92,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3249"
+                                "name": "流星猛犸"
                             }
                         },
                         "is_leader_form": false,
@@ -120,8 +120,10 @@
     "world_profile": {
         "type_desc": null,
         "description_habitat": null,
-        "introduction": null,
-        "refresh_locations": [],
+        "introduction": "生活在高海拔地区，演化出了茂密而厚实的皮毛，不仅能抵御雪山的寒冷，还能阻挡普通的攻击。叶片状绒毛的结构与远古时期的植物相似，能够吸收阳光来为自己供给能量，借此熬过雪山上漫长的冬季。",
+        "refresh_locations": [
+            "由于昼夜或者天气的原因，这只精灵还没有出现哦！"
+        ],
         "movement_type": "步行",
         "classis_id": 6,
         "classis_name": null,

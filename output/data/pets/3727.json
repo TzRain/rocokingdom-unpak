@@ -28,7 +28,7 @@
     "preferred_attack_style": "Magic",
     "localized": {
         "zh": {
-            "name": "3727"
+            "name": "炽焰狮"
         }
     },
     "implemented": false,
@@ -43,18 +43,18 @@
         "id": 3727,
         "name": "chiyanshi",
         "localized": {
-            "zh": "3727"
+            "zh": "炽焰狮"
         }
     },
     "trait": {
         "id": 200247,
-        "name": "特性 200247",
-        "description": "",
+        "name": "圣火骑士",
+        "description": "应对成功后，下次攻击威力翻倍。",
         "icon_id": "200247",
         "localized": {
             "zh": {
-                "name": "特性 200247",
-                "description": ""
+                "name": "圣火骑士",
+                "description": "应对成功后，下次攻击威力翻倍。"
             }
         }
     },
@@ -72,7 +72,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3589"
+                                "name": "玳龟"
                             }
                         },
                         "is_leader_form": false,
@@ -94,7 +94,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3726"
+                                "name": "小勇狮"
                             }
                         },
                         "is_leader_form": false,
@@ -126,7 +126,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3590"
+                                "name": "玳塔"
                             }
                         },
                         "is_leader_form": false,
@@ -148,7 +148,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3727"
+                                "name": "炽焰狮"
                             }
                         },
                         "is_leader_form": false,
@@ -182,7 +182,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3728"
+                                "name": "炽心勇狮"
                             }
                         },
                         "is_leader_form": false,
@@ -216,8 +216,10 @@
     "world_profile": {
         "type_desc": null,
         "description_habitat": null,
-        "introduction": null,
-        "refresh_locations": [],
+        "introduction": "人们的正义之心化为实体，形成熊熊烈焰，最终照亮城市中每一个阴暗的角落。 邪恶见到这光芒会四处遁逃，而市民们得以乘光前行。 ——《魔法学院都市安全法》",
+        "refresh_locations": [
+            "由于昼夜或者天气的原因，这只精灵还没有出现哦！"
+        ],
         "movement_type": "步行",
         "classis_id": 6,
         "classis_name": null,

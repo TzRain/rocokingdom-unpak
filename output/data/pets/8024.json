@@ -28,7 +28,7 @@
     "preferred_attack_style": "Both",
     "localized": {
         "zh": {
-            "name": "8024"
+            "name": "古路尼"
         }
     },
     "implemented": false,
@@ -43,7 +43,7 @@
         "id": 8024,
         "name": "8024",
         "localized": {
-            "zh": "8024"
+            "zh": "古路尼"
         }
     },
     "trait": null,
@@ -61,7 +61,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "8024"
+                                "name": "古路尼"
                             }
                         },
                         "is_leader_form": false,
@@ -94,7 +94,9 @@
         "type_desc": null,
         "description_habitat": null,
         "introduction": null,
-        "refresh_locations": [],
+        "refresh_locations": [
+            "由于昼夜或者天气的原因，这只精灵还没有出现哦！"
+        ],
         "movement_type": "步行",
         "classis_id": 6,
         "classis_name": null,

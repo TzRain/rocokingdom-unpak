@@ -28,7 +28,7 @@
     "preferred_attack_style": "Both",
     "localized": {
         "zh": {
-            "name": "3291"
+            "name": "卡卡虫"
         }
     },
     "implemented": false,
@@ -43,18 +43,18 @@
         "id": 3291,
         "name": "kakachong_huoshan",
         "localized": {
-            "zh": "3291"
+            "zh": "卡卡虫"
         }
     },
     "trait": {
         "id": 200081,
-        "name": "特性 200081",
-        "description": "",
+        "name": "诈死",
+        "description": "自己力竭时，少损失1点魔力。",
         "icon_id": "200081",
         "localized": {
             "zh": {
-                "name": "特性 200081",
-                "description": ""
+                "name": "诈死",
+                "description": "自己力竭时，少损失1点魔力。"
             }
         }
     },
@@ -72,7 +72,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3058"
+                                "name": "一窝蜂"
                             }
                         },
                         "is_leader_form": false,
@@ -98,7 +98,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3288"
+                                "name": "丢丢"
                             }
                         },
                         "is_leader_form": false,
@@ -130,7 +130,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3059"
+                                "name": "黄蜂后"
                             }
                         },
                         "is_leader_form": false,
@@ -162,7 +162,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3291"
+                                "name": "卡卡虫"
                             }
                         },
                         "is_leader_form": false,
@@ -199,7 +199,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3157"
+                                "name": "花魁蜂后"
                             }
                         },
                         "is_leader_form": false,
@@ -228,7 +228,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3294"
+                                "name": "卡瓦重"
                             }
                         },
                         "is_leader_form": false,
@@ -265,8 +265,10 @@
     "world_profile": {
         "type_desc": null,
         "description_habitat": null,
-        "introduction": null,
-        "refresh_locations": [],
+        "introduction": "不但攻击性强，而且还会穷追不舍。 它尾巴卷着的，是它的乐器。 也许它只是想演奏一曲给你听。 要来听听看吗？这烈火中的节奏声。",
+        "refresh_locations": [
+            "由于昼夜或者天气的原因，这只精灵还没有出现哦！"
+        ],
         "movement_type": "步行",
         "classis_id": 5,
         "classis_name": null,

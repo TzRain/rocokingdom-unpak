@@ -28,7 +28,7 @@
     "preferred_attack_style": "Physical",
     "localized": {
         "zh": {
-            "name": "3348"
+            "name": "叶眼魔"
         }
     },
     "implemented": false,
@@ -43,18 +43,18 @@
         "id": 3348,
         "name": "yeyanmo",
         "localized": {
-            "zh": "3348"
+            "zh": "叶眼魔"
         }
     },
     "trait": {
         "id": 200144,
-        "name": "特性 200144",
-        "description": "",
+        "name": "障眼交易",
+        "description": "回合结束时，交换双方本回合使用的技能的能耗。",
         "icon_id": "200074",
         "localized": {
             "zh": {
-                "name": "特性 200144",
-                "description": ""
+                "name": "障眼交易",
+                "description": "回合结束时，交换双方本回合使用的技能的能耗。"
             }
         }
     },
@@ -72,7 +72,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3348"
+                                "name": "叶眼魔"
                             }
                         },
                         "is_leader_form": false,
@@ -106,8 +106,10 @@
     "world_profile": {
         "type_desc": null,
         "description_habitat": null,
-        "introduction": null,
-        "refresh_locations": [],
+        "introduction": "喜欢用恶系能量恶作剧，常常在探险的小洛克面前立一道空气墙，看洛克们撞得晕头转向。头顶的叶片中蕴含着强大的恶系能量，释放能量时，叶片会缓缓燃尽，需要很长一段时间才能恢复为完整的叶片。",
+        "refresh_locations": [
+            "由于昼夜或者天气的原因，这只精灵还没有出现哦！"
+        ],
         "movement_type": "浮游",
         "classis_id": 6,
         "classis_name": null,

@@ -22,7 +22,7 @@
     "preferred_attack_style": "Both",
     "localized": {
         "zh": {
-            "name": "3314"
+            "name": "蝶叶巨蜥"
         }
     },
     "implemented": false,
@@ -37,7 +37,7 @@
         "id": 3314,
         "name": "dieyejuxi",
         "localized": {
-            "zh": "3314"
+            "zh": "蝶叶巨蜥"
         }
     },
     "trait": null,
@@ -55,7 +55,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3314"
+                                "name": "蝶叶巨蜥"
                             }
                         },
                         "is_leader_form": false,
@@ -83,8 +83,10 @@
     "world_profile": {
         "type_desc": null,
         "description_habitat": null,
-        "introduction": null,
-        "refresh_locations": [],
+        "introduction": "蝶叶巨蜥能鼓起脖颈周围皮肤褶皱使体型变大，像两片巨大的棕榈叶，它们能调整叶片的角度，可以改变风的流向，带来速度加成。遇到危险时，鼓起的巨大叶形褶皱还能威慑敌方。",
+        "refresh_locations": [
+            "由于昼夜或者天气的原因，这只精灵还没有出现哦！"
+        ],
         "movement_type": "步行",
         "classis_id": 6,
         "classis_name": null,

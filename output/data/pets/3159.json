@@ -22,7 +22,7 @@
     "preferred_attack_style": "Both",
     "localized": {
         "zh": {
-            "name": "3159"
+            "name": "紫蔓宝宝"
         }
     },
     "implemented": false,
@@ -37,7 +37,7 @@
         "id": 3159,
         "name": "zimanbaobao",
         "localized": {
-            "zh": "3159"
+            "zh": "紫蔓宝宝"
         }
     },
     "trait": null,
@@ -55,7 +55,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3159"
+                                "name": "紫蔓宝宝"
                             }
                         },
                         "is_leader_form": false,
@@ -81,7 +81,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3160"
+                                "name": "紫蔓祭祀"
                             }
                         },
                         "is_leader_form": false,
@@ -109,7 +109,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3097"
+                                "name": "灵蔓草王"
                             }
                         },
                         "is_leader_form": false,
@@ -137,8 +137,10 @@
     "world_profile": {
         "type_desc": null,
         "description_habitat": null,
-        "introduction": null,
-        "refresh_locations": [],
+        "introduction": "极其罕见的精灵，最早洛克们似乎把这种精灵误认为是幼鹿。身体周围的藤曼每天黄昏都会脱落枯萎，再长出新芽。",
+        "refresh_locations": [
+            "由于昼夜或者天气的原因，这只精灵还没有出现哦！"
+        ],
         "movement_type": "步行",
         "classis_id": 6,
         "classis_name": null,

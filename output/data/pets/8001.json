@@ -22,7 +22,7 @@
     "preferred_attack_style": "Both",
     "localized": {
         "zh": {
-            "name": "8001"
+            "name": "魔力喵"
         }
     },
     "implemented": false,
@@ -37,18 +37,18 @@
         "id": 8001,
         "name": "8001",
         "localized": {
-            "zh": "8001"
+            "zh": "魔力喵"
         }
     },
     "trait": {
         "id": 7800240,
-        "name": "特性 7800240",
-        "description": "",
+        "name": "首领免疫",
+        "description": "免疫冰冻、吹飞，和中毒灼烧的伤害（给对手一个回合结束回满能量）",
         "icon_id": "702038",
         "localized": {
             "zh": {
-                "name": "特性 7800240",
-                "description": ""
+                "name": "首领免疫",
+                "description": "免疫冰冻、吹飞，和中毒灼烧的伤害（给对手一个回合结束回满能量）"
             }
         }
     },
@@ -66,7 +66,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "8001"
+                                "name": "魔力喵"
                             }
                         },
                         "is_leader_form": false,
@@ -92,7 +92,7 @@
     "world_profile": {
         "type_desc": null,
         "description_habitat": null,
-        "introduction": null,
+        "introduction": "随着尾巴数量一起增长的是体重，胖胖的身体看起来十分有安全感。",
         "refresh_locations": [],
         "movement_type": null,
         "classis_id": 4,

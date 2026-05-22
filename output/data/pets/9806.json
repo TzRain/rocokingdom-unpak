@@ -22,7 +22,7 @@
     "preferred_attack_style": "Both",
     "localized": {
         "zh": {
-            "name": "9806"
+            "name": "鸭吉吉_地"
         }
     },
     "implemented": false,
@@ -37,25 +37,25 @@
         "id": 9806,
         "name": "9806",
         "localized": {
-            "zh": "9806"
+            "zh": "鸭吉吉_地"
         }
     },
     "trait": {
         "id": 200000,
-        "name": "特性 200000",
-        "description": "",
+        "name": "GM被动",
+        "description": "回合末恢复10能量。",
         "icon_id": "200074",
         "localized": {
             "zh": {
-                "name": "特性 200000",
-                "description": ""
+                "name": "GM被动",
+                "description": "回合末恢复10能量。"
             }
         }
     },
     "move_pool": [
         {
             "id": 7080320,
-            "name": "技能 7080320",
+            "name": "鸣沙陷阱",
             "icon_id": "107028",
             "move_type": {
                 "id": 6,
@@ -66,18 +66,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7080320",
-                    "description": ""
+                    "name": "鸣沙陷阱",
+                    "description": "造成物伤，物防比敌方越高，本次技能威力越高。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 4,
             "power": 60,
-            "description": ""
+            "description": "造成物伤，物防比敌方越高，本次技能威力越高。"
         },
         {
             "id": 7080330,
-            "name": "技能 7080330",
+            "name": "地陷",
             "icon_id": "107029",
             "move_type": {
                 "id": 6,
@@ -88,18 +88,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7080330",
-                    "description": ""
+                    "name": "地陷",
+                    "description": "造成物伤，自己获得物防+70%，应对状态：本次技能威力翻倍，且物防额外+70%。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 5,
             "power": 80,
-            "description": ""
+            "description": "造成物伤，自己获得物防+70%，应对状态：本次技能威力翻倍，且物防额外+70%。"
         },
         {
             "id": 7080340,
-            "name": "技能 7080340",
+            "name": "岩脉崩毁",
             "icon_id": "107031",
             "move_type": {
                 "id": 6,
@@ -110,18 +110,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7080340",
-                    "description": ""
+                    "name": "岩脉崩毁",
+                    "description": "造成物伤，本技能能耗固定为4。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 4,
             "power": 120,
-            "description": ""
+            "description": "造成物伤，本技能能耗固定为4。"
         },
         {
             "id": 7080350,
-            "name": "技能 7080350",
+            "name": "震击",
             "icon_id": "107032",
             "move_type": {
                 "id": 6,
@@ -132,18 +132,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7080350",
-                    "description": ""
+                    "name": "震击",
+                    "description": "造成物伤，敌方获得连击数-3。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 3,
             "power": 80,
-            "description": ""
+            "description": "造成物伤，敌方获得连击数-3。"
         },
         {
             "id": 7080360,
-            "name": "技能 7080360",
+            "name": "石肤术",
             "icon_id": "107033",
             "move_type": {
                 "id": 6,
@@ -154,18 +154,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7080360",
-                    "description": ""
+                    "name": "石肤术",
+                    "description": "自己获得物防+160%和魔防-60%。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 3,
             "power": null,
-            "description": ""
+            "description": "自己获得物防+160%和魔防-60%。"
         },
         {
             "id": 7080370,
-            "name": "技能 7080370",
+            "name": "钧势",
             "icon_id": "107034",
             "move_type": {
                 "id": 6,
@@ -176,18 +176,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7080370",
-                    "description": ""
+                    "name": "钧势",
+                    "description": "自己获得物防+140%和速度-30。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 3,
             "power": null,
-            "description": ""
+            "description": "自己获得物防+140%和速度-30。"
         },
         {
             "id": 7080380,
-            "name": "技能 7080380",
+            "name": "蓄势待发",
             "icon_id": "307035",
             "move_type": {
                 "id": 6,
@@ -198,18 +198,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7080380",
-                    "description": ""
+                    "name": "蓄势待发",
+                    "description": "自己获得1层蓄势印记。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 4,
             "power": null,
-            "description": ""
+            "description": "自己获得1层蓄势印记。"
         },
         {
             "id": 7080400,
-            "name": "技能 7080400",
+            "name": "淤泥表皮",
             "icon_id": "107036",
             "move_type": {
                 "id": 6,
@@ -220,18 +220,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7080400",
-                    "description": ""
+                    "name": "淤泥表皮",
+                    "description": "减伤80%，应对攻击：敌方获得连击数-3。"
                 }
             },
             "move_category": "Defense",
             "energy_cost": 2,
             "power": null,
-            "description": ""
+            "description": "减伤80%，应对攻击：敌方获得连击数-3。"
         },
         {
             "id": 7080410,
-            "name": "技能 7080410",
+            "name": "不动如山",
             "icon_id": "107039",
             "move_type": {
                 "id": 6,
@@ -242,14 +242,14 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7080410",
-                    "description": ""
+                    "name": "不动如山",
+                    "description": "减伤90%，应对攻击：自己获得物攻+50%。"
                 }
             },
             "move_category": "Defense",
             "energy_cost": 2,
             "power": null,
-            "description": ""
+            "description": "减伤90%，应对攻击：自己获得物攻+50%。"
         }
     ],
     "move_stones": [],
@@ -265,7 +265,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "9806"
+                                "name": "鸭吉吉_地"
                             }
                         },
                         "is_leader_form": false,
@@ -291,7 +291,7 @@
     "world_profile": {
         "type_desc": null,
         "description_habitat": null,
-        "introduction": null,
+        "introduction": "这是一只测试宠物，如果你在不该看到的地方看到了它，请联系策划。",
         "refresh_locations": [],
         "movement_type": null,
         "classis_id": 3,

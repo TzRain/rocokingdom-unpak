@@ -1,7 +1,7 @@
 {
     "id": 9999,
     "name": "9999",
-    "form": "default",
+    "form": "测试用",
     "main_type": {
         "id": 1,
         "name": "Normal",
@@ -22,7 +22,7 @@
     "preferred_attack_style": "Both",
     "localized": {
         "zh": {
-            "name": "9999"
+            "name": "无敌鸭吉吉(测试用)"
         }
     },
     "implemented": false,
@@ -37,25 +37,25 @@
         "id": 9999,
         "name": "9999",
         "localized": {
-            "zh": "9999"
+            "zh": "无敌鸭吉吉(测试用)"
         }
     },
     "trait": {
         "id": 200088,
-        "name": "特性 200088",
-        "description": "",
+        "name": "挺起胸脯",
+        "description": "携带的能耗为1的技能，威力+50%。",
         "icon_id": "200088",
         "localized": {
             "zh": {
-                "name": "特性 200088",
-                "description": ""
+                "name": "挺起胸脯",
+                "description": "携带的能耗为1的技能，威力+50%。"
             }
         }
     },
     "move_pool": [
         {
             "id": 7020370,
-            "name": "技能 7020370",
+            "name": "猛烈撞击",
             "icon_id": "700001",
             "move_type": {
                 "id": 1,
@@ -66,14 +66,14 @@
             },
             "localized": {
                 "zh": {
-                    "name": "技能 7020370",
-                    "description": ""
+                    "name": "猛烈撞击",
+                    "description": "对敌方精灵造成物理伤害。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 1,
             "power": 65,
-            "description": ""
+            "description": "对敌方精灵造成物理伤害。"
         }
     ],
     "move_stones": [],
@@ -86,10 +86,10 @@
                     {
                         "id": 9999,
                         "name": "9999",
-                        "form": "default",
+                        "form": "测试用",
                         "localized": {
                             "zh": {
-                                "name": "9999"
+                                "name": "无敌鸭吉吉(测试用)"
                             }
                         },
                         "is_leader_form": false,
@@ -115,7 +115,7 @@
     "world_profile": {
         "type_desc": null,
         "description_habitat": null,
-        "introduction": null,
+        "introduction": "这是一只测试宠物，如果你在不该看到的地方看到了它，请联系策划。",
         "refresh_locations": [],
         "movement_type": null,
         "classis_id": 3,

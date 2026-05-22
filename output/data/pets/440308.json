@@ -22,7 +22,7 @@
     "preferred_attack_style": "Physical",
     "localized": {
         "zh": {
-            "name": "440308"
+            "name": "伊里斯"
         }
     },
     "implemented": false,
@@ -37,7 +37,7 @@
         "id": 440308,
         "name": "440308",
         "localized": {
-            "zh": "440308"
+            "zh": "伊里斯"
         }
     },
     "trait": null,
@@ -55,7 +55,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "440308"
+                                "name": "伊里斯"
                             }
                         },
                         "is_leader_form": true,
@@ -82,7 +82,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "440308"
+                                "name": "伊里斯"
                             }
                         },
                         "is_leader_form": true,
@@ -107,7 +107,7 @@
     "world_profile": {
         "type_desc": null,
         "description_habitat": null,
-        "introduction": null,
+        "introduction": "#N/A",
         "refresh_locations": [],
         "movement_type": null,
         "classis_id": 7,

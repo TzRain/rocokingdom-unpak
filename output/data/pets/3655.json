@@ -28,7 +28,7 @@
     "preferred_attack_style": "Physical",
     "localized": {
         "zh": {
-            "name": "3655"
+            "name": "超级鳄椰"
         }
     },
     "implemented": false,
@@ -43,7 +43,7 @@
         "id": 3655,
         "name": "songzai",
         "localized": {
-            "zh": "3655"
+            "zh": "超级鳄椰"
         }
     },
     "trait": null,
@@ -61,7 +61,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3654"
+                                "name": "好鳄椰"
                             }
                         },
                         "is_leader_form": false,
@@ -93,7 +93,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3655"
+                                "name": "超级鳄椰"
                             }
                         },
                         "is_leader_form": false,
@@ -126,7 +126,9 @@
         "type_desc": null,
         "description_habitat": null,
         "introduction": null,
-        "refresh_locations": [],
+        "refresh_locations": [
+            "由于昼夜或者天气的原因，这只精灵还没有出现哦！"
+        ],
         "movement_type": "步行",
         "classis_id": 6,
         "classis_name": null,

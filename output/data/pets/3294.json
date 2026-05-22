@@ -28,7 +28,7 @@
     "preferred_attack_style": "Both",
     "localized": {
         "zh": {
-            "name": "3294"
+            "name": "卡瓦重"
         }
     },
     "implemented": false,
@@ -43,18 +43,18 @@
         "id": 3294,
         "name": "kawachong_huoshan",
         "localized": {
-            "zh": "3294"
+            "zh": "卡瓦重"
         }
     },
     "trait": {
         "id": 200081,
-        "name": "特性 200081",
-        "description": "",
+        "name": "诈死",
+        "description": "自己力竭时，少损失1点魔力。",
         "icon_id": "200081",
         "localized": {
             "zh": {
-                "name": "特性 200081",
-                "description": ""
+                "name": "诈死",
+                "description": "自己力竭时，少损失1点魔力。"
             }
         }
     },
@@ -72,7 +72,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3058"
+                                "name": "一窝蜂"
                             }
                         },
                         "is_leader_form": false,
@@ -98,7 +98,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3288"
+                                "name": "丢丢"
                             }
                         },
                         "is_leader_form": false,
@@ -130,7 +130,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3059"
+                                "name": "黄蜂后"
                             }
                         },
                         "is_leader_form": false,
@@ -162,7 +162,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3291"
+                                "name": "卡卡虫"
                             }
                         },
                         "is_leader_form": false,
@@ -199,7 +199,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3157"
+                                "name": "花魁蜂后"
                             }
                         },
                         "is_leader_form": false,
@@ -228,7 +228,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3294"
+                                "name": "卡瓦重"
                             }
                         },
                         "is_leader_form": false,
@@ -265,8 +265,10 @@
     "world_profile": {
         "type_desc": null,
         "description_habitat": null,
-        "introduction": null,
-        "refresh_locations": [],
+        "introduction": "可恶，完全被它的外表欺骗了。 千万要小心它的熔岩，不要加入他的演出。不然下场只能是这样。 ——焦炭般的的洛克。",
+        "refresh_locations": [
+            "由于昼夜或者天气的原因，这只精灵还没有出现哦！"
+        ],
         "movement_type": "步行",
         "classis_id": 5,
         "classis_name": null,

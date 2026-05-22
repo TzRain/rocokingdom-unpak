@@ -22,7 +22,7 @@
     "preferred_attack_style": "Both",
     "localized": {
         "zh": {
-            "name": "3231"
+            "name": "加益"
         }
     },
     "implemented": false,
@@ -37,7 +37,7 @@
         "id": 3231,
         "name": "jiayi",
         "localized": {
-            "zh": "3231"
+            "zh": "加益"
         }
     },
     "trait": null,
@@ -55,7 +55,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3230"
+                                "name": "加灵"
                             }
                         },
                         "is_leader_form": false,
@@ -81,7 +81,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3231"
+                                "name": "加益"
                             }
                         },
                         "is_leader_form": false,
@@ -109,7 +109,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3232"
+                                "name": "加尔"
                             }
                         },
                         "is_leader_form": false,
@@ -131,7 +131,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3233"
+                                "name": "加尔"
                             }
                         },
                         "is_leader_form": false,
@@ -160,7 +160,9 @@
         "type_desc": null,
         "description_habitat": null,
         "introduction": null,
-        "refresh_locations": [],
+        "refresh_locations": [
+            "由于昼夜或者天气的原因，这只精灵还没有出现哦！"
+        ],
         "movement_type": "步行",
         "classis_id": 6,
         "classis_name": null,

@@ -22,7 +22,7 @@
     "preferred_attack_style": "Physical",
     "localized": {
         "zh": {
-            "name": "3670"
+            "name": "蛐曲儿"
         }
     },
     "implemented": false,
@@ -37,7 +37,7 @@
         "id": 3670,
         "name": "songzai",
         "localized": {
-            "zh": "3670"
+            "zh": "蛐曲儿"
         }
     },
     "trait": null,
@@ -55,7 +55,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3670"
+                                "name": "蛐曲儿"
                             }
                         },
                         "is_leader_form": false,
@@ -81,7 +81,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3671"
+                                "name": "长翎将军"
                             }
                         },
                         "is_leader_form": false,
@@ -107,7 +107,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3672"
+                                "name": "曲鸣大将"
                             }
                         },
                         "is_leader_form": false,
@@ -140,7 +140,9 @@
         "type_desc": null,
         "description_habitat": null,
         "introduction": null,
-        "refresh_locations": [],
+        "refresh_locations": [
+            "由于昼夜或者天气的原因，这只精灵还没有出现哦！"
+        ],
         "movement_type": "步行",
         "classis_id": 6,
         "classis_name": null,

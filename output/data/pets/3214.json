@@ -28,7 +28,7 @@
     "preferred_attack_style": "Both",
     "localized": {
         "zh": {
-            "name": "3214"
+            "name": "黑炎"
         }
     },
     "implemented": false,
@@ -43,18 +43,18 @@
         "id": 3214,
         "name": "heiyan",
         "localized": {
-            "zh": "3214"
+            "zh": "黑炎"
         }
     },
     "trait": {
         "id": 200176,
-        "name": "特性 200176",
-        "description": "",
+        "name": "傲慢",
+        "description": "蓄力技能获得50%吸血效果。",
         "icon_id": "200074",
         "localized": {
             "zh": {
-                "name": "特性 200176",
-                "description": ""
+                "name": "傲慢",
+                "description": "蓄力技能获得50%吸血效果。"
             }
         }
     },
@@ -72,7 +72,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3213"
+                                "name": "黑炎宝宝"
                             }
                         },
                         "is_leader_form": false,
@@ -104,7 +104,7 @@
                         "form": "default",
                         "localized": {
                             "zh": {
-                                "name": "3214"
+                                "name": "黑炎"
                             }
                         },
                         "is_leader_form": false,
@@ -138,8 +138,10 @@
     "world_profile": {
         "type_desc": null,
         "description_habitat": null,
-        "introduction": null,
-        "refresh_locations": [],
+        "introduction": "喜怒无常，几乎不进入睡眠，浅眠的时候如果监测到周围的危险会变得非常暴躁。检测后发现其处于灵魂残缺的状态，身体中流转的大量高阶魔法，猜测这些高阶魔法是用来填充缺失的灵魂。 “纯正的黑暗一样可以带来公正的审判”。",
+        "refresh_locations": [
+            "由于昼夜或者天气的原因，这只精灵还没有出现哦！"
+        ],
         "movement_type": "浮游",
         "classis_id": 6,
         "classis_name": null,
