@@ -2,7 +2,7 @@
   "RocoDataRows": {
     "1": {
       "id": 1,
-      "select_des": "",
+      "select_des": "请选择想要挑战的分院代表",
       "relay_part_group": [
         {
           "img": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/ActivityCollegeGlory/Textures/Card/img_shengtai.img_shengtai'",
@@ -40,7 +40,7 @@
     },
     "2": {
       "id": 2,
-      "select_des": "",
+      "select_des": "锵锵~！请选择玩闹伙伴",
       "relay_part_group": [
         {
           "img": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/ActivityCollegeGlory/Textures/Card/img_meng_sansan.img_meng_sansan'",
@@ -60,5 +60,6 @@
         }
       ]
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

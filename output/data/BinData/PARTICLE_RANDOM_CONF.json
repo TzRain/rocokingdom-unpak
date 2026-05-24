@@ -53,5 +53,6 @@
       "egg_particle_res": "Texture2D'/Game/ArtRes/BP/Texture/PetGlassyStar/T_PetGlassyStar_006_RandomEgg.T_PetGlassyStar_006_RandomEgg'",
       "StarStickTiling": 1.0
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

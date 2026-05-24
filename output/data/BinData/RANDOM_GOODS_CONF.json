@@ -722,7 +722,6 @@
     "90000": {
       "id": 90000,
       "goods_name": "棱镜球",
-      "enable": true,
       "Type": 1,
       "item_id": 100286,
       "item_num": 1,
@@ -730,7 +729,8 @@
       "price_goods_id": 1,
       "origin_price": 3200000,
       "price": 3200000,
-      "buy_limit_num": 1
+      "buy_limit_num": 1,
+      "special_goods_type": 2
     },
     "90001": {
       "id": 90001,
@@ -743,7 +743,8 @@
       "price_goods_id": 1,
       "origin_price": 3200000,
       "price": 3200000,
-      "buy_limit_num": 1
+      "buy_limit_num": 1,
+      "special_goods_type": 2
     },
     "90002": {
       "id": 90002,
@@ -756,12 +757,12 @@
       "price_goods_id": 1,
       "origin_price": 3200000,
       "price": 3200000,
-      "buy_limit_num": 1
+      "buy_limit_num": 1,
+      "special_goods_type": 2
     },
     "90003": {
       "id": 90003,
       "goods_name": "棱镜球",
-      "enable": true,
       "Type": 1,
       "item_id": 100286,
       "item_num": 1,
@@ -769,12 +770,12 @@
       "price_goods_id": 1,
       "origin_price": 3200000,
       "price": 3200000,
-      "buy_limit_num": 1
+      "buy_limit_num": 1,
+      "special_goods_type": 2
     },
     "90004": {
       "id": 90004,
       "goods_name": "棱镜球",
-      "enable": true,
       "Type": 1,
       "item_id": 100286,
       "item_num": 1,
@@ -782,12 +783,12 @@
       "price_goods_id": 1,
       "origin_price": 3200000,
       "price": 3200000,
-      "buy_limit_num": 1
+      "buy_limit_num": 1,
+      "special_goods_type": 2
     },
     "90005": {
       "id": 90005,
       "goods_name": "棱镜球",
-      "enable": true,
       "Type": 1,
       "item_id": 100286,
       "item_num": 1,
@@ -795,7 +796,8 @@
       "price_goods_id": 1,
       "origin_price": 3200000,
       "price": 3200000,
-      "buy_limit_num": 1
+      "buy_limit_num": 1,
+      "special_goods_type": 2
     },
     "100001": {
       "id": 100001,
@@ -810,7 +812,8 @@
       "origin_price": 160000,
       "price": 160000,
       "buy_limit_num": 3,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100002": {
       "id": 100002,
@@ -825,7 +828,8 @@
       "origin_price": 3200000,
       "price": 3200000,
       "buy_limit_num": 1,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100003": {
       "id": 100003,
@@ -840,7 +844,8 @@
       "origin_price": 36000,
       "price": 36000,
       "buy_limit_num": 5,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100004": {
       "id": 100004,
@@ -855,7 +860,8 @@
       "origin_price": 16000000,
       "price": 1600000,
       "buy_limit_num": 1,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100005": {
       "id": 100005,
@@ -870,7 +876,8 @@
       "origin_price": 16000000,
       "price": 16000000,
       "buy_limit_num": 1,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100006": {
       "id": 100006,
@@ -885,7 +892,8 @@
       "origin_price": 3000,
       "price": 3000,
       "buy_limit_num": 100,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100007": {
       "id": 100007,
@@ -900,7 +908,8 @@
       "origin_price": 3000,
       "price": 3000,
       "buy_limit_num": 100,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100008": {
       "id": 100008,
@@ -915,7 +924,8 @@
       "origin_price": 3000,
       "price": 3000,
       "buy_limit_num": 100,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100009": {
       "id": 100009,
@@ -930,7 +940,8 @@
       "origin_price": 3000,
       "price": 3000,
       "buy_limit_num": 100,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100010": {
       "id": 100010,
@@ -945,7 +956,8 @@
       "origin_price": 3000,
       "price": 3000,
       "buy_limit_num": 100,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100011": {
       "id": 100011,
@@ -960,7 +972,8 @@
       "origin_price": 3000,
       "price": 3000,
       "buy_limit_num": 100,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100012": {
       "id": 100012,
@@ -975,7 +988,8 @@
       "origin_price": 3000,
       "price": 3000,
       "buy_limit_num": 100,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100013": {
       "id": 100013,
@@ -990,7 +1004,8 @@
       "origin_price": 3000,
       "price": 3000,
       "buy_limit_num": 100,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100014": {
       "id": 100014,
@@ -1005,7 +1020,8 @@
       "origin_price": 3000,
       "price": 3000,
       "buy_limit_num": 100,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100015": {
       "id": 100015,
@@ -1020,7 +1036,8 @@
       "origin_price": 3000,
       "price": 3000,
       "buy_limit_num": 100,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100016": {
       "id": 100016,
@@ -1035,7 +1052,8 @@
       "origin_price": 3000,
       "price": 3000,
       "buy_limit_num": 100,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100017": {
       "id": 100017,
@@ -1050,7 +1068,8 @@
       "origin_price": 3000,
       "price": 3000,
       "buy_limit_num": 100,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100018": {
       "id": 100018,
@@ -1065,7 +1084,8 @@
       "origin_price": 3000,
       "price": 3000,
       "buy_limit_num": 200,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100019": {
       "id": 100019,
@@ -1080,7 +1100,8 @@
       "origin_price": 3000,
       "price": 3000,
       "buy_limit_num": 200,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100020": {
       "id": 100020,
@@ -1095,7 +1116,8 @@
       "origin_price": 3000,
       "price": 3000,
       "buy_limit_num": 200,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100021": {
       "id": 100021,
@@ -1110,7 +1132,8 @@
       "origin_price": 3000,
       "price": 3000,
       "buy_limit_num": 200,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100022": {
       "id": 100022,
@@ -1125,7 +1148,8 @@
       "origin_price": 3000,
       "price": 3000,
       "buy_limit_num": 200,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100023": {
       "id": 100023,
@@ -1140,7 +1164,8 @@
       "origin_price": 3000,
       "price": 3000,
       "buy_limit_num": 200,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100024": {
       "id": 100024,
@@ -1155,7 +1180,8 @@
       "origin_price": 3000,
       "price": 3000,
       "buy_limit_num": 200,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100025": {
       "id": 100025,
@@ -1170,7 +1196,8 @@
       "origin_price": 3000,
       "price": 3000,
       "buy_limit_num": 200,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100026": {
       "id": 100026,
@@ -1185,7 +1212,8 @@
       "origin_price": 3000,
       "price": 3000,
       "buy_limit_num": 200,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100027": {
       "id": 100027,
@@ -1200,7 +1228,8 @@
       "origin_price": 3000,
       "price": 3000,
       "buy_limit_num": 200,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100028": {
       "id": 100028,
@@ -1215,7 +1244,8 @@
       "origin_price": 3000,
       "price": 3000,
       "buy_limit_num": 200,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100029": {
       "id": 100029,
@@ -1230,7 +1260,8 @@
       "origin_price": 3000,
       "price": 3000,
       "buy_limit_num": 200,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100030": {
       "id": 100030,
@@ -1245,7 +1276,8 @@
       "origin_price": 3000,
       "price": 3000,
       "buy_limit_num": 200,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100031": {
       "id": 100031,
@@ -1260,7 +1292,8 @@
       "origin_price": 3000,
       "price": 3000,
       "buy_limit_num": 200,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100032": {
       "id": 100032,
@@ -1275,7 +1308,8 @@
       "origin_price": 3000,
       "price": 3000,
       "buy_limit_num": 200,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100033": {
       "id": 100033,
@@ -1290,7 +1324,8 @@
       "origin_price": 3000,
       "price": 3000,
       "buy_limit_num": 100,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100034": {
       "id": 100034,
@@ -1305,7 +1340,8 @@
       "origin_price": 3000,
       "price": 3000,
       "buy_limit_num": 100,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100035": {
       "id": 100035,
@@ -1320,7 +1356,8 @@
       "origin_price": 3000,
       "price": 3000,
       "buy_limit_num": 100,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100036": {
       "id": 100036,
@@ -1335,7 +1372,8 @@
       "origin_price": 3000,
       "price": 3000,
       "buy_limit_num": 100,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100037": {
       "id": 100037,
@@ -1350,7 +1388,8 @@
       "origin_price": 3000,
       "price": 3000,
       "buy_limit_num": 100,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100038": {
       "id": 100038,
@@ -1365,7 +1404,8 @@
       "origin_price": 3000,
       "price": 3000,
       "buy_limit_num": 100,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100039": {
       "id": 100039,
@@ -1380,7 +1420,8 @@
       "origin_price": 3000,
       "price": 3000,
       "buy_limit_num": 100,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100040": {
       "id": 100040,
@@ -1395,7 +1436,8 @@
       "origin_price": 3000,
       "price": 3000,
       "buy_limit_num": 100,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100041": {
       "id": 100041,
@@ -1410,7 +1452,8 @@
       "origin_price": 3000,
       "price": 3000,
       "buy_limit_num": 100,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100042": {
       "id": 100042,
@@ -1425,7 +1468,8 @@
       "origin_price": 3000,
       "price": 3000,
       "buy_limit_num": 100,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100043": {
       "id": 100043,
@@ -1440,7 +1484,8 @@
       "origin_price": 3000,
       "price": 3000,
       "buy_limit_num": 100,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100044": {
       "id": 100044,
@@ -1455,7 +1500,8 @@
       "origin_price": 3000,
       "price": 3000,
       "buy_limit_num": 100,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100045": {
       "id": 100045,
@@ -1470,7 +1516,8 @@
       "origin_price": 3000,
       "price": 3000,
       "buy_limit_num": 200,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100046": {
       "id": 100046,
@@ -1485,7 +1532,8 @@
       "origin_price": 3000,
       "price": 3000,
       "buy_limit_num": 200,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100047": {
       "id": 100047,
@@ -1500,7 +1548,8 @@
       "origin_price": 3000,
       "price": 3000,
       "buy_limit_num": 200,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100048": {
       "id": 100048,
@@ -1515,7 +1564,8 @@
       "origin_price": 3000,
       "price": 3000,
       "buy_limit_num": 200,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100049": {
       "id": 100049,
@@ -1530,7 +1580,8 @@
       "origin_price": 3000,
       "price": 3000,
       "buy_limit_num": 200,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100050": {
       "id": 100050,
@@ -1545,7 +1596,8 @@
       "origin_price": 3000,
       "price": 3000,
       "buy_limit_num": 200,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100051": {
       "id": 100051,
@@ -1560,7 +1612,8 @@
       "origin_price": 3000,
       "price": 3000,
       "buy_limit_num": 200,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100052": {
       "id": 100052,
@@ -1575,7 +1628,8 @@
       "origin_price": 3000,
       "price": 3000,
       "buy_limit_num": 200,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100053": {
       "id": 100053,
@@ -1590,7 +1644,8 @@
       "origin_price": 3000,
       "price": 3000,
       "buy_limit_num": 200,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100054": {
       "id": 100054,
@@ -1605,7 +1660,8 @@
       "origin_price": 3000,
       "price": 3000,
       "buy_limit_num": 200,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100055": {
       "id": 100055,
@@ -1620,7 +1676,8 @@
       "origin_price": 3000,
       "price": 3000,
       "buy_limit_num": 200,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100056": {
       "id": 100056,
@@ -1635,7 +1692,8 @@
       "origin_price": 3000,
       "price": 3000,
       "buy_limit_num": 200,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100057": {
       "id": 100057,
@@ -1650,7 +1708,8 @@
       "origin_price": 3000,
       "price": 3000,
       "buy_limit_num": 200,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100058": {
       "id": 100058,
@@ -1665,7 +1724,8 @@
       "origin_price": 3000,
       "price": 3000,
       "buy_limit_num": 200,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100059": {
       "id": 100059,
@@ -1680,7 +1740,8 @@
       "origin_price": 3000,
       "price": 3000,
       "buy_limit_num": 200,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100060": {
       "id": 100060,
@@ -1695,7 +1756,8 @@
       "origin_price": 3000,
       "price": 3000,
       "buy_limit_num": 200,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100061": {
       "id": 100061,
@@ -1710,7 +1772,8 @@
       "origin_price": 3000,
       "price": 3000,
       "buy_limit_num": 200,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     },
     "100062": {
       "id": 100062,
@@ -1725,7 +1788,9 @@
       "origin_price": 3000,
       "price": 3000,
       "buy_limit_num": 200,
-      "is_special_good": true
+      "is_special_good": true,
+      "special_goods_type": 1
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

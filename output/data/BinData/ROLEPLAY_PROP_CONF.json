@@ -311,5 +311,6 @@
       "special_start_2": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/SceneEffect/G6_Duihuanshu_Tree_Sit01.G6_Duihuanshu_Tree_Sit01'",
       "special_end_2": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/SceneEffect/Place/G6_Place_Chair_CharacterFliker.G6_Place_Chair_CharacterFliker'"
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

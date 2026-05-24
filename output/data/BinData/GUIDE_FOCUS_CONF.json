@@ -1602,7 +1602,7 @@
       "ui_button_name": "btnLevelUp",
       "circle_data": "C1",
       "focus_type": 1,
-      "text_pos": "right",
+      "text_pos": "up",
       "pc_text": "点击增加制作数量",
       "pc_edior_pos": 40,
       "mobile_text": "点击增加制作数量",
@@ -2306,5 +2306,6 @@
       "mobile_edior_pos": 30,
       "editor_name": "精灵游玩界面"
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

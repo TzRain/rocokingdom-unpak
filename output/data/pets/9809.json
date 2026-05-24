@@ -67,7 +67,7 @@
     "move_pool": [
         {
             "id": 7110340,
-            "name": "应对！集中",
+            "name": "超导加速",
             "icon_id": "110019",
             "move_type": {
                 "id": 9,
@@ -78,18 +78,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "应对！集中",
-                    "description": "减伤80%，应对攻击：自己回合结束返场。"
+                    "name": "超导加速",
+                    "description": "造成魔伤，自己获得速度+30。"
                 }
             },
             "move_category": "Magic Attack",
             "energy_cost": 2,
             "power": 70,
-            "description": "减伤80%，应对攻击：自己回合结束返场。"
+            "description": "造成魔伤，自己获得速度+30。"
         },
         {
             "id": 7110350,
-            "name": "电流",
+            "name": "双联脉冲",
             "icon_id": "110020",
             "move_type": {
                 "id": 9,
@@ -100,18 +100,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "电流",
-                    "description": "对敌方精灵造成魔法伤害。"
+                    "name": "双联脉冲",
+                    "description": "造成魔伤，迸发：本技能使用次数+1。"
                 }
             },
             "move_category": "Magic Attack",
             "energy_cost": 4,
             "power": 50,
-            "description": "对敌方精灵造成魔法伤害。"
+            "description": "造成魔伤，迸发：本技能使用次数+1。"
         },
         {
             "id": 7110360,
-            "name": "球状闪电",
+            "name": "过载回路",
             "icon_id": "110021",
             "move_type": {
                 "id": 9,
@@ -122,18 +122,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "球状闪电",
-                    "description": "对敌方精灵造成物理伤害。"
+                    "name": "过载回路",
+                    "description": "回合结束自己返场，下回合所选技能使用次数+1。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 1,
             "power": null,
-            "description": "对敌方精灵造成物理伤害。"
+            "description": "回合结束自己返场，下回合所选技能使用次数+1。"
         },
         {
             "id": 7110370,
-            "name": "磁干扰",
+            "name": "远程访问",
             "icon_id": "110022",
             "move_type": {
                 "id": 9,
@@ -144,18 +144,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "磁干扰",
-                    "description": "对敌方精灵造成魔法伤害。"
+                    "name": "远程访问",
+                    "description": "使敌方精灵返场。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 2,
             "power": null,
-            "description": "对敌方精灵造成魔法伤害。"
+            "description": "使敌方精灵返场。"
         },
         {
             "id": 7110380,
-            "name": "精灵对决中常发生的怪异现象，突然，指南针开始指北。",
+            "name": "感电",
             "icon_id": "110023",
             "move_type": {
                 "id": 9,
@@ -166,18 +166,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "精灵对决中常发生的怪异现象，突然，指南针开始指北。",
-                    "description": "离子火花"
+                    "name": "感电",
+                    "description": "造成魔伤，每离场1次，本技能使用次数永久+1。"
                 }
             },
             "move_category": "Magic Attack",
             "energy_cost": 2,
             "power": 60,
-            "description": "离子火花"
+            "description": "造成魔伤，每离场1次，本技能使用次数永久+1。"
         },
         {
             "id": 7110390,
-            "name": "交叉闪电",
+            "name": "强制重启",
             "icon_id": "110025",
             "move_type": {
                 "id": 9,
@@ -188,18 +188,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "交叉闪电",
-                    "description": "对敌方精灵造成物理伤害。"
+                    "name": "强制重启",
+                    "description": "造成魔伤，应对状态：回合结束时使敌方精灵返场。"
                 }
             },
             "move_category": "Magic Attack",
             "energy_cost": 3,
             "power": 90,
-            "description": "对敌方精灵造成物理伤害。"
+            "description": "造成魔伤，应对状态：回合结束时使敌方精灵返场。"
         },
         {
             "id": 7110400,
-            "name": "双联脉冲",
+            "name": "电容循环",
             "icon_id": "310026",
             "move_type": {
                 "id": 9,
@@ -210,18 +210,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "双联脉冲",
-                    "description": "造成魔伤，自己获得速度+30。"
+                    "name": "电容循环",
+                    "description": "每离场一次，本技能能耗-2，将天气改为雷暴天气"
                 }
             },
             "move_category": "Status",
             "energy_cost": 8,
             "power": null,
-            "description": "造成魔伤，自己获得速度+30。"
+            "description": "每离场一次，本技能能耗-2，将天气改为雷暴天气"
         },
         {
             "id": 7110410,
-            "name": "过载回路",
+            "name": "电离爆破",
             "icon_id": "110027",
             "move_type": {
                 "id": 9,
@@ -232,18 +232,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "过载回路",
-                    "description": "造成魔伤，迸发：本技能使用次数+1。"
+                    "name": "电离爆破",
+                    "description": "敌方获得速度-40，3连击。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 3,
             "power": null,
-            "description": "造成魔伤，迸发：本技能使用次数+1。"
+            "description": "敌方获得速度-40，3连击。"
         },
         {
             "id": 7110420,
-            "name": "远程访问",
+            "name": "电磁偏转",
             "icon_id": "110029",
             "move_type": {
                 "id": 9,
@@ -254,14 +254,14 @@
             },
             "localized": {
                 "zh": {
-                    "name": "远程访问",
-                    "description": "回合结束自己返场，下回合所选技能使用次数+1。"
+                    "name": "电磁偏转",
+                    "description": "减伤70%，应对攻击：下回合所选技能使用次数+1。"
                 }
             },
             "move_category": "Defense",
             "energy_cost": 3,
             "power": null,
-            "description": "回合结束自己返场，下回合所选技能使用次数+1。"
+            "description": "减伤70%，应对攻击：下回合所选技能使用次数+1。"
         }
     ],
     "move_stones": [],

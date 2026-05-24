@@ -161,5 +161,6 @@
       "buff_priority": 4,
       "buff_coexistence_group": 1
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

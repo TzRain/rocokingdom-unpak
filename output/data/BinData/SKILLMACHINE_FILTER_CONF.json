@@ -192,5 +192,6 @@
       "filter_desc": "防御",
       "filter_icon": "PaperSprite'/Game/NewRoco/Modules/System/Bag/Raw/BagStatic/Frames/img_SortSkillDef_png.img_SortSkillDef_png'"
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

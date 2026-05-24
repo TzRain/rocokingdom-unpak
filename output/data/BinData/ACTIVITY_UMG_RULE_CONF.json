@@ -365,5 +365,6 @@
       "activity_type": 51,
       "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_BackflowContractManual.UMG_Activity_BackflowContractManual_C'"
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

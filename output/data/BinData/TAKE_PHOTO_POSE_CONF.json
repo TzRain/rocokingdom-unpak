@@ -2,7 +2,7 @@
   "RocoDataRows": {
     "1": {
       "id": 1,
-      "name": "",
+      "name": "默认",
       "icon": "Texture2D'/Game/NewRoco/Modules/System/TakePhotos/Raw/Movement/img_danshoujuxiangji.img_danshoujuxiangji'",
       "look_at": [
         0,
@@ -12,7 +12,7 @@
     },
     "2": {
       "id": 2,
-      "name": "",
+      "name": "捧脸",
       "male_pose_path": "AnimSequence'/Game/ArtRes/AnimSequence/Human/PC/PC1/Animation/SelfPhoto/SP_PengLian_R.SP_PengLian_R'",
       "male_mirror_pose_path": "AnimSequence'/Game/ArtRes/AnimSequence/Human/PC/PC1/Animation/SelfPhoto/SP_PengLian_L.SP_PengLian_L'",
       "female_pose_path": "AnimSequence'/Game/ArtRes/AnimSequence/Human/PC/PC2/Animation/SelfPhoto/SP_PengLian_R.SP_PengLian_R'",
@@ -26,7 +26,7 @@
     },
     "3": {
       "id": 3,
-      "name": "",
+      "name": "捂嘴",
       "male_pose_path": "AnimSequence'/Game/ArtRes/AnimSequence/Human/PC/PC1/Animation/SelfPhoto/SP_WuZuiXiao_R.SP_WuZuiXiao_R'",
       "male_mirror_pose_path": "AnimSequence'/Game/ArtRes/AnimSequence/Human/PC/PC1/Animation/SelfPhoto/SP_WuZuiXiao_L.SP_WuZuiXiao_L'",
       "female_pose_path": "AnimSequence'/Game/ArtRes/AnimSequence/Human/PC/PC2/Animation/SelfPhoto/SP_WuZuiXiao_R.SP_WuZuiXiao_R'",
@@ -40,7 +40,7 @@
     },
     "4": {
       "id": 4,
-      "name": "",
+      "name": "比耶",
       "male_pose_path": "AnimSequence'/Game/ArtRes/AnimSequence/Human/PC/PC1/Animation/SelfPhoto/SP_BiYe_R.SP_BiYe_R'",
       "male_mirror_pose_path": "AnimSequence'/Game/ArtRes/AnimSequence/Human/PC/PC1/Animation/SelfPhoto/SP_BiYe_L.SP_BiYe_L'",
       "female_pose_path": "AnimSequence'/Game/ArtRes/AnimSequence/Human/PC/PC2/Animation/SelfPhoto/SP_BiYe_R.SP_BiYe_R'",
@@ -54,7 +54,7 @@
     },
     "5": {
       "id": 5,
-      "name": "",
+      "name": "展示",
       "male_pose_path": "AnimSequence'/Game/ArtRes/AnimSequence/Human/PC/PC1/Animation/SelfPhoto/SP_TuoZhu_R.SP_TuoZhu_R'",
       "male_mirror_pose_path": "AnimSequence'/Game/ArtRes/AnimSequence/Human/PC/PC1/Animation/SelfPhoto/SP_TuoZhu_L.SP_TuoZhu_L'",
       "female_pose_path": "AnimSequence'/Game/ArtRes/AnimSequence/Human/PC/PC2/Animation/SelfPhoto/SP_TuoZhu_R.SP_TuoZhu_R'",
@@ -68,7 +68,7 @@
     },
     "6": {
       "id": 6,
-      "name": "",
+      "name": "伸展",
       "male_pose_path": "AnimSequence'/Game/ArtRes/AnimSequence/Human/PC/PC1/Animation/SelfPhoto/SP_ShenShou_R.SP_ShenShou_R'",
       "male_mirror_pose_path": "AnimSequence'/Game/ArtRes/AnimSequence/Human/PC/PC1/Animation/SelfPhoto/SP_ShenShou_L.SP_ShenShou_L'",
       "female_pose_path": "AnimSequence'/Game/ArtRes/AnimSequence/Human/PC/PC2/Animation/SelfPhoto/SP_ShenShou_R.SP_ShenShou_R'",
@@ -82,7 +82,7 @@
     },
     "7": {
       "id": 7,
-      "name": "",
+      "name": "招手",
       "male_pose_path": "AnimSequence'/Game/ArtRes/AnimSequence/Human/PC/PC1/Animation/SelfPhoto/SP_Hello_R.SP_Hello_R'",
       "male_mirror_pose_path": "AnimSequence'/Game/ArtRes/AnimSequence/Human/PC/PC1/Animation/SelfPhoto/SP_Hello_L.SP_Hello_L'",
       "female_pose_path": "AnimSequence'/Game/ArtRes/AnimSequence/Human/PC/PC2/Animation/SelfPhoto/SP_Hello_R.SP_Hello_R'",
@@ -96,7 +96,7 @@
     },
     "8": {
       "id": 8,
-      "name": "",
+      "name": "搞怪",
       "male_pose_path": "AnimSequence'/Game/ArtRes/AnimSequence/Human/PC/PC1/Animation/SelfPhoto/SP_XiaHu_R.SP_XiaHu_R'",
       "male_mirror_pose_path": "AnimSequence'/Game/ArtRes/AnimSequence/Human/PC/PC1/Animation/SelfPhoto/SP_XiaHu_L.SP_XiaHu_L'",
       "female_pose_path": "AnimSequence'/Game/ArtRes/AnimSequence/Human/PC/PC2/Animation/SelfPhoto/SP_XiaHu_R.SP_XiaHu_R'",
@@ -108,5 +108,6 @@
         20
       ]
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

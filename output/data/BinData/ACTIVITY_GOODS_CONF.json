@@ -4,7 +4,7 @@
       "id": 2500001,
       "goods_group": [
         {
-          "option_name": "",
+          "option_name": "疾光千兽",
           "bg_path": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_bphuizhang_bg.img_bphuizhang_bg'",
           "goods_front": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_qianguangshou.img_qianguangshou'",
           "ae_img1": "MaterialInstanceConstant'/Game/ArtRes/UI/Effects/Materials/BPBadge/MI_UI_LSC_18.MI_UI_LSC_18'",
@@ -14,7 +14,7 @@
           "website_id": 330001
         },
         {
-          "option_name": "",
+          "option_name": "绒仙子",
           "bg_path": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_bphuizhang_bg.img_bphuizhang_bg'",
           "goods_front": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_rongxianzi.img_rongxianzi'",
           "ae_img1": "MaterialInstanceConstant'/Game/ArtRes/UI/Effects/Materials/BPBadge/MI_UI_LSC_13.MI_UI_LSC_13'",
@@ -29,7 +29,7 @@
       "id": 2500002,
       "goods_group": [
         {
-          "option_name": "",
+          "option_name": "疾光千兽",
           "bg_path": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_bphuizhang_bg.img_bphuizhang_bg'",
           "goods_front": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_qianguangshou.img_qianguangshou'",
           "ae_img1": "MaterialInstanceConstant'/Game/ArtRes/UI/Effects/Materials/BPBadge/MI_UI_LSC_18.MI_UI_LSC_18'",
@@ -39,7 +39,7 @@
           "website_id": 330003
         },
         {
-          "option_name": "",
+          "option_name": "绒仙子",
           "bg_path": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_bphuizhang_bg.img_bphuizhang_bg'",
           "goods_front": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_rongxianzi.img_rongxianzi'",
           "ae_img1": "MaterialInstanceConstant'/Game/ArtRes/UI/Effects/Materials/BPBadge/MI_UI_LSC_13.MI_UI_LSC_13'",
@@ -55,7 +55,7 @@
       "task_id": 110000355,
       "goods_group": [
         {
-          "option_name": "",
+          "option_name": "爆焰喷喷",
           "bg_path": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_bphuizhang_bg.img_bphuizhang_bg'",
           "goods_front": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_baoyanhuolong.img_baoyanhuolong'",
           "ae_img1": "MaterialInstanceConstant'/Game/ArtRes/UI/Effects/Materials/BPBadge/MI_UI_HX_22.MI_UI_HX_22'",
@@ -66,7 +66,7 @@
           "website_id_pc": 330005
         },
         {
-          "option_name": "",
+          "option_name": "雪怪",
           "bg_path": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_bphuizhang_bg.img_bphuizhang_bg'",
           "goods_front": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_xueguai.img_xueguai'",
           "ae_img1": "MaterialInstanceConstant'/Game/ArtRes/UI/Effects/Materials/BPBadge/MI_UI_HX_24.MI_UI_HX_24'",
@@ -78,5 +78,6 @@
         }
       ]
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

@@ -167,7 +167,7 @@
     "breeding": {
         "id": 3706001,
         "pet_id": 3706001,
-        "name": "加油海葵",
+        "name": "蜜果骸的蛋",
         "model_id": 3706001,
         "hatch_data": 1,
         "weight_low": 1,
@@ -183,7 +183,7 @@
             {
                 "id": 3706001,
                 "pet_id": 3706001,
-                "name": "加油海葵",
+                "name": "蜜果骸的蛋",
                 "model_id": 3706001,
                 "hatch_data": 1,
                 "weight_low": 1,
@@ -199,7 +199,7 @@
             {
                 "id": 37060001,
                 "pet_id": 37060001,
-                "name": "松仔",
+                "name": "蜜果骸",
                 "model_id": 3706001,
                 "hatch_data": 300,
                 "weight_low": 1,
@@ -210,28 +210,6 @@
                 "egg_base_glass_prob_array": null,
                 "egg_add_glass_prob_array": null,
                 "is_contact_add_glass_prob": null,
-                "is_contact_add_shining_prob": null
-            },
-            {
-                "id": 91000006,
-                "pet_id": 91000006,
-                "name": "蜜果骸",
-                "model_id": 3124001,
-                "hatch_data": 28800,
-                "weight_low": 630,
-                "weight_high": 1520,
-                "height_low": 13,
-                "height_high": 17,
-                "precious_egg_type": null,
-                "egg_base_glass_prob_array": [
-                    531,
-                    500
-                ],
-                "egg_add_glass_prob_array": [
-                    0,
-                    24
-                ],
-                "is_contact_add_glass_prob": true,
                 "is_contact_add_shining_prob": null
             }
         ]

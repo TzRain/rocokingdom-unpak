@@ -1566,9 +1566,9 @@
           "item_num": 1
         },
         {
-          "name": "晴午革风",
+          "name": "柿红革风",
           "Type": 23,
-          "item_id": 137,
+          "item_id": 139,
           "item_num": 1
         },
         {
@@ -1692,9 +1692,9 @@
           "item_num": 1
         },
         {
-          "name": "晴午革风",
+          "name": "柿红革风",
           "Type": 23,
-          "item_id": 137,
+          "item_id": 139,
           "item_num": 1
         },
         {
@@ -1817,9 +1817,9 @@
           "item_num": 1
         },
         {
-          "name": "晴午革风",
+          "name": "柿红革风",
           "Type": 23,
-          "item_id": 137,
+          "item_id": 139,
           "item_num": 1
         },
         {
@@ -1943,9 +1943,9 @@
           "item_num": 1
         },
         {
-          "name": "晴午革风",
+          "name": "柿红革风",
           "Type": 23,
-          "item_id": 137,
+          "item_id": 139,
           "item_num": 1
         },
         {
@@ -2028,7 +2028,7 @@
       "gift_goods_couple_name": "双人闪耀契约礼券",
       "couple_effect_text": "闪耀契约礼券",
       "couple_effect_icon": "Texture2D'/Game/NewRoco/Modules/System/BattlePass/Raw/Theme/img_Season2Seal2.img_Season2Seal2'",
-      "gift_rewards_id": 710044,
+      "gift_rewards_id": 710042,
       "gift_item_main_id": 106022,
       "gift_item_main_name": "闪耀契约副券-爆焰喷喷",
       "gift": [
@@ -2069,9 +2069,9 @@
           "item_num": 1
         },
         {
-          "name": "晴午革风",
+          "name": "柿红革风",
           "Type": 23,
-          "item_id": 137,
+          "item_id": 139,
           "item_num": 1
         },
         {
@@ -2154,7 +2154,7 @@
       "gift_goods_couple_name": "双人闪耀契约礼券",
       "couple_effect_text": "闪耀契约礼券",
       "couple_effect_icon": "Texture2D'/Game/NewRoco/Modules/System/BattlePass/Raw/Theme/img_Season2Seal1.img_Season2Seal1'",
-      "gift_rewards_id": 710045,
+      "gift_rewards_id": 710043,
       "gift_item_main_id": 106023,
       "gift_item_main_name": "闪耀契约副券-雪怪",
       "gift": [
@@ -2195,9 +2195,9 @@
           "item_num": 1
         },
         {
-          "name": "晴午革风",
+          "name": "柿红革风",
           "Type": 23,
-          "item_id": 137,
+          "item_id": 139,
           "item_num": 1
         },
         {
@@ -2320,9 +2320,9 @@
           "item_num": 1
         },
         {
-          "name": "晴午革风",
+          "name": "柿红革风",
           "Type": 23,
-          "item_id": 138,
+          "item_id": 140,
           "item_num": 1
         },
         {
@@ -2405,7 +2405,7 @@
       "gift_goods_couple_name": "双人闪耀契约礼券",
       "couple_effect_text": "闪耀契约礼券",
       "couple_effect_icon": "Texture2D'/Game/NewRoco/Modules/System/BattlePass/Raw/Theme/img_Season2Seal2.img_Season2Seal2'",
-      "gift_rewards_id": 710046,
+      "gift_rewards_id": 710044,
       "gift_item_main_id": 106022,
       "gift_item_main_name": "闪耀契约副券-爆焰喷喷",
       "gift": [
@@ -2446,9 +2446,9 @@
           "item_num": 1
         },
         {
-          "name": "晴午革风",
+          "name": "柿红革风",
           "Type": 23,
-          "item_id": 138,
+          "item_id": 140,
           "item_num": 1
         },
         {
@@ -2571,9 +2571,9 @@
           "item_num": 1
         },
         {
-          "name": "晴午革风",
+          "name": "柿红革风",
           "Type": 23,
-          "item_id": 138,
+          "item_id": 140,
           "item_num": 1
         },
         {
@@ -2656,7 +2656,7 @@
       "gift_goods_couple_name": "双人闪耀契约礼券",
       "couple_effect_text": "闪耀契约礼券",
       "couple_effect_icon": "Texture2D'/Game/NewRoco/Modules/System/BattlePass/Raw/Theme/img_Season2Seal1.img_Season2Seal1'",
-      "gift_rewards_id": 710047,
+      "gift_rewards_id": 710045,
       "gift_item_main_id": 106023,
       "gift_item_main_name": "闪耀契约副券-雪怪",
       "gift": [
@@ -2697,9 +2697,9 @@
           "item_num": 1
         },
         {
-          "name": "晴午革风",
+          "name": "柿红革风",
           "Type": 23,
-          "item_id": 138,
+          "item_id": 140,
           "item_num": 1
         },
         {
@@ -2782,7 +2782,7 @@
       "gift_goods_couple_name": "双人闪耀契约礼券",
       "couple_effect_text": "闪耀契约礼券",
       "couple_effect_icon": "Texture2D'/Game/NewRoco/Modules/System/BattlePass/Raw/Theme/img_Season2Seal2.img_Season2Seal2'",
-      "gift_rewards_id": 710050,
+      "gift_rewards_id": 710046,
       "gift_item_main_id": 106022,
       "gift_item_main_name": "闪耀契约副券-爆焰喷喷",
       "gift": [
@@ -2823,9 +2823,9 @@
           "item_num": 1
         },
         {
-          "name": "晴午革风",
+          "name": "柿红革风",
           "Type": 23,
-          "item_id": 138,
+          "item_id": 140,
           "item_num": 1
         },
         {
@@ -2908,7 +2908,7 @@
       "gift_goods_couple_name": "双人闪耀契约礼券",
       "couple_effect_text": "闪耀契约礼券",
       "couple_effect_icon": "Texture2D'/Game/NewRoco/Modules/System/BattlePass/Raw/Theme/img_Season2Seal1.img_Season2Seal1'",
-      "gift_rewards_id": 710051,
+      "gift_rewards_id": 710047,
       "gift_item_main_id": 106023,
       "gift_item_main_name": "闪耀契约副券-雪怪",
       "gift": [
@@ -2949,9 +2949,9 @@
           "item_num": 1
         },
         {
-          "name": "晴午革风",
+          "name": "柿红革风",
           "Type": 23,
-          "item_id": 138,
+          "item_id": 140,
           "item_num": 1
         },
         {
@@ -3016,5 +3016,6 @@
         }
       ]
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

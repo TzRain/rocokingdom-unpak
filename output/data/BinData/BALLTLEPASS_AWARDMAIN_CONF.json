@@ -1,0 +1,13 @@
+{
+  "RocoDataRows": {
+    "1": {
+      "id": 1,
+      "widget_name": "Dot_1"
+    },
+    "2": {
+      "id": 2,
+      "widget_name": "Dot"
+    }
+  },
+  "LocalizationStrings": {}
+}

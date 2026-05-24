@@ -1033,6 +1033,12 @@
       "id": 641030009,
       "visible_type": 1,
       "area_visible_density": 2
+    },
+    "641030024": {
+      "id": 641030024,
+      "visible_type": 1,
+      "area_visible_density": 2
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

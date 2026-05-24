@@ -540,5 +540,6 @@
       "maintab_id": 53,
       "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabMagicReplay"
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

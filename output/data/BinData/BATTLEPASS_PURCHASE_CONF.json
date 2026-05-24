@@ -14,5 +14,6 @@
       "widget_name": "NRCButton_1",
       "mutex_group_name": "bp_purchase_back;common_dialog_close"
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

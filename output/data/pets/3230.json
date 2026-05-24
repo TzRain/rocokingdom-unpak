@@ -188,7 +188,7 @@
     "breeding": {
         "id": 3230001,
         "pet_id": 3230001,
-        "name": "呼拉猫",
+        "name": "加灵",
         "model_id": 3230001,
         "hatch_data": 43200,
         "weight_low": 2030,
@@ -204,7 +204,7 @@
             {
                 "id": 3230001,
                 "pet_id": 3230001,
-                "name": "呼拉猫",
+                "name": "加灵",
                 "model_id": 3230001,
                 "hatch_data": 43200,
                 "weight_low": 2030,
@@ -214,57 +214,19 @@
                 "precious_egg_type": null,
                 "egg_base_glass_prob_array": null,
                 "egg_add_glass_prob_array": null,
-                "is_contact_add_glass_prob": true,
-                "is_contact_add_shining_prob": null
-            },
-            {
-                "id": 3237001,
-                "pet_id": 3237001,
-                "name": "加灵",
-                "model_id": 3237001,
-                "hatch_data": 43200,
-                "weight_low": 6860,
-                "weight_high": 9000,
-                "height_low": 25,
-                "height_high": 35,
-                "precious_egg_type": null,
-                "egg_base_glass_prob_array": [
-                    8,
-                    1125
-                ],
-                "egg_add_glass_prob_array": [
-                    1,
-                    50
-                ],
                 "is_contact_add_glass_prob": true,
                 "is_contact_add_shining_prob": null
             },
             {
                 "id": 32300001,
                 "pet_id": 32300001,
-                "name": "电咩咩",
+                "name": "加灵",
                 "model_id": 3230001,
                 "hatch_data": 300,
                 "weight_low": 2030,
                 "weight_high": 2560,
                 "height_low": 20,
                 "height_high": 29,
-                "precious_egg_type": 7,
-                "egg_base_glass_prob_array": null,
-                "egg_add_glass_prob_array": null,
-                "is_contact_add_glass_prob": null,
-                "is_contact_add_shining_prob": null
-            },
-            {
-                "id": 32680001,
-                "pet_id": 32680001,
-                "name": "加灵",
-                "model_id": 3268001,
-                "hatch_data": 300,
-                "weight_low": 6510,
-                "weight_high": 13400,
-                "height_low": 36,
-                "height_high": 42,
                 "precious_egg_type": 7,
                 "egg_base_glass_prob_array": null,
                 "egg_add_glass_prob_array": null,

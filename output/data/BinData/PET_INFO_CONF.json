@@ -24001,7 +24001,7 @@
         26
       ],
       "hp_max_talent": 8,
-      "phy_attack_talent": 8,
+      "spe_attack_talent": 8,
       "spe_defence_talent": 8,
       "talent_id": 1
     },
@@ -24085,7 +24085,7 @@
         23
       ],
       "hp_max_talent": 8,
-      "spe_attack_talent": 8,
+      "phy_attack_talent": 8,
       "speed_talent": 8,
       "talent_id": 1
     },
@@ -35073,5 +35073,6 @@
       "pet_talent_rate": 4,
       "talent_rand_value": 10
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

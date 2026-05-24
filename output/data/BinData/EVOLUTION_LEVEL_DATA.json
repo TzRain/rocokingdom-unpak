@@ -76,5 +76,6 @@
       "level_upper_limit": 999,
       "chance": 10000
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

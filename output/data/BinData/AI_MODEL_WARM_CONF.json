@@ -240,5 +240,6 @@
       "warm_control_restraint_pet": true,
       "warm_control_hurt_thr": 120
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

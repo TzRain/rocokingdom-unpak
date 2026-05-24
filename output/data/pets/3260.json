@@ -152,7 +152,7 @@
     "breeding": {
         "id": 3260001,
         "pet_id": 3260001,
-        "name": "绒绒",
+        "name": "古拉海象",
         "model_id": 3260001,
         "hatch_data": 72000,
         "weight_low": 11025,
@@ -174,35 +174,13 @@
             {
                 "id": 3260001,
                 "pet_id": 3260001,
-                "name": "绒绒",
+                "name": "古拉海象",
                 "model_id": 3260001,
                 "hatch_data": 72000,
                 "weight_low": 11025,
                 "weight_high": 17400,
                 "height_low": 24,
                 "height_high": 34,
-                "precious_egg_type": null,
-                "egg_base_glass_prob_array": [
-                    400,
-                    3125
-                ],
-                "egg_add_glass_prob_array": [
-                    2,
-                    113
-                ],
-                "is_contact_add_glass_prob": true,
-                "is_contact_add_shining_prob": null
-            },
-            {
-                "id": 3268001,
-                "pet_id": 3268001,
-                "name": "古拉海象",
-                "model_id": 3268001,
-                "hatch_data": 72000,
-                "weight_low": 6510,
-                "weight_high": 13400,
-                "height_low": 36,
-                "height_high": 42,
                 "precious_egg_type": null,
                 "egg_base_glass_prob_array": [
                     400,
@@ -218,29 +196,13 @@
             {
                 "id": 32600001,
                 "pet_id": 32600001,
-                "name": "呼拉猫",
+                "name": "古拉海象",
                 "model_id": 3260001,
                 "hatch_data": 300,
                 "weight_low": 11025,
                 "weight_high": 17400,
                 "height_low": 24,
                 "height_high": 34,
-                "precious_egg_type": 7,
-                "egg_base_glass_prob_array": null,
-                "egg_add_glass_prob_array": null,
-                "is_contact_add_glass_prob": null,
-                "is_contact_add_shining_prob": null
-            },
-            {
-                "id": 32900001,
-                "pet_id": 32900001,
-                "name": "古拉海象",
-                "model_id": 3290001,
-                "hatch_data": 300,
-                "weight_low": 1505,
-                "weight_high": 2440,
-                "height_low": 15,
-                "height_high": 21,
                 "precious_egg_type": 7,
                 "egg_base_glass_prob_array": null,
                 "egg_add_glass_prob_array": null,

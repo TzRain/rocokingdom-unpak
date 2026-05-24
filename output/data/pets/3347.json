@@ -136,7 +136,7 @@
     "breeding": {
         "id": 3347001,
         "pet_id": 3347001,
-        "name": "海盔虫（火系血脉）",
+        "name": "芽眼魔",
         "model_id": 3347001,
         "hatch_data": 28800,
         "weight_low": 1033,
@@ -158,7 +158,7 @@
             {
                 "id": 3347001,
                 "pet_id": 3347001,
-                "name": "海盔虫（火系血脉）",
+                "name": "芽眼魔",
                 "model_id": 3347001,
                 "hatch_data": 28800,
                 "weight_low": 1033,
@@ -178,53 +178,15 @@
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 3367002,
-                "pet_id": 3367002,
-                "name": "芽眼魔",
-                "model_id": 3367002,
-                "hatch_data": 72000,
-                "weight_low": 16975,
-                "weight_high": 22400,
-                "height_low": 28,
-                "height_high": 33,
-                "precious_egg_type": 2,
-                "egg_base_glass_prob_array": [
-                    400,
-                    3125
-                ],
-                "egg_add_glass_prob_array": [
-                    2,
-                    113
-                ],
-                "is_contact_add_glass_prob": true,
-                "is_contact_add_shining_prob": null
-            },
-            {
                 "id": 33470001,
                 "pet_id": 33470001,
-                "name": "雪山附近的样子",
+                "name": "芽眼魔",
                 "model_id": 3347001,
                 "hatch_data": 300,
                 "weight_low": 1033,
                 "weight_high": 1360,
                 "height_low": 19,
                 "height_high": 27,
-                "precious_egg_type": 7,
-                "egg_base_glass_prob_array": null,
-                "egg_add_glass_prob_array": null,
-                "is_contact_add_glass_prob": null,
-                "is_contact_add_shining_prob": null
-            },
-            {
-                "id": 33980001,
-                "pet_id": 33980001,
-                "name": "芽眼魔",
-                "model_id": 3398001,
-                "hatch_data": 300,
-                "weight_low": 263,
-                "weight_high": 340,
-                "height_low": 6,
-                "height_high": 8,
                 "precious_egg_type": 7,
                 "egg_base_glass_prob_array": null,
                 "egg_add_glass_prob_array": null,

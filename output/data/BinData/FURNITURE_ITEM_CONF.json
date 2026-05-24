@@ -3348,7 +3348,7 @@
     },
     "1005071": {
       "id": 1005071,
-      "name": "机械骨朵鸟钟",
+      "name": "机械咕咕挂钟",
       "type": 4,
       "tab_type": 15,
       "model": "/Game/NewRoco/Modules/System/Home/PlacementAsset/ArtRes/IFT_DECORATION/FT_WALL_DECORATION/BP_WD_AL_1005071.BP_WD_AL_1005071_C",
@@ -3452,5 +3452,6 @@
       "Funiture_ui_init_location": "0;0;250",
       "Funiture_ui_init_rotation": "0;0;0"
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

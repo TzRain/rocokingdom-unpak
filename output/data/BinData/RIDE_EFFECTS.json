@@ -430,7 +430,7 @@
           "ride_pet_fx_offset": [
             0.0,
             60.0,
-            65.559998
+            65.56
           ],
           "ride_pet_fx_scale": [
             1.2,
@@ -897,7 +897,7 @@
             0.0
           ],
           "ride_pet_fx_scale": [
-            0.926471,
+            0.9264706,
             0.926,
             0.926
           ]
@@ -1575,7 +1575,7 @@
             0.0
           ],
           "ride_pet_fx_scale": [
-            0.680694,
+            0.6806937,
             0.9,
             1.0
           ]
@@ -1622,8 +1622,8 @@
             0.0
           ],
           "ride_pet_fx_scale": [
-            0.879412,
-            0.879412,
+            0.8794118,
+            0.8794118,
             1.0
           ]
         }
@@ -1978,8 +1978,8 @@
           "ride_pet_fx_attach_point": "locator_pos",
           "ride_pet_fx_offset": [
             0.0,
-            58.746368,
-            155.690002
+            58.74637,
+            155.69
           ],
           "ride_pet_fx_scale": [
             1.0,
@@ -2489,8 +2489,8 @@
             0.0
           ],
           "ride_pet_fx_scale": [
-            0.823529,
-            0.823529,
+            0.8235294,
+            0.8235294,
             1.0
           ]
         }
@@ -2542,7 +2542,7 @@
           "ride_pet_fx_attach_point": "locator_pos",
           "ride_pet_fx_offset": [
             0.0,
-            -44.075001,
+            -44.075,
             0.0
           ],
           "ride_pet_fx_scale": [
@@ -2556,7 +2556,7 @@
           "ride_pet_fx_attach_point": "locator_pos",
           "ride_pet_fx_offset": [
             0.0,
-            -44.075001,
+            -44.075,
             0.0
           ],
           "ride_pet_fx_scale": [
@@ -3219,7 +3219,7 @@
             0.0
           ],
           "ride_pet_fx_scale": [
-            0.761029,
+            0.7610294,
             0.761,
             0.761
           ]
@@ -3238,7 +3238,7 @@
             0.0
           ],
           "ride_pet_fx_scale": [
-            0.761029,
+            0.7610294,
             0.761,
             0.761
           ]
@@ -3956,7 +3956,7 @@
           "ride_pet_fx_offset": [
             0.0,
             100.0,
-            115.814598
+            115.8146
           ],
           "ride_pet_fx_scale": [
             1.9,
@@ -4699,7 +4699,7 @@
           "ride_pet_fx_attach_point": "locator_pos",
           "ride_pet_fx_offset": [
             0.0,
-            -21.478001,
+            -21.478,
             0.0
           ],
           "ride_pet_fx_scale": [
@@ -4713,7 +4713,7 @@
           "ride_pet_fx_attach_point": "locator_pos",
           "ride_pet_fx_offset": [
             0.0,
-            -21.478001,
+            -21.478,
             0.0
           ],
           "ride_pet_fx_scale": [
@@ -6226,11 +6226,11 @@
           "ride_pet_fx_attach_point": "locator_pos",
           "ride_pet_fx_offset": [
             0.0,
-            79.630577,
+            79.63058,
             62.67474
           ],
           "ride_pet_fx_scale": [
-            0.93153,
+            0.9315297,
             1.3625,
             1.195616
           ]
@@ -6605,7 +6605,7 @@
           "ride_pet_fx_attach_point": "locator_pos",
           "ride_pet_fx_offset": [
             0.0,
-            99.923447,
+            99.92345,
             140.0
           ],
           "ride_pet_fx_scale": [
@@ -7421,8 +7421,8 @@
           "ride_pet_fx_attach_point": "locator_pos",
           "ride_pet_fx_offset": [
             0.0,
-            116.996201,
-            71.511261
+            116.9962,
+            71.51126
           ],
           "ride_pet_fx_scale": [
             1.058529,
@@ -7805,8 +7805,8 @@
           "ride_pet_fx_attach_point": "locator_pos",
           "ride_pet_fx_offset": [
             0.0,
-            146.470596,
-            75.520859
+            146.4706,
+            75.52086
           ],
           "ride_pet_fx_scale": [
             1.857096,
@@ -7971,7 +7971,7 @@
           ],
           "ride_pet_fx_scale": [
             1.0,
-            0.647059,
+            0.6470588,
             1.0
           ]
         }
@@ -10135,12 +10135,12 @@
           "ride_pet_fx_attach_point": "locator_pos",
           "ride_pet_fx_offset": [
             0.0,
-            39.811699,
+            39.8117,
             -18.0
           ],
           "ride_pet_fx_scale": [
-            0.852941,
-            0.852941,
+            0.8529412,
+            0.8529412,
             1.0
           ]
         }
@@ -10945,7 +10945,7 @@
           ],
           "ride_pet_fx_scale": [
             0.5,
-            0.5,
+            0.5000001,
             0.5
           ]
         }
@@ -10963,8 +10963,8 @@
             20.0
           ],
           "ride_pet_fx_scale": [
-            0.5,
-            0.5,
+            0.5000001,
+            0.5000001,
             0.5
           ]
         }
@@ -11191,8 +11191,8 @@
           "ride_pet_fx_attach_point": "locator_pos",
           "ride_pet_fx_offset": [
             0.0,
-            58.745998,
-            155.690002
+            58.746,
+            155.69
           ],
           "ride_pet_fx_scale": [
             1.0,
@@ -11281,8 +11281,8 @@
           "ride_pet_fx_attach_point": "locator_pos",
           "ride_pet_fx_offset": [
             0.0,
-            58.745998,
-            155.690002
+            58.746,
+            155.69
           ],
           "ride_pet_fx_scale": [
             1.0,
@@ -11371,8 +11371,8 @@
           "ride_pet_fx_attach_point": "locator_pos",
           "ride_pet_fx_offset": [
             0.0,
-            58.745998,
-            155.690002
+            58.746,
+            155.69
           ],
           "ride_pet_fx_scale": [
             1.0,
@@ -12011,7 +12011,7 @@
           "ride_pet_fx_attach_point": "locator_pos",
           "ride_pet_fx_offset": [
             0.0,
-            44.535488,
+            44.53549,
             0.0
           ],
           "ride_pet_fx_scale": [
@@ -13182,7 +13182,7 @@
           "ride_pet_fx_offset": [
             0.0,
             60.0,
-            148.526901
+            148.5269
           ],
           "ride_pet_fx_scale": [
             0.8,
@@ -14019,7 +14019,7 @@
           "ride_pet_fx_attach_point": "locator_pos",
           "ride_pet_fx_offset": [
             0.0,
-            36.723202,
+            36.7232,
             -25.0
           ],
           "ride_pet_fx_scale": [
@@ -16461,7 +16461,7 @@
             0.0
           ],
           "ride_pet_fx_scale": [
-            0.908744,
+            0.9087437,
             1.4,
             1.0
           ]
@@ -18466,7 +18466,7 @@
           "ride_pet_fx_attach_point": "locator_pos",
           "ride_pet_fx_offset": [
             0.0,
-            23.975439,
+            23.97544,
             0.0
           ],
           "ride_pet_fx_scale": [
@@ -18859,7 +18859,7 @@
           "ride_pet_fx_attach_point": "locator_pos",
           "ride_pet_fx_offset": [
             0.0,
-            -44.075001,
+            -44.075,
             0.0
           ],
           "ride_pet_fx_scale": [
@@ -18873,7 +18873,7 @@
           "ride_pet_fx_attach_point": "locator_pos",
           "ride_pet_fx_offset": [
             0.0,
-            -44.075001,
+            -44.075,
             0.0
           ],
           "ride_pet_fx_scale": [
@@ -19663,7 +19663,7 @@
           "ride_pet_fx_attach_point": "locator_pos",
           "ride_pet_fx_offset": [
             0.0,
-            87.709709,
+            87.70971,
             90.0
           ],
           "ride_pet_fx_scale": [
@@ -20107,7 +20107,7 @@
             0.0
           ],
           "ride_pet_fx_scale": [
-            0.867471,
+            0.8674712,
             1.741777,
             1.0
           ]
@@ -20457,8 +20457,8 @@
           "ride_pet_fx_attach_point": "locator_pos",
           "ride_pet_fx_offset": [
             0.0,
-            101.057899,
-            101.995796
+            101.0579,
+            101.9958
           ],
           "ride_pet_fx_scale": [
             1.134237,
@@ -20647,7 +20647,7 @@
           "ride_pet_fx_offset": [
             0.0,
             80.0,
-            115.033699
+            115.0337
           ],
           "ride_pet_fx_scale": [
             1.205882,
@@ -21782,7 +21782,7 @@
           "ride_pet_fx_name": "NS_Scene_Fly_L_422-527",
           "ride_pet_fx_attach_point": "Bone_L_Wings_06",
           "ride_pet_fx_offset": [
-            92.210999,
+            92.211,
             2.561,
             0.0
           ],
@@ -21796,7 +21796,7 @@
           "ride_pet_fx_name": "NS_Scene_Fly_L_422-527",
           "ride_pet_fx_attach_point": "Bone_R_Wings_06",
           "ride_pet_fx_offset": [
-            92.210999,
+            92.211,
             2.561,
             0.0
           ],
@@ -22181,5 +22181,6 @@
         }
       ]
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

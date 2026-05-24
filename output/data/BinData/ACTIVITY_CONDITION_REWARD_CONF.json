@@ -1392,7 +1392,7 @@
         {
           "goods_type": 1,
           "goods_id": 320020,
-          "goods_count": 30
+          "goods_count": 25
         }
       ],
       "is_realign_end": true
@@ -2093,8 +2093,8 @@
       "reward_group": [
         {
           "goods_type": 1,
-          "goods_id": 100206,
-          "goods_count": 1
+          "goods_id": 100699,
+          "goods_count": 300
         }
       ]
     },
@@ -2851,5 +2851,6 @@
         }
       ]
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

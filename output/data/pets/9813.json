@@ -67,7 +67,7 @@
     "move_pool": [
         {
             "id": 7150250,
-            "name": "疾风涡轮",
+            "name": "闪击",
             "icon_id": "114020",
             "move_type": {
                 "id": 13,
@@ -78,18 +78,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "疾风涡轮",
-                    "description": "减伤50%，迅捷，应对攻击。"
+                    "name": "闪击",
+                    "description": "造成物伤，速度比敌方越高，本次技能威力越高。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 4,
             "power": 60,
-            "description": "减伤50%，迅捷，应对攻击。"
+            "description": "造成物伤，速度比敌方越高，本次技能威力越高。"
         },
         {
             "id": 7150260,
-            "name": "鸣叫",
+            "name": "飞羽",
             "icon_id": "114021",
             "move_type": {
                 "id": 13,
@@ -100,18 +100,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "鸣叫",
-                    "description": "造成物伤，无法主动使用，在使用3次翼系技能后会自动使用此技能。"
+                    "name": "飞羽",
+                    "description": "迅捷，驱散敌方1种增益。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 0,
             "power": null,
-            "description": "造成物伤，无法主动使用，在使用3次翼系技能后会自动使用此技能。"
+            "description": "迅捷，驱散敌方1种增益。"
         },
         {
             "id": 7150270,
-            "name": "鹰爪",
+            "name": "风隐",
             "icon_id": "214022",
             "move_type": {
                 "id": 13,
@@ -122,18 +122,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "鹰爪",
-                    "description": "对敌方精灵造成魔法伤害。"
+                    "name": "风隐",
+                    "description": "敌方和自己均脱离，先手-1。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 1,
             "power": null,
-            "description": "对敌方精灵造成魔法伤害。"
+            "description": "敌方和自己均脱离，先手-1。"
         },
         {
             "id": 7150300,
-            "name": "风矢",
+            "name": "羽化加速",
             "icon_id": "114025",
             "move_type": {
                 "id": 13,
@@ -144,18 +144,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "风矢",
-                    "description": "造成物伤，应对状态：回合结束使敌方紧急脱离。"
+                    "name": "羽化加速",
+                    "description": "自己获得全技能威力+20，迅捷。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 2,
             "power": null,
-            "description": "造成物伤，应对状态：回合结束使敌方紧急脱离。"
+            "description": "自己获得全技能威力+20，迅捷。"
         },
         {
             "id": 7150310,
-            "name": "回旋风暴",
+            "name": "羽翼庇护",
             "icon_id": "114027",
             "move_type": {
                 "id": 13,
@@ -166,18 +166,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "回旋风暴",
-                    "description": "对敌方精灵造成物理伤害。"
+                    "name": "羽翼庇护",
+                    "description": "减伤70%，应对攻击：自己获得连击数+2。"
                 }
             },
             "move_category": "Defense",
             "energy_cost": 2,
             "power": null,
-            "description": "对敌方精灵造成物理伤害。"
+            "description": "减伤70%，应对攻击：自己获得连击数+2。"
         },
         {
             "id": 7150320,
-            "name": "闪击",
+            "name": "疾风连袭",
             "icon_id": "314028",
             "move_type": {
                 "id": 13,
@@ -188,14 +188,14 @@
             },
             "localized": {
                 "zh": {
-                    "name": "闪击",
-                    "description": "对敌方精灵造成物理伤害。"
+                    "name": "疾风连袭",
+                    "description": "释放自己释放过的迅捷技能，其能耗之和的二分之一加至本技能能耗，每次使用后能耗+1。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 0,
             "power": null,
-            "description": "对敌方精灵造成物理伤害。"
+            "description": "释放自己释放过的迅捷技能，其能耗之和的二分之一加至本技能能耗，每次使用后能耗+1。"
         }
     ],
     "move_stones": [],

@@ -62,5 +62,6 @@
       "status_priority": 200,
       "class_name": "AbnormalStatus_Cold"
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

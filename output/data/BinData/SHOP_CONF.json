@@ -1563,7 +1563,7 @@
       "goods": [
         {
           "goods_type": 2,
-          "goods_id": 3
+          "goods_id": 44
         }
       ]
     },
@@ -1697,5 +1697,6 @@
         }
       ]
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

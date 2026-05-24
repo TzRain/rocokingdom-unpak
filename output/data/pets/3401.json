@@ -113,7 +113,7 @@
     "breeding": {
         "id": 3062003,
         "pet_id": 3062003,
-        "name": "小独角兽（冰系血脉）",
+        "name": "小独角兽（首领血脉）",
         "model_id": 3401001,
         "hatch_data": 57600,
         "weight_low": 14525,
@@ -129,7 +129,7 @@
             {
                 "id": 3062003,
                 "pet_id": 3062003,
-                "name": "小独角兽（冰系血脉）",
+                "name": "小独角兽（首领血脉）",
                 "model_id": 3401001,
                 "hatch_data": 57600,
                 "weight_low": 14525,
@@ -145,35 +145,13 @@
             {
                 "id": 3401001,
                 "pet_id": 3401001,
-                "name": "双灯鱼",
+                "name": "伊里斯",
                 "model_id": 3401001,
                 "hatch_data": 72000,
                 "weight_low": 33250,
                 "weight_high": 42000,
                 "height_low": 70,
                 "height_high": 73,
-                "precious_egg_type": null,
-                "egg_base_glass_prob_array": [
-                    400,
-                    3125
-                ],
-                "egg_add_glass_prob_array": [
-                    2,
-                    113
-                ],
-                "is_contact_add_glass_prob": true,
-                "is_contact_add_shining_prob": null
-            },
-            {
-                "id": 3418001,
-                "pet_id": 3418001,
-                "name": "伊里斯",
-                "model_id": 3418001,
-                "hatch_data": 72000,
-                "weight_low": 13475,
-                "weight_high": 17400,
-                "height_low": 55,
-                "height_high": 58,
                 "precious_egg_type": null,
                 "egg_base_glass_prob_array": [
                     400,
@@ -189,29 +167,13 @@
             {
                 "id": 34010001,
                 "pet_id": 34010001,
-                "name": "霹雳宝宝",
+                "name": "伊里斯",
                 "model_id": 3401001,
                 "hatch_data": 300,
                 "weight_low": 33250,
                 "weight_high": 42000,
                 "height_low": 70,
                 "height_high": 73,
-                "precious_egg_type": 7,
-                "egg_base_glass_prob_array": null,
-                "egg_add_glass_prob_array": null,
-                "is_contact_add_glass_prob": null,
-                "is_contact_add_shining_prob": null
-            },
-            {
-                "id": 34310001,
-                "pet_id": 34310001,
-                "name": "伊里斯",
-                "model_id": 3431001,
-                "hatch_data": 300,
-                "weight_low": 1229,
-                "weight_high": 2728,
-                "height_low": 32,
-                "height_high": 35,
                 "precious_egg_type": 7,
                 "egg_base_glass_prob_array": null,
                 "egg_add_glass_prob_array": null,

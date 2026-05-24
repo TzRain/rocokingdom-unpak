@@ -20219,1013 +20219,1017 @@
       "id": "setting_image_86",
       "msg": "撤销"
     },
+    "pic_game_judge_countdown": {
+      "id": "pic_game_judge_countdown",
+      "msg": "距离评选投票开始"
+    },
     "pic_game_expired_tips": {
       "id": "pic_game_expired_tips",
-      "msg": "距离评选投票开始"
+      "msg": "活动已结束，未领取奖励可前往邮件领取。"
     },
     "pic_game_count": {
       "id": "pic_game_count",
-      "msg": "活动已结束，未领取奖励可前往邮件领取。"
+      "msg": "Vol.{0}"
     },
     "pic_game_shop": {
       "id": "pic_game_shop",
-      "msg": "Vol.{0}"
+      "msg": "兑换商店"
     },
     "pic_game_review_time_text": {
       "id": "pic_game_review_time_text",
-      "msg": "兑换商店"
+      "msg": "评选倒计时：%d天"
     },
     "pic_game_review_hour_text": {
       "id": "pic_game_review_hour_text",
-      "msg": "评选倒计时：%d天"
+      "msg": "评选倒计时：%d小时"
     },
     "pic_game_review_min_text": {
       "id": "pic_game_review_min_text",
-      "msg": "评选倒计时：%d小时"
+      "msg": "评选倒计时：%d分钟"
     },
     "pic_game_submit_success": {
       "id": "pic_game_submit_success",
-      "msg": "评选倒计时：%d分钟"
+      "msg": "投稿成功"
     },
     "pic_game_submit_them": {
       "id": "pic_game_submit_them",
-      "msg": "投稿成功"
+      "msg": "Vol.{0} 主题摄影评选赛"
     },
     "pic_game_submit_button": {
       "id": "pic_game_submit_button",
-      "msg": "Vol.{0} 主题摄影评选赛"
+      "msg": "上传照片"
     },
     "pic_game_submit_illegal": {
       "id": "pic_game_submit_illegal",
-      "msg": "上传照片"
+      "msg": "未识别到小洛克本人或精灵，无法用于投稿。"
     },
     "pic_game_submit_CD_tips": {
       "id": "pic_game_submit_CD_tips",
-      "msg": "未识别到小洛克本人或精灵，无法用于投稿。"
+      "msg": "操作频繁，请在%s分钟后再来投稿吧。"
     },
     "pic_game_submit_view_button": {
       "id": "pic_game_submit_view_button",
-      "msg": "操作频繁，请在%s分钟后再来投稿吧。"
+      "msg": "查看照片"
     },
     "pic_game_submit_mine": {
       "id": "pic_game_submit_mine",
-      "msg": "查看照片"
+      "msg": "我的投稿"
     },
     "pic_game_resubmit": {
       "id": "pic_game_resubmit",
-      "msg": "我的投稿"
+      "msg": "重新上传"
     },
     "pic_game_rankboard_now_button": {
       "id": "pic_game_rankboard_now_button",
-      "msg": "重新上传"
+      "msg": "本期热门"
     },
     "pic_game_rankboard_before_button": {
       "id": "pic_game_rankboard_before_button",
-      "msg": "本期热门"
+      "msg": "往期回顾"
     },
     "pic_game_rankboard_percent": {
       "id": "pic_game_rankboard_percent",
-      "msg": "往期回顾"
+      "msg": "前"
     },
     "pic_game_rankboard_mine": {
       "id": "pic_game_rankboard_mine",
-      "msg": "前"
+      "msg": "我的"
     },
     "pic_game_rankboard_loading": {
       "id": "pic_game_rankboard_loading",
-      "msg": "我的"
+      "msg": "排行榜暂未生成"
     },
     "pic_game_no_submit": {
       "id": "pic_game_no_submit",
-      "msg": "排行榜暂未生成"
+      "msg": "未投稿"
     },
     "pic_game_no_submit_tips": {
       "id": "pic_game_no_submit_tips",
-      "msg": "未投稿"
+      "msg": "本期未投稿。"
     },
     "pic_game_judge_button": {
       "id": "pic_game_judge_button",
-      "msg": "本期未投稿。"
+      "msg": "去投票"
     },
     "pic_game_judge_push_times": {
       "id": "pic_game_judge_push_times",
-      "msg": "去投票"
+      "msg": "剩余推送次数：%s"
     },
     "pic_game_accuracy": {
       "id": "pic_game_accuracy",
-      "msg": "剩余推送次数：%s"
+      "msg": "准确度"
     },
     "pic_game_judge_no_times": {
       "id": "pic_game_judge_no_times",
-      "msg": "准确度"
+      "msg": "今日推送次数已用完，请期待明天的作品~"
     },
     "pic_game_judge_no_times_totally": {
       "id": "pic_game_judge_no_times_totally",
-      "msg": "今日推送次数已用完，请期待明天的作品~"
+      "msg": "今日推送次数已用完。"
     },
     "pic_game_judge_skip_button": {
       "id": "pic_game_judge_skip_button",
-      "msg": "今日推送次数已用完。"
+      "msg": "换一换"
     },
     "pic_game_accuracy_reward_title": {
       "id": "pic_game_accuracy_reward_title",
-      "msg": "换一换"
+      "msg": "准确度奖励"
     },
     "pic_game_accuracy_reward_list": {
       "id": "pic_game_accuracy_reward_list",
-      "msg": "准确度奖励"
+      "msg": "准确度达到"
     },
     "pic_game_judge_timeout": {
       "id": "pic_game_judge_timeout",
-      "msg": "准确度达到"
+      "msg": "本次评选超时，视为放弃。请重新开始评选。"
     },
     "pic_game_settlement_button": {
       "id": "pic_game_settlement_button",
-      "msg": "本次评选超时，视为放弃。请重新开始评选。"
+      "msg": "正在结算"
     },
     "pic_game_settlement_tips": {
       "id": "pic_game_settlement_tips",
-      "msg": "正在结算"
+      "msg": "本期评选已结束，正在进行排名结算。"
     },
     "pic_game_submit_reward_preview": {
       "id": "pic_game_submit_reward_preview",
-      "msg": "本期评选已结束，正在进行排名结算。"
+      "msg": "奖励预览"
     },
     "pic_game_submit_reward_tittle": {
       "id": "pic_game_submit_reward_tittle",
-      "msg": "奖励预览"
+      "msg": "本期奖励"
     },
     "pic_game_submit_receive_award_bottom": {
       "id": "pic_game_submit_receive_award_bottom",
-      "msg": "本期奖励"
+      "msg": "向左滑动撕开"
     },
     "pic_game_submit_receive_award_percent": {
       "id": "pic_game_submit_receive_award_percent",
-      "msg": "向左滑动撕开"
+      "msg": "感谢您参与本期主题摄影评选赛。\n您的作品最终获得%s点热度值，排名前%s。\n\n以下是您的投稿奖励，请收下。"
     },
     "pic_game_submit_receive_award_rank": {
       "id": "pic_game_submit_receive_award_rank",
-      "msg": "感谢您参与本期主题摄影评选赛。\n您的作品最终获得%s点热度值，排名前%s。\n\n以下是您的投稿奖励，请收下。"
+      "msg": "感谢您参与本期主题摄影评选赛。\n您的作品最终获得%s点热度值，成功上榜第%s名，实在是太厉害啦！\n\n以下是您的投稿奖励，请收下。"
     },
     "pic_game_photo_error": {
       "id": "pic_game_photo_error",
-      "msg": "感谢您参与本期主题摄影评选赛。\n您的作品最终获得%s点热度值，成功上榜第%s名，实在是太厉害啦！\n\n以下是您的投稿奖励，请收下。"
+      "msg": "图片失效"
     },
     "pic_game_submit_already": {
       "id": "pic_game_submit_already",
-      "msg": "图片失效"
+      "msg": "已投稿"
     },
     "pic_game_submit_no_photo": {
       "id": "pic_game_submit_no_photo",
-      "msg": "已投稿"
+      "msg": "相册中未识别到有小洛克本人或精灵的照片，可前往大世界进行拍摄~"
     },
     "pic_game_rankboard_load_text": {
       "id": "pic_game_rankboard_load_text",
-      "msg": "相册中未识别到有小洛克本人或精灵的照片，可前往大世界进行拍摄~"
+      "msg": "排行榜加载中…"
     },
     "pic_game_submit_desc": {
       "id": "pic_game_submit_desc",
-      "msg": "排行榜加载中…"
+      "msg": "拍摄并上传符合主题情景的照片"
     },
     "pic_game_submit_time": {
       "id": "pic_game_submit_time",
-      "msg": "拍摄并上传符合主题情景的照片"
+      "msg": "投稿期："
     },
     "pic_game_submit_done_desc": {
       "id": "pic_game_submit_done_desc",
-      "msg": "投稿期："
+      "msg": "评选期即将开始，记得回来投出你的一票"
     },
     "pic_game_judge_time": {
       "id": "pic_game_judge_time",
-      "msg": "评选期即将开始，记得回来投出你的一票"
+      "msg": "评选期："
     },
     "pic_game_settlement_desc": {
       "id": "pic_game_settlement_desc",
-      "msg": "评选期："
+      "msg": "结算完成后可领奖"
     },
     "pic_game_settlement_time": {
       "id": "pic_game_settlement_time",
-      "msg": "结算完成后可领奖"
+      "msg": "结算期："
     },
     "pic_game_rest_time": {
       "id": "pic_game_rest_time",
-      "msg": "结算期："
+      "msg": "休赛期："
     },
     "pic_game_submit_reward_tab": {
       "id": "pic_game_submit_reward_tab",
-      "msg": "休赛期："
+      "msg": "投稿排名奖励"
     },
     "pic_game_judge_reward_tab": {
       "id": "pic_game_judge_reward_tab",
-      "msg": "投稿排名奖励"
+      "msg": "投票准确度奖励"
     },
     "pic_game_submit_reward_tips": {
       "id": "pic_game_submit_reward_tips",
-      "msg": "投票准确度奖励"
+      "msg": "评选期结束将开始结算摄影作品热度值排名。奖励结算完成后，可前往本活动界面领取排名对应最高档位的奖励。"
     },
     "pic_game_judge_reward_tips": {
       "id": "pic_game_judge_reward_tips",
-      "msg": "评选期结束将开始结算摄影作品热度值排名。奖励结算完成后，可前往本活动界面领取排名对应最高档位的奖励。"
+      "msg": "投票时选中热度更高的作品将积累准确度，准确度达到一定分数后可在投票见面中领取奖励。未领取的准确度奖励将在本期主题结束后通过邮件发放。"
     },
     "pic_game_judge_tips": {
       "id": "pic_game_judge_tips",
-      "msg": "投票时选中热度更高的作品将积累准确度，准确度达到一定分数后可在投票见面中领取奖励。未领取的准确度奖励将在本期主题结束后通过邮件发放。"
+      "msg": "请选择你认为更符合本期主题情景的摄影作品，投出宝贵的一票！"
     },
     "pic_game_judge_button_right": {
       "id": "pic_game_judge_button_right",
-      "msg": "请选择你认为更符合本期主题情景的摄影作品，投出宝贵的一票！"
+      "msg": "选右边"
     },
     "pic_game_judge_button_left": {
       "id": "pic_game_judge_button_left",
-      "msg": "选右边"
+      "msg": "选左边"
     },
     "pic_game_judge_giveup_title": {
       "id": "pic_game_judge_giveup_title",
-      "msg": "选左边"
+      "msg": "提示"
     },
     "pic_game_judge_giveup_text": {
       "id": "pic_game_judge_giveup_text",
-      "msg": "提示"
+      "msg": "退出投票界面视为本次投票弃权，已使用的推送次数不予返还，是否继续？"
     },
     "takephoto_reset_popup_titile": {
       "id": "takephoto_reset_popup_titile",
-      "msg": "退出投票界面视为本次投票弃权，已使用的推送次数不予返还，是否继续？"
+      "msg": "提示"
     },
     "takephoto_reset_popup_text": {
       "id": "takephoto_reset_popup_text",
-      "msg": "提示"
+      "msg": "是否要将所有的镜头相关设置重置回默认值？"
     },
     "pet_return_describe_tip": {
       "id": "pet_return_describe_tip",
-      "msg": "是否要将所有的镜头相关设置重置回默认值？"
+      "msg": "<span color=\"#d56c1f\">{0}</>受平衡性调整影响，<span color=\"#d56c1f\">{1}年{2}月{3}日{4}:{5}</>前可进行一次时光回溯\n回溯后该精灵将被还原至与你<span color=\"#d56c1f\">初次相遇</>时的状态。养成材料将被<span color=\"#d56c1f\">返还</>。"
     },
     "pet_return_describe_tip_title": {
       "id": "pet_return_describe_tip_title",
-      "msg": "<span color=\"#d56c1f\">{0}</>受平衡性调整影响，<span color=\"#d56c1f\">{1}年{2}月{3}日{4}:{5}</>前可进行一次时光回溯\n回溯后该精灵将被还原至与你<span color=\"#d56c1f\">初次相遇</>时的状态。养成材料将被<span color=\"#d56c1f\">返还</>。"
+      "msg": "规则介绍"
     },
     "pet_free_return_tip": {
       "id": "pet_free_return_tip",
-      "msg": "规则介绍"
+      "msg": "本次放生包含可<span color=\"#d56c1f\">时光回溯</>的精灵，放生返还中已包含回溯退回奖励"
     },
     "pet_return_time_tip": {
       "id": "pet_return_time_tip",
-      "msg": "本次放生包含可<span color=\"#d56c1f\">时光回溯</>的精灵，放生返还中已包含回溯退回奖励"
+      "msg": "<span color=\"#d56c1f\">%s</>可在<span color=\"#d56c1f\">%s</>前回溯"
     },
     "pet_return_check_title": {
       "id": "pet_return_check_title",
-      "msg": "<span color=\"#d56c1f\">%s</>可在<span color=\"#d56c1f\">%s</>前回溯"
+      "msg": "回溯后返还的材料"
     },
     "pet_return_free_title": {
       "id": "pet_return_free_title",
-      "msg": "回溯后返还的材料"
+      "msg": "时光回溯返还"
     },
     "pet_return_confiim_tip": {
       "id": "pet_return_confiim_tip",
-      "msg": "时光回溯返还"
+      "msg": "是否选为回溯对象"
     },
     "pet_return_filter_title": {
       "id": "pet_return_filter_title",
-      "msg": "是否选为回溯对象"
+      "msg": "时光回溯"
     },
     "pet_return_filter_tip": {
       "id": "pet_return_filter_tip",
-      "msg": "时光回溯"
+      "msg": "对于受平衡性调整影响被削弱的精灵，你可以在限定时间内进行时光回溯。\n回溯后精灵将被还原至<span color=\"#d56c1f\">初次相遇</>时候的状态，同时你为该精灵花费的养成材料将被<span color=\"#d56c1f\">返还</>。"
     },
     "ai_coach_1": {
       "id": "ai_coach_1",
-      "msg": "对于受平衡性调整影响被削弱的精灵，你可以在限定时间内进行时光回溯。\n回溯后精灵将被还原至<span color=\"#d56c1f\">初次相遇</>时候的状态，同时你为该精灵花费的养成材料将被<span color=\"#d56c1f\">返还</>。"
+      "msg": "「智能配队」"
     },
     "ai_coach_2": {
       "id": "ai_coach_2",
-      "msg": "「智能配队」"
+      "msg": "斯嘉丽"
     },
     "ai_coach_3": {
       "id": "ai_coach_3",
-      "msg": "斯嘉丽"
+      "msg": "试玩"
     },
     "ai_coach_4": {
       "id": "ai_coach_4",
-      "msg": "试玩"
+      "msg": "开启"
     },
     "ai_coach_5": {
       "id": "ai_coach_5",
-      "msg": "开启"
+      "msg": "关闭"
     },
     "ai_coach_6": {
       "id": "ai_coach_6",
-      "msg": "关闭"
+      "msg": "阵容预览"
     },
     "ai_coach_7": {
       "id": "ai_coach_7",
-      "msg": "阵容预览"
+      "msg": "已根据您的请求生成阵容，是否需要使用该推荐阵容？若不满足要求，可重新提问。"
     },
     "ai_coach_8": {
       "id": "ai_coach_8",
-      "msg": "已根据您的请求生成阵容，是否需要使用该推荐阵容？若不满足要求，可重新提问。"
+      "msg": "斯嘉丽推荐阵容"
     },
     "ai_coach_9": {
       "id": "ai_coach_9",
-      "msg": "斯嘉丽推荐阵容"
+      "msg": "重新提问"
     },
     "ai_coach_10": {
       "id": "ai_coach_10",
-      "msg": "重新提问"
+      "msg": "使用"
     },
     "ai_coach_11": {
       "id": "ai_coach_11",
-      "msg": "使用"
+      "msg": "已根据您的请求生成最新阵容，是否需要替换当前推荐阵容？若不满足要求，可重新提问。"
     },
     "ai_coach_12": {
       "id": "ai_coach_12",
-      "msg": "已根据您的请求生成最新阵容，是否需要替换当前推荐阵容？若不满足要求，可重新提问。"
+      "msg": "最新推荐阵容"
     },
     "ai_coach_13": {
       "id": "ai_coach_13",
-      "msg": "最新推荐阵容"
+      "msg": "当前推荐阵容"
     },
     "ai_coach_14": {
       "id": "ai_coach_14",
-      "msg": "当前推荐阵容"
+      "msg": "覆盖"
     },
     "ai_coach_15": {
       "id": "ai_coach_15",
-      "msg": "覆盖"
+      "msg": "《洛克王国：世界》智能npc斯嘉丽协议"
     },
     "ai_coach_16": {
       "id": "ai_coach_16",
-      "msg": "《洛克王国：世界》智能npc斯嘉丽协议"
+      "msg": "感谢您使用腾讯公司提供的《洛克王国：世界》智能npc斯嘉丽功能（“本功能”），请您认真阅读并同意本服务规则后使用本功能。如您继续使用本功能，将视为您同意本服务规则；如您不同意本服务规则，请停止使用该功能。除非法律法规另有强制性规定外，否则变更后的本服务规则一经公布即自动生效，成为本服务规则的一部分。在我们修改服务规则条款后，您继续使用本功能将被视作您已接受了修改后的条款。\n\n1、为使用本功能，您应依法承担信息安全义务，确保由您提供且用于本功能的内容均合法合规，不侵犯他人合法权益。\n\n2、为使用本功能，您应遵守《游戏许可及服务协议》的约定，包括但不限于：（1）不得利用本功能制作、复制、发布、传播法律、行政法规禁止的信息，不得利用本功能从事危害国家安全和利益、损害国家形象、侵害社会公共利益、扰乱经济和社会秩序、侵犯他人合法权益等法律、行政法规禁止的活动；（2）不得利用本功能制作、复制、发布、传播虚假新闻信息；（3）您用于本功能的内容应合法且不得侵犯他人合法权益要求；（4）不得实施法律法规规定的其他禁止行为。否则我们有权依据自身合理判断，对您采取警示、限制功能、删除相关功能、中止/终止服务、封禁账号等处置措施。\n\n3、您知悉并同意，我们可能会将您使用本功能生成的作品、内容用于《洛克王国：世界》和本功能的宣传推广、优化；为此，我们可自行、委托/授权第三方、和/或以其他方式与第三方合作，使用全部或部分前述作品的内容，使用方式包括但不限于修改、改编前述作品的内容，以各种方式进行公开传播、产品优化等。\n\n4、如您用于本功能的内容和本功能生成的作品内容中有腾讯公司及腾讯公司关联方享有知识产权的内容的，则您对该等内容的使用应事先取得腾讯公司同意。\n\n5、针对您使用本功能时用于本功能的内容，你知悉并同意我们可将其用于优化本功能服务。\n\n6、您在使用本功能时所产生的所有数据的相关合法权益归腾讯公司所有，但依法属于用户个人的除外。\n\n7、违规、侵权内容投诉、举报\n1）如您发现本服务或本服务生成内容存在违反法律法规、违反互联网或文化管理政策、违反社会公序良俗或影响社会正常运行的情形，或者侵犯了您的合法权益（包括但不限于知识产权、个人信息、肖像权、名誉权等）的，请您随时联系我们进行投诉、举报，我们将会尽快予以核查、确认，如发现确实存在您所投诉、举报的情形，我们将会立即采取停止生成、停止传输、消除违规内容等合理处置措施，并向您进行答复。一般而言，我们接到您的投诉、举报后，核查与反馈的时间不会超过 15 个工作日，如我们发现存在需要进一步核查的情况，也会及时先与您沟通目前处理情况。 \n2）如法律法规有所规定的，我们将会向有关部门报告我们在本服务或本服务生成内容发现的问题。\n3）投诉渠道\n您可以通过以下途径进行举报、投诉：https://kf.qq.com/\n\n8、本服务用途限制：功能仅供您为个人学习、娱乐使用，您不得将本功能及其一切生成内容作商业化用途。\n\n9、免责声明：本功能生成内容仅供参考及娱乐，不构成任何对您的有效建议，且我们不对本功能生成内容的真实性和准确性进行任何形式的承诺保证。\n\n10、知识产权归属：您使用本服务所生成内容的权利以及使用本服务所生成的内容中包含腾讯公司及腾讯公司关联方享有的知识产权（包括但不限于游戏玩法介绍、世界观、角色人物等其他游戏相关内容），均归属于腾讯公司所有。"
     },
     "ai_coach_17": {
       "id": "ai_coach_17",
-      "msg": "感谢您使用腾讯公司提供的《洛克王国：世界》智能npc斯嘉丽功能（“本功能”），请您认真阅读并同意本服务规则后使用本功能。如您继续使用本功能，将视为您同意本服务规则；如您不同意本服务规则，请停止使用该功能。除非法律法规另有强制性规定外，否则变更后的本服务规则一经公布即自动生效，成为本服务规则的一部分。在我们修改服务规则条款后，您继续使用本功能将被视作您已接受了修改后的条款。\n\n1、为使用本功能，您应依法承担信息安全义务，确保由您提供且用于本功能的内容均合法合规，不侵犯他人合法权益。\n\n2、为使用本功能，您应遵守《游戏许可及服务协议》的约定，包括但不限于：（1）不得利用本功能制作、复制、发布、传播法律、行政法规禁止的信息，不得利用本功能从事危害国家安全和利益、损害国家形象、侵害社会公共利益、扰乱经济和社会秩序、侵犯他人合法权益等法律、行政法规禁止的活动；（2）不得利用本功能制作、复制、发布、传播虚假新闻信息；（3）您用于本功能的内容应合法且不得侵犯他人合法权益要求；（4）不得实施法律法规规定的其他禁止行为。否则我们有权依据自身合理判断，对您采取警示、限制功能、删除相关功能、中止/终止服务、封禁账号等处置措施。\n\n3、您知悉并同意，我们可能会将您使用本功能生成的作品、内容用于《洛克王国：世界》和本功能的宣传推广、优化；为此，我们可自行、委托/授权第三方、和/或以其他方式与第三方合作，使用全部或部分前述作品的内容，使用方式包括但不限于修改、改编前述作品的内容，以各种方式进行公开传播、产品优化等。\n\n4、如您用于本功能的内容和本功能生成的作品内容中有腾讯公司及腾讯公司关联方享有知识产权的内容的，则您对该等内容的使用应事先取得腾讯公司同意。\n\n5、针对您使用本功能时用于本功能的内容，你知悉并同意我们可将其用于优化本功能服务。\n\n6、您在使用本功能时所产生的所有数据的相关合法权益归腾讯公司所有，但依法属于用户个人的除外。\n\n7、违规、侵权内容投诉、举报\n1）如您发现本服务或本服务生成内容存在违反法律法规、违反互联网或文化管理政策、违反社会公序良俗或影响社会正常运行的情形，或者侵犯了您的合法权益（包括但不限于知识产权、个人信息、肖像权、名誉权等）的，请您随时联系我们进行投诉、举报，我们将会尽快予以核查、确认，如发现确实存在您所投诉、举报的情形，我们将会立即采取停止生成、停止传输、消除违规内容等合理处置措施，并向您进行答复。一般而言，我们接到您的投诉、举报后，核查与反馈的时间不会超过 15 个工作日，如我们发现存在需要进一步核查的情况，也会及时先与您沟通目前处理情况。 \n2）如法律法规有所规定的，我们将会向有关部门报告我们在本服务或本服务生成内容发现的问题。\n3）投诉渠道\n您可以通过以下途径进行举报、投诉：https://kf.qq.com/\n\n8、本服务用途限制：功能仅供您为个人学习、娱乐使用，您不得将本功能及其一切生成内容作商业化用途。\n\n9、免责声明：本功能生成内容仅供参考及娱乐，不构成任何对您的有效建议，且我们不对本功能生成内容的真实性和准确性进行任何形式的承诺保证。\n\n10、知识产权归属：您使用本服务所生成内容的权利以及使用本服务所生成的内容中包含腾讯公司及腾讯公司关联方享有的知识产权（包括但不限于游戏玩法介绍、世界观、角色人物等其他游戏相关内容），均归属于腾讯公司所有。"
+      "msg": "同意并开启"
     },
     "ai_coach_18": {
       "id": "ai_coach_18",
-      "msg": "同意并开启"
+      "msg": "斯嘉丽"
     },
     "ai_coach_19": {
       "id": "ai_coach_19",
-      "msg": "斯嘉丽"
+      "msg": "试试点击我的头像说“推荐一套热门阵容”吧！"
     },
     "relationtree_player_stranger_option": {
       "id": "relationtree_player_stranger_option",
-      "msg": "试试点击我的头像说“推荐一套热门阵容”吧！"
+      "msg": "你好"
     },
     "pet_return_ban_tongxing": {
       "id": "pet_return_ban_tongxing",
-      "msg": "你好"
+      "msg": "此精灵在同行任务中，无法回溯"
     },
     "pet_return_ban_tag": {
       "id": "pet_return_ban_tag",
-      "msg": "此精灵在同行任务中，无法回溯"
+      "msg": "精灵已被标记，无法回溯"
     },
     "pet_return_ban_activity": {
       "id": "pet_return_ban_activity",
-      "msg": "精灵已被标记，无法回溯"
+      "msg": "活动精灵，无法回溯"
     },
     "pet_return_ban_travel": {
       "id": "pet_return_ban_travel",
-      "msg": "活动精灵，无法回溯"
+      "msg": "精灵正在旅游，无法回溯"
     },
     "pet_return_ban_special": {
       "id": "pet_return_ban_special",
-      "msg": "精灵正在旅游，无法回溯"
+      "msg": "特殊精灵，无法回溯"
     },
     "mark_video_item_disk": {
       "id": "mark_video_item_disk",
-      "msg": "特殊精灵，无法回溯"
+      "msg": "留影上传失败，留影沙漏已返还"
     },
     "Error_Code_50762": {
       "id": "Error_Code_50762",
-      "msg": "留影上传失败，留影沙漏已返还"
+      "msg": "当前点位标记失败，请更换点位重试"
     },
     "weather_desc_id_1": {
       "id": "weather_desc_id_1",
-      "msg": "当前点位标记失败，请更换点位重试"
+      "msg": "双方的地系技能能耗减半。"
     },
     "weather_desc_id_2": {
       "id": "weather_desc_id_2",
-      "msg": "双方的地系技能能耗减半。"
+      "msg": "双方每回合结束获得2层冻结。（冰系精灵免疫此效果）"
     },
     "weather_desc_id_3": {
       "id": "weather_desc_id_3",
-      "msg": "双方每回合结束获得2层冻结。（冰系精灵免疫此效果）"
+      "msg": "双方的水系技能威力+75%。"
     },
     "weather_name_id_1": {
       "id": "weather_name_id_1",
-      "msg": "双方的水系技能威力+75%。"
+      "msg": "沙暴"
     },
     "weather_name_id_2": {
       "id": "weather_name_id_2",
-      "msg": "沙暴"
+      "msg": "暴风雪"
     },
     "weather_name_id_3": {
       "id": "weather_name_id_3",
-      "msg": "暴风雪"
+      "msg": "雨天"
     },
     "Error_Code_20500": {
       "id": "Error_Code_20500",
-      "msg": "雨天"
+      "msg": "星光功能暂未开启"
     },
     "Error_Code_20502": {
       "id": "Error_Code_20502",
-      "msg": "星光功能暂未开启"
+      "msg": "星光凝结功能暂未开启"
     },
     "Activity_New_player_unlock_group_tips": {
       "id": "Activity_New_player_unlock_group_tips",
-      "msg": "星光凝结功能暂未开启"
+      "msg": "未解锁"
     },
     "Activity_sign_reward_time": {
       "id": "Activity_sign_reward_time",
-      "msg": "未解锁"
+      "msg": "<span color=\"#ffc65fff\" size=\"18\">%s后</>"
     },
     "HatchProgressAdd_1": {
       "id": "HatchProgressAdd_1",
-      "msg": "<span color=\"#ffc65fff\" size=\"18\">%s后</>"
+      "msg": "请选择加快不同孵化进度的道具"
     },
     "HatchProgressAdd_2": {
       "id": "HatchProgressAdd_2",
-      "msg": "请选择加快不同孵化进度的道具"
+      "msg": "加快孵化进度"
     },
     "HatchProgressAdd_3": {
       "id": "HatchProgressAdd_3",
-      "msg": "加快孵化进度"
+      "msg": "已选数量：%d"
     },
     "HatchProgressAdd_4": {
       "id": "HatchProgressAdd_4",
-      "msg": "已选数量：%d"
+      "msg": "已加快%d%%的孵化进度"
     },
     "FlowerHard_RewardTag_Medal": {
       "id": "FlowerHard_RewardTag_Medal",
-      "msg": "已加快%d%%的孵化进度"
+      "msg": "单人"
     },
     "FlowerHard_RewardTag_First": {
       "id": "FlowerHard_RewardTag_First",
-      "msg": "单人"
+      "msg": "首通"
     },
     "dressup_suits_ticket_btn_text": {
       "id": "dressup_suits_ticket_btn_text",
-      "msg": "首通"
+      "msg": "前往兑换"
     },
     "Error_Code_2529": {
       "id": "Error_Code_2529",
-      "msg": "前往兑换"
+      "msg": "操作失败，请稍后再试。"
     },
     "bottle_time_tip": {
       "id": "bottle_time_tip",
-      "msg": "操作失败，请稍后再试。"
+      "msg": "每局战斗只能使用1次恢复瓶~"
     },
     "home_plant_shop_sell_num_max_tips": {
       "id": "home_plant_shop_sell_num_max_tips",
-      "msg": "每局战斗只能使用1次恢复瓶~"
+      "msg": "当前出售数量已达今日上限~"
     },
     "Error_Code_50151": {
       "id": "Error_Code_50151",
-      "msg": "当前出售数量已达今日上限~"
+      "msg": "访客已离开当前世界。"
     },
     "Error_Code_50770": {
       "id": "Error_Code_50770",
-      "msg": "访客已离开当前世界。"
+      "msg": "当前场景无法进行同行传送。"
     },
     "Error_Code_2470": {
       "id": "Error_Code_2470",
-      "msg": "当前场景无法进行同行传送。"
+      "msg": "好友已锁定赛季通行证主题"
     },
     "warehouse_unlock_cost_text": {
       "id": "warehouse_unlock_cost_text",
-      "msg": "好友已锁定赛季通行证主题"
+      "msg": "消耗<span color=\"#d56c1f\">%s%s</>解锁一个新的盒子"
     },
     "furniture_filter_title": {
       "id": "furniture_filter_title",
-      "msg": "消耗<span color=\"#d56c1f\">%s%s</>解锁一个新的盒子"
+      "msg": "%s筛选"
     },
     "pet_trip_1": {
       "id": "pet_trip_1",
-      "msg": "%s筛选"
+      "msg": "累计%s解锁奖励许愿"
     },
     "pet_trip_2": {
       "id": "pet_trip_2",
-      "msg": "累计%s解锁奖励许愿"
+      "msg": "%s/%s"
     },
     "pet_trip_3": {
       "id": "pet_trip_3",
-      "msg": "%s/%s"
+      "msg": "游玩倒计时：%s天"
     },
     "pet_trip_4": {
       "id": "pet_trip_4",
-      "msg": "游玩倒计时：%s天"
+      "msg": "前往乐园"
     },
     "pet_trip_5": {
       "id": "pet_trip_5",
-      "msg": "前往乐园"
+      "msg": "奖励许愿"
     },
     "pet_trip_6": {
       "id": "pet_trip_6",
-      "msg": "奖励许愿"
+      "msg": "我的许愿"
     },
     "pet_trip_7": {
       "id": "pet_trip_7",
-      "msg": "我的许愿"
+      "msg": "%s开奖"
     },
     "pet_trip_8": {
       "id": "pet_trip_8",
-      "msg": "%s开奖"
+      "msg": "前往领奖"
     },
     "pet_trip_9": {
       "id": "pet_trip_9",
-      "msg": "前往领奖"
+      "msg": "选择一个奖励<span color=\"#d56c1f\">进行许愿</>"
     },
     "pet_trip_10": {
       "id": "pet_trip_10",
-      "msg": "选择一个奖励<span color=\"#d56c1f\">进行许愿</>"
+      "msg": "奖励数量：%s份"
     },
     "pet_trip_11": {
       "id": "pet_trip_11",
-      "msg": "奖励数量：%s份"
+      "msg": "许愿人数：%s"
     },
     "pet_trip_12": {
       "id": "pet_trip_12",
-      "msg": "许愿人数：%s"
+      "msg": "许愿人数：%s万"
     },
     "pet_trip_13": {
       "id": "pet_trip_13",
-      "msg": "许愿人数：%s万"
+      "msg": "限定"
     },
     "pet_trip_14": {
       "id": "pet_trip_14",
-      "msg": "限定"
+      "msg": "惊喜"
     },
     "pet_trip_15": {
       "id": "pet_trip_15",
-      "msg": "惊喜"
+      "msg": "纪念"
     },
     "pet_trip_16": {
       "id": "pet_trip_16",
-      "msg": "纪念"
+      "msg": "游玩结束前可<span color=\"#d56c1f\">随时更改</>"
     },
     "pet_trip_17": {
       "id": "pet_trip_17",
-      "msg": "游玩结束前可<span color=\"#d56c1f\">随时更改</>"
+      "msg": "确认选择"
     },
     "pet_trip_18": {
       "id": "pet_trip_18",
-      "msg": "确认选择"
+      "msg": "恭喜你中奖了"
     },
     "pet_trip_19": {
       "id": "pet_trip_19",
-      "msg": "恭喜你中奖了"
+      "msg": "领取"
     },
     "pet_trip_20": {
       "id": "pet_trip_20",
-      "msg": "领取"
+      "msg": "当前愉悦值：%s"
     },
     "pet_trip_21": {
       "id": "pet_trip_21",
-      "msg": "当前愉悦值：%s"
+      "msg": "精灵数量：%s/%s"
     },
     "pet_trip_22": {
       "id": "pet_trip_22",
-      "msg": "精灵数量：%s/%s"
+      "msg": "精灵礼物"
     },
     "pet_trip_23": {
       "id": "pet_trip_23",
-      "msg": "精灵礼物"
+      "msg": "选择精灵"
     },
     "pet_trip_24": {
       "id": "pet_trip_24",
-      "msg": "选择精灵"
+      "msg": "%s/%s"
     },
     "pet_trip_25": {
       "id": "pet_trip_25",
-      "msg": "%s/%s"
+      "msg": "愉悦值达到<span color=\"#d56c1f\">%s</>可解锁游玩名额<span color=\"#d56c1f\">+%s</>"
     },
     "pet_trip_26": {
       "id": "pet_trip_26",
-      "msg": "愉悦值达到<span color=\"#d56c1f\">%s</>可解锁游玩名额<span color=\"#d56c1f\">+%s</>"
+      "msg": "游玩记录"
     },
     "pet_trip_27": {
       "id": "pet_trip_27",
-      "msg": "游玩记录"
+      "msg": "游玩精灵信息"
     },
     "pet_trip_28": {
       "id": "pet_trip_28",
-      "msg": "游玩精灵信息"
+      "msg": "获得愉悦值"
     },
     "pet_trip_29": {
       "id": "pet_trip_29",
-      "msg": "获得愉悦值"
+      "msg": "游玩时长"
     },
     "pet_trip_30": {
       "id": "pet_trip_30",
-      "msg": "游玩时长"
+      "msg": "离开时间"
     },
     "pet_trip_31": {
       "id": "pet_trip_31",
-      "msg": "离开时间"
+      "msg": "%s年%s月%s日\n%s"
     },
     "pet_trip_32": {
       "id": "pet_trip_32",
-      "msg": "%s年%s月%s日\n%s"
+      "msg": "编队仓库"
     },
     "pet_trip_33": {
       "id": "pet_trip_33",
-      "msg": "编队仓库"
+      "msg": "根据精灵的不同特质，精灵的游玩时长也会有不同的变化"
     },
     "pet_trip_34": {
       "id": "pet_trip_34",
-      "msg": "根据精灵的不同特质，精灵的游玩时长也会有不同的变化"
+      "msg": "自动派出"
     },
     "pet_trip_35": {
       "id": "pet_trip_35",
-      "msg": "自动派出"
+      "msg": "一键选择"
     },
     "pet_trip_36": {
       "id": "pet_trip_36",
-      "msg": "一键选择"
+      "msg": "出发"
     },
     "pet_trip_37": {
       "id": "pet_trip_37",
-      "msg": "出发"
+      "msg": "活动回顾"
     },
     "pet_trip_38": {
       "id": "pet_trip_38",
-      "msg": "活动回顾"
+      "msg": "已获奖"
     },
     "pet_trip_39": {
       "id": "pet_trip_39",
-      "msg": "已获奖"
+      "msg": "未参与"
     },
     "pet_trip_40": {
       "id": "pet_trip_40",
-      "msg": "未参与"
+      "msg": "%s/%s/%s-%s/%s/%s"
     },
     "pet_trip_41": {
       "id": "pet_trip_41",
-      "msg": "%s/%s/%s-%s/%s/%s"
+      "msg": "累计组织了%s只精灵出发旅行"
     },
     "pet_trip_42": {
       "id": "pet_trip_42",
-      "msg": "累计组织了%s只精灵出发旅行"
+      "msg": "累计获得了%s愉悦值"
     },
     "pet_trip_43": {
       "id": "pet_trip_43",
-      "msg": "累计获得了%s愉悦值"
+      "msg": "累计收到了%s份精灵礼物"
     },
     "furniture_filter_rule": {
       "id": "furniture_filter_rule",
-      "msg": "累计收到了%s份精灵礼物"
+      "msg": "筛选规则"
     },
     "furniture_filter_all": {
       "id": "furniture_filter_all",
-      "msg": "筛选规则"
+      "msg": "全部"
     },
     "activity_pet_information_catch_tips": {
       "id": "activity_pet_information_catch_tips",
-      "msg": "全部"
+      "msg": "捕捉以下精灵可获得额外的狐主任货币噢"
     },
     "pet_trip_44": {
       "id": "pet_trip_44",
-      "msg": "捕捉以下精灵可获得额外的狐主任货币噢"
+      "msg": "%s开心的进来游玩了"
     },
     "pet_trip_45": {
       "id": "pet_trip_45",
-      "msg": "%s开心的进来游玩了"
+      "msg": "有%d只精灵进入乐园游玩了~"
     },
     "pet_trip_46": {
       "id": "pet_trip_46",
-      "msg": "有%d只精灵进入乐园游玩了~"
+      "msg": "该精灵当前在书中世界探险，待精灵离开乐园后才可进行该操作"
     },
     "pet_trip_47": {
       "id": "pet_trip_47",
-      "msg": "该精灵当前在书中世界探险，待精灵离开乐园后才可进行该操作"
+      "msg": "是否取消自动派出功能，取消后需手动送精灵入乐园游玩"
     },
     "pet_trip_48": {
       "id": "pet_trip_48",
-      "msg": "是否取消自动派出功能，取消后需手动送精灵入乐园游玩"
+      "msg": "确认"
     },
     "pet_trip_49": {
       "id": "pet_trip_49",
-      "msg": "确认"
+      "msg": "取消"
     },
     "pet_trip_50": {
       "id": "pet_trip_50",
-      "msg": "取消"
+      "msg": "当前还未选择任何精灵哦"
     },
     "pet_trip_51": {
       "id": "pet_trip_51",
-      "msg": "当前还未选择任何精灵哦"
+      "msg": "是否开启自动派出功能，开启后背包精灵将在乐园空余时自动游玩"
     },
     "pet_trip_52": {
       "id": "pet_trip_52",
-      "msg": "是否开启自动派出功能，开启后背包精灵将在乐园空余时自动游玩"
+      "msg": "精灵的默认游玩时长为<span color=\"#d56c1f\">8小时</>。\n若精灵拥有以下特质，可叠加提升游玩时长：\n「异色」：+4小时\n「炫彩」：+2小时\n「噩梦污染」：+2小时\n「首领血脉」：+1小时\n「传说精灵」：+1小时\n「成长星级>=1」：+1小时\n「了不起的天分」：+1小时"
     },
     "pet_trip_53": {
       "id": "pet_trip_53",
-      "msg": "精灵的默认游玩时长为<span color=\"#d56c1f\">8小时</>。\n若精灵拥有以下特质，可叠加提升游玩时长：\n「异色」：+4小时\n「炫彩」：+2小时\n「噩梦污染」：+2小时\n「首领血脉」：+1小时\n「传说精灵」：+1小时\n「成长星级>=1」：+1小时\n「了不起的天分」：+1小时"
+      "msg": "当前乐园内游玩名额已满"
     },
     "pet_trip_54": {
       "id": "pet_trip_54",
-      "msg": "当前乐园内游玩名额已满"
+      "msg": "该精灵正在书中世界探险，待精灵离开乐园后才可进行此操作"
     },
     "pet_trip_55": {
       "id": "pet_trip_55",
-      "msg": "该精灵正在书中世界探险，待精灵离开乐园后才可进行此操作"
+      "msg": "游玩已结束"
     },
     "pet_trip_56": {
       "id": "pet_trip_56",
-      "msg": "游玩已结束"
+      "msg": "人气第一"
     },
     "pet_trip_57": {
       "id": "pet_trip_57",
-      "msg": "人气第一"
+      "msg": "天选之礼"
     },
     "pet_trip_58": {
       "id": "pet_trip_58",
-      "msg": "天选之礼"
+      "msg": "知己之藏"
     },
     "recall_bp_welcome": {
       "id": "recall_bp_welcome",
-      "msg": "知己之藏"
+      "msg": "小同学，这份手册能帮助你重新回忆起冒险需要的本领哦！当然，完成后的奖励也是必不可少的咕~"
     },
     "recall_bp_finaltask": {
       "id": "recall_bp_finaltask",
-      "msg": "小同学，这份手册能帮助你重新回忆起冒险需要的本领哦！当然，完成后的奖励也是必不可少的咕~"
+      "msg": "最终课题"
     },
     "recall_bp_dailytask": {
       "id": "recall_bp_dailytask",
-      "msg": "最终课题"
+      "msg": "每日练习"
     },
     "bp_friend_another_button": {
       "id": "bp_friend_another_button",
-      "msg": "每日练习"
+      "msg": "已选好友数:{0}"
     },
     "bp_friend_another_title": {
       "id": "bp_friend_another_title",
-      "msg": "已选好友数:{0}"
+      "msg": "选择%s的好友"
     },
     "bp_friend_another_none": {
       "id": "bp_friend_another_none",
-      "msg": "选择%s的好友"
+      "msg": "暂无魔法师"
     },
     "jump_to_locked_area_handbook": {
       "id": "jump_to_locked_area_handbook",
-      "msg": "暂无魔法师"
+      "msg": "该地区图鉴尚未解锁"
     },
     "trace_collectibles_not_found": {
       "id": "trace_collectibles_not_found",
-      "msg": "该地区图鉴尚未解锁"
+      "msg": "当前世界上已经没有%s了，等待它慢慢出现吧~"
     },
     "recall_bp_buy_window": {
       "id": "recall_bp_buy_window",
-      "msg": "当前世界上已经没有%s了，等待它慢慢出现吧~"
+      "msg": "兑换详情"
     },
     "recall_bp_consider_button": {
       "id": "recall_bp_consider_button",
-      "msg": "兑换详情"
+      "msg": "我再想想"
     },
     "recall_bp_buyconfirm_button": {
       "id": "recall_bp_buyconfirm_button",
-      "msg": "我再想想"
+      "msg": "购买"
     },
     "recall_haoyoushu_starbuff": {
       "id": "recall_haoyoushu_starbuff",
-      "msg": "购买"
+      "msg": "星光效率+25%"
     },
     "activity_pet_information_reward_tips": {
       "id": "activity_pet_information_reward_tips",
-      "msg": "星光效率+25%"
+      "msg": "完成任务可获得奖励"
     },
     "recall_pet_choose_tips": {
       "id": "recall_pet_choose_tips",
-      "msg": "完成任务可获得奖励"
+      "msg": "也许你曾错过了与他们的命定相逢，这次归来不再遗憾！选择一只精灵获取其精灵蛋，孵化后必为<span color=\"#d56c1f\">炫彩精灵</>，必为<span color=\"#d56c1f\">了不起的天分</>。"
     },
     "quit_undo_transform": {
       "id": "quit_undo_transform",
-      "msg": "也许你曾错过了与他们的命定相逢，这次归来不再遗憾！选择一只精灵获取其精灵蛋，孵化后必为<span color=\"#d56c1f\">炫彩精灵</>，必为<span color=\"#d56c1f\">了不起的天分</>。"
+      "msg": "已离开羽毛大乱斗活动区域，变身状态解除"
     },
     "collide_undo_transform": {
       "id": "collide_undo_transform",
-      "msg": "已离开羽毛大乱斗活动区域，变身状态解除"
+      "msg": "被紫翎鹰捕获，变身状态解除"
     },
     "end_undo_transform": {
       "id": "end_undo_transform",
-      "msg": "被紫翎鹰捕获，变身状态解除"
+      "msg": "今日活动时间结束，变身状态解除"
     },
     "USSDK_Share_Title": {
       "id": "USSDK_Share_Title",
-      "msg": "今日活动时间结束，变身状态解除"
+      "msg": "洛克王国：世界"
     },
     "USSDK_Share_Content": {
       "id": "USSDK_Share_Content",
-      "msg": "洛克王国：世界"
+      "msg": "新鲜事来洛！"
     },
     "pet_return_ban_guard": {
       "id": "pet_return_ban_guard",
-      "msg": "新鲜事来洛！"
+      "msg": "精灵正在种植园守卫中，无法回溯"
     },
     "cant_cache_box_elite_in_battle": {
       "id": "cant_cache_box_elite_in_battle",
-      "msg": "精灵正在种植园守卫中，无法回溯"
+      "msg": "这只精灵正受到魔力波动的影响，无法捕捉"
     },
     "BP_rule_tips_23002": {
       "id": "BP_rule_tips_23002",
-      "msg": "这只精灵正受到魔力波动的影响，无法捕捉"
+      "msg": "<span color=\"#d56c1f\">狂欢通行证</>\n本次通行证提供了两种主题！\n盛夏主题：爆焰喷喷。\n严冬主题：雪怪。\n\n<span color=\"#d56c1f\">狂欢通行证规则说明</>\n通行证分为“盛夏”和“严冬”主题，洛克们可二选一。\n发行方将赠予每位小洛克官方指定的“基础礼券”。\n提升通行证等级，可领取礼券所对应的各种奖励。还可购买“（闪耀）契约礼券”来解锁更多更丰厚的奖励。\n请注意！解锁对应主题礼券后，将锁定所选主题，不可再进行主题切换。\n（闪耀）契约礼券是发行方为小洛克准备的进阶馈礼，购买并提升等级，就可获得所选主题对应的限定明星精灵。购买双人（闪耀）契约礼券，在解锁进阶礼券时，可获得另一主题对应档位副券，在背包中使用赠予好友，受赠者可免费解锁对应主题档位礼券。所有礼券在通行证结束48小时前下架。\n\n<span color=\"#d56c1f\">副券赠送说明</>\n将副券赠送给好友时需满足一定的条件限制：需要解锁与好友在社交关系树中的私聊功能，成为好友超过12小时且好友的魔法师等级达到12级。<span color=\"#d56c1f\">若对方已解锁任意主题礼券，将无法再获赠副券。</>\n若副券在24小时内未被获赠方领取，将通过邮件自动退回。邮件有效期为365天，请及时领取。\n\n副券仅在对应赛季期间内有效。契约副券过期后将转化为410洛克钻，闪耀契约副券过期后将转化为820洛克钻，请及时使用或赠送。\n副券过期后，兑换记录可在「背包 - 重要」页签中查看。查看后将不再提示。\n从邮件中领取的退回副券，若因赛季更迭已过期，将自动兑换为等价洛克钻。兑换记录可在「背包 - 重要」页签中查看。查看后将不再提示。\n\n<span color=\"#d56c1f\">等级说明</>\n等级越高，发行方回馈的奖励就越多。\n可以通过以下主要途径来提升等级：进行各种可以磨练和证明魔法师实力的行为，如捕捉精灵、挑战稀兽花种、挑战首领精灵等。\n\n<span color=\"#d56c1f\">任务说明</>\n日常任务每日04:00(UTC +8)发布。\n热力勋印获取受周热力勋印上限约束。周热力勋印上限刷新时间为每周一04:00(UTC +8)。所有任务随当期通行证结束一起关闭。\n\n<span color=\"#d56c1f\">特殊说明</>\n通行证结束后，已解锁但未领取的奖励将通过邮件发送至邮箱当中，邮件有效期为365天，请及时领取。\n好友锁定主题信息的更新存在短暂延迟，并非实时同步。"
     },
     "cant_change_pet03": {
       "id": "cant_change_pet03",
-      "msg": "<span color=\"#d56c1f\">狂欢通行证</>\n本次通行证提供了两种主题！\n盛夏主题：爆焰喷喷。\n严冬主题：雪怪。\n\n<span color=\"#d56c1f\">狂欢通行证规则说明</>\n通行证分为“盛夏”和“严冬”主题，洛克们可二选一。\n发行方将赠予每位小洛克官方指定的“基础礼券”。\n提升通行证等级，可领取礼券所对应的各种奖励。还可购买“（闪耀）契约礼券”来解锁更多更丰厚的奖励。\n请注意！解锁对应主题礼券后，将锁定所选主题，不可再进行主题切换。\n（闪耀）契约礼券是发行方为小洛克准备的进阶馈礼，购买并提升等级，就可获得所选主题对应的限定明星精灵。购买双人（闪耀）契约礼券，在解锁进阶礼券时，可获得另一主题对应档位副券，在背包中使用赠予好友，受赠者可免费解锁对应主题档位礼券。所有礼券在通行证结束48小时前下架。\n\n<span color=\"#d56c1f\">副券赠送说明</>\n将副券赠送给好友时需满足一定的条件限制：需要解锁与好友在社交关系树中的私聊功能，成为好友超过12小时且好友的魔法师等级达到12级。<span color=\"#d56c1f\">若对方已解锁任意主题礼券，将无法再获赠副券。</>\n若副券在24小时内未被获赠方领取，将通过邮件自动退回。邮件有效期为365天，请及时领取。\n\n副券仅在对应赛季期间内有效。契约副券过期后将转化为410洛克钻，闪耀契约副券过期后将转化为820洛克钻，请及时使用或赠送。\n副券过期后，兑换记录可在「背包 - 重要」页签中查看。查看后将不再提示。\n从邮件中领取的退回副券，若因赛季更迭已过期，将自动兑换为等价洛克钻。兑换记录可在「背包 - 重要」页签中查看。查看后将不再提示。\n\n<span color=\"#d56c1f\">等级说明</>\n等级越高，发行方回馈的奖励就越多。\n可以通过以下主要途径来提升等级：进行各种可以磨练和证明魔法师实力的行为，如捕捉精灵、挑战稀兽花种、挑战首领精灵等。\n\n<span color=\"#d56c1f\">任务说明</>\n日常任务每日04:00(UTC +8)发布。\n热力勋印获取受周热力勋印上限约束。周热力勋印上限刷新时间为每周一04:00(UTC +8)。所有任务随当期通行证结束一起关闭。\n\n<span color=\"#d56c1f\">特殊说明</>\n通行证结束后，已解锁但未领取的奖励将通过邮件发送至邮箱当中，邮件有效期为365天，请及时领取。\n好友锁定主题信息的更新存在短暂延迟，并非实时同步。"
+      "msg": "吓人箱的对决中无法更换哦~"
     },
     "revert_dress_up_popup_text": {
       "id": "revert_dress_up_popup_text",
-      "msg": "吓人箱的对决中无法更换哦~"
+      "msg": "将会还原成上次保存前的外观装扮，是否确认还原?"
     },
     "grass_trial_pause_challenge": {
       "id": "grass_trial_pause_challenge",
-      "msg": "将会还原成上次保存前的外观装扮，是否确认还原?"
+      "msg": "暂离"
     },
     "grass_trial_abandon_challenge": {
       "id": "grass_trial_abandon_challenge",
-      "msg": "暂离"
+      "msg": "结束并结算"
     },
     "grass_trial_abandon_info": {
       "id": "grass_trial_abandon_info",
-      "msg": "结束并结算"
+      "msg": "结束挑战将视为挑战失败，仅结算积分奖励并重置挑战进度\n是否继续"
     },
     "grass_trial_exit_info": {
       "id": "grass_trial_exit_info",
-      "msg": "结束挑战将视为挑战失败，仅结算积分奖励并重置挑战进度\n是否继续"
+      "msg": "退出挑战？"
     },
     "activity_pet_information_pet_txt": {
       "id": "activity_pet_information_pet_txt",
-      "msg": "退出挑战？"
+      "msg": "卡洛西亚大陆热传精灵鉴定"
     },
     "RLTT_Error_Code_2328": {
       "id": "RLTT_Error_Code_2328",
-      "msg": "卡洛西亚大陆热传精灵鉴定"
+      "msg": "信用分不足无法申请"
     },
     "RLTT_Error_Code_13025": {
       "id": "RLTT_Error_Code_13025",
-      "msg": "信用分不足无法申请"
+      "msg": "对方设置不可添加好友"
     },
     "invite_friend_time_tips": {
       "id": "invite_friend_time_tips",
-      "msg": "对方设置不可添加好友"
+      "msg": "已邀请好友数：%d位"
     },
     "invite_friend_reward_limit": {
       "id": "invite_friend_reward_limit",
-      "msg": "已邀请好友数：%d位"
+      "msg": "最多可领取%d/%d次"
     },
     "activity_goods_task_tips": {
       "id": "activity_goods_task_tips",
-      "msg": "最多可领取%d/%d次"
+      "msg": "契约礼券10级"
     },
     "dungeon_enemy_level_description": {
       "id": "dungeon_enemy_level_description",
-      "msg": "契约礼券10级"
+      "msg": "对手等级 %s"
     },
     "visitor_state_season_slot_skip_unsuccess_tips": {
       "id": "visitor_state_season_slot_skip_unsuccess_tips",
-      "msg": "对手等级 %s"
+      "msg": "回到自己世界后再前往吧~"
     },
     "grass_trial_feature_title": {
       "id": "grass_trial_feature_title",
-      "msg": "回到自己世界后再前往吧~"
+      "msg": "拥有特性 x%s"
     },
     "grass_trial_skill_title": {
       "id": "grass_trial_skill_title",
-      "msg": "拥有特性 x%s"
+      "msg": "拥有技能 x%s"
     },
     "grass_trial_tips": {
       "id": "grass_trial_tips",
-      "msg": "拥有技能 x%s"
+      "msg": "草系勋章效果"
     },
     "taptap_rating_title": {
       "id": "taptap_rating_title",
-      "msg": "草系勋章效果"
+      "msg": "TAPTAP评分请求"
     },
     "taptap_rating_txt": {
       "id": "taptap_rating_txt",
-      "msg": "TAPTAP评分请求"
+      "msg": "喜欢“洛克王国：世界”吗？\n前往TAPTAP中评分将帮助我们更好地完善玩家体验。"
     },
     "Error_Code_50285": {
       "id": "Error_Code_50285",
-      "msg": "喜欢“洛克王国：世界”吗？\n前往TAPTAP中评分将帮助我们更好地完善玩家体验。"
+      "msg": "其他玩家已占用，请稍后重试"
     },
     "enter_area_visible": {
       "id": "enter_area_visible",
-      "msg": "其他玩家已占用，请稍后重试"
+      "msg": "进入互见区，已自动回收放置道具"
     },
     "leave_area_visible": {
       "id": "leave_area_visible",
-      "msg": "进入互见区，已自动回收放置道具"
+      "msg": "离开互见区，已自动回收放置道具"
     },
     "Pet_Share_NUM_Txt": {
       "id": "Pet_Share_NUM_Txt",
-      "msg": "离开互见区，已自动回收放置道具"
+      "msg": "%s的第 <Orange>%s</> 只精灵伙伴"
     },
     "message_wand_null_remind_text": {
       "id": "message_wand_null_remind_text",
-      "msg": "%s的第 <Orange>%s</> 只精灵伙伴"
+      "msg": "请输入文本内容"
     },
     "bag_UpperText": {
       "id": "bag_UpperText",
-      "msg": "请输入文本内容"
+      "msg": "存储数量"
     },
     "pet_return_tend_tip": {
       "id": "pet_return_tend_tip",
-      "msg": "存储数量"
+      "msg": "时光回溯时段已结束"
     },
     "prop_load": {
       "id": "prop_load",
-      "msg": "时光回溯时段已结束"
+      "msg": "正在加载中，请稍后再试"
     },
     "abnormal_status_fobid_tips": {
       "id": "abnormal_status_fobid_tips",
-      "msg": "正在加载中，请稍后再试"
+      "msg": "当前无法催眠玩家请等待一段时间再释放魔法吧"
     },
     "pet_return_ban_home": {
       "id": "pet_return_ban_home",
-      "msg": "当前无法催眠玩家请等待一段时间再释放魔法吧"
+      "msg": "精灵正在家园中，无法回溯"
     },
     "activity_preheat_task_unlock_tips": {
       "id": "activity_preheat_task_unlock_tips",
-      "msg": "精灵正在家园中，无法回溯"
+      "msg": "还没加入出版社呢，请先去找莫里亚克吧~"
     },
     "prop_put_set": {
       "id": "prop_put_set",
-      "msg": "还没加入出版社呢，请先去找莫里亚克吧~"
+      "msg": "道具放置模式"
     },
     "prop_put_auto": {
       "id": "prop_put_auto",
-      "msg": "道具放置模式"
+      "msg": "自动放置"
     },
     "prop_put_free": {
       "id": "prop_put_free",
-      "msg": "自动放置"
+      "msg": "自由放置"
     },
     "use_pet_box_button": {
       "id": "use_pet_box_button",
-      "msg": "自由放置"
+      "msg": "去使用"
     },
     "teleport_fail_hold_hands": {
       "id": "teleport_fail_hold_hands",
-      "msg": "去使用"
+      "msg": "目的地无法牵手同行，已断开牵手"
     },
     "wg_login_tips": {
       "id": "wg_login_tips",
-      "msg": "目的地无法牵手同行，已断开牵手"
+      "msg": "登录校验失败（错误码：%s），请重新启动游戏"
     },
     "transform_fanying_fail": {
       "id": "transform_fanying_fail",
-      "msg": "登录校验失败（错误码：%s），请重新启动游戏"
+      "msg": "互访状态下无法参与活动，请返回自己世界后参与。"
     },
     "transform_ls_llegal": {
       "id": "transform_ls_llegal",
-      "msg": "互访状态下无法参与活动，请返回自己世界后参与。"
+      "msg": "当前状态不支持变身"
     },
     "fanyingactivity_lock": {
       "id": "fanyingactivity_lock",
-      "msg": "当前状态不支持变身"
+      "msg": "回到自己世界后再前往吧~"
     },
     "Error_Code_3200": {
       "id": "Error_Code_3200",
-      "msg": "回到自己世界后再前往吧~"
+      "msg": "不在投稿期，无法进行该操作。"
     },
     "Error_Code_3201": {
       "id": "Error_Code_3201",
-      "msg": "不在投稿期，无法进行该操作。"
+      "msg": "不在评选期，无法进行该操作。"
     },
     "Error_Code_3204": {
       "id": "Error_Code_3204",
-      "msg": "不在评选期，无法进行该操作。"
+      "msg": "活动已更新，请重新进入活动后尝试。"
     },
     "Error_Code_3351": {
       "id": "Error_Code_3351",
-      "msg": "活动已更新，请重新进入活动后尝试。"
+      "msg": "投稿还在冷却中，请稍后再试。"
     },
     "Error_Code_3352": {
       "id": "Error_Code_3352",
-      "msg": "投稿还在冷却中，请稍后再试。"
+      "msg": "照片推送次数已达到上限。"
     },
     "Error_Code_3353": {
       "id": "Error_Code_3353",
-      "msg": "照片推送次数已达到上限。"
+      "msg": "投票超时，请刷新重试。"
     },
     "Error_Code_3354": {
       "id": "Error_Code_3354",
-      "msg": "投票超时，请刷新重试。"
+      "msg": "已进行投票，请勿重复操作。"
     },
     "Error_Code_3355": {
       "id": "Error_Code_3355",
-      "msg": "已进行投票，请勿重复操作。"
+      "msg": "跳过次数已用完。"
     },
     "Error_Code_20010": {
       "id": "Error_Code_20010",
-      "msg": "跳过次数已用完。"
+      "msg": "作品获取失败，请稍后重试。"
     },
     "Error_Code_20011": {
       "id": "Error_Code_20011",
-      "msg": "作品获取失败，请稍后重试。"
+      "msg": "当前作品数据异常。"
     },
     "Error_Code_20012": {
       "id": "Error_Code_20012",
@@ -21233,87 +21237,87 @@
     },
     "Error_Code_3207": {
       "id": "Error_Code_3207",
-      "msg": "当前作品数据异常。"
+      "msg": "热门照片数据异常，加载失败。"
     },
     "Error_Code_20557": {
       "id": "Error_Code_20557",
-      "msg": "热门照片数据异常，加载失败。"
+      "msg": "排行榜数据异常，请稍后再试。"
     },
     "Error_Code_18362": {
       "id": "Error_Code_18362",
-      "msg": "排行榜数据异常，请稍后再试。"
+      "msg": "您投稿的照片不可用，换一张试试吧。"
     },
     "Error_Code_18363": {
       "id": "Error_Code_18363",
-      "msg": "您投稿的照片不可用，换一张试试吧。"
+      "msg": "投稿上传失败，请稍后再试。"
     },
     "Error_Code_50768": {
       "id": "Error_Code_50768",
-      "msg": "投稿上传失败，请稍后再试。"
+      "msg": "离对方距离太远，近一点再试试"
     },
     "buff _145_1": {
       "id": "buff _145_1",
-      "msg": "离对方距离太远，近一点再试试"
+      "msg": "只能替换开启派对的精灵，请尝试别的精灵"
     },
     "buff _145_2": {
       "id": "buff _145_2",
-      "msg": "只能替换开启派对的精灵，请尝试别的精灵"
+      "msg": "精灵参加的不是这只精灵的派对，请尝试别的精灵"
     },
     "goods_return_text": {
       "id": "goods_return_text",
-      "msg": "精灵参加的不是这只精灵的派对，请尝试别的精灵"
+      "msg": "已转换"
     },
     "pic_game_return_text": {
       "id": "pic_game_return_text",
-      "msg": "已转换"
+      "msg": "重复获得的奖励已转换为咔嚓印章。"
     },
     "filter_rule_title": {
       "id": "filter_rule_title",
-      "msg": "重复获得的奖励已转换为咔嚓印章。"
+      "msg": "筛选规则"
     },
     "filter_rule_title_confirm": {
       "id": "filter_rule_title_confirm",
-      "msg": "筛选规则"
+      "msg": "确认"
     },
     "filter_rule_title_cancel": {
       "id": "filter_rule_title_cancel",
-      "msg": "确认"
+      "msg": "取消"
     },
     "filter_rule_title_reset": {
       "id": "filter_rule_title_reset",
-      "msg": "取消"
+      "msg": "重置"
     },
     "filter_rule_none": {
       "id": "filter_rule_none",
-      "msg": "重置"
+      "msg": "暂无符合条件的推荐"
     },
     "umg_npcinfo_9": {
       "id": "umg_npcinfo_9",
-      "msg": "暂无符合条件的推荐"
+      "msg": "传送到室内"
     },
     "pet_return_special_title": {
       "id": "pet_return_special_title",
-      "msg": "传送到室内"
+      "msg": "特殊道具返还规则"
     },
     "pet_return_special_tip": {
       "id": "pet_return_special_tip",
-      "msg": "特殊道具返还规则"
+      "msg": "<span color=\"#d56c1f\">血脉秘药</>\n同一精灵若曾使用多个血脉秘药，仅返还<span color=\"#d56c1f\">最后使用的1个</>血脉秘药。\n若曾使用万能血脉秘药，则优先返还<span color=\"#d56c1f\">万能血脉秘药</>。\n当前为<span color=\"#d56c1f\">奇异血脉</>的精灵，不返还血脉秘药，且奇异血脉<span color=\"#d56c1f\">不发生变化</>。\n\n<span color=\"#d56c1f\">性格道具</>\n同一精灵若曾使用多个性格修改道具，仅返还<span color=\"#d56c1f\">1个</>性格修改道具。\n若曾使用镜面相框，则优先返还<span color=\"#d56c1f\">镜面相框</>。\n若仅使用过残缺魔镜，则返还<span color=\"#d56c1f\">残缺魔镜</>。\n\n<span color=\"#d56c1f\">适格钥匙</>\n适格钥匙按精灵的历史使用次数进行返还。\n单只精灵<span color=\"#d56c1f\">最多返还3个</>适格钥匙。"
     },
     "Error_Code_51309": {
       "id": "Error_Code_51309",
-      "msg": "<span color=\"#d56c1f\">血脉秘药</>\n同一精灵若曾使用多个血脉秘药，仅返还<span color=\"#d56c1f\">最后使用的1个</>血脉秘药。\n若曾使用万能血脉秘药，则优先返还<span color=\"#d56c1f\">万能血脉秘药</>。\n当前为<span color=\"#d56c1f\">奇异血脉</>的精灵，不返还血脉秘药，且奇异血脉<span color=\"#d56c1f\">不发生变化</>。\n\n<span color=\"#d56c1f\">性格道具</>\n同一精灵若曾使用多个性格修改道具，仅返还<span color=\"#d56c1f\">1个</>性格修改道具。\n若曾使用镜面相框，则优先返还<span color=\"#d56c1f\">镜面相框</>。\n若仅使用过残缺魔镜，则返还<span color=\"#d56c1f\">残缺魔镜</>。\n\n<span color=\"#d56c1f\">适格钥匙</>\n适格钥匙按精灵的历史使用次数进行返还。\n单只精灵<span color=\"#d56c1f\">最多返还3个</>适格钥匙。"
+      "msg": "这个交互物已经不存在了，请重新登录后再试。"
     },
     "activity_drop_tips_finish": {
       "id": "activity_drop_tips_finish",
-      "msg": "这个交互物已经不存在了，请重新登录后再试。"
+      "msg": "已完成"
     },
     "Error_Code_51308": {
       "id": "Error_Code_51308",
-      "msg": "已完成"
+      "msg": "交互物的主人已经离开互访位面啦，不能再进行捕捉了。"
     },
     "Error_Code_51307": {
       "id": "Error_Code_51307",
-      "msg": "交互物的主人已经离开互访位面啦，不能再进行捕捉了。"
+      "msg": "这个交互物已经不存在了，请重新登录后再试。"
     },
     "Error_Code_51306": {
       "id": "Error_Code_51306",
@@ -21321,131 +21325,160 @@
     },
     "mark_music_share_title": {
       "id": "mark_music_share_title",
-      "msg": "这个交互物已经不存在了，请重新登录后再试。"
+      "msg": "分享音乐"
     },
     "clue_text": {
       "id": "clue_text",
-      "msg": "分享音乐"
+      "msg": "寻找线索中..."
     },
     "travel_text": {
       "id": "travel_text",
-      "msg": "寻找线索中..."
+      "msg": "正在旅行："
     },
     "mark_message_move_plate": {
       "id": "mark_message_move_plate",
-      "msg": "正在旅行："
+      "msg": "无法在可变化的对象位置创建留言"
     },
     "mark_video_move_plate": {
       "id": "mark_video_move_plate",
-      "msg": "无法在可变化的对象位置创建留言"
+      "msg": "无法在可变化的对象位置创建留影"
     },
     "season_manual_new_chapter": {
       "id": "season_manual_new_chapter",
-      "msg": "无法在可变化的对象位置创建留影"
+      "msg": "新章节开启"
     },
     "Error_Code_2687": {
       "id": "Error_Code_2687",
-      "msg": "新章节开启"
+      "msg": "暂无物品可以回溯"
     },
     "game_matrix_pay_title": {
       "id": "game_matrix_pay_title",
-      "msg": "暂无物品可以回溯"
+      "msg": "提示"
     },
     "game_matrix_pay_tips": {
       "id": "game_matrix_pay_tips",
-      "msg": "提示"
+      "msg": "当前场景暂时无法进行充值，小洛克可前往下载原端完整版《洛克王国：世界》，或前往其他可充值渠道进行充值付费，付费内容互通。"
     },
     "rare_pet_discovered": {
       "id": "rare_pet_discovered",
-      "msg": "当前场景暂时无法进行充值，小洛克可前往下载原端完整版《洛克王国：世界》，或前往其他可充值渠道进行充值付费，付费内容互通。"
+      "msg": "发现<orange>异色</>精灵!"
     },
     "Highvaluepet_Owner_Rule_Owner": {
       "id": "Highvaluepet_Owner_Rule_Owner",
-      "msg": "发现<orange>异色</>精灵!"
+      "msg": "拥有者"
     },
     "umg_teambattle_preparation_5": {
       "id": "umg_teambattle_preparation_5",
-      "msg": "拥有者"
+      "msg": "第{0}个玩家的数据有误"
     },
     "pet_report_amount_limit_desc": {
       "id": "pet_report_amount_limit_desc",
-      "msg": "第{0}个玩家的数据有误"
+      "msg": "阁下已经捕捉了太多精灵，请及时去魔力之源处上报"
     },
     "pet_report_money_limit_desc": {
       "id": "pet_report_money_limit_desc",
-      "msg": "阁下已经捕捉了太多精灵，请及时去魔力之源处上报"
+      "msg": "阁下无法拥有更多洛克贝了，请使用部分洛克贝后再进行回顾"
     },
     "shop_tips": {
       "id": "shop_tips",
-      "msg": "阁下无法拥有更多洛克贝了，请使用部分洛克贝后再进行回顾"
+      "msg": "暂无可购买的商品，请以后再来。"
     },
     "retake_ban": {
       "id": "retake_ban",
-      "msg": "暂无可购买的商品，请以后再来。"
+      "msg": "暂时无法回收道具，请稍后再试"
     },
     "BagGiftTips_Cd": {
       "id": "BagGiftTips_Cd",
-      "msg": "暂时无法回收道具，请稍后再试"
+      "msg": "{0}秒"
     },
     "Error_Code_3363": {
       "id": "Error_Code_3363",
-      "msg": "{0}秒"
+      "msg": "精灵背包和邮箱已满，请先清理后再进行捕捉"
     },
     "worldmap_ban_tips_if_visit": {
       "id": "worldmap_ban_tips_if_visit",
-      "msg": "精灵背包和邮箱已满，请先清理后再进行捕捉"
+      "msg": "拜访中，无法进行该操作"
     },
     "box_lock_tips": {
       "id": "box_lock_tips",
-      "msg": "拜访中，无法进行该操作"
+      "msg": "盒子锁定后，整理功能将不再会影响到其中的精灵；新获得的精灵（一般情况下）也不会进入该盒子。"
     },
     "2049036": {
       "id": "2049036",
-      "msg": "盒子锁定后，整理功能将不再会影响到其中的精灵；新获得的精灵（一般情况下）也不会进入该盒子。"
+      "msg": "{0}受到【异常入场】的影响，恢复了生命"
     },
     "mark_video_lesstime_tips": {
       "id": "mark_video_lesstime_tips",
-      "msg": "{0}受到【异常入场】的影响，恢复了生命"
+      "msg": "留影时长过短，无法进行该操作"
     },
     "tidy_sequence_title": {
       "id": "tidy_sequence_title",
-      "msg": "留影时长过短，无法进行该操作"
+      "msg": "排序方式"
     },
     "tidy_box_title": {
       "id": "tidy_box_title",
-      "msg": "排序方式"
+      "msg": "整理盒子"
     },
     "Error_Code_1138": {
       "id": "Error_Code_1138",
-      "msg": "整理盒子"
+      "msg": "阁下无法拥有更多洛克贝了，请使用部分洛克贝后再试"
     },
     "item_expired_confirm_again": {
       "id": "item_expired_confirm_again",
-      "msg": "阁下无法拥有更多洛克贝了，请使用部分洛克贝后再试"
+      "msg": "温馨提示：您即将领取的副券已过期。确认领取后，该副券将自动兑换为等价洛克钻。\n契约副券将转化成410洛克钻，闪耀契约副券将转化成820洛克钻。请仔细确认后领取。"
     },
     "activity_preheat__unlock_time_sectips": {
       "id": "activity_preheat__unlock_time_sectips",
-      "msg": "温馨提示：您即将领取的副券已过期。确认领取后，该副券将自动兑换为等价洛克钻。\n契约副券将转化成410洛克钻，闪耀契约副券将转化成820洛克钻。请仔细确认后领取。"
+      "msg": "不足1分钟!!!"
     },
     "activity_condition_visitor_error_tips": {
       "id": "activity_condition_visitor_error_tips",
-      "msg": "不足1分钟!!!"
+      "msg": "请退出互访后重试"
     },
     "pay_cd_tips": {
       "id": "pay_cd_tips",
-      "msg": "请退出互访后重试"
+      "msg": "已有同类支付进行中，请等待订单完成，若道具未到账请联系客服。"
     },
     "RLTT_Error_Code_2494": {
       "id": "RLTT_Error_Code_2494",
-      "msg": "已有同类支付进行中，请等待订单完成，若道具未到账请联系客服。"
+      "msg": "您的账号存在异常，暂时无法进行此操作"
     },
     "recallbp_levelup": {
       "id": "recallbp_levelup",
-      "msg": "您的账号存在异常，暂时无法进行此操作"
+      "msg": "恭喜！在你的不懈努力下，重逢手册等级提升至<span color=\"#ffc65f\">%s</>级，快去领取奖励吧！"
     },
     "invalid_video_tips": {
       "id": "invalid_video_tips",
-      "msg": "恭喜！在你的不懈努力下，重逢手册等级提升至<span color=\"#ffc65f\">%s</>级，快去领取奖励吧！"
+      "msg": "无效视频"
+    },
+    "recall_s2letter_text": {
+      "id": "recall_s2letter_text",
+      "msg": "好久不见噜！真的很想你~\n魔法探奇之旅再度启程，我已经为你备好学院专属补给，拿上它们尽情冒险吧！\n悄悄告诉你，几位精灵小伙伴听闻了你的事迹，都很想跟你一起去冒险呢！你会与谁结伴同行呢？"
+    },
+    "recall_s2letter_button_text": {
+      "id": "recall_s2letter_button_text",
+      "msg": "前往结伴"
+    },
+    "recallbp_maxlevel_button_text": {
+      "id": "recallbp_maxlevel_button_text",
+      "msg": "等级已满"
+    },
+    "deep_log_description": {
+      "id": "deep_log_description",
+      "msg": "检测到您已开启了深度日志，可能会影响当前游戏性能。为保证您的游戏体验，建议您在非必要情况下关闭深度日志。"
+    },
+    "deep_log_open": {
+      "id": "deep_log_open",
+      "msg": "保持开启"
+    },
+    "deep_log_close": {
+      "id": "deep_log_close",
+      "msg": "关闭日志"
+    },
+    "map_shop_item_marker_text4": {
+      "id": "map_shop_item_marker_text4",
+      "msg": "未获得"
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

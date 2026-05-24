@@ -278,5 +278,6 @@
       "model": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_PlayerSkill_LuoPan.BP_PlayerSkill_LuoPan_C'",
       "use_time_in_battle": 99
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

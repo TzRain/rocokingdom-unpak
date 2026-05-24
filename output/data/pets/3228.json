@@ -149,7 +149,7 @@
     "breeding": {
         "id": 3228001,
         "pet_id": 3228001,
-        "name": "海豹战士（翼系血脉）",
+        "name": "友爱天天",
         "model_id": 3228001,
         "hatch_data": 43200,
         "weight_low": 2839,
@@ -171,7 +171,7 @@
             {
                 "id": 3228001,
                 "pet_id": 3228001,
-                "name": "海豹战士（翼系血脉）",
+                "name": "友爱天天",
                 "model_id": 3228001,
                 "hatch_data": 43200,
                 "weight_low": 2839,
@@ -191,53 +191,15 @@
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 3236001,
-                "pet_id": 3236001,
-                "name": "友爱天天",
-                "model_id": 3236001,
-                "hatch_data": 57600,
-                "weight_low": 3220,
-                "weight_high": 5120,
-                "height_low": 36,
-                "height_high": 51,
-                "precious_egg_type": null,
-                "egg_base_glass_prob_array": [
-                    395,
-                    2000
-                ],
-                "egg_add_glass_prob_array": [
-                    1,
-                    80
-                ],
-                "is_contact_add_glass_prob": true,
-                "is_contact_add_shining_prob": null
-            },
-            {
                 "id": 32280001,
                 "pet_id": 32280001,
-                "name": "拉特",
+                "name": "友爱天天",
                 "model_id": 3228001,
                 "hatch_data": 300,
                 "weight_low": 2839,
                 "weight_high": 3760,
                 "height_low": 28,
                 "height_high": 39,
-                "precious_egg_type": 7,
-                "egg_base_glass_prob_array": null,
-                "egg_add_glass_prob_array": null,
-                "is_contact_add_glass_prob": null,
-                "is_contact_add_shining_prob": null
-            },
-            {
-                "id": 32660001,
-                "pet_id": 32660001,
-                "name": "友爱天天",
-                "model_id": 3266001,
-                "hatch_data": 300,
-                "weight_low": 6125,
-                "weight_high": 10740,
-                "height_low": 31,
-                "height_high": 44,
                 "precious_egg_type": 7,
                 "egg_base_glass_prob_array": null,
                 "egg_add_glass_prob_array": null,

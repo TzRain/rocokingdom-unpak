@@ -372,5 +372,6 @@
       "cool_down_min_home": 3,
       "cool_down_max_home": 8
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

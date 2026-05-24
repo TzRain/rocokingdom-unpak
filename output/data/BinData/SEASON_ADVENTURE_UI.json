@@ -45,5 +45,6 @@
       "magic_manual_switch_text_color2": "4c3261FF",
       "chapter_start_style": "WidgetBlueprint'/Game/NewRoco/Modules/System/MagicManual/Res/UMG_S2_SeasonAssignment.UMG_S2_SeasonAssignment_C'"
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

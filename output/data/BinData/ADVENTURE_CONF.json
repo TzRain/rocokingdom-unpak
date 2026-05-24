@@ -1016,5 +1016,6 @@
       "pre_task_core_num": 3,
       "chapter_new_anim_comp": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Textures/img_Ribbons3.img_Ribbons3'"
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

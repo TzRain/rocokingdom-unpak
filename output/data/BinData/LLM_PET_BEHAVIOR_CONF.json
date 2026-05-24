@@ -940,5 +940,6 @@
       "pet_behavior_name": "失落_fallback",
       "pet_behavior_description": "当LLM调用fallback时，随机反馈的行为：失落地低着头，表情尴尬又无奈。"
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

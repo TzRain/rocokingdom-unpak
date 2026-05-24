@@ -152,7 +152,7 @@
     "24": {
       "id": 24,
       "key": "online_limit_order",
-      "str": "",
+      "str": "online_limit_refuse;online_limit_approval;online_limit_agree",
       "is_loc": 2
     },
     "25": {
@@ -272,6 +272,22 @@
       "key": "enter_online_protect_time",
       "num": 15,
       "is_loc": 2
+    },
+    "45": {
+      "id": 45,
+      "key": "highvalue_pet_bringback_marquee_time",
+      "num": 10
+    },
+    "46": {
+      "id": 46,
+      "key": "highvalue_pet_bringback_marquee_priority",
+      "num": 3
+    },
+    "47": {
+      "id": 47,
+      "key": "highvalue_pet_bringback_marquee_text",
+      "str": "属于你的精灵被留在了刚刚访问的世界，在它们离开前，你还可以回到那个世界去找回它们"
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

@@ -15,5 +15,6 @@
       "panel_name": "UMG_Dialog",
       "panel_widget_conf_name": "UMG_DIALOG_CONF"
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

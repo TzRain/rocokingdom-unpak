@@ -720,5 +720,6 @@
       "ball_mini_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/img_linshiqiu_png.img_linshiqiu_png'",
       "ball_tips_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/img_linshiqiu_png.img_linshiqiu_png'"
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

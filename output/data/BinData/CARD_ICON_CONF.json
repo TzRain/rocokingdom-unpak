@@ -5213,6 +5213,15 @@
       "bottom_description": "一个特别的吱吱币。",
       "card_quality": 5
     },
+    "1001011": {
+      "id": 1001011,
+      "icon_resource_path": "img_1015",
+      "icon_resource_name": "好学·学院呱呱",
+      "unlock_condition": 1,
+      "item_description": "个人名片的头像——「好学·学院呱呱」。",
+      "bottom_description": "「呱呱上学记」活动获得",
+      "card_quality": 5
+    },
     "2001001": {
       "id": 2001001,
       "icon_resource_path": "img_1009",
@@ -5233,7 +5242,7 @@
     },
     "2001003": {
       "id": 2001003,
-      "icon_resource_path": "img_1016",
+      "icon_resource_path": "img_1017",
       "icon_resource_name": "极冻·爆焰仔",
       "unlock_condition": 1,
       "item_description": "个人名片的头像——「极冻·爆焰仔」。",
@@ -5242,7 +5251,7 @@
     },
     "2001004": {
       "id": 2001004,
-      "icon_resource_path": "img_1017",
+      "icon_resource_path": "img_1016",
       "icon_resource_name": "酷炎·小雪人",
       "unlock_condition": 1,
       "item_description": "个人名片的头像——「酷炎·小雪人」。",
@@ -5258,5 +5267,6 @@
       "bottom_description": "可在个人名片中更换新头像啦！",
       "card_quality": 5
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

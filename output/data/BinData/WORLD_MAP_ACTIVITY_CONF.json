@@ -173,17 +173,7 @@
       "id": 26,
       "world_map_id": 10000025,
       "radius": 5000
-    },
-    "1001": {
-      "id": 1001,
-      "world_map_id": 800000034,
-      "activity_name": "测试配置",
-      "area_func_id": 900000105
-    },
-    "1002": {
-      "id": 1002,
-      "activity_name": "测试配置",
-      "area_func_id": 900000107
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

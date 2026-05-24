@@ -479,5 +479,6 @@
       "not_skip_check": true,
       "not_project": true
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

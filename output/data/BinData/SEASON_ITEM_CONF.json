@@ -184,5 +184,6 @@
       "jump_type": 3,
       "jump_param": "PVEModuleCmd.OpenPveTalentPanel"
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

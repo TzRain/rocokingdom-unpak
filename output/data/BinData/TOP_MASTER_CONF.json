@@ -2,7 +2,7 @@
   "RocoDataRows": {
     "1": {
       "id": 1,
-      "name": "",
+      "name": "巅峰大师",
       "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_007_png.img_duanweuS2_007_png'",
       "icon": "S2qizi027",
       "min_scroe": 1000,
@@ -13,7 +13,7 @@
     },
     "9": {
       "id": 9,
-      "name": "",
+      "name": "巅峰大师",
       "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanwei_huangguan_png.img_duanwei_huangguan_png'",
       "icon": "qizhi35",
       "min_scroe": 1000,
@@ -24,7 +24,7 @@
     },
     "10": {
       "id": 10,
-      "name": "",
+      "name": "巅峰大师",
       "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS2_007_png.img_duanweuS2_007_png'",
       "icon": "S2qizi027",
       "min_scroe": 1000,
@@ -35,7 +35,7 @@
     },
     "11": {
       "id": 11,
-      "name": "",
+      "name": "巅峰大师",
       "icon_mini": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_duanweuS3_007_png.img_duanweuS3_007_png'",
       "icon": "S3qizi027",
       "min_scroe": 1000,
@@ -44,5 +44,6 @@
       "refresh_reset_param": "7 0:00:00",
       "refresh_reset_param2": "2025-03-17 04:00:00"
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

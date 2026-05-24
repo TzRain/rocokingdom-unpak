@@ -12,5 +12,6 @@
       "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100955.100955'",
       "skin_path": "MaterialInstanceConstant'/Game/ArtRes/Asset/Environment/SAnimation/SM_Game_Camera_01/MI_Game_Camera_02.MI_Game_Camera_02'"
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

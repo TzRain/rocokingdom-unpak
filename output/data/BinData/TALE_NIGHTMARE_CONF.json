@@ -82,5 +82,6 @@
       "task_seal": "Texture2D'/Game/NewRoco/Modules/System/Task/Raw/NewTask1/Textures/PotionIcon/img_Signet_nezuo.img_Signet_nezuo'",
       "task_des": "关于特制的噩梦治愈药剂，恩佐并没有向我透露过多。\n它确实可以治愈最为顽固的噩梦污染，却也说不上完美——精灵会失去曾经拥有的记忆，到底是好事，还是坏事呢？"
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

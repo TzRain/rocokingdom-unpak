@@ -677,5 +677,6 @@
       "team_battle_location": "/Game/ArtRes/Effects/BP/Xuemai/Color7/BP_Xuemai_TeamBattle_Blue.BP_Xuemai_TeamBattle_Blue",
       "star_ratio": 50000
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

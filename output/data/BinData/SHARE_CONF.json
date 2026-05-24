@@ -256,5 +256,6 @@
       "login_required": 3,
       "system_control_limit": 53000015
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

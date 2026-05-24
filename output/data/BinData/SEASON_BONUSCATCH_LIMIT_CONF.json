@@ -3,11 +3,12 @@
     "1002": {
       "id": 1002,
       "season": 2,
-      "bonus_limit_number": 50,
+      "bonus_limit_number": 2048,
       "trig_tips_number": 30,
       "tips_gap": 3,
-      "tips_text": "惊喜盒子的数量即将到达上限，请及时开启",
+      "tips_text": "盒子数量过多，请及时清理，避免导致精灵丢失（无法找回）、精灵拥挤等问题。",
       "limit_tips_text": "惊喜盒子的数量已到达上限，请及时开启"
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

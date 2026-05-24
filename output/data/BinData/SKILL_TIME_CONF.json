@@ -20761,6 +20761,12 @@
       "skill_path": "/Game/ArtRes/Effects/G6Skill/S2/G6_JXHZ_YHT",
       "skill_time": 2500,
       "skill_pre_end": 1033
+    },
+    "3822": {
+      "id": 3822,
+      "skill_path": "/Game/ArtRes/Effects/G6Skill/Expression/G6_Perception_JLJH_LingGan_Left",
+      "skill_time": 1166
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

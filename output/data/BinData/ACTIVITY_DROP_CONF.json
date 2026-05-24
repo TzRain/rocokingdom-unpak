@@ -223,24 +223,12 @@
         4500085,
         4500086
       ],
-      "day_got_limit": 200,
-      "total_got_limit": 4200,
+      "day_got_limit": 120,
+      "total_got_limit": 2520,
       "goods_type": 2,
       "goods_id": 51,
       "finish_area_tips": "Texture2D'/Game/NewRoco/Modules/System/BattlePass/Raw/Theme/img_guaji.img_guaji'",
       "no_method_tips": 1
-    },
-    "2700099": {
-      "id": 2700099,
-      "drop_id": [
-        2700099,
-        2700098
-      ],
-      "day_got_limit": 1200,
-      "total_got_limit": 1200,
-      "goods_type": 2,
-      "goods_id": 6,
-      "finish_area_tips": "Texture2D'/Game/NewRoco/Modules/System/BattlePass/Raw/Theme/img_guaji.img_guaji'"
     },
     "50000001": {
       "id": 50000001,
@@ -2034,5 +2022,6 @@
       "drop_num_tips": "【本日】可获得：",
       "finish_area_tips": "Texture2D'/Game/NewRoco/Modules/System/BattlePass/Raw/Theme/img_guaji.img_guaji'"
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

@@ -3,13 +3,13 @@
     "1": {
       "id": 1,
       "key": "bp_task_start",
-      "str": "",
+      "str": "2023-11-07 04:00:00",
       "is_loc": 2
     },
     "2": {
       "id": 2,
       "key": "bp_task_period",
-      "str": "",
+      "str": "1 00:00:00",
       "is_loc": 2
     },
     "3": {
@@ -35,7 +35,7 @@
     "5": {
       "id": 5,
       "key": "bp_task_reset_begin_time",
-      "str": "",
+      "str": "4:00:00",
       "is_loc": 2
     },
     "6": {
@@ -50,5 +50,6 @@
       "num": 10,
       "is_loc": 2
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

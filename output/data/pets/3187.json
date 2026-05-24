@@ -133,7 +133,7 @@
     "breeding": {
         "id": 3187001,
         "pet_id": 3187001,
-        "name": "咔咔羽毛",
+        "name": "迷迷眼",
         "model_id": 3187001,
         "hatch_data": 57600,
         "weight_low": 5600,
@@ -155,7 +155,7 @@
             {
                 "id": 3187001,
                 "pet_id": 3187001,
-                "name": "咔咔羽毛",
+                "name": "迷迷眼",
                 "model_id": 3187001,
                 "hatch_data": 57600,
                 "weight_low": 5600,
@@ -175,53 +175,15 @@
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 3190001,
-                "pet_id": 3190001,
-                "name": "迷迷眼",
-                "model_id": 3190001,
-                "hatch_data": 72000,
-                "weight_low": 2510,
-                "weight_high": 3640,
-                "height_low": 25,
-                "height_high": 34,
-                "precious_egg_type": null,
-                "egg_base_glass_prob_array": [
-                    400,
-                    3125
-                ],
-                "egg_add_glass_prob_array": [
-                    2,
-                    113
-                ],
-                "is_contact_add_glass_prob": true,
-                "is_contact_add_shining_prob": null
-            },
-            {
                 "id": 31870001,
                 "pet_id": 31870001,
-                "name": "小夜",
+                "name": "迷迷眼",
                 "model_id": 3187001,
                 "hatch_data": 300,
                 "weight_low": 5600,
                 "weight_high": 8600,
                 "height_low": 25,
                 "height_high": 35,
-                "precious_egg_type": 7,
-                "egg_base_glass_prob_array": null,
-                "egg_add_glass_prob_array": null,
-                "is_contact_add_glass_prob": null,
-                "is_contact_add_shining_prob": null
-            },
-            {
-                "id": 32270001,
-                "pet_id": 32270001,
-                "name": "迷迷眼",
-                "model_id": 3227001,
-                "hatch_data": 300,
-                "weight_low": 1470,
-                "weight_high": 2320,
-                "height_low": 27,
-                "height_high": 37,
                 "precious_egg_type": 7,
                 "egg_base_glass_prob_array": null,
                 "egg_add_glass_prob_array": null,

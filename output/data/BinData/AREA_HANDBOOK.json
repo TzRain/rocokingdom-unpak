@@ -3,7 +3,7 @@
     "1": {
       "id": 1,
       "sort_id": 1,
-      "name": "",
+      "name": "世界图鉴",
       "area_handbook_type": 1,
       "collected_red_point_id": [
         124
@@ -34,7 +34,7 @@
     "2": {
       "id": 2,
       "sort_id": 3,
-      "name": "",
+      "name": "风眠省图鉴",
       "area_handbook_type": 2,
       "enter_ban_id": 24,
       "collected_red_point_id": [
@@ -66,7 +66,7 @@
     "3": {
       "id": 3,
       "sort_id": 4,
-      "name": "",
+      "name": "洛克里安图鉴",
       "area_handbook_type": 3,
       "enter_ban_id": 25,
       "collected_red_point_id": [
@@ -95,5 +95,6 @@
       "trophy_res": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_chengjiu_hong_png.img_chengjiu_hong_png'",
       "book_res": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Bg/Frames/img_shu_hong_png.img_shu_hong_png'"
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

@@ -50,5 +50,6 @@
       "ride_up_effect": "/Game/ArtRes/Effects/Particle/Scene/Avatar/Rideable/Christmas/G6_Ride_C_FX01.G6_Ride_C_FX01_C",
       "ride_down_effect": "/Game/ArtRes/Effects/Particle/Scene/Avatar/Rideable/Christmas/G6_Ride_C_FX02.G6_Ride_C_FX02_C"
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

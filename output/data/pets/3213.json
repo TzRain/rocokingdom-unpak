@@ -167,7 +167,7 @@
     "breeding": {
         "id": 3213001,
         "pet_id": 3213001,
-        "name": "小翼龙",
+        "name": "黑炎宝宝",
         "model_id": 3213001,
         "hatch_data": 72000,
         "weight_low": 10325,
@@ -189,7 +189,7 @@
             {
                 "id": 3213001,
                 "pet_id": 3213001,
-                "name": "小翼龙",
+                "name": "黑炎宝宝",
                 "model_id": 3213001,
                 "hatch_data": 72000,
                 "weight_low": 10325,
@@ -209,53 +209,15 @@
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 3227001,
-                "pet_id": 3227001,
-                "name": "黑炎宝宝",
-                "model_id": 3227001,
-                "hatch_data": 28800,
-                "weight_low": 1470,
-                "weight_high": 2320,
-                "height_low": 27,
-                "height_high": 37,
-                "precious_egg_type": null,
-                "egg_base_glass_prob_array": [
-                    531,
-                    500
-                ],
-                "egg_add_glass_prob_array": [
-                    0,
-                    24
-                ],
-                "is_contact_add_glass_prob": true,
-                "is_contact_add_shining_prob": true
-            },
-            {
                 "id": 32130001,
                 "pet_id": 32130001,
-                "name": "矮脚爬爬",
+                "name": "黑炎宝宝",
                 "model_id": 3213001,
                 "hatch_data": 300,
                 "weight_low": 10325,
                 "weight_high": 16640,
                 "height_low": 41,
                 "height_high": 58,
-                "precious_egg_type": 7,
-                "egg_base_glass_prob_array": null,
-                "egg_add_glass_prob_array": null,
-                "is_contact_add_glass_prob": null,
-                "is_contact_add_shining_prob": null
-            },
-            {
-                "id": 32550001,
-                "pet_id": 32550001,
-                "name": "黑炎宝宝",
-                "model_id": 3255001,
-                "hatch_data": 300,
-                "weight_low": 1299,
-                "weight_high": 2560,
-                "height_low": 20,
-                "height_high": 25,
                 "precious_egg_type": 7,
                 "egg_base_glass_prob_array": null,
                 "egg_add_glass_prob_array": null,

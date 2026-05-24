@@ -1392,9 +1392,9 @@
       "id": 20010059,
       "buff_base_ids": [
         2001001,
-        2001002,
         2001005,
-        2001006
+        2001001,
+        2001005
       ],
       "buff_list_priority": 1,
       "buff_groupsigns": [
@@ -1404,8 +1404,9 @@
       "type_id": "5",
       "type": 3,
       "add_max": 99,
-      "desc": "双攻和双防+<span color=\"#73c715\">10%</>。",
+      "desc": "物攻和物防永久+<span color=\"#73c715\">20%</>。",
       "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/830121_png.830121_png'",
+      "corner_markers": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/830052_png.830052_png'",
       "buff_group_reduce": [
         {
           "reduce_type": 13,
@@ -1415,7 +1416,6 @@
           ]
         }
       ],
-      "is_clean_when_rest": 1,
       "buff_trigger_priority": 1
     },
     "20010060": {
@@ -1672,6 +1672,42 @@
           "reduce_param": [
             1,
             99
+          ]
+        }
+      ],
+      "is_clean_when_rest": 1,
+      "connect_buff": 20010055,
+      "field_buff": 20010055,
+      "buff_trigger_priority": 1
+    },
+    "20010076": {
+      "id": 20010076,
+      "buff_base_ids": [
+        2001007,
+        2001007
+      ],
+      "buff_list_priority": 1,
+      "buff_groupsigns": [
+        1,
+        31
+      ],
+      "name": "物防等级降低",
+      "type_id": "2",
+      "add_des": "物理防御",
+      "add_icon": 2,
+      "type": 2,
+      "add_max": 99,
+      "desc": "物防-<span color=\"#c7494a\">20%</>。",
+      "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/800007_png.800007_png'",
+      "corner_markers": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/830052_png.830052_png'",
+      "res_id_0": "/Game/ArtRes/Effects/G6Skill/Buff/800003",
+      "res_id_1": "/Game/ArtRes/Effects/G6Skill/Buff/800003",
+      "buff_group_reduce": [
+        {
+          "reduce_type": 13,
+          "reduce_param": [
+            999,
+            0
           ]
         }
       ],
@@ -4014,6 +4050,7 @@
           ]
         }
       ],
+      "is_clean_when_rest": 1,
       "buff_trigger_priority": 1
     },
     "20010810": {
@@ -5737,6 +5774,7 @@
         0
       ],
       "name": "狂欢派对",
+      "type_id": "3",
       "type": 3,
       "add_max": 1,
       "desc": "参加派对的精灵",
@@ -5758,6 +5796,8 @@
         2001001,
         2001002,
         2001001,
+        2001002,
+        2001001,
         2001002
       ],
       "buff_list_priority": 3,
@@ -5770,7 +5810,7 @@
       "add_icon": 1,
       "type": 3,
       "add_max": 99,
-      "desc": "物攻和魔攻+20%",
+      "desc": "物攻和魔攻+30%",
       "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/830059_png.830059_png'",
       "res_id_1": "/Game/ArtRes/Effects/G6Skill/Buff/800001",
       "buff_group_reduce": [
@@ -6030,6 +6070,8 @@
         2001001,
         2001002,
         2001001,
+        2001002,
+        2001001,
         2001002
       ],
       "buff_list_priority": 3,
@@ -6042,7 +6084,7 @@
       "add_icon": 1,
       "type": 3,
       "add_max": 99,
-      "desc": "物攻和魔攻+30%",
+      "desc": "物攻和魔攻+40%",
       "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/830059_png.830059_png'",
       "res_id_1": "/Game/ArtRes/Effects/G6Skill/Buff/800001",
       "buff_group_reduce": [
@@ -8253,7 +8295,30 @@
         0
       ],
       "type": 3,
-      "add_max": 3,
+      "add_max": 99,
+      "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/800002_png.800002_png'",
+      "buff_group_reduce": [
+        {
+          "reduce_type": 2,
+          "reduce_param": [
+            1,
+            99
+          ]
+        }
+      ],
+      "buff_trigger_priority": 1
+    },
+    "20011587": {
+      "id": 20011587,
+      "buff_base_ids": [
+        2001081
+      ],
+      "buff_list_priority": 1,
+      "buff_groupsigns": [
+        0
+      ],
+      "type": 3,
+      "add_max": 99,
       "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/800002_png.800002_png'",
       "buff_group_reduce": [
         {
@@ -13235,6 +13300,30 @@
       "is_clean_when_rest": 1,
       "buff_trigger_priority": 1
     },
+    "20111570": {
+      "id": 20111570,
+      "buff_base_ids": [
+        2011157
+      ],
+      "buff_list_priority": 1,
+      "buff_groupsigns": [
+        0
+      ],
+      "type": 3,
+      "add_max": 1,
+      "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/800019_png.800019_png'",
+      "buff_group_reduce": [
+        {
+          "reduce_type": 2,
+          "reduce_param": [
+            999,
+            0
+          ]
+        }
+      ],
+      "is_clean_when_rest": 1,
+      "buff_trigger_priority": 1
+    },
     "20130010": {
       "id": 20130010,
       "buff_base_ids": [
@@ -17686,11 +17775,32 @@
       "is_clean_when_rest": 1,
       "buff_trigger_priority": 1
     },
+    "20171871": {
+      "id": 20171871,
+      "buff_base_ids": [
+        2017319
+      ],
+      "buff_list_priority": 1,
+      "buff_groupsigns": [
+        0
+      ],
+      "type": 3,
+      "add_max": 10,
+      "buff_group_reduce": [
+        {
+          "reduce_type": 2,
+          "reduce_param": [
+            1,
+            99
+          ]
+        }
+      ],
+      "is_clean_when_rest": 1,
+      "buff_trigger_priority": 1
+    },
     "20171880": {
       "id": 20171880,
       "buff_base_ids": [
-        2017188,
-        2017188,
         2017188
       ],
       "buff_list_priority": 1,
@@ -17714,8 +17824,7 @@
     "20171881": {
       "id": 20171881,
       "buff_base_ids": [
-        2017188,
-        2017188
+        2017320
       ],
       "buff_list_priority": 1,
       "buff_groupsigns": [
@@ -17738,9 +17847,6 @@
     "20171890": {
       "id": 20171890,
       "buff_base_ids": [
-        2017189,
-        2017189,
-        2017189,
         2017189
       ],
       "buff_list_priority": 1,
@@ -17764,9 +17870,7 @@
     "20171891": {
       "id": 20171891,
       "buff_base_ids": [
-        2017189,
-        2017189,
-        2017189
+        2017321
       ],
       "buff_list_priority": 1,
       "buff_groupsigns": [
@@ -17813,6 +17917,29 @@
       "id": 20171910,
       "buff_base_ids": [
         2017191
+      ],
+      "buff_list_priority": 1,
+      "buff_groupsigns": [
+        0
+      ],
+      "type": 3,
+      "add_max": 10,
+      "buff_group_reduce": [
+        {
+          "reduce_type": 2,
+          "reduce_param": [
+            1,
+            99
+          ]
+        }
+      ],
+      "is_clean_when_rest": 1,
+      "buff_trigger_priority": 1
+    },
+    "20171911": {
+      "id": 20171911,
+      "buff_base_ids": [
+        2017323
       ],
       "buff_list_priority": 1,
       "buff_groupsigns": [
@@ -17881,7 +18008,6 @@
     "20171940": {
       "id": 20171940,
       "buff_base_ids": [
-        2017194,
         2017194
       ],
       "buff_list_priority": 1,
@@ -17905,7 +18031,7 @@
     "20171941": {
       "id": 20171941,
       "buff_base_ids": [
-        2017194
+        2017326
       ],
       "buff_list_priority": 1,
       "buff_groupsigns": [
@@ -17971,10 +18097,32 @@
       "is_clean_when_rest": 1,
       "buff_trigger_priority": 1
     },
+    "20171961": {
+      "id": 20171961,
+      "buff_base_ids": [
+        2017328
+      ],
+      "buff_list_priority": 1,
+      "buff_groupsigns": [
+        0
+      ],
+      "type": 3,
+      "add_max": 10,
+      "buff_group_reduce": [
+        {
+          "reduce_type": 2,
+          "reduce_param": [
+            1,
+            99
+          ]
+        }
+      ],
+      "is_clean_when_rest": 1,
+      "buff_trigger_priority": 1
+    },
     "20171970": {
       "id": 20171970,
       "buff_base_ids": [
-        2017197,
         2017197
       ],
       "buff_list_priority": 1,
@@ -17998,7 +18146,7 @@
     "20171971": {
       "id": 20171971,
       "buff_base_ids": [
-        2017197
+        2017329
       ],
       "buff_list_priority": 1,
       "buff_groupsigns": [
@@ -18045,6 +18193,29 @@
       "id": 20171990,
       "buff_base_ids": [
         2017199
+      ],
+      "buff_list_priority": 1,
+      "buff_groupsigns": [
+        0
+      ],
+      "type": 3,
+      "add_max": 10,
+      "buff_group_reduce": [
+        {
+          "reduce_type": 2,
+          "reduce_param": [
+            1,
+            99
+          ]
+        }
+      ],
+      "is_clean_when_rest": 1,
+      "buff_trigger_priority": 1
+    },
+    "20171991": {
+      "id": 20171991,
+      "buff_base_ids": [
+        2017331
       ],
       "buff_list_priority": 1,
       "buff_groupsigns": [
@@ -18113,7 +18284,6 @@
     "20172020": {
       "id": 20172020,
       "buff_base_ids": [
-        2017202,
         2017202
       ],
       "buff_list_priority": 1,
@@ -18137,7 +18307,7 @@
     "20172021": {
       "id": 20172021,
       "buff_base_ids": [
-        2017202
+        2017334
       ],
       "buff_list_priority": 1,
       "buff_groupsigns": [
@@ -18184,6 +18354,29 @@
       "id": 20172040,
       "buff_base_ids": [
         2017204
+      ],
+      "buff_list_priority": 1,
+      "buff_groupsigns": [
+        0
+      ],
+      "type": 3,
+      "add_max": 10,
+      "buff_group_reduce": [
+        {
+          "reduce_type": 2,
+          "reduce_param": [
+            1,
+            99
+          ]
+        }
+      ],
+      "is_clean_when_rest": 1,
+      "buff_trigger_priority": 1
+    },
+    "20172041": {
+      "id": 20172041,
+      "buff_base_ids": [
+        2017308
       ],
       "buff_list_priority": 1,
       "buff_groupsigns": [
@@ -20430,6 +20623,30 @@
           "reduce_param": [
             999,
             0
+          ]
+        }
+      ],
+      "is_clean_when_rest": 1,
+      "buff_trigger_priority": 1
+    },
+    "20173100": {
+      "id": 20173100,
+      "buff_base_ids": [
+        2017310
+      ],
+      "buff_list_priority": 1,
+      "buff_groupsigns": [
+        0
+      ],
+      "type": 3,
+      "add_max": 1,
+      "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/810036_png.810036_png'",
+      "buff_group_reduce": [
+        {
+          "reduce_type": 2,
+          "reduce_param": [
+            2,
+            999
           ]
         }
       ],
@@ -26588,6 +26805,7 @@
     "20320242": {
       "id": 20320242,
       "buff_base_ids": [
+        2032024,
         2032024
       ],
       "buff_list_priority": 1,
@@ -26598,7 +26816,7 @@
       "type_id": "5",
       "type": 3,
       "add_max": 1,
-      "desc": "所有技能能耗+1",
+      "desc": "所有技能能耗+2",
       "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/830103_png.830103_png'",
       "buff_group_reduce": [
         {
@@ -27774,7 +27992,7 @@
         {
           "reduce_type": 2,
           "reduce_param": [
-            2,
+            1,
             99
           ]
         }
@@ -30841,6 +31059,29 @@
         }
       ],
       "is_clean_when_rest": 1,
+      "buff_trigger_priority": 1
+    },
+    "20380200": {
+      "id": 20380200,
+      "buff_base_ids": [
+        2038020
+      ],
+      "buff_list_priority": 1,
+      "buff_groupsigns": [
+        0
+      ],
+      "type": 3,
+      "add_max": 1,
+      "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/800021_png.800021_png'",
+      "buff_group_reduce": [
+        {
+          "reduce_type": 2,
+          "reduce_param": [
+            1,
+            999
+          ]
+        }
+      ],
       "buff_trigger_priority": 1
     },
     "20390010": {
@@ -41999,8 +42240,8 @@
         {
           "reduce_type": 2,
           "reduce_param": [
-            999,
-            0
+            1,
+            99
           ]
         }
       ],
@@ -49436,6 +49677,30 @@
       "is_clean_when_rest": 1,
       "buff_trigger_priority": 1
     },
+    "20990030": {
+      "id": 20990030,
+      "buff_base_ids": [
+        2099003
+      ],
+      "buff_list_priority": 3,
+      "buff_groupsigns": [
+        22
+      ],
+      "type": 3,
+      "add_max": 1,
+      "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/800019_png.800019_png'",
+      "buff_group_reduce": [
+        {
+          "reduce_type": 13,
+          "reduce_param": [
+            999,
+            0
+          ]
+        }
+      ],
+      "is_clean_when_rest": 1,
+      "buff_trigger_priority": 1
+    },
     "21000010": {
       "id": 21000010,
       "buff_base_ids": [
@@ -51342,7 +51607,6 @@
           ]
         }
       ],
-      "is_clean_when_rest": 1,
       "buff_trigger_priority": 1
     },
     "21090020": {
@@ -52981,7 +53245,6 @@
           ]
         }
       ],
-      "is_clean_when_rest": 1,
       "buff_trigger_priority": 1
     },
     "21420030": {
@@ -55055,5 +55318,6 @@
       "is_clean_when_rest": 1,
       "buff_trigger_priority": 1
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

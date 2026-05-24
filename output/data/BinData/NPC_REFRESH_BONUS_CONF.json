@@ -1,0 +1,23 @@
+{
+  "RocoDataRows": {
+    "115001": {
+      "id": 115001,
+      "event_type": 1,
+      "bonus_type": 2,
+      "bonus_id": 115001
+    },
+    "116001": {
+      "id": 116001,
+      "event_type": 4,
+      "bonus_type": 2,
+      "bonus_id": 116001
+    },
+    "116002": {
+      "id": 116002,
+      "event_type": 5,
+      "bonus_type": 2,
+      "bonus_id": 116001
+    }
+  },
+  "LocalizationStrings": {}
+}

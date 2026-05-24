@@ -2144,5 +2144,6 @@
       "hp_recover_value": 1,
       "pet_recover": true
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

@@ -42,27 +42,6 @@
       "show_icon": "PaperSprite'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/img_Box_1_png.img_Box_1_png'",
       "show_text_type": "UMG_CircusOpeningAnnouncementTips"
     },
-    "10007": {
-      "id": 10007,
-      "show_text": "精灵躲进了盒子，想要给你一个惊喜！",
-      "show_effect": "/Game/ArtRes/Effects/G6Skill/S2/G6_JXHZ_CallOut01.G6_JXHZ_CallOut01'",
-      "show_icon": "PaperSprite'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/img_Box_3_png.img_Box_3_png'",
-      "show_text_type": "UMG_CircusOpeningAnnouncementTips"
-    },
-    "10008": {
-      "id": 10008,
-      "show_text": "精灵躲进了盒子，想要给你一个惊喜！",
-      "show_effect": "/Game/ArtRes/Effects/G6Skill/S2/G6_JXHZ_CallOut02.G6_JXHZ_CallOut02'",
-      "show_icon": "PaperSprite'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/img_Box_2_png.img_Box_2_png'",
-      "show_text_type": "UMG_CircusOpeningAnnouncementTips"
-    },
-    "10009": {
-      "id": 10009,
-      "show_text": "精灵躲进了盒子，想要给你一个惊喜！",
-      "show_effect": "/Game/ArtRes/Effects/G6Skill/S2/G6_JXHZ_CallOut03.G6_JXHZ_CallOut03'",
-      "show_icon": "PaperSprite'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/img_Box_1_png.img_Box_1_png'",
-      "show_text_type": "UMG_CircusOpeningAnnouncementTips"
-    },
     "10010": {
       "id": 10010,
       "show_text": "狂欢时间到！",
@@ -104,27 +83,7 @@
       "show_effect": "/Game/ArtRes/Effects/G6Skill/S2/G6_JXHZ_CallOut01.G6_JXHZ_CallOut01'",
       "show_icon": "PaperSprite'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/img_Box_1_png.img_Box_1_png'",
       "show_text_type": "UMG_CircusOpeningAnnouncementTips"
-    },
-    "10016": {
-      "id": 10016,
-      "show_text": "狂欢时间到！",
-      "show_effect": "/Game/ArtRes/Effects/G6Skill/S2/G6_JXHZ_CallOut01.G6_JXHZ_CallOut01'",
-      "show_icon": "PaperSprite'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/img_Box_3_png.img_Box_3_png'",
-      "show_text_type": "UMG_CircusOpeningAnnouncementTips"
-    },
-    "10017": {
-      "id": 10017,
-      "show_text": "狂欢时间到！",
-      "show_effect": "/Game/ArtRes/Effects/G6Skill/S2/G6_JXHZ_CallOut02.G6_JXHZ_CallOut02'",
-      "show_icon": "PaperSprite'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/img_Box_2_png.img_Box_2_png'",
-      "show_text_type": "UMG_CircusOpeningAnnouncementTips"
-    },
-    "10018": {
-      "id": 10018,
-      "show_text": "狂欢时间到！",
-      "show_effect": "/Game/ArtRes/Effects/G6Skill/S2/G6_JXHZ_CallOut03.G6_JXHZ_CallOut03'",
-      "show_icon": "PaperSprite'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/img_Box_1_png.img_Box_1_png'",
-      "show_text_type": "UMG_CircusOpeningAnnouncementTips"
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

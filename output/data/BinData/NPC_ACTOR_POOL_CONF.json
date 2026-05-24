@@ -287,5 +287,6 @@
       "max_size": 20,
       "life_time": 30
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

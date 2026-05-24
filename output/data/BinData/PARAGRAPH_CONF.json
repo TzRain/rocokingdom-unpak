@@ -3182,6 +3182,7 @@
       "show_task_start": true,
       "title": "胡闹演出",
       "description": "这个描述肯定有问题，随便生成的，记得改一下",
+      "description_new": "经历了一整天的胡闹演出后，小轱辘的「心脏」竟奇迹般地复原了！或许正如它所言——真正的奇迹不是这颗心脏，而是这群聚在一起、共同创造了无限精彩的马戏团成员们。",
       "season_task": true
     },
     "70012": {
@@ -3189,9 +3190,9 @@
       "unit_id": 93004,
       "paragraph_order": 1,
       "show_task_start": true,
-      "title": "经历了一整天的胡闹演出后，小轱辘的「心脏」竟奇迹般地复原了！或许正如它所言——真正的奇迹不是这颗心脏，而是这群聚在一起、共同创造了无限精彩的马戏团成员们。",
-      "description": "重聚轻风山",
-      "description_new": "与噜噜重聚轻风山"
+      "title": "重聚轻风山",
+      "description": "与噜噜重聚轻风山",
+      "description_new": "许久没有回来了，和久违的噜噜先生叙旧，它对我的回归感到高兴，并赠送了我许多礼物！谢谢噜噜先生！"
     },
     "70013": {
       "id": 70013,
@@ -3199,8 +3200,8 @@
       "unit_id": 10016,
       "paragraph_order": 7,
       "show_task_start": true,
-      "title": "许久没有回来了，和久违的噜噜先生叙旧，它对我的回归感到高兴，并赠送了我许多礼物！谢谢噜噜先生！",
-      "description": "咕德帽帽的魔术时间",
+      "title": "咕德帽帽的魔术时间",
+      "description": "这个描述肯定有问题，随便生成的，记得改一下",
       "season_task": true
     },
     "70014": {
@@ -3209,8 +3210,8 @@
       "unit_id": 10016,
       "paragraph_order": 8,
       "show_task_start": true,
-      "title": "这个描述肯定有问题，随便生成的，记得改一下",
-      "description": "马戏团巡游",
+      "title": "马戏团巡游",
+      "description": "这个描述肯定有问题，随便生成的，记得改一下",
       "season_task": true
     },
     "70015": {
@@ -3219,8 +3220,8 @@
       "unit_id": 23011,
       "paragraph_order": 1,
       "show_task_start": true,
-      "title": "这个描述肯定有问题，随便生成的，记得改一下",
-      "description": "智慧出版社的实习？"
+      "title": "智慧出版社的实习？",
+      "description": "这个描述肯定有问题，随便生成的，记得改一下"
     },
     "70016": {
       "id": 70016,
@@ -3228,8 +3229,8 @@
       "unit_id": 23011,
       "paragraph_order": 2,
       "show_task_start": true,
-      "title": "这个描述肯定有问题，随便生成的，记得改一下",
-      "description": "奇怪的传言"
+      "title": "奇怪的传言",
+      "description": "这个描述肯定有问题，随便生成的，记得改一下"
     },
     "70017": {
       "id": 70017,
@@ -3237,8 +3238,8 @@
       "unit_id": 23011,
       "paragraph_order": 3,
       "show_task_start": true,
-      "title": "这个描述肯定有问题，随便生成的，记得改一下",
-      "description": "可疑的字条"
+      "title": "可疑的字条",
+      "description": "这个描述肯定有问题，随便生成的，记得改一下"
     },
     "70018": {
       "id": 70018,
@@ -3246,8 +3247,8 @@
       "unit_id": 23011,
       "paragraph_order": 4,
       "show_task_start": true,
-      "title": "这个描述肯定有问题，随便生成的，记得改一下",
-      "description": "精灵目击证言"
+      "title": "精灵目击证言",
+      "description": "这个描述肯定有问题，随便生成的，记得改一下"
     },
     "70019": {
       "id": 70019,
@@ -3255,8 +3256,8 @@
       "unit_id": 23011,
       "paragraph_order": 5,
       "show_task_start": true,
-      "title": "这个描述肯定有问题，随便生成的，记得改一下",
-      "description": "神秘的宫廷魔法师"
+      "title": "神秘的宫廷魔法师",
+      "description": "这个描述肯定有问题，随便生成的，记得改一下"
     },
     "70020": {
       "id": 70020,
@@ -3264,8 +3265,9 @@
       "unit_id": 23011,
       "paragraph_order": 6,
       "show_task_start": true,
-      "title": "这个描述肯定有问题，随便生成的，记得改一下",
-      "description": "马戏团海报"
+      "title": "马戏团海报",
+      "description": "这个描述肯定有问题，随便生成的，记得改一下"
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

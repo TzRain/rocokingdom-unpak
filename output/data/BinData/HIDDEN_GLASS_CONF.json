@@ -2,7 +2,7 @@
   "RocoDataRows": {
     "1": {
       "id": 1,
-      "name": "",
+      "name": "<span color=\"#eebf31\">暗夜拾光</>",
       "type": 2,
       "active_season": 1,
       "weight": 100,
@@ -145,7 +145,7 @@
     },
     "2": {
       "id": 2,
-      "name": "",
+      "name": "<span color=\"#c63e2c\">狂欢怪谈</>",
       "type": 2,
       "active_season": 2,
       "weight": 100,
@@ -270,7 +270,7 @@
     },
     "1000": {
       "id": 1000,
-      "name": "",
+      "name": "<span color=\"#f4eee1\">黑白</>",
       "type": 1,
       "weight": 100,
       "glass_color_1": [
@@ -392,5 +392,6 @@
       "main_ui_tips_mat_path": "MaterialInstanceConstant'/Game/ArtRes/UI/TUI/Materials/MI_UI_PetDazzleHBCloseUp2.MI_UI_PetDazzleHBCloseUp2'",
       "main_tex": "Texture2D'/Game/ArtRes/BP/Texture/PetGlassyNoise/T_PetGlassyNoiseHB_003.T_PetGlassyNoiseHB_003'"
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

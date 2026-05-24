@@ -1274,5 +1274,6 @@
       "effective": true,
       "skill_ref": "/Game/ArtRes/Effects/G6Skill/WorldCombat/G6_BossSkill_XNO_NBSJNT"
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

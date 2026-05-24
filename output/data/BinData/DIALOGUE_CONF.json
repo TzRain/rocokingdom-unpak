@@ -117198,7 +117198,7 @@
       ],
       "speaker": -2,
       "name": "热忱的精英学者",
-      "text": "为组建乐团，我需捕捉更多机械与普通系精灵！",
+      "text": "为组建乐团，我需捕捉更多机械系精灵！",
       "unskippable_duration": 10.0,
       "dialogue_sound": "dialog5420302",
       "actor_perform": [
@@ -117223,7 +117223,7 @@
       ],
       "speaker": -2,
       "name": "狂热的精英学者",
-      "text": "分析机械精灵实在太有趣了!",
+      "text": "分析普通系精灵实在太有趣了!",
       "unskippable_duration": 5.0,
       "dialogue_sound": "dialog5420401",
       "actor_perform": [
@@ -117249,7 +117249,7 @@
       ],
       "speaker": -2,
       "name": "狂热的精英学者",
-      "text": "为了有更多的猴麦仔，我要捕捉更多机械精灵！",
+      "text": "为了有更多的猴麦仔，我要捕捉更多普通系精灵！",
       "unskippable_duration": 10.0,
       "dialogue_sound": "dialog5420402",
       "actor_perform": [
@@ -117453,7 +117453,7 @@
       ],
       "speaker": -2,
       "name": "沉静的精英学者",
-      "text": "再抓些水系与萌系精灵，就能有更多加油海葵了！",
+      "text": "有加油海葵在身边，总是会感觉到满满的动力呢！",
       "unskippable_duration": 10.0,
       "dialogue_sound": "dialog5420702",
       "actor_perform": [
@@ -126247,7 +126247,7 @@
         210001
       ],
       "name": "解忧扭蛋机",
-      "text": "当然！还有其他硬货——<span color=\"#D56C1F\">「分光水晶」、「损坏的国王球」、「美妙球」</>！奖品多多，走过路过...（突然小声）...虽然大奖有点难啦，但欢迎光临！概不退币哦～",
+      "text": "当然！还有其他硬货——<span color=\"#D56C1F\">「魔力果」、「损坏的国王球」、「美妙球」</>！奖品多多，走过路过...（突然小声）...虽然大奖有点难啦，但欢迎光临！概不退币哦～",
       "speed": 30,
       "dialogue_sound": "dialog6000301",
       "actor_perform": [
@@ -126725,7 +126725,7 @@
       "name": "梦想三三",
       "text": "咪嗷~ 呼噜噜！（耳朵抖了抖，似乎在问你是不是来陪它玩的）",
       "speed": 30,
-      "ui_source_type": 9,
+      "ui_source_type": 10,
       "dialogue_sound": "dialog6000405",
       "actor_perform": [
         {
@@ -126751,7 +126751,7 @@
       "name": "梦想三三",
       "text": "咕噜噜……喵呜！特殊规则哦，喵（好像在说这次玩耍有特殊规则呢）",
       "speed": 30,
-      "ui_source_type": 9,
+      "ui_source_type": 10,
       "dialogue_sound": "dialog6000406",
       "actor_perform": [
         {
@@ -126777,7 +126777,7 @@
       "name": "梦想三三",
       "text": "十层，萌化！喵嗷……一共，回合结束，一层，嘶呜！（胜利条件是全场一共获得10层萌化效果。每回合结束时能增加1层）",
       "speed": 30,
-      "ui_source_type": 9,
+      "ui_source_type": 10,
       "dialogue_sound": "dialog6000407",
       "actor_perform": [
         {
@@ -126803,7 +126803,7 @@
       "name": "梦想三三",
       "text": "废弃",
       "speed": 30,
-      "ui_source_type": 9,
+      "ui_source_type": 10,
       "dialogue_sound": "dialog6000408",
       "actor_perform": [
         {
@@ -126828,7 +126828,7 @@
       "name": "梦想三三",
       "text": "准备好了，那就，开始吧！喵嗷~\n建议，<span color=\"#D56C1F\">萌系</>，精灵，对战，呼噜呼噜（好像在给战斗建议呢）",
       "speed": 30,
-      "ui_source_type": 9,
+      "ui_source_type": 10,
       "dialogue_sound": "dialog6000409",
       "actor_perform": [
         {
@@ -126899,7 +126899,7 @@
       "name": "梦想三三",
       "text": "诀窍，嘶呜！喵……准备好了，再来，呼噜呼噜（好像在说这次的玩耍有诀窍哦，准备好了再来吧）",
       "speed": 30,
-      "ui_source_type": 9,
+      "ui_source_type": 10,
       "dialogue_sound": "dialog6000415",
       "actor_perform": [
         {
@@ -126924,7 +126924,7 @@
       "name": "梦想三三",
       "text": "开心！三三，喜欢，咪呜……（玩得很开心，三三很喜欢呢）",
       "speed": 30,
-      "ui_source_type": 9,
+      "ui_source_type": 10,
       "dialogue_sound": "dialog6000420",
       "actor_perform": [
         {
@@ -126989,7 +126989,7 @@
       "name": "寒音蛇",
       "text": "嘶嘶！咝咝！（竖起身子，吐着信子，似乎在确认你已经准备好了）",
       "speed": 30,
-      "ui_source_type": 9,
+      "ui_source_type": 10,
       "dialogue_sound": "dialog6000425",
       "actor_perform": [
         {
@@ -127015,7 +127015,7 @@
       "name": "寒音蛇",
       "text": "咝……沙沙！胜利条件，十层，萌化效果，嘶呜！（本场战斗的胜利条件为：全场一共获得10层萌化效果）",
       "speed": 30,
-      "ui_source_type": 9,
+      "ui_source_type": 10,
       "dialogue_sound": "dialog6000426",
       "actor_perform": [
         {
@@ -127041,7 +127041,7 @@
       "name": "寒音蛇",
       "text": "废弃",
       "speed": 30,
-      "ui_source_type": 9,
+      "ui_source_type": 10,
       "dialogue_sound": "dialog6000427",
       "actor_perform": [
         {
@@ -127066,7 +127066,7 @@
       "name": "寒音蛇",
       "text": "咝咝！萌化，攻击防御，百分之二十，提升！沙沙~（获得萌化时，攻击和防御提升20%）",
       "speed": 30,
-      "ui_source_type": 9,
+      "ui_source_type": 10,
       "dialogue_sound": "dialog6000428",
       "actor_perform": [
         {
@@ -127092,7 +127092,7 @@
       "name": "寒音蛇",
       "text": "准备好了，那就，开始吧！沙沙~ 建议，<span color=\"#D56C1F\">萌系</>，精灵，对战，咝咝！",
       "speed": 30,
-      "ui_source_type": 9,
+      "ui_source_type": 10,
       "dialogue_sound": "dialog6000429",
       "actor_perform": [
         {
@@ -127160,7 +127160,7 @@
       "name": "寒音蛇",
       "text": "咝咝~ 沙沙！（轻轻用脑袋蹭了蹭，似乎在提醒什么）\n玩耍，诀窍！嘶呜……准备好了，再来，沙沙~",
       "speed": 30,
-      "ui_source_type": 9,
+      "ui_source_type": 10,
       "dialogue_sound": "dialog6000435",
       "actor_perform": [
         {
@@ -127185,7 +127185,7 @@
       "name": "寒音蛇",
       "text": "开心！很喜欢，嘶嘶呜~",
       "speed": 30,
-      "ui_source_type": 9,
+      "ui_source_type": 10,
       "dialogue_sound": "dialog6000440",
       "actor_perform": [
         {
@@ -127250,7 +127250,7 @@
       "name": "魔眷鸟",
       "text": "啾咪！咻铃！（扑棱着发光的翅膀，羽毛闪烁着星点微光，似乎在宣布新的规则）",
       "speed": 30,
-      "ui_source_type": 9,
+      "ui_source_type": 10,
       "dialogue_sound": "dialog6000445",
       "actor_perform": [
         {
@@ -127276,7 +127276,7 @@
       "name": "魔眷鸟",
       "text": "十层，萌化效果，全场！叽啾~ 咻咻！（本场战斗的胜利为：全场一共获得10层萌化效果）",
       "speed": 30,
-      "ui_source_type": 9,
+      "ui_source_type": 10,
       "dialogue_sound": "dialog6000446",
       "actor_perform": [
         {
@@ -127302,7 +127302,7 @@
       "name": "魔眷鸟",
       "text": "噗叽！无限，叠加！咻铃铃~（萌化可以无限叠加呢）",
       "speed": 30,
-      "ui_source_type": 9,
+      "ui_source_type": 10,
       "dialogue_sound": "dialog6000447",
       "actor_perform": [
         {
@@ -127328,7 +127328,7 @@
       "name": "魔眷鸟",
       "text": "废弃",
       "speed": 30,
-      "ui_source_type": 9,
+      "ui_source_type": 10,
       "dialogue_sound": "dialog6000448",
       "actor_perform": [
         {
@@ -127353,7 +127353,7 @@
       "name": "魔眷鸟",
       "text": "啾咪？咻铃！准备好了，开始吧！噗叽~ 建议，<span color=\"#D56C1F\">萌系</>，精灵，对战，咻咻！（准备好了吗？那就开始吧。建议使用萌系精灵对战）",
       "speed": 30,
-      "ui_source_type": 9,
+      "ui_source_type": 10,
       "dialogue_sound": "dialog6000449",
       "actor_perform": [
         {
@@ -127421,7 +127421,7 @@
       "name": "魔眷鸟",
       "text": "啾~ 咻咻！（歪着脑袋，尾羽轻轻摇摆，似乎在暗示什么）\n玩耍，诀窍！叽啾……准备好了，再来，咻铃~（这次的玩耍有诀窍哦，准备好了再来吧~）",
       "speed": 30,
-      "ui_source_type": 9,
+      "ui_source_type": 10,
       "dialogue_sound": "dialog6000455",
       "actor_perform": [
         {
@@ -127446,7 +127446,7 @@
       "name": "魔眷鸟",
       "text": "开心！很喜欢，噗叽叽！（玩得很开心，很喜欢~）",
       "speed": 30,
-      "ui_source_type": 9,
+      "ui_source_type": 10,
       "dialogue_sound": "dialog6000460",
       "actor_perform": [
         {
@@ -204028,9 +204028,16 @@
         520080624
       ],
       "name": "呱呱",
-      "text": "你好！请问，这里就是传说中的魔法学院吗？你、你就是负责接引的路易斯老师吗？",
+      "text": "呼噜！魔法……院乎？啾……噜伊嘶乎？（好有趣的精灵表达方式，似乎是在向路易斯老师问好？）",
+      "translate_end_string": 3,
+      "Column1": [
+        0.3,
+        0.2,
+        0.2
+      ],
       "speed": 30,
-      "dialogue_sound": "dialog52000008",
+      "ui_source_type": 9,
+      "dialogue_sound": "Pet_Vo_XueYuanGuaGua_Common_Happy",
       "next_dialog_id": 52000009,
       "action": {}
     },
@@ -204066,9 +204073,16 @@
         520080624
       ],
       "name": "呱呱",
-      "text": "哇！你好呀，{name}！请多指教！",
+      "text": "哼啾！{name}……指教！",
+      "translate_end_string": 3,
+      "Column1": [
+        0.3,
+        0.2,
+        0.2
+      ],
       "speed": 30,
-      "dialogue_sound": "dialog52000011",
+      "ui_source_type": 9,
+      "dialogue_sound": "Pet_Vo_XueYuanGuaGua_Common_Alert",
       "next_dialog_id": 52000012,
       "action": {}
     },
@@ -204090,9 +204104,10 @@
         520080624
       ],
       "name": "呱呱",
-      "text": "{name}，我们现在要去干嘛呢？",
+      "text": "欲何往……呼？",
       "speed": 30,
-      "dialogue_sound": "dialog52000015",
+      "ui_source_type": 10,
+      "dialogue_sound": "Pet_Vo_XueYuanGuaGua_Common_Fear",
       "select_ids": [
         520210003
       ],
@@ -204104,9 +204119,10 @@
         520080624
       ],
       "name": "呱呱",
-      "text": "咳咳，实不相瞒，其实我在老家看过很多书，来魔法学院主要是为了交流知识的。",
+      "text": "吱呼，故里多览书卷……呼呼交流！",
       "speed": 30,
-      "dialogue_sound": "dialog52000016",
+      "ui_source_type": 10,
+      "dialogue_sound": "Pet_Vo_XueYuanGuaGua_Common_Happy",
       "next_dialog_id": 52000017,
       "action": {}
     },
@@ -204116,9 +204132,10 @@
         520080624
       ],
       "name": "呱呱",
-      "text": "第一站，能先带我去看看传说中的炼金工坊吗？我从老家背来了一大堆奇奇怪怪的材料，不用掉实在太浪费啦！",
+      "text": "炼金工坊！呼噜！（似乎是想去炼金工坊参观？）",
       "speed": 30,
-      "dialogue_sound": "dialog52000017",
+      "ui_source_type": 10,
+      "dialogue_sound": "Pet_Vo_XueYuanGuaGua_Common_Relax",
       "select_ids": [
         520210004
       ],
@@ -204208,9 +204225,16 @@
         520080625
       ],
       "name": "呱呱",
-      "text": "我在这我在这！老师您好！我叫呱呱。",
+      "text": "安，呜呱呱也。",
+      "translate_end_string": 3,
+      "Column1": [
+        0.3,
+        0.2,
+        0.2
+      ],
       "speed": 30,
-      "dialogue_sound": "dialog52000024",
+      "ui_source_type": 9,
+      "dialogue_sound": "Pet_Vo_XueYuanGuaGua_Common_Sad",
       "next_dialog_id": 52000025,
       "action": {}
     },
@@ -204220,7 +204244,7 @@
         520080625
       ],
       "name": "代课老师",
-      "text": "喔！吓我一跳，你好啊呱呱，你有接触过炼金术吗？",
+      "text": "喔！吓我一跳，你是叫……呱呱？你好啊呱呱，你有接触过炼金术吗？",
       "speed": 30,
       "dialogue_sound": "dialog52000025",
       "next_dialog_id": 52000026,
@@ -204232,9 +204256,16 @@
         520080625
       ],
       "name": "呱呱",
-      "text": "这倒没有……但不瞒您说，在我们那边，大家都说我是“整个玄玉最有才华”的！我相信肯定没问题！",
+      "text": "呼噜，未曾，可试吱！",
+      "translate_end_string": 3,
+      "Column1": [
+        0.3,
+        0.2,
+        0.2
+      ],
       "speed": 30,
-      "dialogue_sound": "dialog52000026",
+      "ui_source_type": 9,
+      "dialogue_sound": "Pet_Vo_XueYuanGuaGua_Common_Shock",
       "next_dialog_id": 52000027,
       "action": {}
     },
@@ -204244,7 +204275,7 @@
         520080625
       ],
       "name": "代课老师",
-      "text": "是吗？那我的课程对你来说应该很轻松。快去找个位置坐好，我们这就开始上课。",
+      "text": "意思是可以试试吗？看上去是很聪明的精灵呢。我猜我的课程对你来说应该很轻松。快去找个位置坐好，我们这就开始上课。",
       "speed": 30,
       "dialogue_sound": "dialog52000027",
       "next_dialog_id": 52000028,
@@ -204316,8 +204347,15 @@
       ],
       "name": "呱呱",
       "text": "呜呜……",
+      "translate_end_string": 3,
+      "Column1": [
+        0.3,
+        0.2,
+        0.2
+      ],
       "speed": 30,
-      "dialogue_sound": "dialog52000033",
+      "ui_source_type": 9,
+      "dialogue_sound": "Pet_Vo_XueYuanGuaGua_Common_Alert",
       "select_ids": [
         520210007
       ],
@@ -204329,9 +204367,16 @@
         520080625
       ],
       "name": "呱呱",
-      "text": "我……我听不懂……和我在之前在书上看到的不一样……",
+      "text": "呱呱所阅……不同呼……",
+      "translate_end_string": 3,
+      "Column1": [
+        0.3,
+        0.2,
+        0.2
+      ],
       "speed": 30,
-      "dialogue_sound": "dialog52000034",
+      "ui_source_type": 9,
+      "dialogue_sound": "Pet_Vo_XueYuanGuaGua_Common_Anger",
       "select_ids": [
         520210008
       ],
@@ -204343,9 +204388,10 @@
         520080625
       ],
       "name": "呱呱",
-      "text": "就是很多的图画，没看到文字，更别说一些特殊的符文了。",
+      "text": "呱呱书，画画呼呼。",
       "speed": 30,
-      "dialogue_sound": "dialog52000035",
+      "ui_source_type": 10,
+      "dialogue_sound": "Pet_Vo_XueYuanGuaGua_Common_Fear",
       "select_ids": [
         520210009
       ],
@@ -204357,9 +204403,10 @@
         520080625
       ],
       "name": "呱呱",
-      "text": "这……这门课对我来说有点难。但是我有认真做笔记，之后再请教老师！",
+      "text": "啾……此课……难……呼噜……已记……后问师……",
       "speed": 30,
-      "dialogue_sound": "dialog52000036",
+      "ui_source_type": 10,
+      "dialogue_sound": "Pet_Vo_XueYuanGuaGua_Common_Happy",
       "next_dialog_id": 52000037,
       "action": {}
     },
@@ -204369,9 +204416,10 @@
         520080625
       ],
       "name": "呱呱",
-      "text": "不过，我接下来想去别的地方散散心……",
+      "text": "呼噜……他处……去……散心……",
       "speed": 30,
-      "dialogue_sound": "dialog52000037",
+      "ui_source_type": 10,
+      "dialogue_sound": "Pet_Vo_XueYuanGuaGua_Common_Relax",
       "select_ids": [
         520210010
       ],
@@ -204383,9 +204431,10 @@
         520080625
       ],
       "name": "呱呱",
-      "text": "那是什么地方？听起来好像很有趣！",
+      "text": "啾？何处……乎？呼噜……似……有趣……",
       "speed": 30,
-      "dialogue_sound": "dialog52000038",
+      "ui_source_type": 10,
+      "dialogue_sound": "Pet_Vo_XueYuanGuaGua_Common_Sad",
       "select_ids": [
         520210011
       ],
@@ -204397,9 +204446,10 @@
         520080625
       ],
       "name": "呱呱",
-      "text": "那还等什么呢，我们快走吧！",
+      "text": "呱！何待……速行！",
       "speed": 30,
-      "dialogue_sound": "dialog52000039",
+      "ui_source_type": 10,
+      "dialogue_sound": "Pet_Vo_XueYuanGuaGua_Common_Shock",
       "dia_skip": 1,
       "dia_skip_text": "|||<Center>带着呱呱上了一堂炼金课，但听不懂的呱呱却哭了起来，于是我打算带着呱呱去竞技场散散心……</>",
       "action": {}
@@ -204475,9 +204525,16 @@
         520080626
       ],
       "name": "呱呱",
-      "text": "老师好！我叫呱呱！是来交换的新同学！",
+      "text": "啾！师……好！呱呱……也！来……交换……生……",
+      "translate_end_string": 3,
+      "Column1": [
+        0.3,
+        0.2,
+        0.2
+      ],
       "speed": 30,
-      "dialogue_sound": "dialog52000045",
+      "ui_source_type": 9,
+      "dialogue_sound": "Pet_Vo_XueYuanGuaGua_Common_Show",
       "next_dialog_id": 52000046,
       "action": {}
     },
@@ -204499,9 +204556,16 @@
         520080626
       ],
       "name": "呱呱",
-      "text": "我很感兴趣！但是…我不太会使用魔法，在我的老家一般都是练习体术的……",
+      "text": "啾……有趣……然……法……不熟……呼噜……故里……多练体术……",
+      "translate_end_string": 3,
+      "Column1": [
+        0.3,
+        0.2,
+        0.2
+      ],
       "speed": 30,
-      "dialogue_sound": "dialog52000047",
+      "ui_source_type": 9,
+      "dialogue_sound": "Pet_Vo_XueYuanGuaGua_Common_Happy",
       "next_dialog_id": 52000048,
       "action": {}
     },
@@ -204523,9 +204587,10 @@
         520080626
       ],
       "name": "呱呱",
-      "text": "真的吗？谢谢老师！",
+      "text": "啾？真乎？呼噜！谢师！",
       "speed": 30,
-      "dialogue_sound": "dialog52000049",
+      "ui_source_type": 10,
+      "dialogue_sound": "Pet_Vo_XueYuanGuaGua_Common_Relax",
       "select_ids": [
         520210014
       ],
@@ -204551,6 +204616,7 @@
       "name": "代课老师",
       "text": "你什么时候学的「指指点点」？效果显著啊！",
       "speed": 30,
+      "ui_source_type": 10,
       "dialogue_sound": "dialog52000051",
       "next_dialog_id": 52000052,
       "action": {}
@@ -204561,9 +204627,9 @@
         520080626
       ],
       "name": "呱呱",
-      "text": "那我们接下来去哪儿？",
+      "text": "啾……今……何往乎？",
       "speed": 30,
-      "dialogue_sound": "dialog52000052",
+      "dialogue_sound": "Pet_Vo_XueYuanGuaGua_Common_Sad",
       "select_ids": [
         520210015
       ],
@@ -204599,9 +204665,16 @@
         520080627
       ],
       "name": "呱呱",
-      "text": "好热闹的城镇！还有好多店铺！",
+      "text": "呱！城热闹店多！",
+      "translate_end_string": 3,
+      "Column1": [
+        0.3,
+        0.2,
+        0.2
+      ],
       "speed": 30,
-      "dialogue_sound": "dialog52000055",
+      "ui_source_type": 9,
+      "dialogue_sound": "Pet_Vo_XueYuanGuaGua_Common_Happy",
       "select_ids": [
         520210020
       ],
@@ -204624,9 +204697,16 @@
         520080627
       ],
       "name": "呱呱",
-      "text": "那家店是卖什么的？感觉……好深奥。",
+      "text": "啾……彼店何卖？呼噜……深奥……",
+      "translate_end_string": 3,
+      "Column1": [
+        0.3,
+        0.2,
+        0.2
+      ],
       "speed": 30,
-      "dialogue_sound": "dialog52000057",
+      "ui_source_type": 9,
+      "dialogue_sound": "Pet_Vo_XueYuanGuaGua_Common_Relax",
       "select_ids": [
         520210021
       ],
@@ -204638,9 +204718,10 @@
         520080627
       ],
       "name": "呱呱",
-      "text": "看起来像是炼金课上教的那些东西，我还是不去了吧……",
+      "text": "呼噜……似……炼金物……啾……不去……也……",
       "speed": 30,
-      "dialogue_sound": "dialog52000058",
+      "ui_source_type": 10,
+      "dialogue_sound": "Pet_Vo_XueYuanGuaGua_Common_Sad",
       "next_dialog_id": 52000060,
       "action": {}
     },
@@ -204650,9 +204731,10 @@
         520080627
       ],
       "name": "呱呱",
-      "text": "那边呢？有好多可爱的服装，是服装店吗？",
+      "text": "啾？彼处……衣多……可爱店乎？",
       "speed": 30,
-      "dialogue_sound": "dialog52000060",
+      "ui_source_type": 10,
+      "dialogue_sound": "Pet_Vo_XueYuanGuaGua_Common_Shock",
       "select_ids": [
         520210022
       ],
@@ -204664,9 +204746,10 @@
         520080627
       ],
       "name": "呱呱",
-      "text": "其实我也有很多衣服哦，都是我自己动手做的，以后有机会我穿出来给你看看！",
+      "text": "呼噜……吾衣多……自作也……后示汝……",
       "speed": 30,
-      "dialogue_sound": "dialog52000062",
+      "ui_source_type": 10,
+      "dialogue_sound": "Pet_Vo_XueYuanGuaGua_Common_Alert",
       "select_ids": [
         520210023
       ],
@@ -204678,9 +204761,10 @@
         520080627
       ],
       "name": "呱呱",
-      "text": "那个呢？看不出来是卖什么的哎。",
+      "text": "啾……彼何店……不知……",
       "speed": 30,
-      "dialogue_sound": "dialog52000063",
+      "ui_source_type": 10,
+      "dialogue_sound": "Pet_Vo_XueYuanGuaGua_Common_Anger",
       "select_ids": [
         520210024
       ],
@@ -204692,9 +204776,10 @@
         520080627
       ],
       "name": "呱呱",
-      "text": "我要去！我喜欢逛商店！我最喜欢那种摆满了各种各样商品的货架了！",
+      "text": "呱！要去……呼噜……喜……逛店……货架满……善呼呼！",
       "speed": 30,
-      "dialogue_sound": "dialog52000064",
+      "ui_source_type": 10,
+      "dialogue_sound": "Pet_Vo_XueYuanGuaGua_Common_Fear",
       "dia_skip": 1,
       "dia_skip_text": "|||<Center>来到了商店街，呱呱瞬间被琳琅满目的商品所吸引，并提出想逛逛安妮的百货商店。</>",
       "action": {}
@@ -204758,7 +204843,7 @@
         520080628
       ],
       "name": "安妮",
-      "text": "你好呀呱呱~",
+      "text": "你好呀呱呱~我叫安妮，你能听懂我说话？",
       "speed": 30,
       "dialogue_sound": "dialog52000069",
       "next_dialog_id": 52000070,
@@ -204770,9 +204855,16 @@
         520080628
       ],
       "name": "呱呱",
-      "text": "你好呀安妮小姐！",
+      "text": "然，懂呼呼！安妮，好！",
+      "translate_end_string": 3,
+      "Column1": [
+        0.3,
+        0.2,
+        0.2
+      ],
       "speed": 30,
-      "dialogue_sound": "dialog52000070",
+      "ui_source_type": 9,
+      "dialogue_sound": "Pet_Vo_XueYuanGuaGua_Common_Anger",
       "select_ids": [
         520210018
       ],
@@ -204784,7 +204876,7 @@
         520080628
       ],
       "name": "安妮",
-      "text": "哈哈哈，这是什么游戏吗？{name}，你为什么要重复一遍呱呱的话。",
+      "text": "哈哈哈，好有趣的说话方式呀。",
       "speed": 30,
       "dialogue_sound": "dialog52000071",
       "select_ids": [
@@ -204798,9 +204890,16 @@
         520080628
       ],
       "name": "呱呱",
-      "text": "我自学过洛克语哦，本来还想露一手让你们惊讶一下，结果大家这么平常就接受了……",
+      "text": "哼啾……玄玉精灵，六艺其一……",
+      "translate_end_string": 3,
+      "Column1": [
+        0.3,
+        0.2,
+        0.2
+      ],
       "speed": 30,
-      "dialogue_sound": "dialog52000072",
+      "ui_source_type": 9,
+      "dialogue_sound": "Pet_Vo_XueYuanGuaGua_Common_Happy",
       "next_dialog_id": 52000073,
       "action": {}
     },
@@ -204822,9 +204921,10 @@
         520080628
       ],
       "name": "呱呱",
-      "text": "真的可以吗？太谢谢你啦，安妮小姐！",
+      "text": "谢……安妮……呱吱！",
       "speed": 30,
-      "dialogue_sound": "dialog52000074",
+      "ui_source_type": 10,
+      "dialogue_sound": "Pet_Vo_XueYuanGuaGua_Common_Relax",
       "next_dialog_id": 52000075,
       "action": {}
     },
@@ -204834,9 +204934,10 @@
         520080628
       ],
       "name": "呱呱",
-      "text": "种类好多呀……每一个看起来都很有趣……嗯，我决定啦，就这个！",
+      "text": "啾啾……有趣……呼噜……便如此……",
       "speed": 30,
-      "dialogue_sound": "dialog52000075",
+      "ui_source_type": 10,
+      "dialogue_sound": "Pet_Vo_XueYuanGuaGua_Common_Sad",
       "next_dialog_id": 52000076,
       "action": {}
     },
@@ -204872,9 +204973,16 @@
         520080628
       ],
       "name": "呱呱",
-      "text": "天色不早了，我们还能去哪儿逛逛呢？",
+      "text": "呼噜……天晚……尚可……何处……游乎……",
+      "translate_end_string": 3,
+      "Column1": [
+        0.3,
+        0.2,
+        0.2
+      ],
       "speed": 30,
-      "dialogue_sound": "dialog52000078",
+      "ui_source_type": 9,
+      "dialogue_sound": "Pet_Vo_XueYuanGuaGua_Fight_CallOut",
       "next_dialog_id": 52000079,
       "action": {}
     },
@@ -204896,9 +205004,10 @@
         520080628
       ],
       "name": "呱呱",
-      "text": "谢谢安妮小姐，{name}，我们走吧！",
+      "text": "谢，安妮！",
       "speed": 30,
-      "dialogue_sound": "dialog52000080",
+      "ui_source_type": 10,
+      "dialogue_sound": "Pet_Vo_XueYuanGuaGua_Common_Relax",
       "dia_skip": 1,
       "dia_skip_text": "|||<Center>对于远道而来的呱呱，安妮十分热情地给呱呱免了单，临走时，安妮建议我们可以去后街逛逛。</>",
       "action": {}
@@ -204952,9 +205061,16 @@
         520080629
       ],
       "name": "呱呱",
-      "text": "哇！这里堆的可可果也太多了吧，像一座小山！好壮观！",
+      "text": "呱！可可果……多……如山！呼噜……壮观……",
+      "translate_end_string": 3,
+      "Column1": [
+        0.3,
+        0.2,
+        0.2
+      ],
       "speed": 30,
-      "dialogue_sound": "dialog52000084",
+      "ui_source_type": 9,
+      "dialogue_sound": "Pet_Vo_XueYuanGuaGua_Common_Anger",
       "next_dialog_id": 52000085,
       "action": {}
     },
@@ -204976,9 +205092,16 @@
         520080629
       ],
       "name": "呱呱",
-      "text": "这是做什么的呀？",
+      "text": "呼噜……此……作何用乎？",
+      "translate_end_string": 3,
+      "Column1": [
+        0.3,
+        0.2,
+        0.2
+      ],
       "speed": 30,
-      "dialogue_sound": "dialog52000086",
+      "ui_source_type": 9,
+      "dialogue_sound": "Pet_Vo_XueYuanGuaGua_Common_Happy",
       "next_dialog_id": 52000087,
       "action": {}
     },
@@ -205012,9 +205135,10 @@
         520080629
       ],
       "name": "呱呱",
-      "text": "可是我没有洛克贝……可以用别的东西换吗？",
+      "text": "啾……洛克贝……无……可……易他物乎？",
       "speed": 30,
-      "dialogue_sound": "dialog52000089",
+      "ui_source_type": 10,
+      "dialogue_sound": "Pet_Vo_XueYuanGuaGua_Common_Sad",
       "next_dialog_id": 52000090,
       "action": {}
     },
@@ -205038,9 +205162,10 @@
         520080629
       ],
       "name": "呱呱",
-      "text": "谢谢你，{name}，但是不用啦，今天已经逛了很久了，要不我们回去吧！",
+      "text": "呼噜……谢……{name}……然不必……今日……已逛久……归乎？",
       "speed": 30,
-      "dialogue_sound": "dialog52000092",
+      "ui_source_type": 10,
+      "dialogue_sound": "Pet_Vo_XueYuanGuaGua_Common_Anger",
       "select_ids": [
         520210026
       ],
@@ -205052,9 +205177,10 @@
         520080629
       ],
       "name": "呱呱",
-      "text": "没关系，对了！在回去之前，能先陪我去个地方吗？",
+      "text": "无妨……啾！归前……可陪……往一处乎？",
       "speed": 30,
-      "dialogue_sound": "dialog52000094",
+      "ui_source_type": 10,
+      "dialogue_sound": "Pet_Vo_XueYuanGuaGua_Common_Relax",
       "dia_skip": 1,
       "dia_skip_text": "|||<Center>来到安妮说的后街，本想和呱呱一起参加可可果节，却没想到，必须支付洛克贝才能参加；没有洛克贝的呱呱拒绝了我帮忙支付的好意，并表示希望我陪它去个地方。</>",
       "action": {}
@@ -205065,9 +205191,10 @@
         520080630
       ],
       "name": "呱呱",
-      "text": "谢谢你陪我这么久，{name}。",
+      "text": "谢，{name}！呱！",
       "speed": 30,
-      "dialogue_sound": "dialog52000095",
+      "ui_source_type": 10,
+      "dialogue_sound": "Pet_Vo_XueYuanGuaGua_Common_Happy",
       "select_ids": [
         520010021
       ],
@@ -205079,9 +205206,10 @@
         520080630
       ],
       "name": "呱呱",
-      "text": "这里的一切都和我家乡完全不一样……建筑、植物，连风吹过来的味道都很陌生。",
+      "text": "此间与玄玉异……其屋宇，其草木，乃至其风……",
       "speed": 30,
-      "dialogue_sound": "dialog52000096",
+      "ui_source_type": 10,
+      "dialogue_sound": "Pet_Vo_XueYuanGuaGua_Common_Sad",
       "next_dialog_id": 52000097,
       "action": {}
     },
@@ -205091,9 +205219,10 @@
         520080630
       ],
       "name": "呱呱",
-      "text": "所以，所以……我刚刚突然就好想家，想呱呱爷爷，还有家乡的朋友们……",
+      "text": "忽……思乡……想阿翁……旧友……",
       "speed": 30,
-      "dialogue_sound": "dialog52000097",
+      "ui_source_type": 10,
+      "dialogue_sound": "Pet_Vo_XueYuanGuaGua_Common_Shock",
       "next_dialog_id": 52000105,
       "action": {}
     },
@@ -205103,9 +205232,10 @@
         520080630
       ],
       "name": "呱呱",
-      "text": "啊！是流星！",
+      "text": "吱吱呱！流星也！",
       "speed": 30,
-      "dialogue_sound": "dialog52000098",
+      "ui_source_type": 10,
+      "dialogue_sound": "Pet_Vo_XueYuanGuaGua_Common_Anger",
       "select_ids": [
         520210027
       ],
@@ -205117,9 +205247,10 @@
         520080630
       ],
       "name": "呱呱",
-      "text": "那我就不客气了哦！",
+      "text": "善！谢呼呼！呱呱愿！",
       "speed": 30,
-      "dialogue_sound": "dialog52000099",
+      "ui_source_type": 10,
+      "dialogue_sound": "Pet_Vo_XueYuanGuaGua_Common_Happy",
       "next_dialog_id": 52000100,
       "action": {}
     },
@@ -205140,9 +205271,16 @@
         520080630
       ],
       "name": "呱呱",
-      "text": "许完了！这里的流星倒是和家乡的差不多~",
+      "text": "此间流星……似……故里……",
+      "translate_end_string": 3,
+      "Column1": [
+        0.3,
+        0.2,
+        0.2
+      ],
       "speed": 30,
-      "dialogue_sound": "dialog52000101",
+      "ui_source_type": 9,
+      "dialogue_sound": "Pet_Vo_XueYuanGuaGua_Common_Sad",
       "select_ids": [
         520010022
       ],
@@ -205154,9 +205292,10 @@
         520080630
       ],
       "name": "呱呱",
-      "text": "我希望……嘿嘿，保密，说出来就不灵验了！",
+      "text": "所愿……嘿……不可言……言则不灵……",
       "speed": 30,
-      "dialogue_sound": "dialog52000102",
+      "ui_source_type": 10,
+      "dialogue_sound": "Pet_Vo_XueYuanGuaGua_Common_Shock",
       "next_dialog_id": 52000103,
       "action": {}
     },
@@ -205166,9 +205305,10 @@
         520080630
       ],
       "name": "呱呱",
-      "text": "对了！我答应了到了魔法学院要给呱呱爷爷写信的！我忘了！！呱呱爷爷又要担心了……///{name}那我们学校见！之后的日子也请多多关照啦！",
+      "text": "呱，有信与翁，先去也……///{name}，……再见……日后……关照！",
       "speed": 30,
-      "dialogue_sound": "dialog52000103",
+      "ui_source_type": 10,
+      "dialogue_sound": "Pet_Vo_XueYuanGuaGua_Common_Show",
       "dia_skip": 1,
       "dia_skip_text": "|||<Center>和呱呱一起看了流星雨并许了愿，就在这时，呱呱突然想起来忘记给爷爷写信，于是打算先一步回学院。</>",
       "action": {}
@@ -212482,7 +212622,7 @@
       "is_set_first_dialogue": true,
       "name": "热忱的精英学者",
       "title": "「赛季对战」",
-      "text": "哈哈哈！非常精彩的对战战术！///同学，如果你也想和小鼓象成为同伴的话，多试试连续捕捉<span color=\"#D56C1F\">普通系与机械系</>精灵吧！",
+      "text": "哈哈哈！非常精彩的对战战术！///同学，如果你也想和小鼓象成为同伴的话，多试试连续捕捉<span color=\"#D56C1F\">机械系</>精灵吧！",
       "speed": 30,
       "ui_source_type": 5,
       "interact_camera_type": 13,
@@ -212749,7 +212889,7 @@
       "is_set_first_dialogue": true,
       "name": "狂热的精英学者",
       "title": "「赛季对战」",
-      "text": "为了让猴麦仔叠在一起的高度超过整个晨曦山，我已经捕捉了许多机械精灵了！///虽然身体不舒服，但是如果你想切磋的话，我肯定奉陪到底！",
+      "text": "为了让猴麦仔叠得比晨曦山还高，我一直在连续捕捉普通系精灵！///虽然身体不舒服，但是如果你想切磋的话，我肯定奉陪到底！",
       "speed": 30,
       "dialogue_sound": "dialog54030201",
       "actor_perform": [
@@ -212809,7 +212949,40 @@
       "is_set_first_dialogue": true,
       "name": "狂热的精英学者",
       "title": "「赛季对战」",
-      "text": "虽然输了，但是在对战之后，我身体感觉好多了！///同学，如果你也喜欢猴麦仔的话，多试试连续捕捉<span color=\"#D56C1F\">机械系</>精灵吧！",
+      "text": "虽然输了，但对战后，我的身体感觉好多了！",
+      "speed": 30,
+      "ui_source_type": 5,
+      "interact_camera_type": 13,
+      "interact_camera_param1": "328.0;-92.0;81.0;0.0;-18.299999237060547;174.6999969482422",
+      "interact_camera_param2": -2.0,
+      "interact_camera_param4": "90.0",
+      "dialogue_sound": "dialog54030221",
+      "actor_perform": [
+        {
+          "actor": -2,
+          "body_turn_to": -1,
+          "turn_to": -1,
+          "eye_turn_to": -1,
+          "action": "Happy1"
+        },
+        {
+          "actor": -1,
+          "turn_to": -2,
+          "eye_turn_to": -2
+        }
+      ],
+      "next_dialog_id": 54040222,
+      "action": {}
+    },
+    "54040222": {
+      "id": 54040222,
+      "opt_dia_relate": [
+        540302
+      ],
+      "is_set_first_dialogue": true,
+      "name": "狂热的精英学者",
+      "title": "「赛季对战」",
+      "text": "同学，因为猴麦仔是双系别精灵，你要是想遇到它的话，就请认准它双系别中的其中一种系别精灵连续捕捉吧，机械系和普通系精灵都可以！",
       "speed": 30,
       "ui_source_type": 5,
       "interact_camera_type": 13,
@@ -213136,7 +213309,7 @@
       "is_set_first_dialogue": true,
       "name": "敏锐的精英学者",
       "title": "「赛季对战」",
-      "text": "真是厉害的同学！你或许能挖掘出小丑豆豆更多战斗可能！可小丑豆豆出现的规律可不好总结呢，但是我在捕捉蹦蹦花或古啦多的时候，偶尔会遇见红色盒子，小丑豆豆就在那红色盒子之中呢！",
+      "text": "真是厉害的同学！你的实力或许可以挖掘出小丑豆豆更多潜力！不过小丑豆豆的行踪很特别，据我了解，小丑豆豆只会出现在红色盒子里！",
       "speed": 30,
       "ui_source_type": 5,
       "interact_camera_type": 13,
@@ -213159,6 +213332,38 @@
         }
       ],
       "next_dialog_id": 54040334,
+      "action": {}
+    },
+    "54040322": {
+      "id": 54040322,
+      "opt_dia_relate": [
+        540303
+      ],
+      "is_set_first_dialogue": true,
+      "name": "敏锐的精英学者",
+      "title": "「赛季对战」",
+      "text": "但小丑豆豆出现规律不好总结，不过我捕捉绅士鸡或卡瓦重时。偶尔会遇见红色盒子，或许这两只精灵与小丑豆豆之间会有什么相似之处呢？",
+      "speed": 30,
+      "ui_source_type": 5,
+      "interact_camera_type": 13,
+      "interact_camera_param1": "351.0;-86.0;46.0;0.0;-3.5;162.6999969482422",
+      "interact_camera_param2": -2.0,
+      "interact_camera_param4": "90.0",
+      "dialogue_sound": "dialog54030321",
+      "actor_perform": [
+        {
+          "actor": -2,
+          "body_turn_to": -1,
+          "turn_to": -1,
+          "eye_turn_to": -1,
+          "action": "Anger1"
+        },
+        {
+          "actor": -1,
+          "turn_to": -2,
+          "eye_turn_to": -2
+        }
+      ],
       "action": {}
     },
     "54040331": {
@@ -213815,7 +214020,7 @@
       "is_set_first_dialogue": true,
       "name": "柔和的精英学者",
       "title": "「赛季对战」",
-      "text": "同学对战打得很棒嘛！如果你对炫光迪迪感兴趣，不妨去找找它，不过它的行踪很奇怪。我每次刷完矿晶虫和石肤蜥后，黄色盒子里总会冒出它，这些精灵之间，似乎有些奇妙的共同点呢？",
+      "text": "同学对战打得很棒嘛！如果你对炫光迪迪感兴趣，不妨去找找它，不过它的行踪有些特别，根据我的观察，它似乎只会出现在黄色盒子里。",
       "speed": 30,
       "ui_source_type": 5,
       "interact_camera_type": 13,
@@ -214081,7 +214286,7 @@
       ],
       "name": "沉静的精英学者",
       "title": "「赛季对战」",
-      "text": "这里有着许多水系与萌系精灵，简直就是捕捉加油海葵的完美场地。同学你也是来捕捉加油海葵的吗？或者我们可以切磋一下？",
+      "text": "这里有着许多水系和萌系精灵，简直就是捕捉加油海葵的完美场地。同学你也是来捕捉加油海葵的吗？或许我们可以切磋一下？",
       "speed": 30,
       "dialogue_sound": "dialog54030601",
       "actor_perform": [
@@ -214165,7 +214370,7 @@
       "is_set_first_dialogue": true,
       "name": "沉静的精英学者",
       "title": "「赛季对战」",
-      "text": "最近一直在捕捉精灵，对于精灵对战倒是有些生疏了。同学，如果你是为加油海葵而来到这里的话，你可以多试试捕捉<span color=\"#D56C1F\">水与萌系</>精灵！",
+      "text": "最近一直忙着捕捉精灵，精灵对战都有些生疏了。同学，如果你是为了加油海葵而来，可以连续捕捉水系或萌系精灵，但你要认准其中一种系别连续捕捉哦！",
       "speed": 30,
       "ui_source_type": 5,
       "interact_camera_type": 11,
@@ -214468,7 +214673,7 @@
       "is_set_first_dialogue": true,
       "name": "认真的精英学者",
       "title": "「赛季对战」",
-      "text": "同学，如果你也觉得烟花团有趣，你可以试试捕捉一些岚鸟和黄蜂后，我曾经在捕捉它们时出现了红色盒子，烟花团就在其中。我之后要研究下这些精灵之间是不是有些共同点！",
+      "text": "同学，如果你也觉得烟花团很有意思的话，就去留意一下蓝色盒子吧，烟花团总会藏在蓝色盒子中呢。",
       "speed": 30,
       "ui_source_type": 5,
       "interact_camera_type": 13,
@@ -215182,7 +215387,7 @@
       "is_set_first_dialogue": true,
       "name": "热忱的精英学者",
       "title": "「赛季对战」",
-      "text": "如果你也对小鼓象感兴趣的话，去在这里尝试连续捕捉<span color=\"#D56C1F\">普通系与机械系</>精灵吧！",
+      "text": "如果你也对小鼓象感兴趣的话，去在这里尝试连续捕捉<span color=\"#D56C1F\">机械系</>精灵吧！",
       "speed": 30,
       "ui_source_type": 5,
       "dialogue_sound": "dialog54030121",
@@ -215418,7 +215623,7 @@
       "is_set_first_dialogue": true,
       "name": "狂热的精英学者",
       "title": "「赛季对战」",
-      "text": "同学，如果你也想拥有很多猴麦仔的话，可以去尝试连续捕捉一些<span color=\"#D56C1F\">机械系</>精灵吧！",
+      "text": "同学，如果你也想拥有很多猴麦仔的话，就认准它双系别中的其中一种系别精灵连续捕捉吧，无论是机械系还是普通系精灵，都有机会让他现身。",
       "speed": 30,
       "ui_source_type": 5,
       "dialogue_sound": "dialog54030121",
@@ -215654,7 +215859,7 @@
       "is_set_first_dialogue": true,
       "name": "敏锐的精英学者",
       "title": "「赛季对战」",
-      "text": "同学，我发现连续捕捉拉特和雪灵也会偶尔出现红色盒子呢？或许这两个精灵和小丑豆豆之间会有一些什么相似之处呢？",
+      "text": "同学，根据我最近连续捕捉的经历来说，我发现连续捕捉白发懒人和雪蛮人时，总是会出现红色盒子呢！",
       "speed": 30,
       "ui_source_type": 5,
       "dialogue_sound": "dialog54030121",
@@ -216126,7 +216331,7 @@
       "is_set_first_dialogue": true,
       "name": "柔和的精英学者",
       "title": "「赛季对战」",
-      "text": "我最近尝试了连续捕捉音速犬和呆小路，结果有时也会刷出黄色盒子，里面就有炫光迪迪。我感觉他们之间一定存在奇妙的共同点。",
+      "text": "同学，对战打得很棒嘛！如果你对炫光迪迪感兴趣，记得留意黄色盒子哦。我最近发现，只要连续捕捉石肤蜥和矿晶虫，黄色盒子就特别容易出现呢。",
       "speed": 30,
       "ui_source_type": 5,
       "dialogue_sound": "dialog54030121",
@@ -216154,6 +216359,7 @@
       "is_set_first_dialogue": true,
       "name": "沉静的精英学者",
       "title": "「赛季对战」",
+      "text": "我刚刚突然回忆起了精灵战斗的要点，我和加油海葵会有新的战术!同学，请问我们是否可以再切磋一下?",
       "speed": 30,
       "dialogue_sound": "dialog54030601",
       "actor_perform": [
@@ -216346,7 +216552,7 @@
       "is_set_first_dialogue": true,
       "name": "沉静的精英学者",
       "title": "「赛季对战」",
-      "text": "加油海葵是一个非常有趣的精灵呢！如果你也想要拥有它的话，你可以多试试捕捉<span color=\"#D56C1F\">水与萌系</>精灵！",
+      "text": "加油海葵是一个非常有趣的精灵呢！而且它有着水系与萌系两个系别，如果你也想要拥有它的话，你可以认准它这两个系别中的其中一种系别连续捕捉哦!",
       "speed": 30,
       "ui_source_type": 5,
       "dialogue_sound": "dialog54030121",
@@ -216582,7 +216788,7 @@
       "is_set_first_dialogue": true,
       "name": "认真的精英学者",
       "title": "「赛季对战」",
-      "text": "烟花团是系别很有趣的精灵，如果你也想研究烟花团，可以试试捕捉一些缇塔或者帕帕斯卡，我试过这两只精灵也会出现装有烟花团的红色盒子，这些精灵之间一定存在某种联系！",
+      "text": "烟花团是系别很有趣的精灵，如果你也想研究烟花团，可以试试捕捉一些岚鸟或者皇家狮鹫，我发现连续捕捉这两只精灵总是会出现蓝色盒子。",
       "speed": 30,
       "ui_source_type": 5,
       "dialogue_sound": "dialog54030121",
@@ -263932,6 +264138,342 @@
       ],
       "name": "？？？",
       "text": "这只盒子轻飘飘的……",
+      "speed": 30,
+      "ui_source_type": 15,
+      "dialogue_sound": "dialog100120024",
+      "action": {}
+    },
+    "100120025": {
+      "id": 100120025,
+      "opt_dia_relate": [
+        110022
+      ],
+      "name": "？？？",
+      "text": "盒子表面覆上了一层白雪，两侧的缝隙里似乎有树枝状的物体冒出来......",
+      "speed": 30,
+      "ui_source_type": 15,
+      "dialogue_sound": "dialog100120004",
+      "action": {}
+    },
+    "100120026": {
+      "id": 100120026,
+      "opt_dia_relate": [
+        110023
+      ],
+      "name": "？？？",
+      "text": "盒子里传出火焰噼啪的闷响，某处热得发烫，似乎随时要爆出焰火......",
+      "speed": 30,
+      "ui_source_type": 15,
+      "dialogue_sound": "dialog100120005",
+      "action": {}
+    },
+    "100120027": {
+      "id": 100120027,
+      "opt_dia_relate": [
+        110024
+      ],
+      "name": "？？？",
+      "text": "盒子里传来一阵沙沙声，像细密的绒毛贴过内壁，靠近时感觉它向你蹭了蹭......",
+      "speed": 30,
+      "ui_source_type": 15,
+      "dialogue_sound": "dialog100120006",
+      "action": {}
+    },
+    "100120028": {
+      "id": 100120028,
+      "opt_dia_relate": [
+        110025
+      ],
+      "name": "？？？",
+      "text": "盒子的侧面某个部位撑开成了犀角状，缝隙里还漏出了一撮毛发......",
+      "speed": 30,
+      "ui_source_type": 15,
+      "dialogue_sound": "dialog100120007",
+      "action": {}
+    },
+    "100120029": {
+      "id": 100120029,
+      "opt_dia_relate": [
+        110026
+      ],
+      "name": "？？？",
+      "text": "盒子里传来哒哒的马蹄声和鬃毛掠过的风响，缝隙里还时不时迸出一簇火星……",
+      "speed": 30,
+      "ui_source_type": 15,
+      "dialogue_sound": "dialog100120008",
+      "action": {}
+    },
+    "100120030": {
+      "id": 100120030,
+      "opt_dia_relate": [
+        110027
+      ],
+      "name": "？？？",
+      "text": "盒子里传来果冻般粘腻的、滑滑的声音，正在跟随盒子有节奏地摇动……",
+      "speed": 30,
+      "ui_source_type": 15,
+      "dialogue_sound": "dialog100120009",
+      "action": {}
+    },
+    "100120031": {
+      "id": 100120031,
+      "opt_dia_relate": [
+        110028
+      ],
+      "name": "？？？",
+      "text": "盒子里传来窸窸窣窣的爬行声，伴随一丝星芒从缝隙里掠过……",
+      "speed": 30,
+      "ui_source_type": 15,
+      "dialogue_sound": "dialog100120010",
+      "action": {}
+    },
+    "100120032": {
+      "id": 100120032,
+      "opt_dia_relate": [
+        110029
+      ],
+      "name": "？？？",
+      "text": "盒子里发出欢快的蹦跳声，偶尔还有咯咯的笑意响动……",
+      "speed": 30,
+      "ui_source_type": 15,
+      "dialogue_sound": "dialog100120011",
+      "action": {}
+    },
+    "100120033": {
+      "id": 100120033,
+      "opt_dia_relate": [
+        110030
+      ],
+      "name": "？？？",
+      "text": "盒子上冒出一圈圈气泡，里面传来柔软触须轻轻摇摆的哗啦声……",
+      "speed": 30,
+      "ui_source_type": 15,
+      "dialogue_sound": "dialog100120012",
+      "action": {}
+    },
+    "100120034": {
+      "id": 100120034,
+      "opt_dia_relate": [
+        110031
+      ],
+      "name": "？？？",
+      "text": "一靠近盒子就听见热闹的噼啪声，此起彼伏，接着盒顶冒出了一朵朵小烟花……",
+      "speed": 30,
+      "ui_source_type": 15,
+      "dialogue_sound": "dialog100120013",
+      "action": {}
+    },
+    "100120035": {
+      "id": 100120035,
+      "opt_dia_relate": [
+        110032
+      ],
+      "name": "？？？",
+      "text": "盒子里不时喷出一团彩雾，里面似乎在进行什么魔术表演……",
+      "speed": 30,
+      "ui_source_type": 15,
+      "dialogue_sound": "dialog100120014",
+      "action": {}
+    },
+    "100120036": {
+      "id": 100120036,
+      "opt_dia_relate": [
+        110033
+      ],
+      "name": "？？？",
+      "text": "盒子里传来啪嗒啪嗒的敲鼓声，伴随着哞哞的轻鸣，节奏感一流……",
+      "speed": 30,
+      "ui_source_type": 15,
+      "dialogue_sound": "dialog100120015",
+      "action": {}
+    },
+    "100120037": {
+      "id": 100120037,
+      "opt_dia_relate": [
+        110034
+      ],
+      "name": "？？？",
+      "text": "盒子里传来嘹亮的声音，音量听起来像被放大过一样，穿透力十足……",
+      "speed": 30,
+      "ui_source_type": 15,
+      "dialogue_sound": "dialog100120016",
+      "action": {}
+    },
+    "100120038": {
+      "id": 100120038,
+      "opt_dia_relate": [
+        110035
+      ],
+      "name": "？？？",
+      "text": "盒子里传来鳞片叮叮当当随着盒子摇动的声音，缝隙里透露出一丝彩光……",
+      "speed": 30,
+      "ui_source_type": 15,
+      "dialogue_sound": "dialog100120017",
+      "action": {}
+    },
+    "100120039": {
+      "id": 100120039,
+      "opt_dia_relate": [
+        110036
+      ],
+      "name": "？？？",
+      "text": "盒子里显得很安静，偶尔能听到一点吱呀的动作声……",
+      "speed": 30,
+      "ui_source_type": 15,
+      "dialogue_sound": "dialog100120018",
+      "action": {}
+    },
+    "100120040": {
+      "id": 100120040,
+      "opt_dia_relate": [
+        110037
+      ],
+      "name": "？？？",
+      "text": "盒子的内壁发出砰砰的撞击声，似乎有个圆鼓鼓的身体在四处乱窜和飞起……",
+      "speed": 30,
+      "ui_source_type": 15,
+      "dialogue_sound": "dialog100120019",
+      "action": {}
+    },
+    "100120041": {
+      "id": 100120041,
+      "opt_dia_relate": [
+        110038
+      ],
+      "name": "？？？",
+      "text": "盒子的内壁传来鬃毛拂过的沙沙声，抚摸盒子时似乎感受到一阵安心……",
+      "speed": 30,
+      "ui_source_type": 15,
+      "dialogue_sound": "dialog100120020",
+      "action": {}
+    },
+    "100120042": {
+      "id": 100120042,
+      "opt_dia_relate": [
+        110039
+      ],
+      "name": "？？？",
+      "text": "盒子里传来树皮摩擦般的窸窣声，感觉到它想尝试不发出动静，却失败了……",
+      "speed": 30,
+      "ui_source_type": 15,
+      "dialogue_sound": "dialog100120021",
+      "action": {}
+    },
+    "100120043": {
+      "id": 100120043,
+      "opt_dia_relate": [
+        110040
+      ],
+      "name": "？？？",
+      "text": "盒子摸着有些冰冷，但偶尔又有股热气从缝隙里传出，一下就把寒冷感驱散了……",
+      "speed": 30,
+      "ui_source_type": 15,
+      "dialogue_sound": "dialog100120022",
+      "action": {}
+    },
+    "100120044": {
+      "id": 100120044,
+      "opt_dia_relate": [
+        110041
+      ],
+      "name": "？？？",
+      "text": "盒子里传来一声细微的喵叫，随后听见它快速跃起，在盒子里进行了一番跑酷……",
+      "speed": 30,
+      "ui_source_type": 15,
+      "dialogue_sound": "dialog100120023",
+      "action": {}
+    },
+    "100120045": {
+      "id": 100120045,
+      "opt_dia_relate": [
+        110042
+      ],
+      "name": "？？？",
+      "text": "盒子的顶部缝隙里露出了几片花瓣，闻起来像梨子的味道，十分清新……",
+      "speed": 30,
+      "ui_source_type": 15,
+      "dialogue_sound": "dialog100120024",
+      "action": {}
+    },
+    "100120046": {
+      "id": 100120046,
+      "opt_dia_relate": [
+        110043
+      ],
+      "name": "？？？",
+      "text": "盒子里发出了咕嘟咕嘟的声音，有什么似乎在沸腾，快要将盒子胀开了……",
+      "speed": 30,
+      "ui_source_type": 15,
+      "dialogue_sound": "dialog100120018",
+      "action": {}
+    },
+    "100120047": {
+      "id": 100120047,
+      "opt_dia_relate": [
+        110044
+      ],
+      "name": "？？？",
+      "text": "盒子在尝试保持平衡，绝不向任何一边歪斜……",
+      "speed": 30,
+      "ui_source_type": 15,
+      "dialogue_sound": "dialog100120019",
+      "action": {}
+    },
+    "100120048": {
+      "id": 100120048,
+      "opt_dia_relate": [
+        110045
+      ],
+      "name": "？？？",
+      "text": "盒子晃了晃，正在开心的看着你……",
+      "speed": 30,
+      "ui_source_type": 15,
+      "dialogue_sound": "dialog100120020",
+      "action": {}
+    },
+    "100120049": {
+      "id": 100120049,
+      "opt_dia_relate": [
+        110046
+      ],
+      "name": "？？？",
+      "text": "盒子正在期待被打开……",
+      "speed": 30,
+      "ui_source_type": 15,
+      "dialogue_sound": "dialog100120021",
+      "action": {}
+    },
+    "100120050": {
+      "id": 100120050,
+      "opt_dia_relate": [
+        110047
+      ],
+      "name": "？？？",
+      "text": "盒子轻轻摇动，似乎在和你打招呼……",
+      "speed": 30,
+      "ui_source_type": 15,
+      "dialogue_sound": "dialog100120022",
+      "action": {}
+    },
+    "100120051": {
+      "id": 100120051,
+      "opt_dia_relate": [
+        110048
+      ],
+      "name": "？？？",
+      "text": "盒子安静地等待着……",
+      "speed": 30,
+      "ui_source_type": 15,
+      "dialogue_sound": "dialog100120023",
+      "action": {}
+    },
+    "100120052": {
+      "id": 100120052,
+      "opt_dia_relate": [
+        110049
+      ],
+      "name": "？？？",
+      "text": "盒子咚咚地敲了两下，像是在试探你的反应……",
       "speed": 30,
       "ui_source_type": 15,
       "dialogue_sound": "dialog100120024",
@@ -435345,7 +435887,7 @@
         "action_type": 10001,
         "action_param1": "0",
         "action_param2": "316051",
-        "success_dialogue": 189000053,
+        "success_dialogue": 189000055,
         "failure_dialogue": 100118
       }
     },
@@ -435365,7 +435907,7 @@
       "action": {
         "action_type": 10040,
         "action_param1": "51000001",
-        "success_dialogue": 189000055,
+        "success_dialogue": 100118,
         "failure_dialogue": 100118
       }
     },
@@ -435378,7 +435920,7 @@
       "action": {
         "action_type": 10095,
         "action_param1": "7041",
-        "success_dialogue": 100118,
+        "success_dialogue": 189000053,
         "failure_dialogue": 100118
       }
     },
@@ -435424,7 +435966,7 @@
         "action_type": 10001,
         "action_param1": "0",
         "action_param2": "316052",
-        "success_dialogue": 189000063,
+        "success_dialogue": 189000065,
         "failure_dialogue": 100118
       }
     },
@@ -435444,7 +435986,7 @@
       "action": {
         "action_type": 10040,
         "action_param1": "51000001",
-        "success_dialogue": 189000065,
+        "success_dialogue": 100118,
         "failure_dialogue": 100118
       }
     },
@@ -435457,7 +435999,7 @@
       "action": {
         "action_type": 10095,
         "action_param1": "7042",
-        "success_dialogue": 100118,
+        "success_dialogue": 189000063,
         "failure_dialogue": 100118
       }
     },
@@ -435503,7 +436045,7 @@
         "action_type": 10001,
         "action_param1": "0",
         "action_param2": "316053",
-        "success_dialogue": 189000073,
+        "success_dialogue": 189000075,
         "failure_dialogue": 100118
       }
     },
@@ -435523,7 +436065,7 @@
       "action": {
         "action_type": 10040,
         "action_param1": "51000001",
-        "success_dialogue": 189000075,
+        "success_dialogue": 100118,
         "failure_dialogue": 100118
       }
     },
@@ -435536,7 +436078,7 @@
       "action": {
         "action_type": 10095,
         "action_param1": "7043",
-        "success_dialogue": 100118,
+        "success_dialogue": 189000073,
         "failure_dialogue": 100118
       }
     },
@@ -435582,7 +436124,7 @@
         "action_type": 10001,
         "action_param1": "0",
         "action_param2": "316054",
-        "success_dialogue": 189000083,
+        "success_dialogue": 189000085,
         "failure_dialogue": 100118
       }
     },
@@ -435602,7 +436144,7 @@
       "action": {
         "action_type": 10040,
         "action_param1": "51000001",
-        "success_dialogue": 189000085,
+        "success_dialogue": 100118,
         "failure_dialogue": 100118
       }
     },
@@ -435615,7 +436157,7 @@
       "action": {
         "action_type": 10095,
         "action_param1": "7044",
-        "success_dialogue": 100118,
+        "success_dialogue": 189000083,
         "failure_dialogue": 100118
       }
     },
@@ -435661,7 +436203,7 @@
         "action_type": 10001,
         "action_param1": "0",
         "action_param2": "316055",
-        "success_dialogue": 189000093,
+        "success_dialogue": 189000095,
         "failure_dialogue": 100118
       }
     },
@@ -435681,7 +436223,7 @@
       "action": {
         "action_type": 10040,
         "action_param1": "51000002",
-        "success_dialogue": 189000095,
+        "success_dialogue": 100118,
         "failure_dialogue": 100118
       }
     },
@@ -435694,7 +436236,7 @@
       "action": {
         "action_type": 10095,
         "action_param1": "7045",
-        "success_dialogue": 100118,
+        "success_dialogue": 189000093,
         "failure_dialogue": 100118
       }
     },
@@ -435740,7 +436282,7 @@
         "action_type": 10001,
         "action_param1": "0",
         "action_param2": "316056",
-        "success_dialogue": 189000103,
+        "success_dialogue": 189000105,
         "failure_dialogue": 100118
       }
     },
@@ -435760,7 +436302,7 @@
       "action": {
         "action_type": 10040,
         "action_param1": "51000002",
-        "success_dialogue": 189000105,
+        "success_dialogue": 100118,
         "failure_dialogue": 100118
       }
     },
@@ -435773,7 +436315,7 @@
       "action": {
         "action_type": 10095,
         "action_param1": "7046",
-        "success_dialogue": 100118,
+        "success_dialogue": 189000103,
         "failure_dialogue": 100118
       }
     },
@@ -435819,7 +436361,7 @@
         "action_type": 10001,
         "action_param1": "0",
         "action_param2": "316057",
-        "success_dialogue": 189000113,
+        "success_dialogue": 189000115,
         "failure_dialogue": 100118
       }
     },
@@ -435839,7 +436381,7 @@
       "action": {
         "action_type": 10040,
         "action_param1": "51000002",
-        "success_dialogue": 189000115,
+        "success_dialogue": 100118,
         "failure_dialogue": 100118
       }
     },
@@ -435852,7 +436394,7 @@
       "action": {
         "action_type": 10095,
         "action_param1": "7047",
-        "success_dialogue": 100118,
+        "success_dialogue": 189000113,
         "failure_dialogue": 100118
       }
     },
@@ -435898,7 +436440,7 @@
         "action_type": 10001,
         "action_param1": "0",
         "action_param2": "316058",
-        "success_dialogue": 189000123,
+        "success_dialogue": 189000125,
         "failure_dialogue": 100118
       }
     },
@@ -435918,7 +436460,7 @@
       "action": {
         "action_type": 10040,
         "action_param1": "51000002",
-        "success_dialogue": 189000125,
+        "success_dialogue": 100118,
         "failure_dialogue": 100118
       }
     },
@@ -435931,7 +436473,7 @@
       "action": {
         "action_type": 10095,
         "action_param1": "7048",
-        "success_dialogue": 100118,
+        "success_dialogue": 189000123,
         "failure_dialogue": 100118
       }
     },
@@ -435977,7 +436519,7 @@
         "action_type": 10001,
         "action_param1": "0",
         "action_param2": "316059",
-        "success_dialogue": 189000133,
+        "success_dialogue": 189000135,
         "failure_dialogue": 100118
       }
     },
@@ -435997,7 +436539,7 @@
       "action": {
         "action_type": 10040,
         "action_param1": "51000003",
-        "success_dialogue": 189000135,
+        "success_dialogue": 100118,
         "failure_dialogue": 100118
       }
     },
@@ -436010,7 +436552,7 @@
       "action": {
         "action_type": 10095,
         "action_param1": "7049",
-        "success_dialogue": 100118,
+        "success_dialogue": 189000133,
         "failure_dialogue": 100118
       }
     },
@@ -436056,7 +436598,7 @@
         "action_type": 10001,
         "action_param1": "0",
         "action_param2": "316060",
-        "success_dialogue": 189000143,
+        "success_dialogue": 189000145,
         "failure_dialogue": 100118
       }
     },
@@ -436076,7 +436618,7 @@
       "action": {
         "action_type": 10040,
         "action_param1": "51000003",
-        "success_dialogue": 189000145,
+        "success_dialogue": 100118,
         "failure_dialogue": 100118
       }
     },
@@ -436089,7 +436631,7 @@
       "action": {
         "action_type": 10095,
         "action_param1": "7050",
-        "success_dialogue": 100118,
+        "success_dialogue": 189000143,
         "failure_dialogue": 100118
       }
     },
@@ -436135,7 +436677,7 @@
         "action_type": 10001,
         "action_param1": "0",
         "action_param2": "316061",
-        "success_dialogue": 189000153,
+        "success_dialogue": 189000155,
         "failure_dialogue": 100118
       }
     },
@@ -436155,7 +436697,7 @@
       "action": {
         "action_type": 10040,
         "action_param1": "51000003",
-        "success_dialogue": 189000155,
+        "success_dialogue": 100118,
         "failure_dialogue": 100118
       }
     },
@@ -436168,7 +436710,7 @@
       "action": {
         "action_type": 10095,
         "action_param1": "7051",
-        "success_dialogue": 100118,
+        "success_dialogue": 189000153,
         "failure_dialogue": 100118
       }
     },
@@ -436214,7 +436756,7 @@
         "action_type": 10001,
         "action_param1": "0",
         "action_param2": "316062",
-        "success_dialogue": 189000163,
+        "success_dialogue": 189000165,
         "failure_dialogue": 100118
       }
     },
@@ -436234,7 +436776,7 @@
       "action": {
         "action_type": 10040,
         "action_param1": "51000003",
-        "success_dialogue": 189000165,
+        "success_dialogue": 100118,
         "failure_dialogue": 100118
       }
     },
@@ -436247,7 +436789,7 @@
       "action": {
         "action_type": 10095,
         "action_param1": "7064",
-        "success_dialogue": 100118,
+        "success_dialogue": 189000163,
         "failure_dialogue": 100118
       }
     },
@@ -462371,8 +462913,8 @@
         "action_param1": "1600472",
         "action_param2": "Happy",
         "action_param3": "2000669",
-        "success_dialogue": 200000322,
-        "failure_dialogue": 200000322
+        "success_dialogue": 200000321,
+        "failure_dialogue": 200000321
       }
     },
     "200000321": {
@@ -590537,7 +591079,7 @@
         32200
       ],
       "name": "回映的记忆石",
-      "text": "这些碎片承载了强烈的情感与珍贵的过往，然而每一枚都只是连绵画幅中的一瞬。",
+      "text": "这些碎片承载了强烈的情感与珍贵的过往，构成了连绵的画幅。",
       "translate_end_string": 3,
       "Column1": [
         0.3,
@@ -590566,7 +591108,7 @@
         32200
       ],
       "name": "回映的记忆石",
-      "text": "如果你想要了解首领的完整过往，需要击败它们，收集更多的记忆碎片。",
+      "text": "如果你想要了解首领的完整过往，需要击败它们，收集记忆碎片。",
       "translate_end_string": 3,
       "Column1": [
         0.3,
@@ -590624,7 +591166,7 @@
         32200
       ],
       "name": "回映的记忆石",
-      "text": "需要提醒的是，不是每一次都能幸运地获得碎片。",
+      "text": "以你作为魔法师的天赋与能力，我相信你定能如愿。",
       "translate_end_string": 3,
       "Column1": [
         0.3,
@@ -590653,7 +591195,7 @@
         32200
       ],
       "name": "回映的记忆石",
-      "text": "不过，以你作为魔法师的天赋与能力，我相信你定能如愿。 ###我会在此等候你的好消息。祝你，一切顺利。",
+      "text": "我会在此等候你的好消息。祝你，一切顺利。",
       "translate_end_string": 3,
       "Column1": [
         0.3,
@@ -590745,7 +591287,7 @@
       "dialogue_sound": "dialog400110050",
       "action": {
         "action_type": 96,
-        "action_param1": "103900;3",
+        "action_param1": "103900;1",
         "success_dialogue": 400110065,
         "failure_dialogue": 400110055
       }
@@ -590756,7 +591298,7 @@
         32201
       ],
       "name": "回映的记忆石",
-      "text": "琐碎的记忆……我能感觉到碎片之间的纠缠与共鸣。",
+      "text": "收集更多碎片吧，{name}，那段回忆在呼唤着你。",
       "translate_end_string": 3,
       "Column1": [
         0.3,
@@ -590785,7 +591327,7 @@
         32201
       ],
       "name": "回映的记忆石",
-      "text": "但……还不够。收集更多碎片吧，{name}，那段回忆在呼唤着你。",
+      "text": "我会一直在此地等候的。",
       "translate_end_string": 3,
       "Column1": [
         0.3,
@@ -591109,7 +591651,7 @@
       "dialogue_sound": "dialog400110210",
       "action": {
         "action_type": 96,
-        "action_param1": "103901;3",
+        "action_param1": "103901;1",
         "success_dialogue": 400110225,
         "failure_dialogue": 400110215
       }
@@ -591120,7 +591662,7 @@
         32203
       ],
       "name": "回映的记忆石",
-      "text": "琐碎的记忆……我能感觉到碎片之间的纠缠与共鸣。",
+      "text": "收集更多碎片吧，{name}，那段回忆在呼唤着你。",
       "translate_end_string": 3,
       "Column1": [
         0.3,
@@ -591149,7 +591691,7 @@
         32203
       ],
       "name": "回映的记忆石",
-      "text": "但……还不够。收集更多碎片吧，{name}，那段回忆在呼唤着你。",
+      "text": "我会一直在此地等候的。",
       "translate_end_string": 3,
       "Column1": [
         0.3,
@@ -591426,7 +591968,7 @@
       "dialogue_sound": "dialog400110410",
       "action": {
         "action_type": 96,
-        "action_param1": "103902;3",
+        "action_param1": "103902;1",
         "success_dialogue": 400110425,
         "failure_dialogue": 400110415
       }
@@ -591437,7 +591979,7 @@
         32205
       ],
       "name": "回映的记忆石",
-      "text": "琐碎的记忆……我能感觉到碎片之间的纠缠与共鸣。",
+      "text": "收集更多碎片吧，{name}，那段回忆在呼唤着你。",
       "translate_end_string": 3,
       "Column1": [
         0.3,
@@ -591466,7 +592008,7 @@
         32205
       ],
       "name": "回映的记忆石",
-      "text": "但……还不够。收集更多碎片吧，{name}，那段回忆在呼唤着你。",
+      "text": "我会一直在此地等候的。",
       "translate_end_string": 3,
       "Column1": [
         0.3,
@@ -591745,7 +592287,7 @@
       "dialogue_sound": "dialog400110610",
       "action": {
         "action_type": 96,
-        "action_param1": "103903;3",
+        "action_param1": "103903;1",
         "success_dialogue": 400110625,
         "failure_dialogue": 400110615
       }
@@ -591756,7 +592298,7 @@
         32207
       ],
       "name": "回映的记忆石",
-      "text": "琐碎的记忆……我能感觉到碎片之间的纠缠与共鸣。",
+      "text": "收集更多碎片吧，{name}，那段回忆在呼唤着你。",
       "translate_end_string": 3,
       "Column1": [
         0.3,
@@ -591785,7 +592327,7 @@
         32207
       ],
       "name": "回映的记忆石",
-      "text": "但……还不够。收集更多碎片吧，{name}，那段回忆在呼唤着你。",
+      "text": "我会一直在此地等候的。",
       "translate_end_string": 3,
       "Column1": [
         0.3,
@@ -592062,7 +592604,7 @@
       "dialogue_sound": "dialog400110810",
       "action": {
         "action_type": 96,
-        "action_param1": "103904;3",
+        "action_param1": "103904;1",
         "success_dialogue": 400110825,
         "failure_dialogue": 400110815
       }
@@ -592073,7 +592615,7 @@
         32209
       ],
       "name": "回映的记忆石",
-      "text": "琐碎的记忆……我能感觉到碎片之间的纠缠与共鸣。",
+      "text": "收集更多碎片吧，{name}，那段回忆在呼唤着你。",
       "translate_end_string": 3,
       "Column1": [
         0.3,
@@ -592102,7 +592644,7 @@
         32209
       ],
       "name": "回映的记忆石",
-      "text": "但……还不够。收集更多碎片吧，{name}，那段回忆在呼唤着你。",
+      "text": "我会一直在此地等候的。",
       "translate_end_string": 3,
       "Column1": [
         0.3,
@@ -592383,7 +592925,7 @@
       "dialogue_sound": "dialog400111010",
       "action": {
         "action_type": 96,
-        "action_param1": "103908;3",
+        "action_param1": "103908;1",
         "success_dialogue": 400111025,
         "failure_dialogue": 400111015
       }
@@ -592394,7 +592936,7 @@
         32211
       ],
       "name": "回映的记忆石",
-      "text": "琐碎的记忆……我能感觉到碎片之间的纠缠与共鸣。",
+      "text": "收集更多碎片吧，{name}，那段回忆在呼唤着你。",
       "translate_end_string": 3,
       "Column1": [
         0.3,
@@ -592423,7 +592965,7 @@
         32211
       ],
       "name": "回映的记忆石",
-      "text": "但……还不够。收集更多碎片吧，{name}，那段回忆在呼唤着你。",
+      "text": "我会一直在此地等候的。",
       "translate_end_string": 3,
       "Column1": [
         0.3,
@@ -592700,7 +593242,7 @@
       "dialogue_sound": "dialog400111210",
       "action": {
         "action_type": 96,
-        "action_param1": "103909;3",
+        "action_param1": "103909;1",
         "success_dialogue": 400111225,
         "failure_dialogue": 400111215
       }
@@ -592711,7 +593253,7 @@
         32213
       ],
       "name": "回映的记忆石",
-      "text": "琐碎的记忆……我能感觉到碎片之间的纠缠与共鸣。",
+      "text": "收集更多碎片吧，{name}，那段回忆在呼唤着你。",
       "translate_end_string": 3,
       "Column1": [
         0.3,
@@ -592740,7 +593282,7 @@
         32213
       ],
       "name": "回映的记忆石",
-      "text": "但……还不够。收集更多碎片吧，{name}，那段回忆在呼唤着你。",
+      "text": "我会一直在此地等候的。",
       "translate_end_string": 3,
       "Column1": [
         0.3,
@@ -593017,7 +593559,7 @@
       "dialogue_sound": "dialog400111310",
       "action": {
         "action_type": 96,
-        "action_param1": "103910;3",
+        "action_param1": "103910;1",
         "success_dialogue": 400111325,
         "failure_dialogue": 400111315
       }
@@ -593028,7 +593570,7 @@
         32215
       ],
       "name": "回映的记忆石",
-      "text": "琐碎的记忆……我能感觉到碎片之间的纠缠与共鸣。",
+      "text": "收集更多碎片吧，{name}，那段回忆在呼唤着你。",
       "translate_end_string": 3,
       "Column1": [
         0.3,
@@ -593057,7 +593599,7 @@
         32215
       ],
       "name": "回映的记忆石",
-      "text": "但……还不够。收集更多碎片吧，{name}，那段回忆在呼唤着你。",
+      "text": "我会一直在此地等候的。",
       "translate_end_string": 3,
       "Column1": [
         0.3,
@@ -809172,5 +809714,6 @@
         "action_param1": "1015"
       }
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

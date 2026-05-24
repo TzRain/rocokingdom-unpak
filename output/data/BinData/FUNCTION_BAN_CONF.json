@@ -13497,6 +13497,214 @@
         {}
       ]
     },
+    "110": {
+      "id": 110,
+      "editor_name": "PCT_WAIT_FOR_OTHERS_同行战斗局外等待中",
+      "desc_priority": 20,
+      "function_ban_list": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {
+          "function_ban_switch": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
     "113": {
       "id": 113,
       "editor_name": "PCT_HOME_PET_FEED",
@@ -16540,214 +16748,6 @@
         {}
       ]
     },
-    "126": {
-      "id": 126,
-      "editor_name": "PCT_WAIT_FOR_OTHERS_同行战斗局外等待中",
-      "desc_priority": 20,
-      "function_ban_list": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-          "function_ban_switch": true
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-          "function_ban_switch": true
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {},
-        {},
-        {
-          "function_ban_switch": true
-        },
-        {},
-        {},
-        {},
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {},
-        {},
-        {},
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-          "function_ban_switch": true
-        },
-        {},
-        {},
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {},
-        {},
-        {},
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {},
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {
-          "function_ban_switch": true
-        },
-        {
-          "function_ban_switch": true
-        },
-        {},
-        {},
-        {},
-        {},
-        {
-          "function_ban_switch": true
-        },
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
-    },
     "127": {
       "id": 127,
       "editor_name": "PCT_ROLEPLAY_EMOTE_播放RP动作中",
@@ -17319,5 +17319,6 @@
         {}
       ]
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

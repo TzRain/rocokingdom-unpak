@@ -67,7 +67,7 @@
     "move_pool": [
         {
             "id": 7130220,
-            "name": "应对！虫击",
+            "name": "掩护",
             "icon_id": "212015",
             "move_type": {
                 "id": 11,
@@ -78,18 +78,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "应对！虫击",
-                    "description": "造成物伤，应对状态：本次技能威力变为2倍，无视敌方系别抵抗。"
+                    "name": "掩护",
+                    "description": "减伤70%，紧急脱离，应对攻击：下个入场精灵获得减伤。"
                 }
             },
             "move_category": "Defense",
             "energy_cost": 2,
             "power": null,
-            "description": "造成物伤，应对状态：本次技能威力变为2倍，无视敌方系别抵抗。"
+            "description": "减伤70%，紧急脱离，应对攻击：下个入场精灵获得减伤。"
         },
         {
             "id": 7130300,
-            "name": "减伤70%，紧急脱离，应对攻击：下个入场精灵获得减伤。",
+            "name": "网缚",
             "icon_id": "112022",
             "move_type": {
                 "id": 11,
@@ -100,18 +100,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "减伤70%，紧急脱离，应对攻击：下个入场精灵获得减伤。",
-                    "description": "应对！掩护"
+                    "name": "网缚",
+                    "description": "造成物伤，敌方获得物防-30%。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 2,
             "power": 60,
-            "description": "应对！掩护"
+            "description": "造成物伤，敌方获得物防-30%。"
         },
         {
             "id": 7130310,
-            "name": "蛰针",
+            "name": "食腐",
             "icon_id": "112023",
             "move_type": {
                 "id": 11,
@@ -122,18 +122,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "蛰针",
-                    "description": "减伤70%，紧急脱离，应对攻击：下个入场精灵获得减伤。"
+                    "name": "食腐",
+                    "description": "驱散敌方印记，每层印记回复自己10%生命。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 2,
             "power": null,
-            "description": "减伤70%，紧急脱离，应对攻击：下个入场精灵获得减伤。"
+            "description": "驱散敌方印记，每层印记回复自己10%生命。"
         },
         {
             "id": 7130320,
-            "name": "虫刺",
+            "name": "虫结阵",
             "icon_id": "112025",
             "move_type": {
                 "id": 11,
@@ -144,14 +144,14 @@
             },
             "localized": {
                 "zh": {
-                    "name": "虫刺",
-                    "description": "对敌方精灵造成物理伤害。"
+                    "name": "虫结阵",
+                    "description": "减伤80%，应对攻击：己方队伍获得1次随机奉献。"
                 }
             },
             "move_category": "Defense",
             "energy_cost": 2,
             "power": null,
-            "description": "对敌方精灵造成物理伤害。"
+            "description": "减伤80%，应对攻击：己方队伍获得1次随机奉献。"
         }
     ],
     "move_stones": [],

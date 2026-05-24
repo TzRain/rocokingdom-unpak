@@ -97,22 +97,22 @@
         },
         {
           "point_required": 1000,
-          "reward": 88000202,
+          "reward": 88000209,
           "reward_text": "认可度达到1000"
         },
         {
           "point_required": 1500,
-          "reward": 88000203,
+          "reward": 88000210,
           "reward_text": "认可度达到1500"
         },
         {
           "point_required": 2000,
-          "reward": 88000204,
+          "reward": 88000211,
           "reward_text": "认可度达到2000"
         },
         {
           "point_required": 2500,
-          "reward": 88000205,
+          "reward": 88000212,
           "reward_text": "认可度达到2500"
         }
       ]
@@ -136,25 +136,26 @@
         },
         {
           "point_required": 1000,
-          "reward": 88000202,
+          "reward": 88000209,
           "reward_text": "认可度达到1000"
         },
         {
           "point_required": 1500,
-          "reward": 88000203,
+          "reward": 88000210,
           "reward_text": "认可度达到1500"
         },
         {
           "point_required": 2000,
-          "reward": 88000204,
+          "reward": 88000211,
           "reward_text": "认可度达到2000"
         },
         {
           "point_required": 2500,
-          "reward": 88000205,
+          "reward": 88000212,
           "reward_text": "认可度达到2500"
         }
       ]
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

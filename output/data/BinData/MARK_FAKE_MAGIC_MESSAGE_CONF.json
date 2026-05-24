@@ -108,5 +108,6 @@
       "fake_feed_decrypt_condition": 1,
       "decrypt_condition_param": 21010602
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

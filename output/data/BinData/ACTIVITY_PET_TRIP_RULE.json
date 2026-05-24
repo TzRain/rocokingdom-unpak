@@ -1,0 +1,33 @@
+{
+  "RocoDataRows": {
+    "1": {
+      "id": 1,
+      "addtime": 60
+    },
+    "2": {
+      "id": 2,
+      "addtime": 60
+    },
+    "3": {
+      "id": 3,
+      "addtime": 120
+    },
+    "4": {
+      "id": 4,
+      "addtime": 120
+    },
+    "5": {
+      "id": 5,
+      "addtime": 240
+    },
+    "6": {
+      "id": 6,
+      "addtime": 60
+    },
+    "7": {
+      "id": 7,
+      "addtime": 60
+    }
+  },
+  "LocalizationStrings": {}
+}

@@ -2,6 +2,7 @@
   "RocoDataRows": {
     "100001": {
       "id": 100001,
+      "exchange_time_limit_group": 10018,
       "unlock_type": 8,
       "use_type": 17,
       "is_check_npc_near": true,
@@ -29,6 +30,7 @@
     },
     "100002": {
       "id": 100002,
+      "exchange_time_limit_group": 10019,
       "unlock_type": 8,
       "use_type": 17,
       "is_check_npc_near": true,
@@ -56,6 +58,7 @@
     },
     "100003": {
       "id": 100003,
+      "exchange_time_limit_group": 10020,
       "unlock_type": 8,
       "use_type": 17,
       "is_check_npc_near": true,
@@ -83,6 +86,7 @@
     },
     "100004": {
       "id": 100004,
+      "exchange_time_limit_group": 10021,
       "unlock_type": 8,
       "use_type": 17,
       "is_check_npc_near": true,
@@ -110,6 +114,7 @@
     },
     "100005": {
       "id": 100005,
+      "exchange_time_limit_group": 10022,
       "unlock_type": 8,
       "use_type": 17,
       "is_check_npc_near": true,
@@ -137,6 +142,7 @@
     },
     "100006": {
       "id": 100006,
+      "exchange_time_limit_group": 10023,
       "unlock_type": 8,
       "use_type": 17,
       "is_check_npc_near": true,
@@ -164,6 +170,7 @@
     },
     "100007": {
       "id": 100007,
+      "exchange_time_limit_group": 10024,
       "unlock_type": 8,
       "use_type": 17,
       "is_check_npc_near": true,
@@ -191,6 +198,7 @@
     },
     "100011": {
       "id": 100011,
+      "exchange_time_limit_group": 10025,
       "unlock_type": 8,
       "use_type": 17,
       "is_check_npc_near": true,
@@ -218,6 +226,7 @@
     },
     "100012": {
       "id": 100012,
+      "exchange_time_limit_group": 10026,
       "unlock_type": 8,
       "use_type": 17,
       "is_check_npc_near": true,
@@ -245,6 +254,7 @@
     },
     "100013": {
       "id": 100013,
+      "exchange_time_limit_group": 10027,
       "unlock_type": 8,
       "use_type": 17,
       "is_check_npc_near": true,
@@ -272,6 +282,7 @@
     },
     "100014": {
       "id": 100014,
+      "exchange_time_limit_group": 10028,
       "unlock_type": 8,
       "use_type": 17,
       "is_check_npc_near": true,
@@ -299,6 +310,7 @@
     },
     "100015": {
       "id": 100015,
+      "exchange_time_limit_group": 10029,
       "unlock_type": 8,
       "use_type": 17,
       "is_check_npc_near": true,
@@ -6851,6 +6863,7 @@
           "cost_goods_num": 60000
         }
       ],
+      "Ban_Other_Home_Build": true,
       "furniture_build_level": 5,
       "random_weight_struct": [
         {},
@@ -40707,5 +40720,6 @@
       "is_common": true,
       "sort_id": 10002
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

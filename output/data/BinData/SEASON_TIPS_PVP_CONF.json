@@ -66,11 +66,11 @@
       "tab_group": [
         {
           "rank": 6,
-          "reward": 608015
+          "reward": 608207
         },
         {
           "rank": 10,
-          "reward": 608015
+          "reward": 608207
         },
         {
           "rank": 18,
@@ -86,7 +86,7 @@
         },
         {
           "rank": 46,
-          "reward": 608016
+          "reward": 608208
         },
         {
           "rank": 58,
@@ -94,7 +94,7 @@
         },
         {
           "rank": 66,
-          "reward": 608017
+          "reward": 608209
         },
         {
           "rank": 78,
@@ -102,7 +102,7 @@
         },
         {
           "rank": 86,
-          "reward": 608018
+          "reward": 608210
         },
         {
           "rank": 98,
@@ -110,7 +110,7 @@
         },
         {
           "rank": 106,
-          "reward": 608019
+          "reward": 608211
         },
         {
           "rank": 117,
@@ -118,5 +118,6 @@
         }
       ]
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

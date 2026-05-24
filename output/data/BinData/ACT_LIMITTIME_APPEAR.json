@@ -558,5 +558,6 @@
       "pet_img1_zoom": 0.85,
       "pet_img2": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_manhua_youlingshu.img_manhua_youlingshu'"
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

@@ -110,7 +110,7 @@
     "breeding": {
         "id": 3312001,
         "pet_id": 3312001,
-        "name": "矿晶虫（首领血脉）",
+        "name": "若叶蜥",
         "model_id": 3312001,
         "hatch_data": 43200,
         "weight_low": 840,
@@ -132,7 +132,7 @@
             {
                 "id": 3312001,
                 "pet_id": 3312001,
-                "name": "矿晶虫（首领血脉）",
+                "name": "若叶蜥",
                 "model_id": 3312001,
                 "hatch_data": 43200,
                 "weight_low": 840,
@@ -152,53 +152,15 @@
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 3330001,
-                "pet_id": 3330001,
-                "name": "若叶蜥",
-                "model_id": 3330001,
-                "hatch_data": 57600,
-                "weight_low": 2590,
-                "weight_high": 3440,
-                "height_low": 23,
-                "height_high": 29,
-                "precious_egg_type": null,
-                "egg_base_glass_prob_array": [
-                    395,
-                    2000
-                ],
-                "egg_add_glass_prob_array": [
-                    1,
-                    80
-                ],
-                "is_contact_add_glass_prob": true,
-                "is_contact_add_shining_prob": null
-            },
-            {
                 "id": 33120001,
                 "pet_id": 33120001,
-                "name": "雪绒鸟",
+                "name": "若叶蜥",
                 "model_id": 3312001,
                 "hatch_data": 300,
                 "weight_low": 840,
                 "weight_high": 1808,
                 "height_low": 19,
                 "height_high": 23,
-                "precious_egg_type": 7,
-                "egg_base_glass_prob_array": null,
-                "egg_add_glass_prob_array": null,
-                "is_contact_add_glass_prob": null,
-                "is_contact_add_shining_prob": null
-            },
-            {
-                "id": 33780001,
-                "pet_id": 33780001,
-                "name": "若叶蜥",
-                "model_id": 3378001,
-                "hatch_data": 300,
-                "weight_low": 385,
-                "weight_high": 500,
-                "height_low": 11,
-                "height_high": 15,
                 "precious_egg_type": 7,
                 "egg_base_glass_prob_array": null,
                 "egg_add_glass_prob_array": null,

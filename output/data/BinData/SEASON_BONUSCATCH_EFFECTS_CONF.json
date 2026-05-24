@@ -1,0 +1,11 @@
+{
+  "RocoDataRows": {
+    "1001": {
+      "id": 1001,
+      "season": 2,
+      "catch_skill": "/Game/ArtRes/Effects/Particle/Res/Scene/S2/NS_S2_JXHZ_Appear06",
+      "sound_id": 2026032706
+    }
+  },
+  "LocalizationStrings": {}
+}

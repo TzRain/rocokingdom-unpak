@@ -693,5 +693,6 @@
       "remove_sub_status": 1,
       "helper_path": "NewRoco.Modules.Core.Scene.Component.Ability.Helper.RideAll.RideAllJumpHelper"
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

@@ -156,7 +156,7 @@
     "breeding": {
         "id": 3428001,
         "pet_id": 3428001,
-        "name": "格斗小六",
+        "name": "臭臭锥",
         "model_id": 3428001,
         "hatch_data": 72000,
         "weight_low": 27475,
@@ -178,7 +178,7 @@
             {
                 "id": 3428001,
                 "pet_id": 3428001,
-                "name": "格斗小六",
+                "name": "臭臭锥",
                 "model_id": 3428001,
                 "hatch_data": 72000,
                 "weight_low": 27475,
@@ -198,31 +198,9 @@
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 3432001,
-                "pet_id": 3432001,
-                "name": "臭臭锥",
-                "model_id": 3432001,
-                "hatch_data": 43200,
-                "weight_low": 1229,
-                "weight_high": 2728,
-                "height_low": 32,
-                "height_high": 35,
-                "precious_egg_type": null,
-                "egg_base_glass_prob_array": [
-                    8,
-                    1125
-                ],
-                "egg_add_glass_prob_array": [
-                    1,
-                    50
-                ],
-                "is_contact_add_glass_prob": true,
-                "is_contact_add_shining_prob": null
-            },
-            {
                 "id": 34280001,
                 "pet_id": 34280001,
-                "name": "凡雀",
+                "name": "臭臭锥",
                 "model_id": 3428001,
                 "hatch_data": 300,
                 "weight_low": 27475,

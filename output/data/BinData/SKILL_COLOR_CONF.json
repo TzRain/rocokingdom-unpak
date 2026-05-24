@@ -377,5 +377,6 @@
       "JL_background_colour": "MaterialInstanceConstant'/Game/NewRoco/Modules/System/PetUI/Raw/BP/Back/General/MI_General.MI_General'",
       "JL_background_clear": "MaterialInstanceConstant'/Game/NewRoco/Modules/System/PetUI/Raw/BP/Back/General/MI_General_Bottom.MI_General_Bottom'"
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

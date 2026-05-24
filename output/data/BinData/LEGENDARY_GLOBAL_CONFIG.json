@@ -291,25 +291,25 @@
     "level_1_glassy": {
       "id": 36,
       "key": "level_1_glassy",
-      "num": 10000,
+      "num": 30000,
       "is_loc": 2
     },
     "level_2_glassy": {
       "id": 37,
       "key": "level_2_glassy",
-      "num": 10000,
+      "num": 30000,
       "is_loc": 2
     },
     "level_3_glassy": {
       "id": 38,
       "key": "level_3_glassy",
-      "num": 10000,
+      "num": 30000,
       "is_loc": 2
     },
     "level_4_glassy": {
       "id": 39,
       "key": "level_4_glassy",
-      "num": 10000,
+      "num": 30000,
       "is_loc": 2
     },
     "level_5_glassy": {
@@ -392,5 +392,6 @@
       "key": "level_10_shiny",
       "is_loc": 2
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

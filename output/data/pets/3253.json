@@ -156,7 +156,7 @@
     "breeding": {
         "id": 3253001,
         "pet_id": 3253001,
-        "name": "呆火鸟",
+        "name": "速粒小子",
         "model_id": 3253001,
         "hatch_data": 57600,
         "weight_low": 5355,
@@ -178,7 +178,7 @@
             {
                 "id": 3253001,
                 "pet_id": 3253001,
-                "name": "呆火鸟",
+                "name": "速粒小子",
                 "model_id": 3253001,
                 "hatch_data": 57600,
                 "weight_low": 5355,
@@ -198,25 +198,9 @@
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 3262004,
-                "pet_id": 3262004,
-                "name": "速粒小子",
-                "model_id": 3262002,
-                "hatch_data": 57600,
-                "weight_low": 2380,
-                "weight_high": 3560,
-                "height_low": 22,
-                "height_high": 31,
-                "precious_egg_type": 2,
-                "egg_base_glass_prob_array": null,
-                "egg_add_glass_prob_array": null,
-                "is_contact_add_glass_prob": null,
-                "is_contact_add_shining_prob": null
-            },
-            {
                 "id": 32530001,
                 "pet_id": 32530001,
-                "name": "伊雷龙",
+                "name": "速粒小子",
                 "model_id": 3253001,
                 "hatch_data": 300,
                 "weight_low": 5355,
