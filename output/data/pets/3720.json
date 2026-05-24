@@ -162,7 +162,7 @@
                         },
                         "evolution_conditions": [
                             "等级达到 40 级",
-                            "完成技能「“不要给精灵喝太多上头水饮料！即使对战的时候有用也不行！”」相关试炼（参数 15）"
+                            "完成技能「流星火雨」相关试炼（参数 15）"
                         ]
                     },
                     {
@@ -254,47 +254,59 @@
         "catch_ball_level": null
     },
     "breeding": {
-        "id": 3614005,
-        "pet_id": 3614005,
+        "id": 3594001,
+        "pet_id": 3594001,
         "name": "松仔",
-        "model_id": 3614002,
-        "hatch_data": 28800,
-        "weight_low": 511,
-        "weight_high": 1220,
-        "height_low": 10,
-        "height_high": 13,
-        "precious_egg_type": 2,
-        "egg_base_glass_prob_array": null,
-        "egg_add_glass_prob_array": null,
-        "is_contact_add_glass_prob": null,
+        "model_id": 3594001,
+        "hatch_data": 43200,
+        "weight_low": 2188,
+        "weight_high": 3140,
+        "height_low": 22,
+        "height_high": 28,
+        "precious_egg_type": null,
+        "egg_base_glass_prob_array": [
+            8,
+            1125
+        ],
+        "egg_add_glass_prob_array": [
+            1,
+            50
+        ],
+        "is_contact_add_glass_prob": true,
         "is_contact_add_shining_prob": null,
         "variants": [
             {
-                "id": 3614005,
-                "pet_id": 3614005,
+                "id": 3594001,
+                "pet_id": 3594001,
                 "name": "松仔",
-                "model_id": 3614002,
-                "hatch_data": 28800,
-                "weight_low": 511,
-                "weight_high": 1220,
-                "height_low": 10,
-                "height_high": 13,
-                "precious_egg_type": 2,
-                "egg_base_glass_prob_array": null,
-                "egg_add_glass_prob_array": null,
-                "is_contact_add_glass_prob": null,
+                "model_id": 3594001,
+                "hatch_data": 43200,
+                "weight_low": 2188,
+                "weight_high": 3140,
+                "height_low": 22,
+                "height_high": 28,
+                "precious_egg_type": null,
+                "egg_base_glass_prob_array": [
+                    8,
+                    1125
+                ],
+                "egg_add_glass_prob_array": [
+                    1,
+                    50
+                ],
+                "is_contact_add_glass_prob": true,
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 37060001,
-                "pet_id": 37060001,
+                "id": 35940001,
+                "pet_id": 35940001,
                 "name": "松仔",
-                "model_id": 3706001,
+                "model_id": 3594001,
                 "hatch_data": 300,
-                "weight_low": 1,
-                "weight_high": 10,
-                "height_low": 1,
-                "height_high": 10,
+                "weight_low": 2188,
+                "weight_high": 3140,
+                "height_low": 22,
+                "height_high": 28,
                 "precious_egg_type": 7,
                 "egg_base_glass_prob_array": null,
                 "egg_add_glass_prob_array": null,

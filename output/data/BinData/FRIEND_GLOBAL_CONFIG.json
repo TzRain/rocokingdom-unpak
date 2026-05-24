@@ -93,7 +93,7 @@
     "visit_catch_number_sum": {
       "id": 17,
       "key": "visit_catch_number_sum",
-      "str": "",
+      "str": "互访捕捉次数:%s",
       "is_loc": 1
     },
     "friend_apply_num_max": {
@@ -132,7 +132,7 @@
     "chat_message_cipher_text": {
       "id": 23,
       "key": "chat_message_cipher_text",
-      "str": "",
+      "str": "A;B;C;D;E;F;G;H;I;J;K;L;M;N;O;P;Q;I;S;T;U;V;W;X;Y;Z",
       "is_loc": 2
     },
     "chat_multi_message_storage_num_max": {
@@ -204,5 +204,6 @@
       "num": 2000,
       "is_loc": 2
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

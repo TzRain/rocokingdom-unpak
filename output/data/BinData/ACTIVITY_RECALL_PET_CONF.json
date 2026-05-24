@@ -97,7 +97,7 @@
       "pet_id": 3380,
       "pet_image": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Pet1024/JL_jiuyougu.JL_jiuyougu'",
       "pet_type": 1,
-      "pet_label": "能抗能打",
+      "pet_label": "能扛能打",
       "pet_egg": 151013
     },
     "14": {
@@ -108,5 +108,6 @@
       "pet_label": "能耗核心",
       "pet_egg": 151014
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

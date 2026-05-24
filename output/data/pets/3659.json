@@ -95,8 +95,52 @@
         },
         {
             "id": 7160220,
-            "name": "超级糖果",
+            "name": "鞭打",
             "icon_id": "115010",
+            "move_type": {
+                "id": 14,
+                "name": "Cute",
+                "localized": {
+                    "zh": "萌"
+                }
+            },
+            "localized": {
+                "zh": {
+                    "name": "鞭打",
+                    "description": "对敌方精灵造成物理伤害。"
+                }
+            },
+            "move_category": "Physical Attack",
+            "energy_cost": 0,
+            "power": 40,
+            "description": "对敌方精灵造成物理伤害。"
+        },
+        {
+            "id": 7050360,
+            "name": "潮涌",
+            "icon_id": "104025",
+            "move_type": {
+                "id": 4,
+                "name": "Water",
+                "localized": {
+                    "zh": "水"
+                }
+            },
+            "localized": {
+                "zh": {
+                    "name": "潮涌",
+                    "description": "对敌方精灵造成物理伤害。"
+                }
+            },
+            "move_category": "Physical Attack",
+            "energy_cost": 2,
+            "power": 80,
+            "description": "对敌方精灵造成物理伤害。"
+        },
+        {
+            "id": 7160140,
+            "name": "超级糖果",
+            "icon_id": "215002",
             "move_type": {
                 "id": 14,
                 "name": "Cute",
@@ -111,53 +155,9 @@
                 }
             },
             "move_category": "Physical Attack",
-            "energy_cost": 0,
-            "power": 40,
-            "description": "造成物伤，自己获得萌化：本次技能威力+60。"
-        },
-        {
-            "id": 7050360,
-            "name": "咕嘟咕嘟浅滩的温泉里不可以跳水哦。",
-            "icon_id": "104025",
-            "move_type": {
-                "id": 4,
-                "name": "Water",
-                "localized": {
-                    "zh": "水"
-                }
-            },
-            "localized": {
-                "zh": {
-                    "name": "咕嘟咕嘟浅滩的温泉里不可以跳水哦。",
-                    "description": "造成魔伤，4连击。"
-                }
-            },
-            "move_category": "Physical Attack",
-            "energy_cost": 2,
-            "power": 80,
-            "description": "造成魔伤，4连击。"
-        },
-        {
-            "id": 7160140,
-            "name": "S3友爱星飞A",
-            "icon_id": "215002",
-            "move_type": {
-                "id": 14,
-                "name": "Cute",
-                "localized": {
-                    "zh": "萌"
-                }
-            },
-            "localized": {
-                "zh": {
-                    "name": "S3友爱星飞A",
-                    "description": "失衡"
-                }
-            },
-            "move_category": "Physical Attack",
             "energy_cost": 3,
             "power": 100,
-            "description": "失衡"
+            "description": "造成物伤，自己获得萌化：本次技能威力+60。"
         },
         {
             "id": 7020780,
@@ -183,8 +183,8 @@
         },
         {
             "id": 7050510,
-            "name": "升华",
-            "icon_id": "104033",
+            "name": "清洗",
+            "icon_id": "104034",
             "move_type": {
                 "id": 4,
                 "name": "Water",
@@ -194,18 +194,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "升华",
-                    "description": "S3友爱星飞B"
+                    "name": "清洗",
+                    "description": "​驱散​自己​的​减益，​自己​每​有​1层减益，​本技​能​能​耗​-1，巧变：​水系​攻击​技​能​。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 0,
             "power": null,
-            "description": "S3友爱星飞B"
+            "description": "​驱散​自己​的​减益，​自己​每​有​1层减益，​本技​能​能​耗​-1，巧变：​水系​攻击​技​能​。"
         },
         {
             "id": 7050370,
-            "name": "潮涌",
+            "name": "水幕冲击",
             "icon_id": "104026",
             "move_type": {
                 "id": 4,
@@ -216,7 +216,7 @@
             },
             "localized": {
                 "zh": {
-                    "name": "潮涌",
+                    "name": "水幕冲击",
                     "description": "对敌方精灵造成物理伤害。"
                 }
             },
@@ -227,7 +227,7 @@
         },
         {
             "id": 7050420,
-            "name": "应对！盐水浴",
+            "name": "潮汐",
             "icon_id": "104033",
             "move_type": {
                 "id": 4,
@@ -238,18 +238,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "应对！盐水浴",
-                    "description": "自己获得全技能能耗-2，应对防御：改为技能能耗-3。"
+                    "name": "潮汐",
+                    "description": "减伤60%，应对攻击：自己获得1层湿润印记。"
                 }
             },
             "move_category": "Defense",
             "energy_cost": 4,
             "power": null,
-            "description": "自己获得全技能能耗-2，应对防御：改为技能能耗-3。"
+            "description": "减伤60%，应对攻击：自己获得1层湿润印记。"
         },
         {
             "id": 7160150,
-            "name": "S3溯源钟B",
+            "name": "砂糖弹球",
             "icon_id": "215003",
             "move_type": {
                 "id": 14,
@@ -260,19 +260,19 @@
             },
             "localized": {
                 "zh": {
-                    "name": "S3溯源钟B",
-                    "description": "翘曲加速"
+                    "name": "砂糖弹球",
+                    "description": "造成物伤，双方体重差越大，本次技能威力越高。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 2,
             "power": null,
-            "description": "翘曲加速"
+            "description": "造成物伤，双方体重差越大，本次技能威力越高。"
         },
         {
-            "id": 7160200,
-            "name": "俯冲",
-            "icon_id": "716005",
+            "id": 7160160,
+            "name": "生日蛋糕",
+            "icon_id": "215004",
             "move_type": {
                 "id": 14,
                 "name": "Cute",
@@ -282,18 +282,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "俯冲",
-                    "description": "造成物伤，先手+1。"
+                    "name": "生日蛋糕",
+                    "description": "驱散自己的减益，自己的增益翻倍。"
                 }
             },
             "move_category": "Status",
-            "energy_cost": 3,
+            "energy_cost": 4,
             "power": null,
-            "description": "造成物伤，先手+1。"
+            "description": "驱散自己的减益，自己的增益翻倍。"
         },
         {
             "id": 7050290,
-            "name": "应对！水环",
+            "name": "水光冲击",
             "icon_id": "705014",
             "move_type": {
                 "id": 4,
@@ -304,18 +304,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "应对！水环",
-                    "description": "减伤60%，应对攻击：自己获得全技能能耗-2。"
+                    "name": "水光冲击",
+                    "description": "对敌方精灵造成魔法伤害。"
                 }
             },
             "move_category": "Magic Attack",
             "energy_cost": 5,
             "power": 140,
-            "description": "减伤60%，应对攻击：自己获得全技能能耗-2。"
+            "description": "对敌方精灵造成魔法伤害。"
         },
         {
             "id": 7160380,
-            "name": "“它只是一个柔弱无害的小小精灵罢了！”",
+            "name": "加油",
             "icon_id": "115020",
             "move_type": {
                 "id": 14,
@@ -326,19 +326,87 @@
             },
             "localized": {
                 "zh": {
-                    "name": "“它只是一个柔弱无害的小小精灵罢了！”",
-                    "description": "萌1"
+                    "name": "加油",
+                    "description": "自己获得1层萌芽印记。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 2,
             "power": null,
-            "description": "萌1"
+            "description": "自己获得1层萌芽印记。"
         },
         {
             "id": 7160250,
-            "name": "示弱",
+            "name": "撒娇",
             "icon_id": "115013",
+            "move_type": {
+                "id": 14,
+                "name": "Cute",
+                "localized": {
+                    "zh": "萌"
+                }
+            },
+            "localized": {
+                "zh": {
+                    "name": "撒娇",
+                    "description": "造成魔伤，3连击。自己获得萌化：威力永久+20。"
+                }
+            },
+            "move_category": "Magic Attack",
+            "energy_cost": 3,
+            "power": 30,
+            "description": "造成魔伤，3连击。自己获得萌化：威力永久+20。"
+        },
+        {
+            "id": 7160260,
+            "name": "爆米花爆破",
+            "icon_id": "115014",
+            "move_type": {
+                "id": 14,
+                "name": "Cute",
+                "localized": {
+                    "zh": "萌"
+                }
+            },
+            "localized": {
+                "zh": {
+                    "name": "爆米花爆破",
+                    "description": "对敌方精灵造成物理伤害。"
+                }
+            },
+            "move_category": "Physical Attack",
+            "energy_cost": 5,
+            "power": 140,
+            "description": "对敌方精灵造成物理伤害。"
+        },
+        {
+            "id": 7050410,
+            "name": "盐水浴",
+            "icon_id": "104031",
+            "move_type": {
+                "id": 4,
+                "name": "Water",
+                "localized": {
+                    "zh": "水"
+                }
+            },
+            "localized": {
+                "zh": {
+                    "name": "盐水浴",
+                    "description": "自己获得全技能能耗-2，应对防御：改为技能能耗-3。"
+                }
+            },
+            "move_category": "Status",
+            "energy_cost": 2,
+            "power": null,
+            "description": "自己获得全技能能耗-2，应对防御：改为技能能耗-3。"
+        }
+    ],
+    "move_stones": [
+        {
+            "id": 7160170,
+            "name": "示弱",
+            "icon_id": "716004",
             "move_type": {
                 "id": 14,
                 "name": "Cute",
@@ -352,82 +420,14 @@
                     "description": "自己获得萌化：速度永久+150。"
                 }
             },
-            "move_category": "Magic Attack",
-            "energy_cost": 3,
-            "power": 30,
-            "description": "自己获得萌化：速度永久+150。"
-        },
-        {
-            "id": 7160260,
-            "name": "“它只是一个柔弱无害的小小精灵罢了！”",
-            "icon_id": "115014",
-            "move_type": {
-                "id": 14,
-                "name": "Cute",
-                "localized": {
-                    "zh": "萌"
-                }
-            },
-            "localized": {
-                "zh": {
-                    "name": "“它只是一个柔弱无害的小小精灵罢了！”",
-                    "description": "赤子之心"
-                }
-            },
-            "move_category": "Physical Attack",
-            "energy_cost": 5,
-            "power": 140,
-            "description": "赤子之心"
-        },
-        {
-            "id": 7050410,
-            "name": "洗礼",
-            "icon_id": "104031",
-            "move_type": {
-                "id": 4,
-                "name": "Water",
-                "localized": {
-                    "zh": "水"
-                }
-            },
-            "localized": {
-                "zh": {
-                    "name": "洗礼",
-                    "description": "驱散自己的减益，并获得全技能能耗-1。"
-                }
-            },
-            "move_category": "Status",
-            "energy_cost": 2,
-            "power": null,
-            "description": "驱散自己的减益，并获得全技能能耗-1。"
-        }
-    ],
-    "move_stones": [
-        {
-            "id": 7160170,
-            "name": "S3火羽B",
-            "icon_id": "716004",
-            "move_type": {
-                "id": 14,
-                "name": "Cute",
-                "localized": {
-                    "zh": "萌"
-                }
-            },
-            "localized": {
-                "zh": {
-                    "name": "S3火羽B",
-                    "description": "速降"
-                }
-            },
             "move_category": "Status",
             "energy_cost": 1,
             "power": null,
-            "description": "速降"
+            "description": "自己获得萌化：速度永久+150。"
         },
         {
             "id": 7140260,
-            "name": "听桥",
+            "name": "一拳",
             "icon_id": "113030",
             "move_type": {
                 "id": 12,
@@ -438,18 +438,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "听桥",
-                    "description": "减伤60%，应对攻击：对敌方造成武系物理伤害，威力与被应对技能相等。"
+                    "name": "一拳",
+                    "description": "对敌方精灵造成物理伤害。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 5,
             "power": 140,
-            "description": "减伤60%，应对攻击：对敌方造成武系物理伤害，威力与被应对技能相等。"
+            "description": "对敌方精灵造成物理伤害。"
         },
         {
             "id": 7140230,
-            "name": "硬门",
+            "name": "缠丝劲",
             "icon_id": "113027",
             "move_type": {
                 "id": 12,
@@ -460,14 +460,14 @@
             },
             "localized": {
                 "zh": {
-                    "name": "硬门",
-                    "description": "应对攻击：打断被应对技能，并造成90威力物伤。"
+                    "name": "缠丝劲",
+                    "description": "造成物伤，2连击。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 1,
             "power": 25,
-            "description": "应对攻击：打断被应对技能，并造成90威力物伤。"
+            "description": "造成物伤，2连击。"
         },
         {
             "id": 7021010,
@@ -515,7 +515,7 @@
         },
         {
             "id": 7160180,
-            "name": "S3夜游魔A",
+            "name": "赤子之心",
             "icon_id": "716001",
             "move_type": {
                 "id": 14,
@@ -526,18 +526,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "S3夜游魔A",
-                    "description": "应对！速降"
+                    "name": "赤子之心",
+                    "description": "自己获得萌化：全技能能耗永久-3。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 2,
             "power": null,
-            "description": "应对！速降"
+            "description": "自己获得萌化：全技能能耗永久-3。"
         },
         {
             "id": 7160270,
-            "name": "反弹",
+            "name": "击鼓传花",
             "icon_id": "215015",
             "move_type": {
                 "id": 14,
@@ -548,18 +548,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "反弹",
-                    "description": "自己获得萌化：全技能能耗永久-3。"
+                    "name": "击鼓传花",
+                    "description": "自己脱离，下个入场精灵继承自己增益。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 3,
             "power": null,
-            "description": "自己获得萌化：全技能能耗永久-3。"
+            "description": "自己脱离，下个入场精灵继承自己增益。"
         },
         {
             "id": 7050240,
-            "name": "蓄水",
+            "name": "打湿",
             "icon_id": "705012",
             "move_type": {
                 "id": 4,
@@ -570,14 +570,14 @@
             },
             "localized": {
                 "zh": {
-                    "name": "蓄水",
-                    "description": "下次使用的技能能耗-6。"
+                    "name": "打湿",
+                    "description": "自己获得1层湿润印记。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 4,
             "power": null,
-            "description": "下次使用的技能能耗-6。"
+            "description": "自己获得1层湿润印记。"
         },
         {
             "id": 7020850,
@@ -603,7 +603,7 @@
         },
         {
             "id": 7140290,
-            "name": "爆冲",
+            "name": "预备势",
             "icon_id": "113033",
             "move_type": {
                 "id": 12,
@@ -614,18 +614,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "爆冲",
-                    "description": "对敌方精灵造成魔法伤害。"
+                    "name": "预备势",
+                    "description": "自己获得物攻+80%，应对防御：额外使敌方获得物防-80%。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 1,
             "power": null,
-            "description": "对敌方精灵造成魔法伤害。"
+            "description": "自己获得物攻+80%，应对防御：额外使敌方获得物防-80%。"
         },
         {
             "id": 7140160,
-            "name": "“对决的时候，我从不说话，精灵的技能就是我的回答”。",
+            "name": "破防",
             "icon_id": "714011",
             "move_type": {
                 "id": 12,
@@ -636,14 +636,14 @@
             },
             "localized": {
                 "zh": {
-                    "name": "“对决的时候，我从不说话，精灵的技能就是我的回答”。",
-                    "description": "技巧打击"
+                    "name": "破防",
+                    "description": "敌方获得双防-70%，应对防御：额外使被应对技能冷却2回合。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 2,
             "power": null,
-            "description": "技巧打击"
+            "description": "敌方获得双防-70%，应对防御：额外使被应对技能冷却2回合。"
         },
         {
             "id": 7021110,
@@ -780,13 +780,13 @@
                 "localized": {
                     "zh": {
                         "name": "徒长",
-                        "description": "造成魔伤，每次使用其他草系技能后，本技能威力永久+60。"
+                        "description": "自己回复10能量。"
                     }
                 },
                 "move_category": "Status",
                 "energy_cost": 2,
                 "power": null,
-                "description": "造成魔伤，每次使用其他草系技能后，本技能威力永久+60。"
+                "description": "自己回复10能量。"
             }
         },
         {
@@ -795,7 +795,7 @@
             "move_id": 7040260,
             "move": {
                 "id": 7040260,
-                "name": "火红的烈焰从地底最深处向外迸发，构成了火系部族的盛大舞台。",
+                "name": "引燃",
                 "icon_id": "704012",
                 "move_type": {
                     "id": 3,
@@ -806,14 +806,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "火红的烈焰从地底最深处向外迸发，构成了火系部族的盛大舞台。",
-                        "description": "引燃"
+                        "name": "引燃",
+                        "description": "敌方获得10层灼烧。"
                     }
                 },
                 "move_category": "Status",
                 "energy_cost": 2,
                 "power": null,
-                "description": "引燃"
+                "description": "敌方获得10层灼烧。"
             }
         },
         {
@@ -822,7 +822,7 @@
             "move_id": 7050230,
             "move": {
                 "id": 7050230,
-                "name": "水就挨着陆地，摸到水就摸到了世界的尽头。",
+                "name": "蓄水",
                 "icon_id": "705024",
                 "move_type": {
                     "id": 4,
@@ -833,14 +833,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "水就挨着陆地，摸到水就摸到了世界的尽头。",
-                        "description": "自己获得魔攻+190%。"
+                        "name": "蓄水",
+                        "description": "下次使用的技能能耗-6。"
                     }
                 },
                 "move_category": "Status",
                 "energy_cost": 1,
                 "power": null,
-                "description": "自己获得魔攻+190%。"
+                "description": "下次使用的技能能耗-6。"
             }
         },
         {
@@ -849,7 +849,7 @@
             "move_id": 7060200,
             "move": {
                 "id": 7060200,
-                "name": "脉冲光线",
+                "name": "虹光冲击",
                 "icon_id": "105012",
                 "move_type": {
                     "id": 5,
@@ -860,14 +860,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "脉冲光线",
-                        "description": "高能量的离子束，一不小心就会划伤皮肤，让粗心的研究员深受其害。"
+                        "name": "虹光冲击",
+                        "description": "对敌方精灵造成魔法伤害。"
                     }
                 },
                 "move_category": "Magic Attack",
                 "energy_cost": 3,
                 "power": 100,
-                "description": "高能量的离子束，一不小心就会划伤皮肤，让粗心的研究员深受其害。"
+                "description": "对敌方精灵造成魔法伤害。"
             }
         },
         {
@@ -876,7 +876,7 @@
             "move_id": 7080110,
             "move": {
                 "id": 7080110,
-                "name": "应对！相位移动",
+                "name": "扬沙",
                 "icon_id": "708015",
                 "move_type": {
                     "id": 6,
@@ -887,14 +887,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "应对！相位移动",
-                        "description": "减​伤50%，​本技​能​位​于​1号​位​或​3号​位​时，​额​外减​伤40%，应对攻击，​传动1。​"
+                        "name": "扬沙",
+                        "description": "对敌方精灵造成物理伤害。"
                     }
                 },
                 "move_category": "Physical Attack",
                 "energy_cost": 1,
                 "power": 60,
-                "description": "减​伤50%，​本技​能​位​于​1号​位​或​3号​位​时，​额​外减​伤40%，应对攻击，​传动1。​"
+                "description": "对敌方精灵造成物理伤害。"
             }
         },
         {
@@ -903,7 +903,7 @@
             "move_id": 7090160,
             "move": {
                 "id": 7090160,
-                "name": "“雪人里面怎么有人啊！”",
+                "name": "霜降",
                 "icon_id": "709006",
                 "move_type": {
                     "id": 7,
@@ -914,14 +914,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "“雪人里面怎么有人啊！”",
-                        "description": "造成魔伤，若敌方有冻结，本次技能威力+60，应对状态：使冻结翻倍。"
+                        "name": "霜降",
+                        "description": "敌方获得4层冻结。"
                     }
                 },
                 "move_category": "Status",
                 "energy_cost": 1,
                 "power": null,
-                "description": "造成魔伤，若敌方有冻结，本次技能威力+60，应对状态：使冻结翻倍。"
+                "description": "敌方获得4层冻结。"
             }
         },
         {
@@ -930,7 +930,7 @@
             "move_id": 7100150,
             "move": {
                 "id": 7100150,
-                "name": "龙吼",
+                "name": "升龙咆哮",
                 "icon_id": "710004",
                 "move_type": {
                     "id": 8,
@@ -941,14 +941,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "龙吼",
-                        "description": "精灵蓄力中"
+                        "name": "升龙咆哮",
+                        "description": "蓄力，对敌方造成魔法伤害。"
                     }
                 },
                 "move_category": "Magic Attack",
                 "energy_cost": 3,
                 "power": 200,
-                "description": "精灵蓄力中"
+                "description": "蓄力，对敌方造成魔法伤害。"
             }
         },
         {
@@ -957,7 +957,7 @@
             "move_id": 7110250,
             "move": {
                 "id": 7110250,
-                "name": "触电",
+                "name": "麻痹",
                 "icon_id": "110009",
                 "move_type": {
                     "id": 9,
@@ -968,14 +968,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "触电",
-                        "description": "对敌方精灵造成魔法伤害。"
+                        "name": "麻痹",
+                        "description": "敌方先手-1，应对防御：额外使敌方获得双攻-70%。"
                     }
                 },
                 "move_category": "Status",
                 "energy_cost": 2,
                 "power": null,
-                "description": "对敌方精灵造成魔法伤害。"
+                "description": "敌方先手-1，应对防御：额外使敌方获得双攻-70%。"
             }
         },
         {
@@ -984,7 +984,7 @@
             "move_id": 7120120,
             "move": {
                 "id": 7120120,
-                "name": "连续毒针",
+                "name": "毒孢子",
                 "icon_id": "712007",
                 "move_type": {
                     "id": 10,
@@ -995,14 +995,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "连续毒针",
-                        "description": "造成物伤，2连击，每次连击使敌方获得1层中毒。"
+                        "name": "毒孢子",
+                        "description": "敌方获得5层中毒。"
                     }
                 },
                 "move_category": "Status",
                 "energy_cost": 3,
                 "power": null,
-                "description": "造成物伤，2连击，每次连击使敌方获得1层中毒。"
+                "description": "敌方获得5层中毒。"
             }
         },
         {
@@ -1011,7 +1011,7 @@
             "move_id": 7130180,
             "move": {
                 "id": 7130180,
-                "name": "飞断",
+                "name": "假寐",
                 "icon_id": "713010",
                 "move_type": {
                     "id": 11,
@@ -1022,14 +1022,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "飞断",
-                        "description": "造成物伤，己方队伍获得1次奉献：威力+20。"
+                        "name": "假寐",
+                        "description": "自己回复2能量，己方队伍获得1次奉献：能耗-2。"
                     }
                 },
                 "move_category": "Status",
                 "energy_cost": 2,
                 "power": null,
-                "description": "造成物伤，己方队伍获得1次奉献：威力+20。"
+                "description": "自己回复2能量，己方队伍获得1次奉献：能耗-2。"
             }
         },
         {
@@ -1038,7 +1038,7 @@
             "move_id": 7140240,
             "move": {
                 "id": 7140240,
-                "name": "某个擅长对决的魔法师点评此武学：硬门之韵在于对手先攻，我方以静制动。",
+                "name": "贯手",
                 "icon_id": "113028",
                 "move_type": {
                     "id": 12,
@@ -1049,14 +1049,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "某个擅长对决的魔法师点评此武学：硬门之韵在于对手先攻，我方以静制动。",
-                        "description": "应对！硬门"
+                        "name": "贯手",
+                        "description": "对敌方精灵造成魔法伤害。"
                     }
                 },
                 "move_category": "Magic Attack",
                 "energy_cost": 2,
                 "power": 80,
-                "description": "应对！硬门"
+                "description": "对敌方精灵造成魔法伤害。"
             }
         },
         {
@@ -1065,7 +1065,7 @@
             "move_id": 7150300,
             "move": {
                 "id": 7150300,
-                "name": "风矢",
+                "name": "羽化加速",
                 "icon_id": "114025",
                 "move_type": {
                     "id": 13,
@@ -1076,14 +1076,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "风矢",
-                        "description": "造成物伤，应对状态：回合结束使敌方紧急脱离。"
+                        "name": "羽化加速",
+                        "description": "自己获得全技能威力+20，迅捷。"
                     }
                 },
                 "move_category": "Status",
                 "energy_cost": 2,
                 "power": null,
-                "description": "造成物伤，应对状态：回合结束使敌方紧急脱离。"
+                "description": "自己获得全技能威力+20，迅捷。"
             }
         },
         {
@@ -1092,7 +1092,7 @@
             "move_id": 7160240,
             "move": {
                 "id": 7160240,
-                "name": "生日蛋糕",
+                "name": "碰爪",
                 "icon_id": "115012",
                 "move_type": {
                     "id": 14,
@@ -1103,14 +1103,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "生日蛋糕",
-                        "description": "驱散自己的减益，自己的增益翻倍。"
+                        "name": "碰爪",
+                        "description": "对敌方精灵造成物理伤害。"
                     }
                 },
                 "move_category": "Physical Attack",
                 "energy_cost": 1,
                 "power": 60,
-                "description": "驱散自己的减益，自己的增益翻倍。"
+                "description": "对敌方精灵造成物理伤害。"
             }
         },
         {
@@ -1119,7 +1119,7 @@
             "move_id": 7170220,
             "move": {
                 "id": 7170220,
-                "name": "为报答学长的照顾，今天在他的炼金药剂里面加了一些汽水儿。",
+                "name": "灵媒",
                 "icon_id": "116016",
                 "move_type": {
                     "id": 15,
@@ -1130,14 +1130,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "为报答学长的照顾，今天在他的炼金药剂里面加了一些汽水儿。",
-                        "description": "减伤70%，应对攻击：敌方失去3能量。"
+                        "name": "灵媒",
+                        "description": "对敌方精灵造成魔法伤害。"
                     }
                 },
                 "move_category": "Magic Attack",
                 "energy_cost": 3,
                 "power": 100,
-                "description": "减伤70%，应对攻击：敌方失去3能量。"
+                "description": "对敌方精灵造成魔法伤害。"
             }
         },
         {
@@ -1146,7 +1146,7 @@
             "move_id": 7180160,
             "move": {
                 "id": 7180160,
-                "name": "撕咬",
+                "name": "贪婪",
                 "icon_id": "718014",
                 "move_type": {
                     "id": 16,
@@ -1157,14 +1157,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "撕咬",
-                        "description": "造成物伤，应对状态：本次攻击吸血100%。"
+                        "name": "贪婪",
+                        "description": "自己获得100%吸血。"
                     }
                 },
                 "move_category": "Status",
                 "energy_cost": 2,
                 "power": null,
-                "description": "造成物伤，应对状态：本次攻击吸血100%。"
+                "description": "自己获得100%吸血。"
             }
         },
         {
@@ -1173,7 +1173,7 @@
             "move_id": 7070130,
             "move": {
                 "id": 7070130,
-                "name": "离子震荡",
+                "name": "金属噪音",
                 "icon_id": "106013",
                 "move_type": {
                     "id": 17,
@@ -1184,14 +1184,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "离子震荡",
-                        "description": "造成魔伤，本技能位于3号位时威力+40，传动1。"
+                        "name": "金属噪音",
+                        "description": "对敌方精灵造成魔法伤害。"
                     }
                 },
                 "move_category": "Magic Attack",
                 "energy_cost": 3,
                 "power": 100,
-                "description": "造成魔伤，本技能位于3号位时威力+40，传动1。"
+                "description": "对敌方精灵造成魔法伤害。"
             }
         },
         {
@@ -1200,7 +1200,7 @@
             "move_id": 7190280,
             "move": {
                 "id": 7190280,
-                "name": "假冒",
+                "name": "超维投射",
                 "icon_id": "719004",
                 "move_type": {
                     "id": 18,
@@ -1211,14 +1211,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "假冒",
-                        "description": "自己的生命比例变为与敌方生命比例相同，巧变：恶系攻击技能。"
+                        "name": "超维投射",
+                        "description": "敌方获得4层星陨印记。"
                     }
                 },
                 "move_category": "Status",
                 "energy_cost": 4,
                 "power": null,
-                "description": "自己的生命比例变为与敌方生命比例相同，巧变：恶系攻击技能。"
+                "description": "敌方获得4层星陨印记。"
             }
         }
     ],
@@ -1347,7 +1347,7 @@
     "breeding": {
         "id": 3659001,
         "pet_id": 3659001,
-        "name": "不咕钟",
+        "name": "加油海葵",
         "model_id": 3659001,
         "hatch_data": 28800,
         "weight_low": 1015,
@@ -1369,7 +1369,7 @@
             {
                 "id": 3659001,
                 "pet_id": 3659001,
-                "name": "不咕钟",
+                "name": "加油海葵",
                 "model_id": 3659001,
                 "hatch_data": 28800,
                 "weight_low": 1015,
@@ -1391,7 +1391,7 @@
             {
                 "id": 3659002,
                 "pet_id": 3659002,
-                "name": "小箱怪",
+                "name": "异色加油海葵",
                 "model_id": 3659002,
                 "hatch_data": 28800,
                 "weight_low": 1015,
@@ -1413,7 +1413,7 @@
             {
                 "id": 3659003,
                 "pet_id": 3659003,
-                "name": "小箱怪（地系血脉）",
+                "name": "加油海葵",
                 "model_id": 3659001,
                 "hatch_data": 300,
                 "weight_low": 1015,
@@ -1427,39 +1427,23 @@
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 3706001,
-                "pet_id": 3706001,
-                "name": "加油海葵",
-                "model_id": 3706001,
-                "hatch_data": 1,
-                "weight_low": 1,
-                "weight_high": 10,
-                "height_low": 1,
-                "height_high": 10,
-                "precious_egg_type": null,
-                "egg_base_glass_prob_array": null,
-                "egg_add_glass_prob_array": null,
-                "is_contact_add_glass_prob": null,
-                "is_contact_add_shining_prob": null
-            },
-            {
-                "id": 3708002,
-                "pet_id": 3708002,
-                "name": "加油海葵",
-                "model_id": 3708002,
-                "hatch_data": 57600,
-                "weight_low": 1806,
-                "weight_high": 3320,
-                "height_low": 27,
-                "height_high": 34,
+                "id": 3659004,
+                "pet_id": 3659004,
+                "name": "异色加油海葵",
+                "model_id": 3659002,
+                "hatch_data": 28800,
+                "weight_low": 1015,
+                "weight_high": 1660,
+                "height_low": 15,
+                "height_high": 20,
                 "precious_egg_type": 2,
                 "egg_base_glass_prob_array": [
-                    395,
-                    2000
+                    531,
+                    500
                 ],
                 "egg_add_glass_prob_array": [
-                    1,
-                    80
+                    0,
+                    24
                 ],
                 "is_contact_add_glass_prob": true,
                 "is_contact_add_shining_prob": null
@@ -1467,7 +1451,7 @@
             {
                 "id": 36590001,
                 "pet_id": 36590001,
-                "name": "上弦的样子",
+                "name": "加油海葵",
                 "model_id": 3659001,
                 "hatch_data": 100,
                 "weight_low": 1015,
@@ -1478,28 +1462,6 @@
                 "egg_base_glass_prob_array": null,
                 "egg_add_glass_prob_array": null,
                 "is_contact_add_glass_prob": null,
-                "is_contact_add_shining_prob": null
-            },
-            {
-                "id": 91000002,
-                "pet_id": 91000002,
-                "name": "加油海葵",
-                "model_id": 3049001,
-                "hatch_data": 57600,
-                "weight_low": 6825,
-                "weight_high": 9400,
-                "height_low": 31,
-                "height_high": 43,
-                "precious_egg_type": null,
-                "egg_base_glass_prob_array": [
-                    395,
-                    2000
-                ],
-                "egg_add_glass_prob_array": [
-                    1,
-                    80
-                ],
-                "is_contact_add_glass_prob": true,
                 "is_contact_add_shining_prob": null
             }
         ]

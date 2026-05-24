@@ -8815,7 +8815,7 @@
       "suit_effect_tips": [
         {
           "tips_text": "穿着<span color=\"#d56c1f\">「迷迷箱怪印象」</>的套装，在对战中更换迷迷箱怪进场时，可以看到特殊登场演出效果。",
-          "tips_image": "https://video.nrc.qq.com/MoviesMobile/Operations/Female/suits77_female_callout.mp4"
+          "tips_image": "https://video.nrc.qq.com/MoviesMobile/Operations/Male/suits77_male_callout.mp4"
         },
         {
           "tips_text": "在和其他玩家对战中，迷迷箱怪给对方最终一击时，还可以看到特殊胜利结算演出效果。",
@@ -9619,7 +9619,17 @@
       "launch_item": true,
       "acquire_struct": [
         {
-          "acquire_way_text": "鼠于你的解忧时刻活动获取"
+          "acquire_way_text": "限时活动获得，活动结束后万事通商店获得"
+        }
+      ],
+      "lv_up_closet": [
+        {
+          "goods_ui_text": "时装套装",
+          "goods_name": "时装-轻风省的果实",
+          "lv_item_type": 23,
+          "lv_item_id": 221,
+          "lv_cost_type": 40,
+          "lv_cost_price": 15
         }
       ],
       "activity_time": "2026-05-29 03:59:59"
@@ -9647,7 +9657,17 @@
       "launch_item": true,
       "acquire_struct": [
         {
-          "acquire_way_text": "鼠于你的解忧时刻活动获取"
+          "acquire_way_text": "限时活动获得，活动结束后万事通商店获得"
+        }
+      ],
+      "lv_up_closet": [
+        {
+          "goods_ui_text": "时装套装",
+          "goods_name": "时装-轻风省的果实",
+          "lv_item_type": 23,
+          "lv_item_id": 222,
+          "lv_cost_type": 40,
+          "lv_cost_price": 15
         }
       ],
       "activity_time": "2026-05-29 03:59:59"
@@ -9787,6 +9807,63 @@
         }
       ],
       "activity_time": "2026-05-23 03:59:59"
+    },
+    "221": {
+      "id": 221,
+      "name": "轻风省的果实",
+      "editor_name": "轻风省的果实",
+      "gender": 1,
+      "item_id": [
+        11411102,
+        10811102,
+        11111102
+      ],
+      "effect_item_id": [
+        11411102,
+        10811102,
+        11111102
+      ],
+      "suits_icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Suits/suits1_111_02.suits1_111_02'",
+      "suits_icon_big": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/SuitsPose/suits1_111_02_pose.suits1_111_02_pose'",
+      "grade_name": "纪念时装",
+      "flavor_text": "通过观察其花纹可以看出，这不是果实，是调皮的小洛克。",
+      "fashion_bond_band": 4,
+      "launch_item": true,
+      "acquire_struct": [
+        {
+          "acquire_way_text": "快乐的果实时装进阶解锁获取"
+        }
+      ],
+      "activity_time": "2026-05-29 03:59:59"
+    },
+    "222": {
+      "id": 222,
+      "name": "轻风省的果实",
+      "editor_name": "轻风省的果实",
+      "gender": 2,
+      "item_id": [
+        21411102,
+        20811102,
+        21111102
+      ],
+      "effect_item_id": [
+        21411101,
+        20811101,
+        21111101
+      ],
+      "suits_icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Suits/suits2_111_02.suits2_111_02'",
+      "suits_icon_big": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/SuitsPose/suits2_111_02_pose.suits2_111_02_pose'",
+      "grade_name": "纪念时装",
+      "flavor_text": "通过观察其花纹可以看出，这不是果实，是调皮的小洛克。",
+      "fashion_bond_band": 4,
+      "launch_item": true,
+      "acquire_struct": [
+        {
+          "acquire_way_text": "快乐的果实时装进阶解锁获取"
+        }
+      ],
+      "activity_time": "2026-05-29 03:59:59"
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

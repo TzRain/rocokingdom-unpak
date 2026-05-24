@@ -98,5 +98,6 @@
       "female_emoji_path": "AnimSequence'/Game/ArtRes/AnimSequence/Human/PC/PC2/Animation/Pose_biaoqing/P_Sly.P_Sly'",
       "icon": "PaperSprite'/Game/NewRoco/Modules/System/TakePhotos/Raw/Frames/img_biaoqing_huaixiao_png.img_biaoqing_huaixiao_png'"
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

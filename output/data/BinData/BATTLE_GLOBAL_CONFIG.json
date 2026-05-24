@@ -1446,7 +1446,6 @@
     "fantastic_blood_pro": {
       "id": 353,
       "key": "fantastic_blood_pro",
-      "num": 100,
       "is_loc": 2
     },
     "warm_control_enable_pvp": {
@@ -1472,7 +1471,7 @@
     "GOLD_BOX_LEVEL": {
       "id": 357,
       "key": "GOLD_BOX_LEVEL",
-      "num": 5
+      "num": 1
     },
     "GOLD_BOX_DIFFICULTY": {
       "id": 358,
@@ -1482,7 +1481,7 @@
     "SILVER_BOX_LEVEL": {
       "id": 359,
       "key": "SILVER_BOX_LEVEL",
-      "num": 2
+      "num": 1
     },
     "SILVER_BOX_DIFFICULTY": {
       "id": 360,
@@ -1497,7 +1496,7 @@
     "bonus_fantastic_blood_pro": {
       "id": 362,
       "key": "bonus_fantastic_blood_pro",
-      "num": 555555,
+      "num": 570776,
       "is_loc": 2
     },
     "fantastic_box_monster": {
@@ -1512,7 +1511,7 @@
     "bonus_mix_blood_pro": {
       "id": 364,
       "key": "bonus_mix_blood_pro",
-      "num": 500000,
+      "num": 530000,
       "is_loc": 2
     },
     "advanced_evolution_level_1": {
@@ -3053,16 +3052,16 @@
       "key": "CR_SPECIES_STRENGTH",
       "numList": [
         -9999,
-        0,
-        15,
-        30,
-        45,
-        60,
-        75,
-        90,
-        105,
-        120,
-        135,
+        1,
+        31,
+        61,
+        91,
+        121,
+        151,
+        181,
+        211,
+        241,
+        271,
         999999
       ],
       "is_loc": 2
@@ -3518,6 +3517,12 @@
       "str": "2025-03-17 04:00:00",
       "is_loc": 2
     },
+    "pvp_param17": {
+      "id": 1556,
+      "key": "pvp_param17",
+      "num": 608023,
+      "is_loc": 2
+    },
     "pvp_rank_character20": {
       "id": 1600,
       "key": "pvp_rank_character20",
@@ -3722,5 +3727,6 @@
         3000
       ]
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

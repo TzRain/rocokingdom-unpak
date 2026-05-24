@@ -14057,6 +14057,79 @@
         }
       ]
     },
+    "2011157": {
+      "id": 2011157,
+      "buffbase_order": 11,
+      "show_letters": [
+        0
+      ],
+      "client_trigger_type": [
+        11
+      ],
+      "buffbase_param": [
+        {
+          "params": [
+            0
+          ]
+        },
+        {
+          "params": [
+            2,
+            3
+          ]
+        },
+        {
+          "params": [
+            0
+          ]
+        },
+        {
+          "params": [
+            1
+          ]
+        },
+        {
+          "params": [
+            2500
+          ]
+        },
+        {
+          "params": [
+            0
+          ]
+        },
+        {
+          "params": [
+            0
+          ]
+        },
+        {
+          "params": [
+            0
+          ]
+        },
+        {
+          "params": [
+            0
+          ]
+        },
+        {
+          "params": [
+            0
+          ]
+        },
+        {
+          "params": [
+            0
+          ]
+        },
+        {
+          "params": [
+            0
+          ]
+        }
+      ]
+    },
     "2013001": {
       "id": 2013001,
       "buffbase_order": 13,
@@ -20852,7 +20925,6 @@
       "buffbase_param": [
         {
           "params": [
-            20230440,
             20230440
           ]
         },
@@ -20885,7 +20957,7 @@
       "buffbase_param": [
         {
           "params": [
-            1005108
+            1005015
           ]
         },
         {
@@ -20917,6 +20989,9 @@
       "buffbase_param": [
         {
           "params": [
+            20070020,
+            20070020,
+            20070020,
             20070020
           ]
         },
@@ -21084,6 +21159,7 @@
       "buffbase_param": [
         {
           "params": [
+            20580010,
             20580010
           ]
         },
@@ -21152,8 +21228,6 @@
         {
           "params": [
             20010100,
-            20010100,
-            20010100,
             20010100
           ]
         },
@@ -21186,6 +21260,7 @@
       "buffbase_param": [
         {
           "params": [
+            20070010,
             20070010
           ]
         },
@@ -21253,7 +21328,6 @@
       "buffbase_param": [
         {
           "params": [
-            20010010,
             20010010,
             20010010,
             20010010
@@ -21357,7 +21431,7 @@
       "buffbase_param": [
         {
           "params": [
-            1019011
+            1019012
           ]
         },
         {
@@ -24882,6 +24956,717 @@
         }
       ]
     },
+    "2017308": {
+      "id": 2017308,
+      "buffbase_order": 17,
+      "show_letters": [
+        0
+      ],
+      "client_trigger_type": [
+        -1
+      ],
+      "buffbase_param": [
+        {
+          "params": [
+            20010050,
+            20010050,
+            20010050,
+            20010060,
+            20010060,
+            20010060
+          ]
+        },
+        {
+          "params": [
+            10000
+          ]
+        },
+        {
+          "params": [
+            0
+          ]
+        },
+        {
+          "params": [
+            0
+          ]
+        }
+      ]
+    },
+    "2017310": {
+      "id": 2017310,
+      "buffbase_order": 17,
+      "trigger_type": 60,
+      "show_letters": [
+        0
+      ],
+      "client_trigger_type": [
+        -1
+      ],
+      "buffbase_param": [
+        {
+          "params": [
+            20340090
+          ]
+        },
+        {
+          "params": [
+            10000
+          ]
+        },
+        {
+          "params": [
+            1
+          ]
+        },
+        {
+          "params": [
+            0
+          ]
+        }
+      ]
+    },
+    "2017319": {
+      "id": 2017319,
+      "buffbase_order": 17,
+      "show_letters": [
+        0
+      ],
+      "client_trigger_type": [
+        -1
+      ],
+      "buffbase_param": [
+        {
+          "params": [
+            20230440,
+            20230440
+          ]
+        },
+        {
+          "params": [
+            10000
+          ]
+        },
+        {
+          "params": [
+            0
+          ]
+        },
+        {
+          "params": [
+            0
+          ]
+        }
+      ]
+    },
+    "2017320": {
+      "id": 2017320,
+      "buffbase_order": 17,
+      "show_letters": [
+        0
+      ],
+      "client_trigger_type": [
+        -1
+      ],
+      "buffbase_param": [
+        {
+          "params": [
+            1005010
+          ]
+        },
+        {
+          "params": [
+            10000
+          ]
+        },
+        {
+          "params": [
+            0
+          ]
+        },
+        {
+          "params": [
+            0
+          ]
+        }
+      ]
+    },
+    "2017321": {
+      "id": 2017321,
+      "buffbase_order": 17,
+      "show_letters": [
+        0
+      ],
+      "client_trigger_type": [
+        -1
+      ],
+      "buffbase_param": [
+        {
+          "params": [
+            20070020,
+            20070020,
+            20070020
+          ]
+        },
+        {
+          "params": [
+            10000
+          ]
+        },
+        {
+          "params": [
+            2
+          ]
+        },
+        {
+          "params": [
+            0
+          ]
+        }
+      ]
+    },
+    "2017322": {
+      "id": 2017322,
+      "buffbase_order": 17,
+      "show_letters": [
+        0
+      ],
+      "client_trigger_type": [
+        -1
+      ],
+      "buffbase_param": [
+        {
+          "params": [
+            20320220
+          ]
+        },
+        {
+          "params": [
+            10000
+          ]
+        },
+        {
+          "params": [
+            0
+          ]
+        },
+        {
+          "params": [
+            0
+          ]
+        }
+      ]
+    },
+    "2017323": {
+      "id": 2017323,
+      "buffbase_order": 17,
+      "show_letters": [
+        0
+      ],
+      "client_trigger_type": [
+        -1
+      ],
+      "buffbase_param": [
+        {
+          "params": [
+            20010020,
+            20010020,
+            20010020,
+            20010020
+          ]
+        },
+        {
+          "params": [
+            10000
+          ]
+        },
+        {
+          "params": [
+            0
+          ]
+        },
+        {
+          "params": [
+            0
+          ]
+        }
+      ]
+    },
+    "2017324": {
+      "id": 2017324,
+      "buffbase_order": 17,
+      "show_letters": [
+        0
+      ],
+      "client_trigger_type": [
+        -1
+      ],
+      "buffbase_param": [
+        {
+          "params": [
+            0
+          ]
+        },
+        {
+          "params": [
+            10000
+          ]
+        },
+        {
+          "params": [
+            2
+          ]
+        },
+        {
+          "params": [
+            0
+          ]
+        }
+      ]
+    },
+    "2017325": {
+      "id": 2017325,
+      "buffbase_order": 17,
+      "show_letters": [
+        0
+      ],
+      "client_trigger_type": [
+        -1
+      ],
+      "buffbase_param": [
+        {
+          "params": [
+            20010091,
+            20010091,
+            20010091,
+            20010091,
+            20450090,
+            20450090
+          ]
+        },
+        {
+          "params": [
+            10000
+          ]
+        },
+        {
+          "params": [
+            2
+          ]
+        },
+        {
+          "params": [
+            0
+          ]
+        }
+      ]
+    },
+    "2017326": {
+      "id": 2017326,
+      "buffbase_order": 17,
+      "show_letters": [
+        0
+      ],
+      "client_trigger_type": [
+        -1
+      ],
+      "buffbase_param": [
+        {
+          "params": [
+            20580010
+          ]
+        },
+        {
+          "params": [
+            10000
+          ]
+        },
+        {
+          "params": [
+            2
+          ]
+        },
+        {
+          "params": [
+            0
+          ]
+        }
+      ]
+    },
+    "2017327": {
+      "id": 2017327,
+      "buffbase_order": 17,
+      "show_letters": [
+        0
+      ],
+      "client_trigger_type": [
+        -1
+      ],
+      "buffbase_param": [
+        {
+          "params": [
+            20010080,
+            20010080,
+            20010080,
+            20010080
+          ]
+        },
+        {
+          "params": [
+            10000
+          ]
+        },
+        {
+          "params": [
+            2
+          ]
+        },
+        {
+          "params": [
+            0
+          ]
+        }
+      ]
+    },
+    "2017328": {
+      "id": 2017328,
+      "buffbase_order": 17,
+      "show_letters": [
+        0
+      ],
+      "client_trigger_type": [
+        -1
+      ],
+      "buffbase_param": [
+        {
+          "params": [
+            20010100,
+            20010100,
+            20010100,
+            20010100,
+            20010100
+          ]
+        },
+        {
+          "params": [
+            10000
+          ]
+        },
+        {
+          "params": [
+            0
+          ]
+        },
+        {
+          "params": [
+            0
+          ]
+        }
+      ]
+    },
+    "2017329": {
+      "id": 2017329,
+      "buffbase_order": 17,
+      "show_letters": [
+        0
+      ],
+      "client_trigger_type": [
+        -1
+      ],
+      "buffbase_param": [
+        {
+          "params": [
+            20070010
+          ]
+        },
+        {
+          "params": [
+            10000
+          ]
+        },
+        {
+          "params": [
+            2
+          ]
+        },
+        {
+          "params": [
+            0
+          ]
+        }
+      ]
+    },
+    "2017330": {
+      "id": 2017330,
+      "buffbase_order": 17,
+      "show_letters": [
+        0
+      ],
+      "client_trigger_type": [
+        -1
+      ],
+      "buffbase_param": [
+        {
+          "params": [
+            20010070,
+            20010070,
+            20010070,
+            20010070
+          ]
+        },
+        {
+          "params": [
+            10000
+          ]
+        },
+        {
+          "params": [
+            2
+          ]
+        },
+        {
+          "params": [
+            0
+          ]
+        }
+      ]
+    },
+    "2017331": {
+      "id": 2017331,
+      "buffbase_order": 17,
+      "show_letters": [
+        0
+      ],
+      "client_trigger_type": [
+        -1
+      ],
+      "buffbase_param": [
+        {
+          "params": [
+            20010010,
+            20010010,
+            20010010,
+            20010010
+          ]
+        },
+        {
+          "params": [
+            10000
+          ]
+        },
+        {
+          "params": [
+            0
+          ]
+        },
+        {
+          "params": [
+            0
+          ]
+        }
+      ]
+    },
+    "2017332": {
+      "id": 2017332,
+      "buffbase_order": 17,
+      "show_letters": [
+        0
+      ],
+      "client_trigger_type": [
+        -1
+      ],
+      "buffbase_param": [
+        {
+          "params": [
+            20450050
+          ]
+        },
+        {
+          "params": [
+            10000
+          ]
+        },
+        {
+          "params": [
+            0
+          ]
+        },
+        {
+          "params": [
+            0
+          ]
+        }
+      ]
+    },
+    "2017333": {
+      "id": 2017333,
+      "buffbase_order": 17,
+      "show_letters": [
+        0
+      ],
+      "client_trigger_type": [
+        -1
+      ],
+      "buffbase_param": [
+        {
+          "params": [
+            20010030,
+            20010030,
+            20010030,
+            20010040,
+            20010040,
+            20010040
+          ]
+        },
+        {
+          "params": [
+            10000
+          ]
+        },
+        {
+          "params": [
+            2
+          ]
+        },
+        {
+          "params": [
+            0
+          ]
+        }
+      ]
+    },
+    "2017334": {
+      "id": 2017334,
+      "buffbase_order": 17,
+      "show_letters": [
+        0
+      ],
+      "client_trigger_type": [
+        -1
+      ],
+      "buffbase_param": [
+        {
+          "params": [
+            1019011
+          ]
+        },
+        {
+          "params": [
+            10000
+          ]
+        },
+        {
+          "params": [
+            2
+          ]
+        },
+        {
+          "params": [
+            0
+          ]
+        }
+      ]
+    },
+    "2017335": {
+      "id": 2017335,
+      "buffbase_order": 17,
+      "show_letters": [
+        0
+      ],
+      "client_trigger_type": [
+        -1
+      ],
+      "buffbase_param": [
+        {
+          "params": [
+            20540010,
+            20540010,
+            20540010
+          ]
+        },
+        {
+          "params": [
+            10000
+          ]
+        },
+        {
+          "params": [
+            0
+          ]
+        },
+        {
+          "params": [
+            0
+          ]
+        }
+      ]
+    },
+    "2017336": {
+      "id": 2017336,
+      "buffbase_order": 17,
+      "show_letters": [
+        0
+      ],
+      "client_trigger_type": [
+        -1
+      ],
+      "buffbase_param": [
+        {
+          "params": [
+            20010050,
+            20010050,
+            20010050
+          ]
+        },
+        {
+          "params": [
+            10000
+          ]
+        },
+        {
+          "params": [
+            0
+          ]
+        },
+        {
+          "params": [
+            0
+          ]
+        }
+      ]
+    },
+    "2017337": {
+      "id": 2017337,
+      "buffbase_order": 17,
+      "show_letters": [
+        0
+      ],
+      "client_trigger_type": [
+        -1
+      ],
+      "buffbase_param": [
+        {
+          "params": [
+            20940010
+          ]
+        },
+        {
+          "params": [
+            10000
+          ]
+        },
+        {
+          "params": [
+            2
+          ]
+        },
+        {
+          "params": [
+            0
+          ]
+        }
+      ]
+    },
     "2019001": {
       "id": 2019001,
       "buffbase_order": 19,
@@ -27513,7 +28298,7 @@
         },
         {
           "params": [
-            1
+            0
           ]
         }
       ]
@@ -27630,7 +28415,7 @@
         },
         {
           "params": [
-            1
+            0
           ]
         }
       ]
@@ -28358,7 +29143,7 @@
         },
         {
           "params": [
-            5000
+            7500
           ]
         },
         {
@@ -47122,7 +47907,7 @@
         },
         {
           "params": [
-            3
+            2
           ]
         },
         {
@@ -49226,6 +50011,48 @@
         {
           "params": [
             1
+          ]
+        },
+        {
+          "params": [
+            0
+          ]
+        },
+        {
+          "params": [
+            0
+          ]
+        }
+      ]
+    },
+    "2038020": {
+      "id": 2038020,
+      "buffbase_order": 38,
+      "show_letters": [
+        1
+      ],
+      "client_trigger_type": [
+        -1
+      ],
+      "buffbase_param": [
+        {
+          "params": [
+            1
+          ]
+        },
+        {
+          "params": [
+            10
+          ]
+        },
+        {
+          "params": [
+            0
+          ]
+        },
+        {
+          "params": [
+            0
           ]
         },
         {
@@ -52324,7 +53151,7 @@
         },
         {
           "params": [
-            1004112
+            1004118
           ]
         },
         {
@@ -68012,8 +68839,7 @@
         },
         {
           "params": [
-            1005040,
-            1019004
+            1005040
           ]
         },
         {
@@ -77052,7 +77878,7 @@
       "buffbase_param": [
         {
           "params": [
-            -1
+            -99
           ]
         },
         {
@@ -83657,6 +84483,23 @@
         }
       ]
     },
+    "2099003": {
+      "id": 2099003,
+      "buffbase_order": 99,
+      "show_letters": [
+        1
+      ],
+      "client_trigger_type": [
+        -1
+      ],
+      "buffbase_param": [
+        {
+          "params": [
+            9001001
+          ]
+        }
+      ]
+    },
     "2100001": {
       "id": 2100001,
       "buffbase_order": 100,
@@ -87853,8 +88696,7 @@
       "buffbase_param": [
         {
           "params": [
-            1005040,
-            1019004
+            1005040
           ]
         }
       ]
@@ -88532,7 +89374,8 @@
             1004104,
             20030053,
             20970010,
-            1004103
+            1004103,
+            20380200
           ]
         },
         {
@@ -88554,6 +89397,7 @@
       "buffbase_param": [
         {
           "params": [
+            20990030,
             20010897
           ]
         },
@@ -88601,6 +89445,7 @@
       "buffbase_param": [
         {
           "params": [
+            20990030,
             20010897
           ]
         },
@@ -89939,7 +90784,7 @@
         },
         {
           "params": [
-            20010074
+            20010076
           ]
         }
       ]
@@ -92809,5 +93654,6 @@
         }
       ]
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

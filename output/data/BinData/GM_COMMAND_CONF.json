@@ -7831,5 +7831,6 @@
       "gm_group": "gm GmStopDebugReplay",
       "gm_command": "NewRoco.Modules.System.Debug.Tabs.DebugTabMagicReplay.GmStopDebugReplay"
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

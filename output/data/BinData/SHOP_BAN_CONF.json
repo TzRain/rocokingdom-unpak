@@ -1,0 +1,25 @@
+{
+  "RocoDataRows": {
+    "8000": {
+      "id": 8000,
+      "system_control_id": 11010000
+    },
+    "8010": {
+      "id": 8010,
+      "system_control_id": 11050000
+    },
+    "8050": {
+      "id": 8050,
+      "system_control_id": 11040000
+    },
+    "8060": {
+      "id": 8060,
+      "system_control_id": 11020000
+    },
+    "8070": {
+      "id": 8070,
+      "system_control_id": 11070000
+    }
+  },
+  "LocalizationStrings": {}
+}

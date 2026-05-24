@@ -2,9 +2,9 @@
   "RocoDataRows": {
     "3500001": {
       "id": 3500001,
-      "unopen_option_txt": "",
+      "unopen_option_txt": "11月21号0点后开启抽奖",
       "option_open_time": "2025-11-21 00:00:00",
-      "option_txt": "",
+      "option_txt": "前往抽奖",
       "track_type": 1,
       "track_type_param1": [
         8121
@@ -41,5 +41,6 @@
       "petbase_id": 3168,
       "stage_reward_group_id": 3500002
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

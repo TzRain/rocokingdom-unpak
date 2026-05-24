@@ -239,5 +239,6 @@
       "button_block_icon_double_ride": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/btn_lu_xulichongci_zhihui_png.btn_lu_xulichongci_zhihui_png'",
       "button_press_icon_double_ride": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/btn_lu_xulichongci_xuanzhong_png.btn_lu_xulichongci_xuanzhong_png'"
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

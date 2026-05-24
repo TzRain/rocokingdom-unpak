@@ -67,7 +67,7 @@
     "move_pool": [
         {
             "id": 7120230,
-            "name": "毒泡泡",
+            "name": "腐化",
             "icon_id": "111020",
             "move_type": {
                 "id": 10,
@@ -78,18 +78,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "毒泡泡",
-                    "description": "对敌方精灵造成魔法伤害。"
+                    "name": "腐化",
+                    "description": "敌方每有1层中毒效果，敌方获得双攻-30%。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 1,
             "power": null,
-            "description": "对敌方精灵造成魔法伤害。"
+            "description": "敌方每有1层中毒效果，敌方获得双攻-30%。"
         },
         {
             "id": 7120240,
-            "name": "溃烂触碰",
+            "name": "疫病吐息",
             "icon_id": "211021",
             "move_type": {
                 "id": 10,
@@ -100,18 +100,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "溃烂触碰",
-                    "description": "对敌方精灵造成物理伤害。"
+                    "name": "疫病吐息",
+                    "description": "敌方获得1层中毒印记。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 3,
             "power": null,
-            "description": "对敌方精灵造成物理伤害。"
+            "description": "敌方获得1层中毒印记。"
         },
         {
             "id": 7120250,
-            "name": "毒沼",
+            "name": "不可接触",
             "icon_id": "111022",
             "move_type": {
                 "id": 10,
@@ -122,14 +122,14 @@
             },
             "localized": {
                 "zh": {
-                    "name": "毒沼",
-                    "description": "对敌方精灵造成物理伤害。"
+                    "name": "不可接触",
+                    "description": "减伤50%，敌方每有1层中毒效果，本技能减伤+10%，应对攻击。"
                 }
             },
             "move_category": "Defense",
             "energy_cost": 1,
             "power": null,
-            "description": "对敌方精灵造成物理伤害。"
+            "description": "减伤50%，敌方每有1层中毒效果，本技能减伤+10%，应对攻击。"
         }
     ],
     "move_stones": [],

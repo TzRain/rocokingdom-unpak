@@ -75,7 +75,7 @@
       "gender": 1,
       "suits_id": "15",
       "item_quality": 4,
-      "fashion_tops_tag": 1,
+      "fashion_tops_tag": 2,
       "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10700301.10700301'",
       "launch_item": true
     },
@@ -1148,6 +1148,18 @@
       "item_quality": 3,
       "fashion_rings_tag": 2,
       "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10811101.10811101'",
+      "launch_item": true
+    },
+    "10811102": {
+      "id": 10811102,
+      "name": "手饰-轻风省的果实",
+      "type": 9,
+      "type_name": "手饰",
+      "gender": 1,
+      "suits_id": "221",
+      "item_quality": 3,
+      "fashion_rings_tag": 2,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/10811102.10811102'",
       "launch_item": true
     },
     "10899901": {
@@ -3356,6 +3368,18 @@
       "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11111101.11111101'",
       "launch_item": true
     },
+    "11111102": {
+      "id": 11111102,
+      "name": "鞋子-轻风省的果实",
+      "type": 4,
+      "type_name": "鞋子",
+      "gender": 1,
+      "suits_id": "221",
+      "item_quality": 3,
+      "fashion_shoes_tag": 3,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11111102.11111102'",
+      "launch_item": true
+    },
     "11199901": {
       "id": 11199901,
       "name": "鞋子-旧日的追忆",
@@ -4952,6 +4976,19 @@
       "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11411101.11411101'",
       "launch_item": true
     },
+    "11411102": {
+      "id": 11411102,
+      "name": "玩偶服-轻风省的果实",
+      "type": 2,
+      "type_name": "玩偶服",
+      "gender": 1,
+      "suits_id": "221",
+      "item_quality": 3,
+      "fashion_tops_tag": 1,
+      "fashion_bottoms_tag": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/11411102.11411102'",
+      "launch_item": true
+    },
     "12100101": {
       "id": 12100101,
       "name": "头饰-反叛的水手",
@@ -6484,6 +6521,18 @@
       "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20811101.20811101'",
       "launch_item": true
     },
+    "20811102": {
+      "id": 20811102,
+      "name": "手饰-轻风省的果实",
+      "type": 9,
+      "type_name": "手饰",
+      "gender": 2,
+      "suits_id": "222",
+      "item_quality": 3,
+      "fashion_rings_tag": 2,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20811102.20811102'",
+      "launch_item": true
+    },
     "20899901": {
       "id": 20899901,
       "name": "手饰-旧日的追忆",
@@ -6864,7 +6913,7 @@
       "gender": 2,
       "suits_id": "142",
       "item_quality": 3,
-      "fashion_bottoms_tag": 2,
+      "fashion_bottoms_tag": 1,
       "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20999901.20999901'",
       "launch_item": true,
       "is_free_item": true,
@@ -6878,7 +6927,7 @@
       "gender": 2,
       "suits_id": "10",
       "item_quality": 3,
-      "fashion_bottoms_tag": 2,
+      "fashion_bottoms_tag": 1,
       "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20999902.20999902'",
       "launch_item": true
     },
@@ -6890,7 +6939,7 @@
       "gender": 2,
       "suits_id": "11",
       "item_quality": 3,
-      "fashion_bottoms_tag": 2,
+      "fashion_bottoms_tag": 1,
       "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20999903.20999903'",
       "launch_item": true
     },
@@ -6901,7 +6950,7 @@
       "type_name": "下装",
       "gender": 2,
       "item_quality": 3,
-      "fashion_bottoms_tag": 2,
+      "fashion_bottoms_tag": 1,
       "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20999904.20999904'",
       "launch_item": true
     },
@@ -6913,7 +6962,7 @@
       "gender": 2,
       "suits_id": "13",
       "item_quality": 3,
-      "fashion_bottoms_tag": 2,
+      "fashion_bottoms_tag": 1,
       "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20999905.20999905'",
       "launch_item": true
     },
@@ -6924,7 +6973,7 @@
       "type_name": "下装",
       "gender": 2,
       "item_quality": 3,
-      "fashion_bottoms_tag": 2,
+      "fashion_bottoms_tag": 1,
       "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/20999906.20999906'",
       "launch_item": true
     },
@@ -8691,6 +8740,18 @@
       "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21111101.21111101'",
       "launch_item": true
     },
+    "21111102": {
+      "id": 21111102,
+      "name": "鞋子-轻风省的果实",
+      "type": 4,
+      "type_name": "鞋子",
+      "gender": 2,
+      "suits_id": "222",
+      "item_quality": 3,
+      "fashion_shoes_tag": 3,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21111102.21111102'",
+      "launch_item": true
+    },
     "21199901": {
       "id": 21199901,
       "name": "鞋子-旧日的追忆",
@@ -10172,6 +10233,19 @@
       "fashion_tops_tag": 1,
       "fashion_bottoms_tag": 1,
       "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21411101.21411101'",
+      "launch_item": true
+    },
+    "21411102": {
+      "id": 21411102,
+      "name": "玩偶服-轻风省的果实",
+      "type": 2,
+      "type_name": "玩偶服",
+      "gender": 2,
+      "suits_id": "222",
+      "item_quality": 3,
+      "fashion_tops_tag": 1,
+      "fashion_bottoms_tag": 1,
+      "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/21411102.21411102'",
       "launch_item": true
     },
     "22100101": {
@@ -12411,5 +12485,6 @@
       "icon": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Icon/2071070101.2071070101'",
       "launch_item": true
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

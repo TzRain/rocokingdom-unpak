@@ -71,6 +71,7 @@
       "editor_name": "AI测试白盒",
       "scene_name": "白盒",
       "scene_res_id": 10016,
+      "is_unused": true,
       "scene_load_type": 2,
       "env_type": 1,
       "born_pos_z": 100
@@ -799,6 +800,7 @@
       "editor_name": "黑巫师之影",
       "scene_name": "黑巫师之影",
       "scene_res_id": 20049,
+      "is_unused": true,
       "scene_load_type": 2,
       "env_type": 1,
       "born_pos_x": 74,
@@ -858,6 +860,7 @@
       "editor_name": "活动-首领角斗场",
       "scene_name": "活动-首领角斗场",
       "scene_res_id": 40001,
+      "is_unused": true,
       "scene_load_type": 2,
       "env_type": 1,
       "born_pos_x": 73,
@@ -992,6 +995,7 @@
       "editor_name": "草系徽章-野外研究院",
       "scene_name": "草系徽章-野外研究院",
       "scene_res_id": 60001,
+      "is_unused": true,
       "scene_load_type": 2,
       "env_type": 1,
       "born_pos_x": -890,
@@ -1003,6 +1007,7 @@
       "editor_name": "草系徽章-野外研究院BOSS战",
       "scene_name": "草系徽章-野外研究院BOSS战",
       "scene_res_id": 60002,
+      "is_unused": true,
       "scene_load_type": 2,
       "env_type": 1,
       "born_pos_x": -1940,
@@ -1014,6 +1019,7 @@
       "editor_name": "草系徽章-横版场景",
       "scene_name": "草系徽章-横版场景",
       "scene_res_id": 60003,
+      "is_unused": true,
       "scene_load_type": 2,
       "env_type": 1,
       "born_pos_x": -450,
@@ -1038,6 +1044,7 @@
       "editor_name": "特效验证测试环境",
       "scene_name": "特效验证测试环境",
       "scene_res_id": 80001,
+      "is_unused": true,
       "scene_load_type": 2,
       "env_type": 1,
       "born_pos_x": 439891,
@@ -1049,11 +1056,13 @@
       "editor_name": "性能测试空大世界",
       "scene_name": "性能测试空大世界",
       "scene_res_id": 90001,
+      "is_unused": true,
       "scene_load_type": 2,
       "env_type": 1,
       "born_pos_x": -601,
       "born_pos_y": 595,
       "born_pos_z": 95
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

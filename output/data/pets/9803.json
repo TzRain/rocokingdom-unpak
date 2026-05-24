@@ -79,17 +79,17 @@
             "localized": {
                 "zh": {
                     "name": "炎打",
-                    "description": "对敌方精灵造成物理伤害。"
+                    "description": "造成高额魔法伤害，自己获得物防-40%。"
                 }
             },
             "move_category": "Magic Attack",
             "energy_cost": 2,
             "power": 95,
-            "description": "对敌方精灵造成物理伤害。"
+            "description": "造成高额魔法伤害，自己获得物防-40%。"
         },
         {
             "id": 7040440,
-            "name": "进攻是最好的防守",
+            "name": "怒火",
             "icon_id": "103033",
             "move_type": {
                 "id": 3,
@@ -100,14 +100,14 @@
             },
             "localized": {
                 "zh": {
-                    "name": "进攻是最好的防守",
-                    "description": "怒火"
+                    "name": "怒火",
+                    "description": "自己获得双攻+120%和双防-40%。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 1,
             "power": null,
-            "description": "怒火"
+            "description": "自己获得双攻+120%和双防-40%。"
         },
         {
             "id": 7040450,
@@ -123,17 +123,17 @@
             "localized": {
                 "zh": {
                     "name": "淬火",
-                    "description": "自己获得双攻+120%和双防-40%。"
+                    "description": "减伤80%，应对攻击：下次攻击技能威力翻倍。"
                 }
             },
             "move_category": "Defense",
-            "energy_cost": 4,
+            "energy_cost": 2,
             "power": null,
-            "description": "自己获得双攻+120%和双防-40%。"
+            "description": "减伤80%，应对攻击：下次攻击技能威力翻倍。"
         },
         {
             "id": 7040470,
-            "name": "“都结束了，敌人燃尽了，我们也燃尽了。”",
+            "name": "焚毁",
             "icon_id": "203036",
             "move_type": {
                 "id": 3,
@@ -144,14 +144,14 @@
             },
             "localized": {
                 "zh": {
-                    "name": "“都结束了，敌人燃尽了，我们也燃尽了。”",
-                    "description": "焚毁"
+                    "name": "焚毁",
+                    "description": "造成魔伤，驱散敌方所有印记，每驱散1层，获得物攻+20%。"
                 }
             },
             "move_category": "Magic Attack",
             "energy_cost": 2,
             "power": 40,
-            "description": "焚毁"
+            "description": "造成魔伤，驱散敌方所有印记，每驱散1层，获得物攻+20%。"
         },
         {
             "id": 7040500,
@@ -167,13 +167,13 @@
             "localized": {
                 "zh": {
                     "name": "焚烧烙印",
-                    "description": "造成魔伤，驱散敌方所有印记，每驱散1层，获得物攻+20%。"
+                    "description": "驱散双方所有印记，每驱散1层，敌方获得5层灼烧。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 3,
             "power": null,
-            "description": "造成魔伤，驱散敌方所有印记，每驱散1层，获得物攻+20%。"
+            "description": "驱散双方所有印记，每驱散1层，敌方获得5层灼烧。"
         }
     ],
     "move_stones": [],

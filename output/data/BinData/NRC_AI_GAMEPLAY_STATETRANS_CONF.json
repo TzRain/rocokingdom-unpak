@@ -1,0 +1,29 @@
+{
+  "RocoDataRows": {
+    "1": {
+      "id": 1,
+      "from_state": 9000001,
+      "to_state": 9000005,
+      "via_state": 9000003,
+      "policy": 2,
+      "interruptible": true
+    },
+    "2": {
+      "id": 2,
+      "from_state": 9000002,
+      "to_state": 9000005,
+      "via_state": 9000003,
+      "policy": 2,
+      "interruptible": true
+    },
+    "3": {
+      "id": 3,
+      "from_state": 9000003,
+      "to_state": 9000005,
+      "via_state": 9000003,
+      "policy": 2,
+      "interruptible": true
+    }
+  },
+  "LocalizationStrings": {}
+}

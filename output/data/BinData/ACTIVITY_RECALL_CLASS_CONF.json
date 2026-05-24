@@ -6,7 +6,6 @@
       "lost_max_day": 365,
       "duration_days": 14,
       "disposable_reward_id": 710000001,
-      "begin_taskid": 70011001,
       "subactivity_task_condition": 110000343,
       "subactivity_ids": [
         201002,
@@ -14,7 +13,8 @@
         5100002
       ],
       "sign_in_txt": "这几周你去哪里啦？精灵们都很想你呢！我和学院还为你准备了专属补给，拿上他们重启冒险吧～",
-      "bp_welcome_txt": "小同学好久不见！这份手册能帮助你重新回忆起冒险需要的本领哦！当然，完成后的奖励也是必不可少的咕~"
+      "bp_welcome_txt": "小同学好久不见！这份手册能帮你重拾冒险本领哦！当然，奖励也是必不可少的咕~"
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

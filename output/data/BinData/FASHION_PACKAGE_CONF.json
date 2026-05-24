@@ -342,5 +342,6 @@
       "bg_colour": "#0097DBFF",
       "bg_image": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Monthly/Textures/img_FashionMall_bgright_11301.img_FashionMall_bgright_11301'"
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

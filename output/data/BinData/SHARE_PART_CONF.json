@@ -132,5 +132,6 @@
       "wechat_applet_first_page": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityFission/Frames/img_quanjiafu_png.img_quanjiafu_png'",
       "wechat_applet_QRCode_tips": "310004"
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

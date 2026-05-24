@@ -67,7 +67,7 @@
     "move_pool": [
         {
             "id": 7060220,
-            "name": "折线冲击",
+            "name": "天光",
             "icon_id": "205014",
             "move_type": {
                 "id": 5,
@@ -78,18 +78,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "折线冲击",
-                    "description": "对敌方精灵造成魔法伤害。"
+                    "name": "天光",
+                    "description": "造成魔伤，本技能系别和天气系别相同。"
                 }
             },
             "move_category": "Magic Attack",
             "energy_cost": 3,
             "power": 95,
-            "description": "对敌方精灵造成魔法伤害。"
+            "description": "造成魔伤，本技能系别和天气系别相同。"
         },
         {
             "id": 7060240,
-            "name": "晶石蜗的狂热研究员说，可以在这个世界上找到6种天然矿石，矿石中蕴含的魔力与相似颜色的晶石蜗十分相似。",
+            "name": "放晴",
             "icon_id": "205017",
             "move_type": {
                 "id": 5,
@@ -100,14 +100,14 @@
             },
             "localized": {
                 "zh": {
-                    "name": "晶石蜗的狂热研究员说，可以在这个世界上找到6种天然矿石，矿石中蕴含的魔力与相似颜色的晶石蜗十分相似。",
-                    "description": "透射"
+                    "name": "放晴",
+                    "description": "光系技能威力永久+50%，应对防御：改为永久+100%。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 0,
             "power": null,
-            "description": "透射"
+            "description": "光系技能威力永久+50%，应对防御：改为永久+100%。"
         }
     ],
     "move_stones": [],

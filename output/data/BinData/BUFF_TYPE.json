@@ -25,5 +25,6 @@
       "buff_type_desc": "特性",
       "buff_type_icon": "PaperSprite'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/Combat/Frames/img_feature_png.img_feature_png'"
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

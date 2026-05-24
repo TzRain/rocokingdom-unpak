@@ -53,5 +53,6 @@
       "filter_path": "EnvSystemFilterData'/Game/NewRoco/Modules/System/TakePhotos/Res/FilterData/ESF_Sparkling.ESF_Sparkling'",
       "icon": "PaperSprite'/Game/NewRoco/Modules/System/TakePhotos/Raw/TakePhotsFilter/Frames/img_shanyaoshike_png.img_shanyaoshike_png'"
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

@@ -8672,5 +8672,6 @@
       "button_name": "测试留影结束回放",
       "gm_group": "gm GmStopDebugReplay"
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

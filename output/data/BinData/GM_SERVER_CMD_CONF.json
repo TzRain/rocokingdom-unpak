@@ -2527,6 +2527,80 @@
           "param_desc": ">=0设置为指定值并锁定，<0解除锁定"
         }
       ]
+    },
+    "126": {
+      "id": 126,
+      "cmd_id": "test_oo_sequence",
+      "cmd_name": "离线操作测试",
+      "cmd_desc": "测试单玩家离线操作",
+      "param_list": [
+        {
+          "param_key": "target_uin",
+          "param_require": true,
+          "param_type": 102,
+          "param_name": "目标玩家UIN",
+          "param_desc": "目标玩家UIN"
+        },
+        {
+          "param_key": "count",
+          "param_type": 102,
+          "param_name": "消息数量",
+          "param_desc": "消息数量，默认10，最大10000"
+        },
+        {
+          "param_key": "mode",
+          "param_type": 102,
+          "param_name": "模式",
+          "param_desc": "0=异步 1=同步(默认)"
+        },
+        {
+          "param_key": "has_crash",
+          "param_type": 101,
+          "param_name": "模拟崩溃",
+          "param_desc": "1=模拟崩溃"
+        },
+        {
+          "param_key": "has_empty",
+          "param_type": 101,
+          "param_name": "模拟空消息",
+          "param_desc": "1=模拟空消息"
+        },
+        {
+          "param_key": "operated_character_type",
+          "param_type": 102,
+          "param_name": "操作角色类型",
+          "param_desc": "0=玩家(默认) 其他=非玩家"
+        },
+        {
+          "param_key": "msg_size",
+          "param_type": 102,
+          "param_name": "消息大小",
+          "param_desc": "消息大小，默认16"
+        }
+      ]
+    },
+    "127": {
+      "id": 127,
+      "cmd_id": "action_bonus_set_pity_count",
+      "cmd_name": "连续捕捉-设置保底计数",
+      "cmd_desc": "设置连续捕捉保底计数",
+      "param_list": [
+        {
+          "param_key": "accu_type",
+          "param_require": true,
+          "param_type": 104,
+          "param_name": "累计类型",
+          "param_desc": "累计类型标识"
+        },
+        {
+          "param_key": "pity_count",
+          "param_require": true,
+          "param_type": 101,
+          "param_name": "保底计数",
+          "param_desc": "保底计数值，不能小于0"
+        }
+      ]
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

@@ -863,6 +863,37 @@
       "free_reward_type": 9,
       "free_unlock_data": 1034,
       "free_reward_id": 966111
+    },
+    "145": {
+      "id": 145,
+      "free_reward_type": 4,
+      "free_unlock_data": 3733,
+      "free_reward_id": 969010
+    },
+    "146": {
+      "id": 146,
+      "free_reward_type": 4,
+      "free_unlock_data": 3734,
+      "free_reward_id": 969011
+    },
+    "147": {
+      "id": 147,
+      "free_reward_type": 4,
+      "free_unlock_data": 3735,
+      "free_reward_id": 969012
+    },
+    "152": {
+      "id": 152,
+      "free_reward_type": 9,
+      "free_unlock_data": 5003,
+      "free_reward_id": 966112
+    },
+    "153": {
+      "id": 153,
+      "free_reward_type": 9,
+      "free_unlock_data": 5004,
+      "free_reward_id": 966113
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

@@ -156,7 +156,7 @@
     "breeding": {
         "id": 3425001,
         "pet_id": 3425001,
-        "name": "权杖-Ⅱ",
+        "name": "三叶草龙",
         "model_id": 3425001,
         "hatch_data": 1,
         "weight_low": 1,
@@ -172,7 +172,7 @@
             {
                 "id": 3425001,
                 "pet_id": 3425001,
-                "name": "权杖-Ⅱ",
+                "name": "三叶草龙",
                 "model_id": 3425001,
                 "hatch_data": 1,
                 "weight_low": 1,
@@ -186,25 +186,9 @@
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 3431002,
-                "pet_id": 3431002,
-                "name": "三叶草龙",
-                "model_id": 3431001,
-                "hatch_data": 300,
-                "weight_low": 1229,
-                "weight_high": 2728,
-                "height_low": 32,
-                "height_high": 35,
-                "precious_egg_type": 1,
-                "egg_base_glass_prob_array": null,
-                "egg_add_glass_prob_array": null,
-                "is_contact_add_glass_prob": null,
-                "is_contact_add_shining_prob": null
-            },
-            {
                 "id": 34250001,
                 "pet_id": 34250001,
-                "name": "豆丁鱼",
+                "name": "三叶草龙",
                 "model_id": 3425001,
                 "hatch_data": 300,
                 "weight_low": 1,

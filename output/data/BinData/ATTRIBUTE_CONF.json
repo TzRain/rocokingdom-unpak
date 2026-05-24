@@ -554,5 +554,6 @@
       "attribute_icon": "PaperSprite'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/PetSystem/Frames/ui_pet_Passivation_png.ui_pet_Passivation_png'",
       "is_percent_attr": 1
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

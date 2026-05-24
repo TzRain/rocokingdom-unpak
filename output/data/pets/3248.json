@@ -152,7 +152,7 @@
     "breeding": {
         "id": 3248001,
         "pet_id": 3248001,
-        "name": "小怂猫",
+        "name": "绿洲象",
         "model_id": 3248001,
         "hatch_data": 72000,
         "weight_low": 33250,
@@ -174,7 +174,7 @@
             {
                 "id": 3248001,
                 "pet_id": 3248001,
-                "name": "小怂猫",
+                "name": "绿洲象",
                 "model_id": 3248001,
                 "hatch_data": 72000,
                 "weight_low": 33250,
@@ -194,31 +194,9 @@
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 3262001,
-                "pet_id": 3262001,
-                "name": "绿洲象",
-                "model_id": 3262001,
-                "hatch_data": 57600,
-                "weight_low": 2380,
-                "weight_high": 3560,
-                "height_low": 22,
-                "height_high": 31,
-                "precious_egg_type": null,
-                "egg_base_glass_prob_array": [
-                    395,
-                    2000
-                ],
-                "egg_add_glass_prob_array": [
-                    1,
-                    80
-                ],
-                "is_contact_add_glass_prob": true,
-                "is_contact_add_shining_prob": true
-            },
-            {
                 "id": 32480001,
                 "pet_id": 32480001,
-                "name": "多西",
+                "name": "绿洲象",
                 "model_id": 3248001,
                 "hatch_data": 300,
                 "weight_low": 33250,

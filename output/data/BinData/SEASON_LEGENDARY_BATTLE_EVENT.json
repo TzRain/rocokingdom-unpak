@@ -50,5 +50,6 @@
       "frame_2": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Textures/PVP/img_shenshou.img_shenshou'",
       "is_indoor": true
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

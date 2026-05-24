@@ -67,7 +67,7 @@
     "move_pool": [
         {
             "id": 7160270,
-            "name": "反弹",
+            "name": "击鼓传花",
             "icon_id": "215015",
             "move_type": {
                 "id": 14,
@@ -78,18 +78,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "反弹",
-                    "description": "自己获得萌化：全技能能耗永久-3。"
+                    "name": "击鼓传花",
+                    "description": "自己脱离，下个入场精灵继承自己增益。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 3,
             "power": null,
-            "description": "自己获得萌化：全技能能耗永久-3。"
+            "description": "自己脱离，下个入场精灵继承自己增益。"
         },
         {
             "id": 7160280,
-            "name": "甜心续航",
+            "name": "月光合奏",
             "icon_id": "115016",
             "move_type": {
                 "id": 14,
@@ -100,18 +100,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "甜心续航",
-                    "description": "将自己的萌化转移给敌方。"
+                    "name": "月光合奏",
+                    "description": "造成物伤，1连击，双方携带的所有精灵每有1层萌化，本次技能连击数+1。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 3,
             "power": 30,
-            "description": "将自己的萌化转移给敌方。"
+            "description": "造成物伤，1连击，双方携带的所有精灵每有1层萌化，本次技能连击数+1。"
         },
         {
             "id": 7160290,
-            "name": "破罐破摔",
+            "name": "捧杀",
             "icon_id": "115017",
             "move_type": {
                 "id": 14,
@@ -122,14 +122,14 @@
             },
             "localized": {
                 "zh": {
-                    "name": "破罐破摔",
-                    "description": "自己和敌方获得萌化：回复40%生命。"
+                    "name": "捧杀",
+                    "description": "减伤90%，应对攻击：敌方获得1层萌化。"
                 }
             },
             "move_category": "Defense",
             "energy_cost": 4,
             "power": null,
-            "description": "自己和敌方获得萌化：回复40%生命。"
+            "description": "减伤90%，应对攻击：敌方获得1层萌化。"
         }
     ],
     "move_stones": [],

@@ -1,0 +1,29 @@
+{
+  "RocoDataRows": {
+    "1": {
+      "id": 1,
+      "track_type": 1,
+      "track_num": 10,
+      "minmap_num": 10
+    },
+    "2": {
+      "id": 2,
+      "track_type": 2,
+      "track_num": 1,
+      "minmap_num": 10
+    },
+    "3": {
+      "id": 3,
+      "track_type": 3,
+      "track_num": 1,
+      "minmap_num": 10
+    },
+    "4": {
+      "id": 4,
+      "track_type": 4,
+      "track_num": 10,
+      "minmap_num": 10
+    }
+  },
+  "LocalizationStrings": {}
+}

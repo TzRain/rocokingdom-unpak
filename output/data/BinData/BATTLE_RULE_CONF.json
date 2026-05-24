@@ -1669,7 +1669,7 @@
     "10158": {
       "id": 10158,
       "title": "<span color=\"#FFC65F\">追忆</>",
-      "desc": "<span color=\"#AF3D3E\">【全体】</>释放非攻击类技能后，获得1次<span color=\"#73C615\">萌化</>",
+      "desc": "<span color=\"#AF3D3E\">【全体】</>释放非攻击类技能后，对敌人附加1层<span color=\"#73C615\">萌化</>",
       "rank": 1,
       "buff": [
         20350860
@@ -1748,5 +1748,6 @@
         20350641
       ]
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

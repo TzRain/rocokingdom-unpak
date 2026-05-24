@@ -117,5 +117,6 @@
       "cvar": "r.CheckFramebufferFetchSupport",
       "value": "1"
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

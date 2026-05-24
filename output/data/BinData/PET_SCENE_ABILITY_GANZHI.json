@@ -199003,5 +199003,6 @@
       "map_ability_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/CompassIcon/Frames/img_huacao_png.img_huacao_png'",
       "pet_ability_distance": 5000
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

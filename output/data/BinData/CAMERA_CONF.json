@@ -41,5 +41,6 @@
       "interact_camera_param1": "-41",
       "skill_camera_path": "/Game/ArtRes/Effects/G6Skill/NPC/NPC_Close_UP_Cam_1.NPC_Close_UP_Cam_1"
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

@@ -335,5 +335,6 @@
       "idle_anim": "Alert;Happy;Relax;Show",
       "exit_cancel_transformation": true
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

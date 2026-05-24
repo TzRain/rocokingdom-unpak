@@ -1168,7 +1168,7 @@
     "pet_attr_version": {
       "id": 294,
       "key": "pet_attr_version",
-      "num": 1,
+      "num": 2,
       "is_loc": 2
     },
     "collection_cant_release": {
@@ -2232,7 +2232,7 @@
     "pet_talent_version": {
       "id": 430,
       "key": "pet_talent_version",
-      "num": 1,
+      "num": 2,
       "is_loc": 2
     },
     "harmonia_pet_star_ratio": {
@@ -2711,5 +2711,6 @@
       "key": "PC_drag_least_distance",
       "num": 10
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

@@ -2,7 +2,7 @@
   "RocoDataRows": {
     "101": {
       "id": 101,
-      "name": "",
+      "name": "暗夜拾光",
       "ui_id": 10101,
       "chapter_group_id": 101,
       "badge_group_id": 101,
@@ -22,7 +22,7 @@
     },
     "102": {
       "id": 102,
-      "name": "",
+      "name": "狂欢怪谈",
       "ui_id": 10201,
       "chapter_group_id": 102,
       "badge_group_id": 102,
@@ -36,5 +36,6 @@
         }
       ]
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

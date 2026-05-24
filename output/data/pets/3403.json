@@ -159,7 +159,7 @@
     "breeding": {
         "id": 3403001,
         "pet_id": 3403001,
-        "name": "异色双灯鱼的蛋",
+        "name": "晶尾蝎",
         "model_id": 3403001,
         "hatch_data": 1,
         "weight_low": 1,
@@ -175,7 +175,7 @@
             {
                 "id": 3403001,
                 "pet_id": 3403001,
-                "name": "异色双灯鱼的蛋",
+                "name": "晶尾蝎",
                 "model_id": 3403001,
                 "hatch_data": 1,
                 "weight_low": 1,
@@ -189,31 +189,9 @@
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 3419001,
-                "pet_id": 3419001,
-                "name": "晶尾蝎",
-                "model_id": 3419001,
-                "hatch_data": 43200,
-                "weight_low": 3056,
-                "weight_high": 5968,
-                "height_low": 23,
-                "height_high": 27,
-                "precious_egg_type": null,
-                "egg_base_glass_prob_array": [
-                    8,
-                    1125
-                ],
-                "egg_add_glass_prob_array": [
-                    1,
-                    50
-                ],
-                "is_contact_add_glass_prob": true,
-                "is_contact_add_shining_prob": null
-            },
-            {
                 "id": 34030001,
                 "pet_id": 34030001,
-                "name": "电动长颈鹿",
+                "name": "晶尾蝎",
                 "model_id": 3403001,
                 "hatch_data": 300,
                 "weight_low": 1,

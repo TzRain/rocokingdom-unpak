@@ -4070,13 +4070,26 @@
       "move_param_2": "/Game/NewRoco/Modules/Core/Character/Rides/RideAll/RideCurve/Balance/balance_deacc_curve.balance_deacc_curve",
       "move_param_3": "1200",
       "move_param_4": "/Game/NewRoco/Modules/Core/Character/Rides/RideAll/RideCurve/Balance/balance_angular_curve.balance_angular_curve",
-      "move_param_5": "0.13",
+      "move_param_5": "0.3",
       "move_param_6": "/Game/NewRoco/Modules/Core/Character/Rides/RideAll/RideCurve/Balance/balance_friction_curve.balance_friction_curve",
-      "move_param_7": "0.7",
-      "move_param_8": "250",
-      "move_param_9": "15",
-      "move_param_10": "6",
-      "move_param_11": "45"
+      "move_param_7": "0",
+      "move_param_8": "500",
+      "move_param_9": "6",
+      "move_param_10": "20",
+      "move_param_11": "55",
+      "property_modify_speed_param_1": [
+        1
+      ],
+      "property_modify_speed_param_2": [
+        952,
+        476,
+        571,
+        4000,
+        4000,
+        2143,
+        1357,
+        8000
+      ]
     },
     "210002": {
       "id": 210002,
@@ -4091,15 +4104,28 @@
       },
       "move_param_1": "/Game/NewRoco/Modules/Core/Character/Rides/RideAll/RideCurve/Balance/balance_acc_curve_2.balance_acc_curve_2",
       "move_param_2": "/Game/NewRoco/Modules/Core/Character/Rides/RideAll/RideCurve/Balance/balance_deacc_curve_2.balance_deacc_curve_2",
-      "move_param_3": "1500",
+      "move_param_3": "1300",
       "move_param_4": "/Game/NewRoco/Modules/Core/Character/Rides/RideAll/RideCurve/Balance/balance_angular_curve_2.balance_angular_curve_2",
-      "move_param_5": "0.1",
+      "move_param_5": "0.25",
       "move_param_6": "/Game/NewRoco/Modules/Core/Character/Rides/RideAll/RideCurve/Balance/balance_friction_curve_2.balance_friction_curve_2",
-      "move_param_7": "1",
-      "move_param_8": "200",
-      "move_param_9": "13",
-      "move_param_10": "10",
-      "move_param_11": "55"
+      "move_param_7": "0",
+      "move_param_8": "600",
+      "move_param_9": "5",
+      "move_param_10": "20",
+      "move_param_11": "65",
+      "property_modify_speed_param_1": [
+        1
+      ],
+      "property_modify_speed_param_2": [
+        952,
+        476,
+        571,
+        4000,
+        4000,
+        2143,
+        1357,
+        8000
+      ]
     },
     "210003": {
       "id": 210003,
@@ -4114,15 +4140,29 @@
       },
       "move_param_1": "/Game/NewRoco/Modules/Core/Character/Rides/RideAll/RideCurve/Balance/balance_acc_curve_3.balance_acc_curve_3",
       "move_param_2": "/Game/NewRoco/Modules/Core/Character/Rides/RideAll/RideCurve/Balance/balance_deacc_curve_3.balance_deacc_curve_3",
-      "move_param_3": "2000",
+      "move_param_3": "1400",
       "move_param_4": "/Game/NewRoco/Modules/Core/Character/Rides/RideAll/RideCurve/Balance/balance_angular_curve_2.balance_angular_curve_2",
-      "move_param_5": "0.18",
+      "move_param_5": "0.35",
       "move_param_6": "/Game/NewRoco/Modules/Core/Character/Rides/RideAll/RideCurve/Balance/balance_friction_curve_3.balance_friction_curve_3",
-      "move_param_7": "2",
-      "move_param_8": "280",
-      "move_param_9": "8",
-      "move_param_10": "5",
-      "move_param_11": "80"
+      "move_param_7": "0",
+      "move_param_8": "600",
+      "move_param_9": "6",
+      "move_param_10": "20",
+      "move_param_11": "80",
+      "property_modify_speed_param_1": [
+        1
+      ],
+      "property_modify_speed_param_2": [
+        952,
+        476,
+        571,
+        4000,
+        4000,
+        2143,
+        1357,
+        8000
+      ]
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

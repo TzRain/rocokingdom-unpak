@@ -2082,7 +2082,7 @@
         {
           "cond_type": 11,
           "cond_op": 4,
-          "cond_value": 4500
+          "cond_value": 2500
         }
       ]
     },
@@ -2110,7 +2110,7 @@
         {
           "cond_type": 11,
           "cond_op": 4,
-          "cond_value": 4500
+          "cond_value": 2500
         }
       ]
     },
@@ -2176,7 +2176,7 @@
         {
           "cond_type": 11,
           "cond_op": 4,
-          "cond_value": 4500
+          "cond_value": 2500
         },
         {
           "cond_type": 69,
@@ -2198,7 +2198,7 @@
         {
           "cond_type": 11,
           "cond_op": 3,
-          "cond_value": 4500
+          "cond_value": 2500
         },
         {
           "cond_type": 13,
@@ -6683,11 +6683,6 @@
           "cond_type": 13,
           "cond_op": 2,
           "cond_value": 30
-        },
-        {
-          "cond_type": 69,
-          "sub_cond_type": 2001,
-          "cond_value": 60000
         }
       ]
     },
@@ -6758,11 +6753,6 @@
           "cond_type": 13,
           "cond_op": 2,
           "cond_value": 30
-        },
-        {
-          "cond_type": 69,
-          "sub_cond_type": 2001,
-          "cond_value": 60000
         }
       ]
     },
@@ -6833,11 +6823,6 @@
           "cond_type": 13,
           "cond_op": 2,
           "cond_value": 30
-        },
-        {
-          "cond_type": 69,
-          "sub_cond_type": 2001,
-          "cond_value": 60000
         }
       ]
     },
@@ -6908,11 +6893,6 @@
           "cond_type": 13,
           "cond_op": 2,
           "cond_value": 30
-        },
-        {
-          "cond_type": 69,
-          "sub_cond_type": 2001,
-          "cond_value": 60000
         }
       ]
     },
@@ -6983,11 +6963,6 @@
           "cond_type": 13,
           "cond_op": 2,
           "cond_value": 30
-        },
-        {
-          "cond_type": 69,
-          "sub_cond_type": 2001,
-          "cond_value": 60000
         }
       ]
     },
@@ -7058,11 +7033,6 @@
           "cond_type": 13,
           "cond_op": 2,
           "cond_value": 30
-        },
-        {
-          "cond_type": 69,
-          "sub_cond_type": 2001,
-          "cond_value": 60000
         }
       ]
     },
@@ -7133,11 +7103,6 @@
           "cond_type": 13,
           "cond_op": 2,
           "cond_value": 30
-        },
-        {
-          "cond_type": 69,
-          "sub_cond_type": 2001,
-          "cond_value": 60000
         }
       ]
     },
@@ -7208,11 +7173,6 @@
           "cond_type": 13,
           "cond_op": 2,
           "cond_value": 30
-        },
-        {
-          "cond_type": 69,
-          "sub_cond_type": 2001,
-          "cond_value": 60000
         }
       ]
     },
@@ -7283,11 +7243,6 @@
           "cond_type": 13,
           "cond_op": 2,
           "cond_value": 30
-        },
-        {
-          "cond_type": 69,
-          "sub_cond_type": 2001,
-          "cond_value": 60000
         }
       ]
     },
@@ -7353,11 +7308,6 @@
           "cond_type": 13,
           "cond_op": 2,
           "cond_value": 30
-        },
-        {
-          "cond_type": 69,
-          "sub_cond_type": 2001,
-          "cond_value": 60000
         }
       ]
     },
@@ -7428,11 +7378,6 @@
           "cond_type": 13,
           "cond_op": 2,
           "cond_value": 31
-        },
-        {
-          "cond_type": 69,
-          "sub_cond_type": 2001,
-          "cond_value": 60000
         }
       ]
     },
@@ -7503,11 +7448,6 @@
           "cond_type": 13,
           "cond_op": 2,
           "cond_value": 31
-        },
-        {
-          "cond_type": 69,
-          "sub_cond_type": 2001,
-          "cond_value": 60000
         }
       ]
     },
@@ -7578,11 +7518,6 @@
           "cond_type": 13,
           "cond_op": 2,
           "cond_value": 31
-        },
-        {
-          "cond_type": 69,
-          "sub_cond_type": 2001,
-          "cond_value": 60000
         }
       ]
     },
@@ -7653,11 +7588,6 @@
           "cond_type": 13,
           "cond_op": 2,
           "cond_value": 31
-        },
-        {
-          "cond_type": 69,
-          "sub_cond_type": 2001,
-          "cond_value": 60000
         }
       ]
     },
@@ -7728,11 +7658,6 @@
           "cond_type": 13,
           "cond_op": 2,
           "cond_value": 31
-        },
-        {
-          "cond_type": 69,
-          "sub_cond_type": 2001,
-          "cond_value": 60000
         }
       ]
     },
@@ -7803,11 +7728,6 @@
           "cond_type": 13,
           "cond_op": 2,
           "cond_value": 31
-        },
-        {
-          "cond_type": 69,
-          "sub_cond_type": 2001,
-          "cond_value": 60000
         }
       ]
     },
@@ -7878,11 +7798,6 @@
           "cond_type": 13,
           "cond_op": 2,
           "cond_value": 31
-        },
-        {
-          "cond_type": 69,
-          "sub_cond_type": 2001,
-          "cond_value": 60000
         }
       ]
     },
@@ -7953,11 +7868,6 @@
           "cond_type": 13,
           "cond_op": 2,
           "cond_value": 31
-        },
-        {
-          "cond_type": 69,
-          "sub_cond_type": 2001,
-          "cond_value": 60000
         }
       ]
     },
@@ -8028,11 +7938,6 @@
           "cond_type": 13,
           "cond_op": 2,
           "cond_value": 31
-        },
-        {
-          "cond_type": 69,
-          "sub_cond_type": 2001,
-          "cond_value": 60000
         }
       ]
     },
@@ -8103,11 +8008,6 @@
           "cond_type": 13,
           "cond_op": 2,
           "cond_value": 31
-        },
-        {
-          "cond_type": 69,
-          "sub_cond_type": 2001,
-          "cond_value": 60000
         }
       ]
     },
@@ -8178,11 +8078,6 @@
           "cond_type": 13,
           "cond_op": 2,
           "cond_value": 31
-        },
-        {
-          "cond_type": 69,
-          "sub_cond_type": 2001,
-          "cond_value": 60000
         }
       ]
     },
@@ -8253,11 +8148,6 @@
           "cond_type": 13,
           "cond_op": 2,
           "cond_value": 31
-        },
-        {
-          "cond_type": 69,
-          "sub_cond_type": 2001,
-          "cond_value": 60000
         }
       ]
     },
@@ -8328,11 +8218,6 @@
           "cond_type": 13,
           "cond_op": 2,
           "cond_value": 31
-        },
-        {
-          "cond_type": 69,
-          "sub_cond_type": 2001,
-          "cond_value": 60000
         }
       ]
     },
@@ -8403,11 +8288,6 @@
           "cond_type": 13,
           "cond_op": 2,
           "cond_value": 31
-        },
-        {
-          "cond_type": 69,
-          "sub_cond_type": 2001,
-          "cond_value": 60000
         }
       ]
     },
@@ -18992,11 +18872,6 @@
           "cond_type": 11,
           "cond_op": 4,
           "cond_value": 600
-        },
-        {
-          "cond_type": 69,
-          "sub_cond_type": 2002,
-          "cond_value": 10000
         }
       ]
     },
@@ -27977,5 +27852,6 @@
         }
       ]
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

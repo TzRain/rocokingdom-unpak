@@ -215,6 +215,12 @@
         4,
         5
       ]
+    },
+    "16": {
+      "id": 16,
+      "key": "season_coin_by_catch_limit",
+      "num": 4
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

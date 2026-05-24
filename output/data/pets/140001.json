@@ -90,17 +90,17 @@
             "localized": {
                 "zh": {
                     "name": "火焰冲锋",
-                    "description": "造成物伤，若敌方本回合更换精灵，自己回复7点能量。"
+                    "description": "对敌方精灵造成物理伤害。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 1,
             "power": 60,
-            "description": "造成物伤，若敌方本回合更换精灵，自己回复7点能量。"
+            "description": "对敌方精灵造成物理伤害。"
         },
         {
             "id": 7070010,
-            "name": "S3流明坎德拉B",
+            "name": "械斗",
             "icon_id": "720001",
             "move_type": {
                 "id": 17,
@@ -111,18 +111,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "S3流明坎德拉B",
-                    "description": "色散"
+                    "name": "械斗",
+                    "description": "造成物伤，本技能位于1号位时威力+60，传动1。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 1,
             "power": 45,
-            "description": "色散"
+            "description": "造成物伤，本技能位于1号位时威力+60，传动1。"
         },
         {
             "id": 7080110,
-            "name": "应对！相位移动",
+            "name": "扬沙",
             "icon_id": "708015",
             "move_type": {
                 "id": 6,
@@ -133,18 +133,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "应对！相位移动",
-                    "description": "减​伤50%，​本技​能​位​于​1号​位​或​3号​位​时，​额​外减​伤40%，应对攻击，​传动1。​"
+                    "name": "扬沙",
+                    "description": "对敌方精灵造成物理伤害。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 1,
             "power": 60,
-            "description": "减​伤50%，​本技​能​位​于​1号​位​或​3号​位​时，​额​外减​伤40%，应对攻击，​传动1。​"
+            "description": "对敌方精灵造成物理伤害。"
         },
         {
             "id": 7100120,
-            "name": "冰越厚，越安静，越有力。",
+            "name": "龙吼",
             "icon_id": "710002",
             "move_type": {
                 "id": 8,
@@ -155,18 +155,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "冰越厚，越安静，越有力。",
-                    "description": "寒潮"
+                    "name": "龙吼",
+                    "description": "对敌方精灵造成物理伤害。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 1,
             "power": 60,
-            "description": "寒潮"
+            "description": "对敌方精灵造成物理伤害。"
         },
         {
             "id": 7180080,
-            "name": "真的有鬼，月圆夜的时候，魔法学院2楼厕所的卫生纸会全部消失，太可怕了。",
+            "name": "恶能量",
             "icon_id": "718013",
             "move_type": {
                 "id": 16,
@@ -177,18 +177,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "真的有鬼，月圆夜的时候，魔法学院2楼厕所的卫生纸会全部消失，太可怕了。",
-                    "description": "虚化"
+                    "name": "恶能量",
+                    "description": "对敌方精灵造成物理伤害。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 1,
             "power": 60,
-            "description": "虚化"
+            "description": "对敌方精灵造成物理伤害。"
         },
         {
             "id": 7999107,
-            "name": "测试共鸣魔法npc",
+            "name": "疾风涡轮",
             "icon_id": "715017",
             "move_type": {
                 "id": 13,
@@ -199,14 +199,14 @@
             },
             "localized": {
                 "zh": {
-                    "name": "测试共鸣魔法npc",
-                    "description": "沃尔克"
+                    "name": "疾风涡轮",
+                    "description": "对全体精灵造成物理伤害。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 3,
             "power": 80,
-            "description": "沃尔克"
+            "description": "对全体精灵造成物理伤害。"
         }
     ],
     "move_stones": [],

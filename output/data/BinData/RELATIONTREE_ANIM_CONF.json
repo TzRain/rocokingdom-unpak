@@ -296,5 +296,6 @@
       "receive_invite_tip": "收到了来自%s的勾肩搭背申请",
       "cancel_tip": "勾肩搭背申请中断"
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

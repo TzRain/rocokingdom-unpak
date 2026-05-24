@@ -1014,5 +1014,6 @@
       "button_action": "IA_PropPlacement_Rotation_Released",
       "default_button": "R"
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

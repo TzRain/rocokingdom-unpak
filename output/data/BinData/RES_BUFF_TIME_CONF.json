@@ -1508,6 +1508,41 @@
         466
       ]
     },
+    "20010076": {
+      "id": 20010076,
+      "skill_time": [
+        1500,
+        1500
+      ],
+      "skill_pre_end": [
+        466,
+        466
+      ],
+      "skill_counter": [
+        466,
+        466
+      ],
+      "skill_interrupt": [
+        466,
+        466
+      ],
+      "skill_melee_before": [
+        0,
+        0
+      ],
+      "skill_melee_after": [
+        466,
+        466
+      ],
+      "skill_ranged_before": [
+        0,
+        0
+      ],
+      "skill_ranged_after": [
+        466,
+        466
+      ]
+    },
     "20010080": {
       "id": 20010080,
       "skill_time": [
@@ -7734,5 +7769,6 @@
         1100
       ]
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

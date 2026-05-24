@@ -293,7 +293,7 @@
         },
         {
             "id": 7190290,
-            "name": "曾有洛克企图用愿力重塑现实，但他毕竟只是凡人。",
+            "name": "星轨裂变",
             "icon_id": "118009",
             "move_type": {
                 "id": 18,
@@ -304,18 +304,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "曾有洛克企图用愿力重塑现实，但他毕竟只是凡人。",
-                    "description": "对敌方精灵造成物理伤害。"
+                    "name": "星轨裂变",
+                    "description": "敌方获得2层星陨印记。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 1,
             "power": null,
-            "description": "对敌方精灵造成物理伤害。"
+            "description": "敌方获得2层星陨印记。"
         },
         {
             "id": 7190380,
-            "name": "走失的星星在愿力的指引下，正在寻找回去的轨道。",
+            "name": "针状物",
             "icon_id": "118020",
             "move_type": {
                 "id": 18,
@@ -326,14 +326,14 @@
             },
             "localized": {
                 "zh": {
-                    "name": "走失的星星在愿力的指引下，正在寻找回去的轨道。",
-                    "description": "星链"
+                    "name": "针状物",
+                    "description": "造成魔伤，3连击。"
                 }
             },
             "move_category": "Magic Attack",
             "energy_cost": 3,
             "power": 30,
-            "description": "星链"
+            "description": "造成魔伤，3连击。"
         },
         {
             "id": 7021090,
@@ -359,7 +359,7 @@
         },
         {
             "id": 7190390,
-            "name": "别睡了，醒醒！老师点名了！",
+            "name": "大爆炸",
             "icon_id": "118021",
             "move_type": {
                 "id": 18,
@@ -370,18 +370,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "别睡了，醒醒！老师点名了！",
-                    "description": "2连击，每次连击使敌方获得1层星陨印记。"
+                    "name": "大爆炸",
+                    "description": "对敌方精灵造成魔法伤害。"
                 }
             },
             "move_category": "Magic Attack",
             "energy_cost": 3,
             "power": 100,
-            "description": "2连击，每次连击使敌方获得1层星陨印记。"
+            "description": "对敌方精灵造成魔法伤害。"
         },
         {
             "id": 7190270,
-            "name": "晃攻",
+            "name": "错乱",
             "icon_id": "118007",
             "move_type": {
                 "id": 18,
@@ -392,14 +392,14 @@
             },
             "localized": {
                 "zh": {
-                    "name": "晃攻",
-                    "description": "S3障眼魔A"
+                    "name": "错乱",
+                    "description": "造成魔伤，应对状态：敌方获得3层星陨印记。"
                 }
             },
             "move_category": "Magic Attack",
             "energy_cost": 2,
             "power": 65,
-            "description": "S3障眼魔A"
+            "description": "造成魔伤，应对状态：敌方获得3层星陨印记。"
         }
     ],
     "move_stones": [
@@ -532,7 +532,7 @@
             },
             "move_category": "Physical Attack",
             "energy_cost": 3,
-            "power": 90,
+            "power": 80,
             "description": "造成物伤，每应对成功1次，本技能威力永久+90。"
         },
         {
@@ -603,7 +603,7 @@
         },
         {
             "id": 7190320,
-            "name": "多维击打",
+            "name": "心灵洞悉",
             "icon_id": "719012",
             "move_type": {
                 "id": 18,
@@ -614,18 +614,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "多维击打",
-                    "description": "造成物伤，自己回复1能量。"
+                    "name": "心灵洞悉",
+                    "description": "敌方获得星陨印记，获得层数等于敌方印记层数。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 7,
             "power": null,
-            "description": "造成物伤，自己回复1能量。"
+            "description": "敌方获得星陨印记，获得层数等于敌方印记层数。"
         },
         {
             "id": 7190260,
-            "name": "S3夜游魔B",
+            "name": "多维击打",
             "icon_id": "218006",
             "move_type": {
                 "id": 18,
@@ -636,14 +636,14 @@
             },
             "localized": {
                 "zh": {
-                    "name": "S3夜游魔B",
-                    "description": "凝望"
+                    "name": "多维击打",
+                    "description": "造成魔伤，1连击，敌方每有1层星陨印记，本次技能连击数+1。"
                 }
             },
             "move_category": "Magic Attack",
             "energy_cost": 4,
             "power": 15,
-            "description": "凝望"
+            "description": "造成魔伤，1连击，敌方每有1层星陨印记，本次技能连击数+1。"
         },
         {
             "id": 7020920,
@@ -669,7 +669,7 @@
         },
         {
             "id": 7190280,
-            "name": "假冒",
+            "name": "超维投射",
             "icon_id": "719004",
             "move_type": {
                 "id": 18,
@@ -680,14 +680,14 @@
             },
             "localized": {
                 "zh": {
-                    "name": "假冒",
-                    "description": "自己的生命比例变为与敌方生命比例相同，巧变：恶系攻击技能。"
+                    "name": "超维投射",
+                    "description": "敌方获得4层星陨印记。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 4,
             "power": null,
-            "description": "自己的生命比例变为与敌方生命比例相同，巧变：恶系攻击技能。"
+            "description": "敌方获得4层星陨印记。"
         },
         {
             "id": 7021030,
@@ -713,7 +713,7 @@
         },
         {
             "id": 7170220,
-            "name": "为报答学长的照顾，今天在他的炼金药剂里面加了一些汽水儿。",
+            "name": "灵媒",
             "icon_id": "116016",
             "move_type": {
                 "id": 15,
@@ -724,18 +724,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "为报答学长的照顾，今天在他的炼金药剂里面加了一些汽水儿。",
-                    "description": "减伤70%，应对攻击：敌方失去3能量。"
+                    "name": "灵媒",
+                    "description": "对敌方精灵造成魔法伤害。"
                 }
             },
             "move_category": "Magic Attack",
             "energy_cost": 3,
             "power": 100,
-            "description": "减伤70%，应对攻击：敌方失去3能量。"
+            "description": "对敌方精灵造成魔法伤害。"
         },
         {
             "id": 7170160,
-            "name": "坟场搏击",
+            "name": "恐吓",
             "icon_id": "705002",
             "move_type": {
                 "id": 15,
@@ -746,18 +746,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "坟场搏击",
-                    "description": "造成物伤，敌方每有1能量，本次技能威力-10%。"
+                    "name": "恐吓",
+                    "description": "对敌方精灵造成魔法伤害。"
                 }
             },
             "move_category": "Magic Attack",
             "energy_cost": 2,
             "power": 80,
-            "description": "造成物伤，敌方每有1能量，本次技能威力-10%。"
+            "description": "对敌方精灵造成魔法伤害。"
         },
         {
             "id": 7140210,
-            "name": "敌方获得双防-70%，应对防御：额外使被应对技能冷却2回合。",
+            "name": "气波",
             "icon_id": "113025",
             "move_type": {
                 "id": 12,
@@ -768,18 +768,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "敌方获得双防-70%，应对防御：额外使被应对技能冷却2回合。",
-                    "description": "应对！破防"
+                    "name": "气波",
+                    "description": "对敌方精灵造成魔法伤害。"
                 }
             },
             "move_category": "Magic Attack",
             "energy_cost": 0,
             "power": 40,
-            "description": "应对！破防"
+            "description": "对敌方精灵造成魔法伤害。"
         },
         {
             "id": 7140100,
-            "name": "崩的是对方的架势，合的是破招的美学。",
+            "name": "反击拳",
             "icon_id": "113027",
             "move_type": {
                 "id": 12,
@@ -790,18 +790,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "崩的是对方的架势，合的是破招的美学。",
-                    "description": "应对！崩拳"
+                    "name": "反击拳",
+                    "description": "造成物伤，2连击，若后手攻击，改为3连击。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 2,
             "power": 25,
-            "description": "应对！崩拳"
+            "description": "造成物伤，2连击，若后手攻击，改为3连击。"
         },
         {
             "id": 7140270,
-            "name": "对战课的某个老师，认为精灵对战中存在一种流体力学，感受空气中魔法的流动，能预测和防御对手的招式。",
+            "name": "叠势",
             "icon_id": "113031",
             "move_type": {
                 "id": 12,
@@ -812,14 +812,14 @@
             },
             "localized": {
                 "zh": {
-                    "name": "对战课的某个老师，认为精灵对战中存在一种流体力学，感受空气中魔法的流动，能预测和防御对手的招式。",
-                    "description": "应对！听桥"
+                    "name": "叠势",
+                    "description": "造成魔伤，2连击，每成功应对1次，本技能连击数永久+2。"
                 }
             },
             "move_category": "Magic Attack",
             "energy_cost": 3,
             "power": 25,
-            "description": "应对！听桥"
+            "description": "造成魔伤，2连击，每成功应对1次，本技能连击数永久+2。"
         },
         {
             "id": 7021110,
@@ -844,30 +844,8 @@
             "description": "减伤50%，应对攻击：下一次行动获得先手+1。"
         },
         {
-            "id": 7170300,
-            "name": "昨天半夜我们俩摸黑背完咒语课考试范围，隔天发现学长给画的考试范围全是错的。",
-            "icon_id": "116018",
-            "move_type": {
-                "id": 15,
-                "name": "Ghost",
-                "localized": {
-                    "zh": "幽"
-                }
-            },
-            "localized": {
-                "zh": {
-                    "name": "昨天半夜我们俩摸黑背完咒语课考试范围，隔天发现学长给画的考试范围全是错的。",
-                    "description": "自己获得魔攻+90%，若敌方本回合更换精灵，自己获得速度+70。"
-                }
-            },
-            "move_category": "Status",
-            "energy_cost": 1,
-            "power": null,
-            "description": "自己获得魔攻+90%，若敌方本回合更换精灵，自己获得速度+70。"
-        },
-        {
             "id": 7170200,
-            "name": "自从得知跳跃可以加速精灵蛋孵化，我的身体越来越强壮。",
+            "name": "幻象",
             "icon_id": "116014",
             "move_type": {
                 "id": 15,
@@ -878,18 +856,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "自从得知跳跃可以加速精灵蛋孵化，我的身体越来越强壮。",
-                    "description": "降灵"
+                    "name": "幻象",
+                    "description": "对敌方精灵造成物理伤害。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 1,
             "power": 60,
-            "description": "降灵"
+            "description": "对敌方精灵造成物理伤害。"
         },
         {
             "id": 7170210,
-            "name": "午夜，在黑暗的教室里，两个人共同握着一根羽毛笔，嘴里念念有词，笔尖疯狂抖动。",
+            "name": "午夜噪音",
             "icon_id": "116015",
             "move_type": {
                 "id": 15,
@@ -900,18 +878,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "午夜，在黑暗的教室里，两个人共同握着一根羽毛笔，嘴里念念有词，笔尖疯狂抖动。",
-                    "description": "敌方获得1层降灵印记。"
+                    "name": "午夜噪音",
+                    "description": "造成魔伤，5连击。"
                 }
             },
             "move_category": "Magic Attack",
             "energy_cost": 4,
             "power": 20,
-            "description": "敌方获得1层降灵印记。"
+            "description": "造成魔伤，5连击。"
         },
         {
             "id": 7170230,
-            "name": "应对！报复",
+            "name": "灵光",
             "icon_id": "116017",
             "move_type": {
                 "id": 15,
@@ -922,18 +900,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "应对！报复",
-                    "description": "减伤70%，应对攻击：敌方失去3能量。"
+                    "name": "灵光",
+                    "description": "造成魔伤，3连击，若敌方本回合更换精灵，本次技能连击数翻倍。"
                 }
             },
             "move_category": "Magic Attack",
             "energy_cost": 3,
             "power": 25,
-            "description": "减伤70%，应对攻击：敌方失去3能量。"
+            "description": "造成魔伤，3连击，若敌方本回合更换精灵，本次技能连击数翻倍。"
         },
         {
             "id": 7170240,
-            "name": "恐吓",
+            "name": "嘲弄",
             "icon_id": "116018",
             "move_type": {
                 "id": 15,
@@ -944,18 +922,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "恐吓",
-                    "description": "对敌方精灵造成魔法伤害。"
+                    "name": "嘲弄",
+                    "description": "自己获得魔攻+90%，若敌方本回合更换精灵，自己获得速度+70。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 2,
             "power": null,
-            "description": "对敌方精灵造成魔法伤害。"
+            "description": "自己获得魔攻+90%，若敌方本回合更换精灵，自己获得速度+70。"
         },
         {
             "id": 7170100,
-            "name": "S3稻草守护者A",
+            "name": "惊吓盒子",
             "icon_id": "717013",
             "move_type": {
                 "id": 15,
@@ -966,14 +944,14 @@
             },
             "localized": {
                 "zh": {
-                    "name": "S3稻草守护者A",
-                    "description": "心盾"
+                    "name": "惊吓盒子",
+                    "description": "造成物伤，应对状态：使敌方失去6能量。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 3,
             "power": 80,
-            "description": "心盾"
+            "description": "造成物伤，应对状态：使敌方失去6能量。"
         }
     ],
     "legacy_moves": [
@@ -1022,13 +1000,13 @@
                 "localized": {
                     "zh": {
                         "name": "荆棘爪",
-                        "description": "造成物伤，自己回复1能量。"
+                        "description": "对敌方精灵造成物理伤害。"
                     }
                 },
                 "move_category": "Physical Attack",
                 "energy_cost": 2,
                 "power": 80,
-                "description": "造成物伤，自己回复1能量。"
+                "description": "对敌方精灵造成物理伤害。"
             }
         },
         {
@@ -1049,13 +1027,13 @@
                 "localized": {
                     "zh": {
                         "name": "火爪",
-                        "description": "造成魔伤，3连击。"
+                        "description": "对敌方精灵造成魔法伤害。"
                     }
                 },
                 "move_category": "Magic Attack",
                 "energy_cost": 1,
                 "power": 60,
-                "description": "造成魔伤，3连击。"
+                "description": "对敌方精灵造成魔法伤害。"
             }
         },
         {
@@ -1064,7 +1042,7 @@
             "move_id": 7050340,
             "move": {
                 "id": 7050340,
-                "name": "白的、轻的、易碎的。",
+                "name": "肥皂泡",
                 "icon_id": "104023",
                 "move_type": {
                     "id": 4,
@@ -1075,14 +1053,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "白的、轻的、易碎的。",
-                        "description": "对敌方精灵造成物理伤害。"
+                        "name": "肥皂泡",
+                        "description": "对敌方精灵造成魔法伤害。"
                     }
                 },
                 "move_category": "Magic Attack",
                 "energy_cost": 1,
                 "power": 60,
-                "description": "对敌方精灵造成物理伤害。"
+                "description": "对敌方精灵造成魔法伤害。"
             }
         },
         {
@@ -1091,7 +1069,7 @@
             "move_id": 7060200,
             "move": {
                 "id": 7060200,
-                "name": "脉冲光线",
+                "name": "虹光冲击",
                 "icon_id": "105012",
                 "move_type": {
                     "id": 5,
@@ -1102,14 +1080,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "脉冲光线",
-                        "description": "高能量的离子束，一不小心就会划伤皮肤，让粗心的研究员深受其害。"
+                        "name": "虹光冲击",
+                        "description": "对敌方精灵造成魔法伤害。"
                     }
                 },
                 "move_category": "Magic Attack",
                 "energy_cost": 3,
                 "power": 100,
-                "description": "高能量的离子束，一不小心就会划伤皮肤，让粗心的研究员深受其害。"
+                "description": "对敌方精灵造成魔法伤害。"
             }
         },
         {
@@ -1118,7 +1096,7 @@
             "move_id": 7080120,
             "move": {
                 "id": 7080120,
-                "name": "造成魔伤，自己每​受​到​一​次​抵抗​伤害，​本技​能​威力​永久​+20。",
+                "name": "跺地",
                 "icon_id": "708012",
                 "move_type": {
                     "id": 6,
@@ -1129,14 +1107,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "造成魔伤，自己每​受​到​一​次​抵抗​伤害，​本技​能​威力​永久​+20。",
-                        "description": "正在评估——【威胁等级】，嘀嗒，威胁等级评估为——【极高】，判断小洛克需要被保护，正在提高本技能威力。"
+                        "name": "跺地",
+                        "description": "对敌方精灵造成物理伤害。"
                     }
                 },
                 "move_category": "Physical Attack",
                 "energy_cost": 2,
                 "power": 80,
-                "description": "正在评估——【威胁等级】，嘀嗒，威胁等级评估为——【极高】，判断小洛克需要被保护，正在提高本技能威力。"
+                "description": "对敌方精灵造成物理伤害。"
             }
         },
         {
@@ -1145,7 +1123,7 @@
             "move_id": 7090160,
             "move": {
                 "id": 7090160,
-                "name": "“雪人里面怎么有人啊！”",
+                "name": "霜降",
                 "icon_id": "709006",
                 "move_type": {
                     "id": 7,
@@ -1156,14 +1134,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "“雪人里面怎么有人啊！”",
-                        "description": "造成魔伤，若敌方有冻结，本次技能威力+60，应对状态：使冻结翻倍。"
+                        "name": "霜降",
+                        "description": "敌方获得4层冻结。"
                     }
                 },
                 "move_category": "Status",
                 "energy_cost": 1,
                 "power": null,
-                "description": "造成魔伤，若敌方有冻结，本次技能威力+60，应对状态：使冻结翻倍。"
+                "description": "敌方获得4层冻结。"
             }
         },
         {
@@ -1172,7 +1150,7 @@
             "move_id": 7100150,
             "move": {
                 "id": 7100150,
-                "name": "龙吼",
+                "name": "升龙咆哮",
                 "icon_id": "710004",
                 "move_type": {
                     "id": 8,
@@ -1183,14 +1161,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "龙吼",
-                        "description": "精灵蓄力中"
+                        "name": "升龙咆哮",
+                        "description": "蓄力，对敌方造成魔法伤害。"
                     }
                 },
                 "move_category": "Magic Attack",
                 "energy_cost": 3,
                 "power": 200,
-                "description": "精灵蓄力中"
+                "description": "蓄力，对敌方造成魔法伤害。"
             }
         },
         {
@@ -1199,7 +1177,7 @@
             "move_id": 7110310,
             "move": {
                 "id": 7110310,
-                "name": "增程电池",
+                "name": "磁干扰",
                 "icon_id": "110016",
                 "move_type": {
                     "id": 9,
@@ -1210,14 +1188,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "增程电池",
-                        "description": "自己获得1层蓄电印记。"
+                        "name": "磁干扰",
+                        "description": "对敌方精灵造成魔法伤害。"
                     }
                 },
                 "move_category": "Magic Attack",
                 "energy_cost": 1,
                 "power": 60,
-                "description": "自己获得1层蓄电印记。"
+                "description": "对敌方精灵造成魔法伤害。"
             }
         },
         {
@@ -1226,7 +1204,7 @@
             "move_id": 7120120,
             "move": {
                 "id": 7120120,
-                "name": "连续毒针",
+                "name": "毒孢子",
                 "icon_id": "712007",
                 "move_type": {
                     "id": 10,
@@ -1237,14 +1215,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "连续毒针",
-                        "description": "造成物伤，2连击，每次连击使敌方获得1层中毒。"
+                        "name": "毒孢子",
+                        "description": "敌方获得5层中毒。"
                     }
                 },
                 "move_category": "Status",
                 "energy_cost": 3,
                 "power": null,
-                "description": "造成物伤，2连击，每次连击使敌方获得1层中毒。"
+                "description": "敌方获得5层中毒。"
             }
         },
         {
@@ -1253,7 +1231,7 @@
             "move_id": 7130270,
             "move": {
                 "id": 7130270,
-                "name": "研究手记：茧不透光，只听到内里传出咀嚼声。",
+                "name": "尾后针",
                 "icon_id": "112019",
                 "move_type": {
                     "id": 11,
@@ -1264,14 +1242,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "研究手记：茧不透光，只听到内里传出咀嚼声。",
-                        "description": "自己回复20%生命，己方队伍获得1次奉献：获得10%吸血。"
+                        "name": "尾后针",
+                        "description": "对敌方精灵造成物理伤害。"
                     }
                 },
                 "move_category": "Physical Attack",
                 "energy_cost": 2,
                 "power": 80,
-                "description": "自己回复20%生命，己方队伍获得1次奉献：获得10%吸血。"
+                "description": "对敌方精灵造成物理伤害。"
             }
         },
         {
@@ -1280,7 +1258,7 @@
             "move_id": 7140240,
             "move": {
                 "id": 7140240,
-                "name": "某个擅长对决的魔法师点评此武学：硬门之韵在于对手先攻，我方以静制动。",
+                "name": "贯手",
                 "icon_id": "113028",
                 "move_type": {
                     "id": 12,
@@ -1291,14 +1269,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "某个擅长对决的魔法师点评此武学：硬门之韵在于对手先攻，我方以静制动。",
-                        "description": "应对！硬门"
+                        "name": "贯手",
+                        "description": "对敌方精灵造成魔法伤害。"
                     }
                 },
                 "move_category": "Magic Attack",
                 "energy_cost": 2,
                 "power": 80,
-                "description": "应对！硬门"
+                "description": "对敌方精灵造成魔法伤害。"
             }
         },
         {
@@ -1307,7 +1285,7 @@
             "move_id": 7150210,
             "move": {
                 "id": 7150210,
-                "name": "暴风眼",
+                "name": "风矢",
                 "icon_id": "114016",
                 "move_type": {
                     "id": 13,
@@ -1318,14 +1296,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "暴风眼",
-                        "description": "获得连击数+100%。"
+                        "name": "风矢",
+                        "description": "对敌方精灵造成物理伤害。"
                     }
                 },
                 "move_category": "Physical Attack",
                 "energy_cost": 2,
                 "power": 80,
-                "description": "获得连击数+100%。"
+                "description": "对敌方精灵造成物理伤害。"
             }
         },
         {
@@ -1334,7 +1312,7 @@
             "move_id": 7160230,
             "move": {
                 "id": 7160230,
-                "name": "砂糖弹球",
+                "name": "魅惑",
                 "icon_id": "115011",
                 "move_type": {
                     "id": 14,
@@ -1345,14 +1323,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "砂糖弹球",
-                        "description": "造成物伤，双方体重差越大，本次技能威力越高。"
+                        "name": "魅惑",
+                        "description": "对敌方精灵造成魔法伤害。"
                     }
                 },
                 "move_category": "Magic Attack",
                 "energy_cost": 1,
                 "power": 60,
-                "description": "造成物伤，双方体重差越大，本次技能威力越高。"
+                "description": "对敌方精灵造成魔法伤害。"
             }
         },
         {
@@ -1361,7 +1339,7 @@
             "move_id": 7170090,
             "move": {
                 "id": 7170090,
-                "name": "S3徘徊爪爪B",
+                "name": "鬼火",
                 "icon_id": "705003",
                 "move_type": {
                     "id": 15,
@@ -1372,14 +1350,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "S3徘徊爪爪B",
-                        "description": "心盾"
+                        "name": "鬼火",
+                        "description": "造成魔伤，自己回复1能量。"
                     }
                 },
                 "move_category": "Magic Attack",
                 "energy_cost": 0,
                 "power": 30,
-                "description": "心盾"
+                "description": "造成魔伤，自己回复1能量。"
             }
         },
         {
@@ -1388,7 +1366,7 @@
             "move_id": 7180260,
             "move": {
                 "id": 7180260,
-                "name": "“他有急事，先走了。”",
+                "name": "黑手",
                 "icon_id": "117024",
                 "move_type": {
                     "id": 16,
@@ -1399,14 +1377,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "“他有急事，先走了。”",
-                        "description": "应对！恶意逃离"
+                        "name": "黑手",
+                        "description": "造成魔伤，2连击。"
                     }
                 },
                 "move_category": "Magic Attack",
                 "energy_cost": 3,
                 "power": 45,
-                "description": "应对！恶意逃离"
+                "description": "造成魔伤，2连击。"
             }
         },
         {
@@ -1415,7 +1393,7 @@
             "move_id": 7070110,
             "move": {
                 "id": 7070110,
-                "name": "教团不在乎，它只要棋子互相制衡。",
+                "name": "离子震荡",
                 "icon_id": "106011",
                 "move_type": {
                     "id": 17,
@@ -1426,14 +1404,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "教团不在乎，它只要棋子互相制衡。",
-                        "description": "减伤80%，应对攻击：两侧技能能耗永久-1。"
+                        "name": "离子震荡",
+                        "description": "造成魔伤，本技能位于3号位时威力+40，传动1。"
                     }
                 },
                 "move_category": "Magic Attack",
                 "energy_cost": 3,
                 "power": 90,
-                "description": "减伤80%，应对攻击：两侧技能能耗永久-1。"
+                "description": "造成魔伤，本技能位于3号位时威力+40，传动1。"
             }
         },
         {
@@ -1442,7 +1420,7 @@
             "move_id": 7190210,
             "move": {
                 "id": 7190210,
-                "name": "应对！恶1",
+                "name": "念力膨胀",
                 "icon_id": "719008",
                 "move_type": {
                     "id": 18,
@@ -1453,14 +1431,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "应对！恶1",
-                        "description": "造成大量魔伤，降低自身60%魔防，应对状态：改为降低敌方60%魔防"
+                        "name": "念力膨胀",
+                        "description": "对敌方精灵造成物理伤害。"
                     }
                 },
                 "move_category": "Physical Attack",
                 "energy_cost": 2,
                 "power": 80,
-                "description": "造成大量魔伤，降低自身60%魔防，应对状态：改为降低敌方60%魔防"
+                "description": "对敌方精灵造成物理伤害。"
             }
         }
     ],

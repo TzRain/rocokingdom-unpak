@@ -22,5 +22,6 @@
       "send_rand_core_time": 10000,
       "recv_rand_core_time": 10000
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

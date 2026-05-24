@@ -94,5 +94,6 @@
       "dashing_vitality_cost": 250,
       "dash_cooldown": 100.0
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

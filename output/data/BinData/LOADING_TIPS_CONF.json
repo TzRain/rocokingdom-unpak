@@ -747,5 +747,6 @@
       "loading_tips_title": "关于精灵乘骑速度",
       "loading_tips_text": "精灵的<span color=\"#ffc65f\">天分</>和<span color=\"#ffc65f\">属性</>会略微影响精灵的<span color=\"#ffc65f\">骑乘速度</>。"
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

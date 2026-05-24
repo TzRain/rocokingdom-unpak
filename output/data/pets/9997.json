@@ -67,7 +67,7 @@
     "move_pool": [
         {
             "id": 7300001,
-            "name": "泥涌",
+            "name": "测试buff6",
             "icon_id": "708003",
             "move_type": {
                 "id": 6,
@@ -78,7 +78,7 @@
             },
             "localized": {
                 "zh": {
-                    "name": "泥涌",
+                    "name": "测试buff6",
                     "description": "造成物伤"
                 }
             },
@@ -89,7 +89,7 @@
         },
         {
             "id": 7300002,
-            "name": "唤雪",
+            "name": "测试buff28",
             "icon_id": "708003",
             "move_type": {
                 "id": 6,
@@ -100,7 +100,7 @@
             },
             "localized": {
                 "zh": {
-                    "name": "唤雪",
+                    "name": "测试buff28",
                     "description": "造成物伤"
                 }
             },
@@ -111,7 +111,7 @@
         },
         {
             "id": 7300003,
-            "name": "冰化",
+            "name": "测试buff134",
             "icon_id": "708003",
             "move_type": {
                 "id": 6,
@@ -122,7 +122,7 @@
             },
             "localized": {
                 "zh": {
-                    "name": "冰化",
+                    "name": "测试buff134",
                     "description": "造成物伤"
                 }
             },

@@ -367,5 +367,6 @@
       "sals_status_name": "玩家异常状态",
       "is_afk_sals": true
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

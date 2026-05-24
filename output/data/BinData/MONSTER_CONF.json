@@ -148188,7 +148188,7 @@
       "active_skill3": 41048303,
       "active_skill4": 41048304,
       "catch_difficulty": 10000,
-      "Catch_difficulty_OverThreshold": 2500,
+      "Catch_difficulty_OverThreshold": 1600,
       "catch_prob_max": 9500,
       "attr_enum_break_set": [
         1,
@@ -148203,10 +148203,10 @@
       "speed_upper_mag": 10000,
       "level_skill_id": 3487,
       "exp_award_fight_stage": [
-        60
+        70
       ],
       "exp_award_catch_stage": [
-        60
+        70
       ],
       "defeat_award": 970105,
       "mf_behavior_tree_fight": "MFBT_Battle_CommonMonster_Status_enemy",
@@ -148216,7 +148216,7 @@
       ],
       "monster_bornmagic": 80,
       "bottle_reward_switch": true,
-      "monitor_data_version": 100
+      "monitor_data_version": 101
     },
     "410484": {
       "id": 410484,
@@ -148241,7 +148241,7 @@
       "active_skill3": 41048403,
       "active_skill4": 41048404,
       "catch_difficulty": 10000,
-      "Catch_difficulty_OverThreshold": 1200,
+      "Catch_difficulty_OverThreshold": 800,
       "catch_prob_max": 9500,
       "attr_enum_break_set": [
         1,
@@ -148256,10 +148256,10 @@
       "speed_upper_mag": 10000,
       "level_skill_id": 3488,
       "exp_award_fight_stage": [
-        110
+        120
       ],
       "exp_award_catch_stage": [
-        110
+        120
       ],
       "defeat_award": 970205,
       "mf_behavior_tree_fight": "MFBT_Battle_CommonMonster_Status_enemy",
@@ -148269,7 +148269,7 @@
       ],
       "monster_bornmagic": 80,
       "bottle_reward_switch": true,
-      "monitor_data_version": 100
+      "monitor_data_version": 101
     },
     "410485": {
       "id": 410485,
@@ -148294,7 +148294,7 @@
       "active_skill3": 41048503,
       "active_skill4": 41048504,
       "catch_difficulty": 10000,
-      "Catch_difficulty_OverThreshold": 800,
+      "Catch_difficulty_OverThreshold": 400,
       "catch_prob_max": 9500,
       "attr_enum_break_set": [
         1,
@@ -148309,10 +148309,10 @@
       "speed_upper_mag": 10000,
       "level_skill_id": 3489,
       "exp_award_fight_stage": [
-        150
+        160
       ],
       "exp_award_catch_stage": [
-        150
+        160
       ],
       "defeat_award": 970305,
       "mf_behavior_tree_fight": "MFBT_Battle_CommonMonster_Status_enemy",
@@ -148322,7 +148322,7 @@
       ],
       "monster_bornmagic": 80,
       "bottle_reward_switch": true,
-      "monitor_data_version": 100
+      "monitor_data_version": 101
     },
     "410486": {
       "id": 410486,
@@ -150514,7 +150514,7 @@
       "active_skill3": 41052703,
       "active_skill4": 41052704,
       "catch_difficulty": 10000,
-      "Catch_difficulty_OverThreshold": 2500,
+      "Catch_difficulty_OverThreshold": 1600,
       "catch_prob_max": 9500,
       "attr_enum_break_set": [
         1,
@@ -150529,10 +150529,10 @@
       "speed_upper_mag": 10000,
       "level_skill_id": 3531,
       "exp_award_fight_stage": [
-        60
+        70
       ],
       "exp_award_catch_stage": [
-        60
+        70
       ],
       "defeat_award": 970109,
       "mf_behavior_tree_fight": "MFBT_Battle_CommonMonster_Damage_enemy",
@@ -150567,7 +150567,7 @@
       "active_skill3": 41052803,
       "active_skill4": 41052804,
       "catch_difficulty": 10000,
-      "Catch_difficulty_OverThreshold": 800,
+      "Catch_difficulty_OverThreshold": 400,
       "catch_prob_max": 9500,
       "attr_enum_break_set": [
         1,
@@ -150582,10 +150582,10 @@
       "speed_upper_mag": 10000,
       "level_skill_id": 3532,
       "exp_award_fight_stage": [
-        150
+        160
       ],
       "exp_award_catch_stage": [
-        150
+        160
       ],
       "defeat_award": 970309,
       "mf_behavior_tree_fight": "MFBT_Battle_CommonMonster_Damage_enemy",
@@ -152702,7 +152702,7 @@
       "active_skill3": 41056803,
       "active_skill4": 41056804,
       "catch_difficulty": 10000,
-      "Catch_difficulty_OverThreshold": 2500,
+      "Catch_difficulty_OverThreshold": 1600,
       "catch_prob_max": 9500,
       "attr_enum_break_set": [
         1,
@@ -152717,10 +152717,10 @@
       "speed_upper_mag": 10000,
       "level_skill_id": 3572,
       "exp_award_fight_stage": [
-        60
+        70
       ],
       "exp_award_catch_stage": [
-        60
+        70
       ],
       "defeat_award": 970102,
       "mf_behavior_tree_fight": "MFBT_Battle_CommonMonster_Defend_enemy",
@@ -152730,7 +152730,7 @@
       ],
       "monster_bornmagic": 80,
       "bottle_reward_switch": true,
-      "monitor_data_version": 100
+      "monitor_data_version": 101
     },
     "410569": {
       "id": 410569,
@@ -152755,7 +152755,7 @@
       "active_skill3": 41056903,
       "active_skill4": 41056904,
       "catch_difficulty": 10000,
-      "Catch_difficulty_OverThreshold": 800,
+      "Catch_difficulty_OverThreshold": 400,
       "catch_prob_max": 9500,
       "attr_enum_break_set": [
         1,
@@ -152770,10 +152770,10 @@
       "speed_upper_mag": 10000,
       "level_skill_id": 3573,
       "exp_award_fight_stage": [
-        150
+        160
       ],
       "exp_award_catch_stage": [
-        150
+        160
       ],
       "defeat_award": 970302,
       "mf_behavior_tree_fight": "MFBT_Battle_CommonMonster_Defend_enemy",
@@ -152783,7 +152783,7 @@
       ],
       "monster_bornmagic": 80,
       "bottle_reward_switch": true,
-      "monitor_data_version": 100
+      "monitor_data_version": 101
     },
     "410570": {
       "id": 410570,
@@ -157022,7 +157022,7 @@
       "active_skill3": 41065503,
       "active_skill4": 41065504,
       "catch_difficulty": 10000,
-      "Catch_difficulty_OverThreshold": 5000,
+      "Catch_difficulty_OverThreshold": 2500,
       "Catch_difficulty_UnderThreshold": 800,
       "catch_prob_max": 9500,
       "attr_enum_break_set": [
@@ -157038,10 +157038,10 @@
       "speed_upper_mag": 10000,
       "level_skill_id": 3659,
       "exp_award_fight_stage": [
-        50
+        60
       ],
       "exp_award_catch_stage": [
-        50
+        60
       ],
       "defeat_award": 970103,
       "mf_behavior_tree_fight": "MFBT_Battle_CommonMonster_Status_friend",
@@ -157051,7 +157051,7 @@
       ],
       "monster_bornmagic": 80,
       "bottle_reward_switch": true,
-      "monitor_data_version": 100
+      "monitor_data_version": 101
     },
     "410656": {
       "id": 410656,
@@ -157076,7 +157076,7 @@
       "active_skill3": 41065603,
       "active_skill4": 41065604,
       "catch_difficulty": 10000,
-      "Catch_difficulty_OverThreshold": 2000,
+      "Catch_difficulty_OverThreshold": 1200,
       "Catch_difficulty_UnderThreshold": 800,
       "catch_prob_max": 9500,
       "attr_enum_break_set": [
@@ -157092,10 +157092,10 @@
       "speed_upper_mag": 10000,
       "level_skill_id": 3660,
       "exp_award_fight_stage": [
-        100
+        110
       ],
       "exp_award_catch_stage": [
-        100
+        110
       ],
       "defeat_award": 970203,
       "mf_behavior_tree_fight": "MFBT_Battle_CommonMonster_Status_friend",
@@ -157105,7 +157105,7 @@
       ],
       "monster_bornmagic": 80,
       "bottle_reward_switch": true,
-      "monitor_data_version": 100
+      "monitor_data_version": 101
     },
     "410657": {
       "id": 410657,
@@ -157850,7 +157850,7 @@
       "active_skill3": 41067303,
       "active_skill4": 41067304,
       "catch_difficulty": 10000,
-      "Catch_difficulty_OverThreshold": 5000,
+      "Catch_difficulty_OverThreshold": 1600,
       "Catch_difficulty_UnderThreshold": 800,
       "catch_prob_max": 9500,
       "attr_enum_break_set": [
@@ -157866,10 +157866,10 @@
       "speed_upper_mag": 10000,
       "level_skill_id": 3677,
       "exp_award_fight_stage": [
-        50
+        70
       ],
       "exp_award_catch_stage": [
-        50
+        70
       ],
       "defeat_award": 970102,
       "mf_behavior_tree_fight": "MFBT_Battle_CommonMonster_Status_friend",
@@ -157879,7 +157879,7 @@
       ],
       "monster_bornmagic": 80,
       "bottle_reward_switch": true,
-      "monitor_data_version": 100
+      "monitor_data_version": 101
     },
     "410674": {
       "id": 410674,
@@ -157904,7 +157904,7 @@
       "active_skill3": 41067403,
       "active_skill4": 41067404,
       "catch_difficulty": 10000,
-      "Catch_difficulty_OverThreshold": 1200,
+      "Catch_difficulty_OverThreshold": 400,
       "Catch_difficulty_UnderThreshold": 800,
       "catch_prob_max": 9500,
       "attr_enum_break_set": [
@@ -157920,10 +157920,10 @@
       "speed_upper_mag": 10000,
       "level_skill_id": 3678,
       "exp_award_fight_stage": [
-        140
+        160
       ],
       "exp_award_catch_stage": [
-        140
+        160
       ],
       "defeat_award": 970302,
       "mf_behavior_tree_fight": "MFBT_Battle_CommonMonster_Status_friend",
@@ -157933,7 +157933,7 @@
       ],
       "monster_bornmagic": 80,
       "bottle_reward_switch": true,
-      "monitor_data_version": 100
+      "monitor_data_version": 101
     },
     "410675": {
       "id": 410675,
@@ -158138,7 +158138,7 @@
       "active_skill3": 41067903,
       "active_skill4": 41067904,
       "catch_difficulty": 10000,
-      "Catch_difficulty_OverThreshold": 5000,
+      "Catch_difficulty_OverThreshold": 2500,
       "Catch_difficulty_UnderThreshold": 800,
       "catch_prob_max": 9500,
       "attr_enum_break_set": [
@@ -158154,10 +158154,10 @@
       "speed_upper_mag": 10000,
       "level_skill_id": 3683,
       "exp_award_fight_stage": [
-        50
+        60
       ],
       "exp_award_catch_stage": [
-        50
+        60
       ],
       "defeat_award": 970106,
       "mf_behavior_tree_fight": "MFBT_Battle_CommonMonster_Status_ignore",
@@ -158167,7 +158167,7 @@
       ],
       "monster_bornmagic": 80,
       "bottle_reward_switch": true,
-      "monitor_data_version": 100
+      "monitor_data_version": 101
     },
     "410680": {
       "id": 410680,
@@ -158192,7 +158192,7 @@
       "active_skill3": 41068003,
       "active_skill4": 41068004,
       "catch_difficulty": 10000,
-      "Catch_difficulty_OverThreshold": 1200,
+      "Catch_difficulty_OverThreshold": 800,
       "Catch_difficulty_UnderThreshold": 800,
       "catch_prob_max": 9500,
       "attr_enum_break_set": [
@@ -158208,10 +158208,10 @@
       "speed_upper_mag": 10000,
       "level_skill_id": 3684,
       "exp_award_fight_stage": [
-        140
+        150
       ],
       "exp_award_catch_stage": [
-        140
+        150
       ],
       "defeat_award": 970306,
       "mf_behavior_tree_fight": "MFBT_Battle_CommonMonster_Status_ignore",
@@ -158221,7 +158221,7 @@
       ],
       "monster_bornmagic": 80,
       "bottle_reward_switch": true,
-      "monitor_data_version": 100
+      "monitor_data_version": 101
     },
     "410681": {
       "id": 410681,
@@ -159305,7 +159305,7 @@
       "active_skill3": 41070403,
       "active_skill4": 41070404,
       "catch_difficulty": 10000,
-      "Catch_difficulty_OverThreshold": 5000,
+      "Catch_difficulty_OverThreshold": 2500,
       "Catch_difficulty_UnderThreshold": 800,
       "catch_prob_max": 9500,
       "attr_enum_break_set": [
@@ -159321,10 +159321,10 @@
       "speed_upper_mag": 10000,
       "level_skill_id": 3708,
       "exp_award_fight_stage": [
-        50
+        60
       ],
       "exp_award_catch_stage": [
-        50
+        60
       ],
       "defeat_award": 970117,
       "mf_behavior_tree_fight": "MFBT_Battle_CommonMonster_Status_friend",
@@ -159334,7 +159334,7 @@
       ],
       "monster_bornmagic": 80,
       "bottle_reward_switch": true,
-      "monitor_data_version": 100
+      "monitor_data_version": 101
     },
     "410705": {
       "id": 410705,
@@ -159359,7 +159359,7 @@
       "active_skill3": 41070503,
       "active_skill4": 41070504,
       "catch_difficulty": 10000,
-      "Catch_difficulty_OverThreshold": 1200,
+      "Catch_difficulty_OverThreshold": 800,
       "Catch_difficulty_UnderThreshold": 800,
       "catch_prob_max": 9500,
       "attr_enum_break_set": [
@@ -159375,10 +159375,10 @@
       "speed_upper_mag": 10000,
       "level_skill_id": 3709,
       "exp_award_fight_stage": [
-        140
+        150
       ],
       "exp_award_catch_stage": [
-        140
+        150
       ],
       "defeat_award": 970317,
       "mf_behavior_tree_fight": "MFBT_Battle_CommonMonster_Status_friend",
@@ -159388,7 +159388,7 @@
       ],
       "monster_bornmagic": 80,
       "bottle_reward_switch": true,
-      "monitor_data_version": 100
+      "monitor_data_version": 101
     },
     "410706": {
       "id": 410706,
@@ -160736,7 +160736,7 @@
       "active_skill3": 41073203,
       "active_skill4": 41073204,
       "catch_difficulty": 10000,
-      "Catch_difficulty_OverThreshold": 2500,
+      "Catch_difficulty_OverThreshold": 1600,
       "Catch_difficulty_UnderThreshold": 800,
       "catch_prob_max": 9500,
       "attr_enum_break_set": [
@@ -160752,10 +160752,10 @@
       "speed_upper_mag": 10000,
       "level_skill_id": 3736,
       "exp_award_fight_stage": [
-        60
+        70
       ],
       "exp_award_catch_stage": [
-        60
+        70
       ],
       "defeat_award": 970118,
       "mf_behavior_tree_fight": "MFBT_Battle_CommonMonster_Status_friend",
@@ -160790,7 +160790,7 @@
       "active_skill3": 41073303,
       "active_skill4": 41073304,
       "catch_difficulty": 10000,
-      "Catch_difficulty_OverThreshold": 800,
+      "Catch_difficulty_OverThreshold": 400,
       "Catch_difficulty_UnderThreshold": 800,
       "catch_prob_max": 9500,
       "attr_enum_break_set": [
@@ -160806,10 +160806,10 @@
       "speed_upper_mag": 10000,
       "level_skill_id": 3737,
       "exp_award_fight_stage": [
-        150
+        160
       ],
       "exp_award_catch_stage": [
-        150
+        160
       ],
       "defeat_award": 970318,
       "mf_behavior_tree_fight": "MFBT_Battle_CommonMonster_Status_friend",
@@ -161927,7 +161927,7 @@
       "active_skill3": 41065603,
       "active_skill4": 41065604,
       "catch_difficulty": 10000,
-      "Catch_difficulty_OverThreshold": 2000,
+      "Catch_difficulty_OverThreshold": 1200,
       "Catch_difficulty_UnderThreshold": 800,
       "catch_prob_max": 9500,
       "attr_enum_break_set": [
@@ -161943,10 +161943,10 @@
       "speed_upper_mag": 10000,
       "level_skill_id": 3660,
       "exp_award_fight_stage": [
-        100
+        110
       ],
       "exp_award_catch_stage": [
-        100
+        110
       ],
       "defeat_award": 970203,
       "mf_behavior_tree_fight": "MFBT_BattleAI_Skill_PVE",
@@ -577497,5 +577497,6 @@
       "model_scale": 220,
       "monitor_data_version": 101
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

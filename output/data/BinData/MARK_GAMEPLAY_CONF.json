@@ -47,5 +47,6 @@
       "mark_cd_time": 60,
       "push_grid_amount_max_per_day": 100
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

@@ -95,7 +95,7 @@
         },
         {
             "id": 7080290,
-            "name": "减伤50%并脱离，应对攻击。",
+            "name": "落石",
             "icon_id": "107025",
             "move_type": {
                 "id": 6,
@@ -106,18 +106,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "减伤50%并脱离，应对攻击。",
-                    "description": "应对！遁地"
+                    "name": "落石",
+                    "description": "造成物伤，1连击。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 1,
             "power": 55,
-            "description": "应对！遁地"
+            "description": "造成物伤，1连击。"
         },
         {
             "id": 7080350,
-            "name": "地系部族会把敌人和秘密一同用沙土掩埋。",
+            "name": "震击",
             "icon_id": "107032",
             "move_type": {
                 "id": 6,
@@ -128,18 +128,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "地系部族会把敌人和秘密一同用沙土掩埋。",
-                    "description": "造成物伤，物防比敌方越高，本次技能威力越高。"
+                    "name": "震击",
+                    "description": "造成物伤，敌方获得连击数-3。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 3,
             "power": 80,
-            "description": "造成物伤，物防比敌方越高，本次技能威力越高。"
+            "description": "造成物伤，敌方获得连击数-3。"
         },
         {
             "id": 7080360,
-            "name": "地陷",
+            "name": "石肤术",
             "icon_id": "107033",
             "move_type": {
                 "id": 6,
@@ -150,14 +150,14 @@
             },
             "localized": {
                 "zh": {
-                    "name": "地陷",
-                    "description": "造成物伤，自己获得物防+70%，应对状态：本次技能威力翻倍，且物防额外+70%。"
+                    "name": "石肤术",
+                    "description": "自己获得物防+160%和魔防-60%。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 3,
             "power": null,
-            "description": "造成物伤，自己获得物防+70%，应对状态：本次技能威力翻倍，且物防额外+70%。"
+            "description": "自己获得物防+160%和魔防-60%。"
         },
         {
             "id": 7030480,
@@ -173,17 +173,17 @@
             "localized": {
                 "zh": {
                     "name": "筛管奔流",
-                    "description": "对敌方精灵造成物理伤害。"
+                    "description": "造成物伤，自己生命大于80%时，本次技能威力+75。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 3,
             "power": 80,
-            "description": "对敌方精灵造成物理伤害。"
+            "description": "造成物伤，自己生命大于80%时，本次技能威力+75。"
         },
         {
             "id": 7030510,
-            "name": "调配炼金药剂也讲究缘分，盐多加水，水多加盐。",
+            "name": "富养化",
             "icon_id": "202034",
             "move_type": {
                 "id": 2,
@@ -194,14 +194,14 @@
             },
             "localized": {
                 "zh": {
-                    "name": "调配炼金药剂也讲究缘分，盐多加水，水多加盐。",
-                    "description": "富养化"
+                    "name": "富养化",
+                    "description": "为场下每个精灵回复3能量。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 3,
             "power": null,
-            "description": "富养化"
+            "description": "为场下每个精灵回复3能量。"
         },
         {
             "id": 7030470,
@@ -217,13 +217,13 @@
             "localized": {
                 "zh": {
                     "name": "顶端优势",
-                    "description": "对敌方精灵造成魔法伤害。"
+                    "description": "对敌方精灵造成物理伤害。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 3,
             "power": 100,
-            "description": "对敌方精灵造成魔法伤害。"
+            "description": "对敌方精灵造成物理伤害。"
         },
         {
             "id": 7030280,
@@ -239,13 +239,13 @@
             "localized": {
                 "zh": {
                     "name": "丰饶",
-                    "description": "自己获得连击数+2，应对防御：额外造成打断，且敌方下回合获得眩晕。"
+                    "description": "自己获得物攻和魔攻+140%。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 3,
             "power": null,
-            "description": "自己获得连击数+2，应对防御：额外造成打断，且敌方下回合获得眩晕。"
+            "description": "自己获得物攻和魔攻+140%。"
         },
         {
             "id": 7020980,
@@ -271,7 +271,7 @@
         },
         {
             "id": 7030230,
-            "name": "只要能活下来，不论用什么手段……",
+            "name": "盛开",
             "icon_id": "102008",
             "move_type": {
                 "id": 2,
@@ -282,14 +282,14 @@
             },
             "localized": {
                 "zh": {
-                    "name": "只要能活下来，不论用什么手段……",
-                    "description": "盛开"
+                    "name": "盛开",
+                    "description": "自己获得全技能威力+30，应对防御：改为威力+60。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 1,
             "power": null,
-            "description": "盛开"
+            "description": "自己获得全技能威力+30，应对防御：改为威力+60。"
         },
         {
             "id": 7030450,
@@ -305,17 +305,17 @@
             "localized": {
                 "zh": {
                     "name": "孢子爆散",
-                    "description": "对敌方精灵造成魔法伤害。"
+                    "description": "造成物伤，1连击，每次使用后，本技能连击数永久+2。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 3,
             "power": 30,
-            "description": "对敌方精灵造成魔法伤害。"
+            "description": "造成物伤，1连击，每次使用后，本技能连击数永久+2。"
         },
         {
             "id": 7080130,
-            "name": "过山车",
+            "name": "地刺",
             "icon_id": "708002",
             "move_type": {
                 "id": 6,
@@ -326,14 +326,14 @@
             },
             "localized": {
                 "zh": {
-                    "name": "过山车",
-                    "description": "使己方队伍中的所有精灵携带的技能跨精灵向下移动1个位置，巧变：机械系技能。"
+                    "name": "地刺",
+                    "description": "造成物伤，应对状态：额外打断被应对技能。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 3,
             "power": 90,
-            "description": "使己方队伍中的所有精灵携带的技能跨精灵向下移动1个位置，巧变：机械系技能。"
+            "description": "造成物伤，应对状态：额外打断被应对技能。"
         },
         {
             "id": 7030530,
@@ -349,13 +349,13 @@
             "localized": {
                 "zh": {
                     "name": "抽枝",
-                    "description": "减伤80%，应对攻击：自己获得物防+70%。"
+                    "description": "造成物伤，应对状态：自己回复50%生命和5能量。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 4,
             "power": 90,
-            "description": "减伤80%，应对攻击：自己获得物防+70%。"
+            "description": "造成物伤，应对状态：自己回复50%生命和5能量。"
         }
     ],
     "move_stones": [
@@ -383,7 +383,7 @@
         },
         {
             "id": 7130270,
-            "name": "研究手记：茧不透光，只听到内里传出咀嚼声。",
+            "name": "尾后针",
             "icon_id": "112019",
             "move_type": {
                 "id": 11,
@@ -394,18 +394,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "研究手记：茧不透光，只听到内里传出咀嚼声。",
-                    "description": "自己回复20%生命，己方队伍获得1次奉献：获得10%吸血。"
+                    "name": "尾后针",
+                    "description": "对敌方精灵造成物理伤害。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 2,
             "power": 80,
-            "description": "自己回复20%生命，己方队伍获得1次奉献：获得10%吸血。"
+            "description": "对敌方精灵造成物理伤害。"
         },
         {
             "id": 7130150,
-            "name": "啊——阿嚏—— 没关系，喝下之后，就可以拥抱。",
+            "name": "虫击",
             "icon_id": "713001",
             "move_type": {
                 "id": 11,
@@ -416,18 +416,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "啊——阿嚏—— 没关系，喝下之后，就可以拥抱。",
-                    "description": "减伤70%，巧变：毒系状态技能，应对攻击。"
+                    "name": "虫击",
+                    "description": "造成物伤，应对状态：本次技能威力变为2倍，无视敌方系别抵抗。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 3,
             "power": 90,
-            "description": "减伤70%，巧变：毒系状态技能，应对攻击。"
+            "description": "造成物伤，应对状态：本次技能威力变为2倍，无视敌方系别抵抗。"
         },
         {
             "id": 7130200,
-            "name": "即使圣城坠毁，虫群也不会灭绝。",
+            "name": "虫群智慧",
             "icon_id": "212012",
             "move_type": {
                 "id": 11,
@@ -438,18 +438,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "即使圣城坠毁，虫群也不会灭绝。",
-                    "description": "虫网"
+                    "name": "虫群智慧",
+                    "description": "己方队伍获得2次随机奉献。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 3,
             "power": null,
-            "description": "虫网"
+            "description": "己方队伍获得2次随机奉献。"
         },
         {
             "id": 7180070,
-            "name": "勾魂",
+            "name": "魔爪",
             "icon_id": "718010",
             "move_type": {
                 "id": 16,
@@ -460,14 +460,14 @@
             },
             "localized": {
                 "zh": {
-                    "name": "勾魂",
-                    "description": "偷取敌方3能量。"
+                    "name": "魔爪",
+                    "description": "造成物伤，自己回复1能量。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 0,
             "power": 30,
-            "description": "偷取敌方3能量。"
+            "description": "造成物伤，自己回复1能量。"
         },
         {
             "id": 7020560,
@@ -603,7 +603,7 @@
         },
         {
             "id": 7080370,
-            "name": "应对！地陷",
+            "name": "钧势",
             "icon_id": "107034",
             "move_type": {
                 "id": 6,
@@ -614,18 +614,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "应对！地陷",
-                    "description": "造成物伤，自己获得物防+70%，应对状态：本次技能威力翻倍，且物防额外+70%。"
+                    "name": "钧势",
+                    "description": "自己获得物防+140%和速度-30。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 3,
             "power": null,
-            "description": "造成物伤，自己获得物防+70%，应对状态：本次技能威力翻倍，且物防额外+70%。"
+            "description": "自己获得物防+140%和速度-30。"
         },
         {
             "id": 7080340,
-            "name": "鸣沙陷阱",
+            "name": "岩脉崩毁",
             "icon_id": "107031",
             "move_type": {
                 "id": 6,
@@ -636,14 +636,14 @@
             },
             "localized": {
                 "zh": {
-                    "name": "鸣沙陷阱",
-                    "description": "对敌方精灵造成魔法伤害。"
+                    "name": "岩脉崩毁",
+                    "description": "造成物伤，本技能能耗固定为4。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 4,
             "power": 120,
-            "description": "对敌方精灵造成魔法伤害。"
+            "description": "造成物伤，本技能能耗固定为4。"
         }
     ],
     "legacy_moves": [
@@ -692,13 +692,13 @@
                 "localized": {
                     "zh": {
                         "name": "荆棘爪",
-                        "description": "造成物伤，自己回复1能量。"
+                        "description": "对敌方精灵造成物理伤害。"
                     }
                 },
                 "move_category": "Physical Attack",
                 "energy_cost": 2,
                 "power": 80,
-                "description": "造成物伤，自己回复1能量。"
+                "description": "对敌方精灵造成物理伤害。"
             }
         },
         {
@@ -719,13 +719,13 @@
                 "localized": {
                     "zh": {
                         "name": "火焰冲锋",
-                        "description": "造成物伤，若敌方本回合更换精灵，自己回复7点能量。"
+                        "description": "对敌方精灵造成物理伤害。"
                     }
                 },
                 "move_category": "Physical Attack",
                 "energy_cost": 1,
                 "power": 60,
-                "description": "造成物伤，若敌方本回合更换精灵，自己回复7点能量。"
+                "description": "对敌方精灵造成物理伤害。"
             }
         },
         {
@@ -734,7 +734,7 @@
             "move_id": 7050330,
             "move": {
                 "id": 7050330,
-                "name": "水弹",
+                "name": "泡沫",
                 "icon_id": "104022",
                 "move_type": {
                     "id": 4,
@@ -745,14 +745,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "水弹",
-                        "description": "对敌方精灵造成魔法伤害。"
+                        "name": "泡沫",
+                        "description": "对敌方精灵造成物理伤害。"
                     }
                 },
                 "move_category": "Physical Attack",
                 "energy_cost": 1,
                 "power": 60,
-                "description": "对敌方精灵造成魔法伤害。"
+                "description": "对敌方精灵造成物理伤害。"
             }
         },
         {
@@ -761,7 +761,7 @@
             "move_id": 7060230,
             "move": {
                 "id": 7060230,
-                "name": "天光",
+                "name": "透射",
                 "icon_id": "105015",
                 "move_type": {
                     "id": 5,
@@ -772,14 +772,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "天光",
-                        "description": "造成魔伤，本技能系别和天气系别相同。"
+                        "name": "透射",
+                        "description": "对敌方精灵造成物理伤害。"
                     }
                 },
                 "move_category": "Physical Attack",
                 "energy_cost": 1,
                 "power": 60,
-                "description": "造成魔伤，本技能系别和天气系别相同。"
+                "description": "对敌方精灵造成物理伤害。"
             }
         },
         {
@@ -788,7 +788,7 @@
             "move_id": 7080120,
             "move": {
                 "id": 7080120,
-                "name": "造成魔伤，自己每​受​到​一​次​抵抗​伤害，​本技​能​威力​永久​+20。",
+                "name": "跺地",
                 "icon_id": "708012",
                 "move_type": {
                     "id": 6,
@@ -799,14 +799,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "造成魔伤，自己每​受​到​一​次​抵抗​伤害，​本技​能​威力​永久​+20。",
-                        "description": "正在评估——【威胁等级】，嘀嗒，威胁等级评估为——【极高】，判断小洛克需要被保护，正在提高本技能威力。"
+                        "name": "跺地",
+                        "description": "对敌方精灵造成物理伤害。"
                     }
                 },
                 "move_category": "Physical Attack",
                 "energy_cost": 2,
                 "power": 80,
-                "description": "正在评估——【威胁等级】，嘀嗒，威胁等级评估为——【极高】，判断小洛克需要被保护，正在提高本技能威力。"
+                "description": "对敌方精灵造成物理伤害。"
             }
         },
         {
@@ -815,7 +815,7 @@
             "move_id": 7090250,
             "move": {
                 "id": 7090250,
-                "name": "冰墙",
+                "name": "冰爪",
                 "icon_id": "108020",
                 "move_type": {
                     "id": 7,
@@ -826,14 +826,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "冰墙",
-                        "description": "减伤80%，应对攻击：敌方获得2层冻结。"
+                        "name": "冰爪",
+                        "description": "对敌方精灵造成物理伤害。"
                     }
                 },
                 "move_category": "Physical Attack",
                 "energy_cost": 2,
                 "power": 80,
-                "description": "减伤80%，应对攻击：敌方获得2层冻结。"
+                "description": "对敌方精灵造成物理伤害。"
             }
         },
         {
@@ -842,7 +842,7 @@
             "move_id": 7100150,
             "move": {
                 "id": 7100150,
-                "name": "龙吼",
+                "name": "升龙咆哮",
                 "icon_id": "710004",
                 "move_type": {
                     "id": 8,
@@ -853,14 +853,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "龙吼",
-                        "description": "精灵蓄力中"
+                        "name": "升龙咆哮",
+                        "description": "蓄力，对敌方造成魔法伤害。"
                     }
                 },
                 "move_category": "Magic Attack",
                 "energy_cost": 3,
                 "power": 200,
-                "description": "精灵蓄力中"
+                "description": "蓄力，对敌方造成魔法伤害。"
             }
         },
         {
@@ -869,7 +869,7 @@
             "move_id": 7110300,
             "move": {
                 "id": 7110300,
-                "name": "应对！麻痹",
+                "name": "球状闪电",
                 "icon_id": "110015",
                 "move_type": {
                     "id": 9,
@@ -880,14 +880,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "应对！麻痹",
-                        "description": "敌方先手-1，应对防御：额外使敌方获得双攻-70%。"
+                        "name": "球状闪电",
+                        "description": "对敌方精灵造成物理伤害。"
                     }
                 },
                 "move_category": "Physical Attack",
                 "energy_cost": 1,
                 "power": 60,
-                "description": "敌方先手-1，应对防御：额外使敌方获得双攻-70%。"
+                "description": "对敌方精灵造成物理伤害。"
             }
         },
         {
@@ -896,7 +896,7 @@
             "move_id": 7120200,
             "move": {
                 "id": 7120200,
-                "name": "中毒之后，你能做的还有祈祷。",
+                "name": "毒沼",
                 "icon_id": "111017",
                 "move_type": {
                     "id": 10,
@@ -907,14 +907,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "中毒之后，你能做的还有祈祷。",
-                        "description": "应对！剧毒"
+                        "name": "毒沼",
+                        "description": "对敌方精灵造成物理伤害。"
                     }
                 },
                 "move_category": "Physical Attack",
                 "energy_cost": 2,
                 "power": 80,
-                "description": "应对！剧毒"
+                "description": "对敌方精灵造成物理伤害。"
             }
         },
         {
@@ -923,7 +923,7 @@
             "move_id": 7130260,
             "move": {
                 "id": 7130260,
-                "name": "研究手记：我在巢中坠入无光之梦，听见黑暗深处传来虫群的轰鸣。",
+                "name": "噬心",
                 "icon_id": "112018",
                 "move_type": {
                     "id": 11,
@@ -934,14 +934,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "研究手记：我在巢中坠入无光之梦，听见黑暗深处传来虫群的轰鸣。",
-                        "description": "虫茧"
+                        "name": "噬心",
+                        "description": "对敌方精灵造成物理伤害。"
                     }
                 },
                 "move_category": "Physical Attack",
                 "energy_cost": 1,
                 "power": 60,
-                "description": "虫茧"
+                "description": "对敌方精灵造成物理伤害。"
             }
         },
         {
@@ -950,7 +950,7 @@
             "move_id": 7140230,
             "move": {
                 "id": 7140230,
-                "name": "硬门",
+                "name": "缠丝劲",
                 "icon_id": "113027",
                 "move_type": {
                     "id": 12,
@@ -961,14 +961,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "硬门",
-                        "description": "应对攻击：打断被应对技能，并造成90威力物伤。"
+                        "name": "缠丝劲",
+                        "description": "造成物伤，2连击。"
                     }
                 },
                 "move_category": "Physical Attack",
                 "energy_cost": 1,
                 "power": 25,
-                "description": "应对攻击：打断被应对技能，并造成90威力物伤。"
+                "description": "造成物伤，2连击。"
             }
         },
         {
@@ -977,7 +977,7 @@
             "move_id": 7150210,
             "move": {
                 "id": 7150210,
-                "name": "暴风眼",
+                "name": "风矢",
                 "icon_id": "114016",
                 "move_type": {
                     "id": 13,
@@ -988,14 +988,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "暴风眼",
-                        "description": "获得连击数+100%。"
+                        "name": "风矢",
+                        "description": "对敌方精灵造成物理伤害。"
                     }
                 },
                 "move_category": "Physical Attack",
                 "energy_cost": 2,
                 "power": 80,
-                "description": "获得连击数+100%。"
+                "description": "对敌方精灵造成物理伤害。"
             }
         },
         {
@@ -1004,7 +1004,7 @@
             "move_id": 7160240,
             "move": {
                 "id": 7160240,
-                "name": "生日蛋糕",
+                "name": "碰爪",
                 "icon_id": "115012",
                 "move_type": {
                     "id": 14,
@@ -1015,14 +1015,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "生日蛋糕",
-                        "description": "驱散自己的减益，自己的增益翻倍。"
+                        "name": "碰爪",
+                        "description": "对敌方精灵造成物理伤害。"
                     }
                 },
                 "move_category": "Physical Attack",
                 "energy_cost": 1,
                 "power": 60,
-                "description": "驱散自己的减益，自己的增益翻倍。"
+                "description": "对敌方精灵造成物理伤害。"
             }
         },
         {
@@ -1031,7 +1031,7 @@
             "move_id": 7170220,
             "move": {
                 "id": 7170220,
-                "name": "为报答学长的照顾，今天在他的炼金药剂里面加了一些汽水儿。",
+                "name": "灵媒",
                 "icon_id": "116016",
                 "move_type": {
                     "id": 15,
@@ -1042,14 +1042,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "为报答学长的照顾，今天在他的炼金药剂里面加了一些汽水儿。",
-                        "description": "减伤70%，应对攻击：敌方失去3能量。"
+                        "name": "灵媒",
+                        "description": "对敌方精灵造成魔法伤害。"
                     }
                 },
                 "move_category": "Magic Attack",
                 "energy_cost": 3,
                 "power": 100,
-                "description": "减伤70%，应对攻击：敌方失去3能量。"
+                "description": "对敌方精灵造成魔法伤害。"
             }
         },
         {
@@ -1058,7 +1058,7 @@
             "move_id": 7180080,
             "move": {
                 "id": 7180080,
-                "name": "真的有鬼，月圆夜的时候，魔法学院2楼厕所的卫生纸会全部消失，太可怕了。",
+                "name": "恶能量",
                 "icon_id": "718013",
                 "move_type": {
                     "id": 16,
@@ -1069,14 +1069,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "真的有鬼，月圆夜的时候，魔法学院2楼厕所的卫生纸会全部消失，太可怕了。",
-                        "description": "虚化"
+                        "name": "恶能量",
+                        "description": "对敌方精灵造成物理伤害。"
                     }
                 },
                 "move_category": "Physical Attack",
                 "energy_cost": 1,
                 "power": 60,
-                "description": "虚化"
+                "description": "对敌方精灵造成物理伤害。"
             }
         },
         {
@@ -1085,7 +1085,7 @@
             "move_id": 7070010,
             "move": {
                 "id": 7070010,
-                "name": "S3流明坎德拉B",
+                "name": "械斗",
                 "icon_id": "720001",
                 "move_type": {
                     "id": 17,
@@ -1096,14 +1096,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "S3流明坎德拉B",
-                        "description": "色散"
+                        "name": "械斗",
+                        "description": "造成物伤，本技能位于1号位时威力+60，传动1。"
                     }
                 },
                 "move_category": "Physical Attack",
                 "energy_cost": 1,
                 "power": 45,
-                "description": "色散"
+                "description": "造成物伤，本技能位于1号位时威力+60，传动1。"
             }
         },
         {
@@ -1112,7 +1112,7 @@
             "move_id": 7190360,
             "move": {
                 "id": 7190360,
-                "name": "超维投射",
+                "name": "星云漩涡",
                 "icon_id": "118018",
                 "move_type": {
                     "id": 18,
@@ -1123,14 +1123,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "超维投射",
-                        "description": "敌方获得4层星陨印记。"
+                        "name": "星云漩涡",
+                        "description": "对敌方精灵造成物理伤害。"
                     }
                 },
                 "move_category": "Physical Attack",
                 "energy_cost": 1,
                 "power": 60,
-                "description": "敌方获得4层星陨印记。"
+                "description": "对敌方精灵造成物理伤害。"
             }
         }
     ],
@@ -1428,10 +1428,10 @@
         "catch_ball_level": 1
     },
     "breeding": {
-        "id": 3289001,
-        "pet_id": 3289001,
-        "name": "秋天的样子",
-        "model_id": 3289001,
+        "id": 3040001,
+        "pet_id": 3040001,
+        "name": "丢丢",
+        "model_id": 3040001,
         "hatch_data": 28800,
         "weight_low": 1505,
         "weight_high": 2440,
@@ -1450,9 +1450,53 @@
         "is_contact_add_shining_prob": null,
         "variants": [
             {
+                "id": 3040001,
+                "pet_id": 3040001,
+                "name": "丢丢",
+                "model_id": 3040001,
+                "hatch_data": 28800,
+                "weight_low": 1505,
+                "weight_high": 2440,
+                "height_low": 15,
+                "height_high": 21,
+                "precious_egg_type": null,
+                "egg_base_glass_prob_array": [
+                    531,
+                    500
+                ],
+                "egg_add_glass_prob_array": [
+                    0,
+                    24
+                ],
+                "is_contact_add_glass_prob": true,
+                "is_contact_add_shining_prob": null
+            },
+            {
+                "id": 3288001,
+                "pet_id": 3288001,
+                "name": "丢丢",
+                "model_id": 3288001,
+                "hatch_data": 28800,
+                "weight_low": 1505,
+                "weight_high": 2440,
+                "height_low": 15,
+                "height_high": 21,
+                "precious_egg_type": null,
+                "egg_base_glass_prob_array": [
+                    531,
+                    500
+                ],
+                "egg_add_glass_prob_array": [
+                    0,
+                    24
+                ],
+                "is_contact_add_glass_prob": true,
+                "is_contact_add_shining_prob": null
+            },
+            {
                 "id": 3289001,
                 "pet_id": 3289001,
-                "name": "秋天的样子",
+                "name": "丢丢",
                 "model_id": 3289001,
                 "hatch_data": 28800,
                 "weight_low": 1505,
@@ -1472,15 +1516,53 @@
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 30750001,
-                "pet_id": 30750001,
+                "id": 3290001,
+                "pet_id": 3290001,
                 "name": "丢丢",
-                "model_id": 3075001,
+                "model_id": 3290001,
+                "hatch_data": 28800,
+                "weight_low": 1505,
+                "weight_high": 2440,
+                "height_low": 15,
+                "height_high": 21,
+                "precious_egg_type": null,
+                "egg_base_glass_prob_array": [
+                    531,
+                    500
+                ],
+                "egg_add_glass_prob_array": [
+                    0,
+                    24
+                ],
+                "is_contact_add_glass_prob": true,
+                "is_contact_add_shining_prob": null
+            },
+            {
+                "id": 30400001,
+                "pet_id": 30400001,
+                "name": "丢丢",
+                "model_id": 3040001,
                 "hatch_data": 300,
-                "weight_low": 2590,
-                "weight_high": 3560,
-                "height_low": 24,
-                "height_high": 33,
+                "weight_low": 1505,
+                "weight_high": 2440,
+                "height_low": 15,
+                "height_high": 21,
+                "precious_egg_type": 7,
+                "egg_base_glass_prob_array": null,
+                "egg_add_glass_prob_array": null,
+                "is_contact_add_glass_prob": null,
+                "is_contact_add_shining_prob": null
+            },
+            {
+                "id": 32880001,
+                "pet_id": 32880001,
+                "name": "丢丢",
+                "model_id": 3288001,
+                "hatch_data": 300,
+                "weight_low": 1505,
+                "weight_high": 2440,
+                "height_low": 15,
+                "height_high": 21,
                 "precious_egg_type": 7,
                 "egg_base_glass_prob_array": null,
                 "egg_add_glass_prob_array": null,
@@ -1490,7 +1572,7 @@
             {
                 "id": 32890001,
                 "pet_id": 32890001,
-                "name": "奔波鼠",
+                "name": "丢丢",
                 "model_id": 3289001,
                 "hatch_data": 300,
                 "weight_low": 1505,
@@ -1504,14 +1586,14 @@
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 33190001,
-                "pet_id": 33190001,
+                "id": 32900001,
+                "pet_id": 32900001,
                 "name": "丢丢",
-                "model_id": 3319001,
+                "model_id": 3290001,
                 "hatch_data": 300,
-                "weight_low": 3430,
-                "weight_high": 5120,
-                "height_low": 17,
+                "weight_low": 1505,
+                "weight_high": 2440,
+                "height_low": 15,
                 "height_high": 21,
                 "precious_egg_type": 7,
                 "egg_base_glass_prob_array": null,
@@ -1520,41 +1602,31 @@
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 33300001,
-                "pet_id": 33300001,
+                "id": 91000063,
+                "pet_id": 91000063,
                 "name": "丢丢",
-                "model_id": 3330001,
-                "hatch_data": 300,
-                "weight_low": 2590,
-                "weight_high": 3440,
-                "height_low": 23,
-                "height_high": 29,
-                "precious_egg_type": 7,
-                "egg_base_glass_prob_array": null,
-                "egg_add_glass_prob_array": null,
-                "is_contact_add_glass_prob": null,
-                "is_contact_add_shining_prob": null
-            },
-            {
-                "id": 33440001,
-                "pet_id": 33440001,
-                "name": "丢丢",
-                "model_id": 3344001,
-                "hatch_data": 300,
-                "weight_low": 1470,
-                "weight_high": 2200,
-                "height_low": 20,
-                "height_high": 28,
-                "precious_egg_type": 7,
-                "egg_base_glass_prob_array": null,
-                "egg_add_glass_prob_array": null,
-                "is_contact_add_glass_prob": null,
+                "model_id": 3040001,
+                "hatch_data": 28800,
+                "weight_low": 1505,
+                "weight_high": 2440,
+                "height_low": 15,
+                "height_high": 21,
+                "precious_egg_type": null,
+                "egg_base_glass_prob_array": [
+                    531,
+                    500
+                ],
+                "egg_add_glass_prob_array": [
+                    0,
+                    24
+                ],
+                "is_contact_add_glass_prob": true,
                 "is_contact_add_shining_prob": null
             },
             {
                 "id": 91000064,
                 "pet_id": 91000064,
-                "name": "小星光",
+                "name": "丢丢",
                 "model_id": 3289001,
                 "hatch_data": 28800,
                 "weight_low": 1505,
@@ -1574,15 +1646,15 @@
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 91000073,
-                "pet_id": 91000073,
+                "id": 91000065,
+                "pet_id": 91000065,
                 "name": "丢丢",
-                "model_id": 3098001,
+                "model_id": 3290001,
                 "hatch_data": 28800,
-                "weight_low": 1225,
-                "weight_high": 2400,
-                "height_low": 20,
-                "height_high": 28,
+                "weight_low": 1505,
+                "weight_high": 2440,
+                "height_low": 15,
+                "height_high": 21,
                 "precious_egg_type": null,
                 "egg_base_glass_prob_array": [
                     531,
@@ -1596,53 +1668,25 @@
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 91000075,
-                "pet_id": 91000075,
+                "id": 92000063,
+                "pet_id": 92000063,
                 "name": "丢丢",
-                "model_id": 3103001,
-                "hatch_data": 57600,
-                "weight_low": 6475,
-                "weight_high": 13000,
-                "height_low": 18,
-                "height_high": 25,
-                "precious_egg_type": null,
-                "egg_base_glass_prob_array": [
-                    395,
-                    2000
-                ],
-                "egg_add_glass_prob_array": [
-                    1,
-                    80
-                ],
-                "is_contact_add_glass_prob": true,
-                "is_contact_add_shining_prob": null
-            },
-            {
-                "id": 91000077,
-                "pet_id": 91000077,
-                "name": "丢丢",
-                "model_id": 3050001,
-                "hatch_data": 72000,
-                "weight_low": 31570,
-                "weight_high": 44800,
-                "height_low": 41,
-                "height_high": 58,
-                "precious_egg_type": null,
-                "egg_base_glass_prob_array": [
-                    400,
-                    3125
-                ],
-                "egg_add_glass_prob_array": [
-                    2,
-                    113
-                ],
-                "is_contact_add_glass_prob": true,
+                "model_id": 3040001,
+                "hatch_data": 28800,
+                "weight_low": 1505,
+                "weight_high": 2440,
+                "height_low": 15,
+                "height_high": 21,
+                "precious_egg_type": 1,
+                "egg_base_glass_prob_array": null,
+                "egg_add_glass_prob_array": null,
+                "is_contact_add_glass_prob": null,
                 "is_contact_add_shining_prob": null
             },
             {
                 "id": 92000064,
                 "pet_id": 92000064,
-                "name": "小星光",
+                "name": "丢丢",
                 "model_id": 3289001,
                 "hatch_data": 28800,
                 "weight_low": 1505,
@@ -1656,15 +1700,15 @@
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 92000073,
-                "pet_id": 92000073,
+                "id": 92000065,
+                "pet_id": 92000065,
                 "name": "丢丢",
-                "model_id": 3098001,
+                "model_id": 3290001,
                 "hatch_data": 28800,
-                "weight_low": 1225,
-                "weight_high": 2400,
-                "height_low": 20,
-                "height_high": 28,
+                "weight_low": 1505,
+                "weight_high": 2440,
+                "height_low": 15,
+                "height_high": 21,
                 "precious_egg_type": 1,
                 "egg_base_glass_prob_array": null,
                 "egg_add_glass_prob_array": null,
@@ -1672,31 +1716,15 @@
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 92000075,
-                "pet_id": 92000075,
+                "id": 93000063,
+                "pet_id": 93000063,
                 "name": "丢丢",
-                "model_id": 3103001,
-                "hatch_data": 57600,
-                "weight_low": 6475,
-                "weight_high": 13000,
-                "height_low": 18,
-                "height_high": 25,
-                "precious_egg_type": 1,
-                "egg_base_glass_prob_array": null,
-                "egg_add_glass_prob_array": null,
-                "is_contact_add_glass_prob": null,
-                "is_contact_add_shining_prob": null
-            },
-            {
-                "id": 92000077,
-                "pet_id": 92000077,
-                "name": "丢丢",
-                "model_id": 3050001,
-                "hatch_data": 72000,
-                "weight_low": 31570,
-                "weight_high": 44800,
-                "height_low": 41,
-                "height_high": 58,
+                "model_id": 3040001,
+                "hatch_data": 28800,
+                "weight_low": 1505,
+                "weight_high": 2440,
+                "height_low": 15,
+                "height_high": 21,
                 "precious_egg_type": 1,
                 "egg_base_glass_prob_array": null,
                 "egg_add_glass_prob_array": null,
@@ -1706,7 +1734,7 @@
             {
                 "id": 93000064,
                 "pet_id": 93000064,
-                "name": "小星光",
+                "name": "丢丢",
                 "model_id": 3289001,
                 "hatch_data": 28800,
                 "weight_low": 1505,
@@ -1720,15 +1748,15 @@
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 93000073,
-                "pet_id": 93000073,
+                "id": 93000065,
+                "pet_id": 93000065,
                 "name": "丢丢",
-                "model_id": 3098001,
+                "model_id": 3290001,
                 "hatch_data": 28800,
-                "weight_low": 1225,
-                "weight_high": 2400,
-                "height_low": 20,
-                "height_high": 28,
+                "weight_low": 1505,
+                "weight_high": 2440,
+                "height_low": 15,
+                "height_high": 21,
                 "precious_egg_type": 1,
                 "egg_base_glass_prob_array": null,
                 "egg_add_glass_prob_array": null,
@@ -1736,31 +1764,15 @@
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 93000075,
-                "pet_id": 93000075,
+                "id": 94000063,
+                "pet_id": 94000063,
                 "name": "丢丢",
-                "model_id": 3103001,
-                "hatch_data": 57600,
-                "weight_low": 6475,
-                "weight_high": 13000,
-                "height_low": 18,
-                "height_high": 25,
-                "precious_egg_type": 1,
-                "egg_base_glass_prob_array": null,
-                "egg_add_glass_prob_array": null,
-                "is_contact_add_glass_prob": null,
-                "is_contact_add_shining_prob": null
-            },
-            {
-                "id": 93000077,
-                "pet_id": 93000077,
-                "name": "丢丢",
-                "model_id": 3050001,
-                "hatch_data": 72000,
-                "weight_low": 31570,
-                "weight_high": 44800,
-                "height_low": 41,
-                "height_high": 58,
+                "model_id": 3040001,
+                "hatch_data": 28800,
+                "weight_low": 1505,
+                "weight_high": 2440,
+                "height_low": 15,
+                "height_high": 21,
                 "precious_egg_type": 1,
                 "egg_base_glass_prob_array": null,
                 "egg_add_glass_prob_array": null,
@@ -1770,7 +1782,7 @@
             {
                 "id": 94000064,
                 "pet_id": 94000064,
-                "name": "小星光",
+                "name": "丢丢",
                 "model_id": 3289001,
                 "hatch_data": 28800,
                 "weight_low": 1505,
@@ -1784,15 +1796,15 @@
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 94000073,
-                "pet_id": 94000073,
+                "id": 94000065,
+                "pet_id": 94000065,
                 "name": "丢丢",
-                "model_id": 3098001,
+                "model_id": 3290001,
                 "hatch_data": 28800,
-                "weight_low": 1225,
-                "weight_high": 2400,
-                "height_low": 20,
-                "height_high": 28,
+                "weight_low": 1505,
+                "weight_high": 2440,
+                "height_low": 15,
+                "height_high": 21,
                 "precious_egg_type": 1,
                 "egg_base_glass_prob_array": null,
                 "egg_add_glass_prob_array": null,
@@ -1800,47 +1812,15 @@
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 94000075,
-                "pet_id": 94000075,
+                "id": 95000006,
+                "pet_id": 95000006,
                 "name": "丢丢",
-                "model_id": 3103001,
-                "hatch_data": 57600,
-                "weight_low": 6475,
-                "weight_high": 13000,
-                "height_low": 18,
-                "height_high": 25,
-                "precious_egg_type": 1,
-                "egg_base_glass_prob_array": null,
-                "egg_add_glass_prob_array": null,
-                "is_contact_add_glass_prob": null,
-                "is_contact_add_shining_prob": null
-            },
-            {
-                "id": 94000077,
-                "pet_id": 94000077,
-                "name": "丢丢",
-                "model_id": 3050001,
-                "hatch_data": 72000,
-                "weight_low": 31570,
-                "weight_high": 44800,
-                "height_low": 41,
-                "height_high": 58,
-                "precious_egg_type": 1,
-                "egg_base_glass_prob_array": null,
-                "egg_add_glass_prob_array": null,
-                "is_contact_add_glass_prob": null,
-                "is_contact_add_shining_prob": null
-            },
-            {
-                "id": 95000021,
-                "pet_id": 95000021,
-                "name": "丢丢",
-                "model_id": 3178001,
+                "model_id": 3040001,
                 "hatch_data": 28800,
-                "weight_low": 1155,
-                "weight_high": 1680,
-                "height_low": 12,
-                "height_high": 18,
+                "weight_low": 1505,
+                "weight_high": 2440,
+                "height_low": 15,
+                "height_high": 21,
                 "precious_egg_type": 1,
                 "egg_base_glass_prob_array": [
                     531,
@@ -1856,7 +1836,7 @@
             {
                 "id": 95000034,
                 "pet_id": 95000034,
-                "name": "矮脚爬爬",
+                "name": "丢丢",
                 "model_id": 3289001,
                 "hatch_data": 28800,
                 "weight_low": 1505,
@@ -1876,15 +1856,15 @@
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 95000044,
-                "pet_id": 95000044,
+                "id": 95000035,
+                "pet_id": 95000035,
                 "name": "丢丢",
-                "model_id": 3484001,
+                "model_id": 3290001,
                 "hatch_data": 28800,
-                "weight_low": 728,
-                "weight_high": 1740,
+                "weight_low": 1505,
+                "weight_high": 2440,
                 "height_low": 15,
-                "height_high": 19,
+                "height_high": 21,
                 "precious_egg_type": 1,
                 "egg_base_glass_prob_array": [
                     531,
@@ -1898,31 +1878,25 @@
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 95000046,
-                "pet_id": 95000046,
+                "id": 96000063,
+                "pet_id": 96000063,
                 "name": "丢丢",
-                "model_id": 3508001,
-                "hatch_data": 57600,
-                "weight_low": 1698,
-                "weight_high": 2260,
-                "height_low": 14,
-                "height_high": 17,
+                "model_id": 3040001,
+                "hatch_data": 28800,
+                "weight_low": 1505,
+                "weight_high": 2440,
+                "height_low": 15,
+                "height_high": 21,
                 "precious_egg_type": 1,
-                "egg_base_glass_prob_array": [
-                    395,
-                    2000
-                ],
-                "egg_add_glass_prob_array": [
-                    1,
-                    80
-                ],
-                "is_contact_add_glass_prob": true,
+                "egg_base_glass_prob_array": null,
+                "egg_add_glass_prob_array": null,
+                "is_contact_add_glass_prob": null,
                 "is_contact_add_shining_prob": null
             },
             {
                 "id": 96000064,
                 "pet_id": 96000064,
-                "name": "小星光",
+                "name": "丢丢",
                 "model_id": 3289001,
                 "hatch_data": 28800,
                 "weight_low": 1505,
@@ -1936,15 +1910,15 @@
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 96000073,
-                "pet_id": 96000073,
+                "id": 96000065,
+                "pet_id": 96000065,
                 "name": "丢丢",
-                "model_id": 3098001,
+                "model_id": 3290001,
                 "hatch_data": 28800,
-                "weight_low": 1225,
-                "weight_high": 2400,
-                "height_low": 20,
-                "height_high": 28,
+                "weight_low": 1505,
+                "weight_high": 2440,
+                "height_low": 15,
+                "height_high": 21,
                 "precious_egg_type": 1,
                 "egg_base_glass_prob_array": null,
                 "egg_add_glass_prob_array": null,
@@ -1952,31 +1926,15 @@
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 96000075,
-                "pet_id": 96000075,
+                "id": 97000063,
+                "pet_id": 97000063,
                 "name": "丢丢",
-                "model_id": 3103001,
-                "hatch_data": 57600,
-                "weight_low": 6475,
-                "weight_high": 13000,
-                "height_low": 18,
-                "height_high": 25,
-                "precious_egg_type": 1,
-                "egg_base_glass_prob_array": null,
-                "egg_add_glass_prob_array": null,
-                "is_contact_add_glass_prob": null,
-                "is_contact_add_shining_prob": null
-            },
-            {
-                "id": 96000077,
-                "pet_id": 96000077,
-                "name": "丢丢",
-                "model_id": 3050001,
-                "hatch_data": 72000,
-                "weight_low": 31570,
-                "weight_high": 44800,
-                "height_low": 41,
-                "height_high": 58,
+                "model_id": 3040001,
+                "hatch_data": 28800,
+                "weight_low": 1505,
+                "weight_high": 2440,
+                "height_low": 15,
+                "height_high": 21,
                 "precious_egg_type": 1,
                 "egg_base_glass_prob_array": null,
                 "egg_add_glass_prob_array": null,
@@ -1986,7 +1944,7 @@
             {
                 "id": 97000064,
                 "pet_id": 97000064,
-                "name": "小星光",
+                "name": "丢丢",
                 "model_id": 3289001,
                 "hatch_data": 28800,
                 "weight_low": 1505,
@@ -2000,15 +1958,15 @@
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 97000073,
-                "pet_id": 97000073,
+                "id": 97000065,
+                "pet_id": 97000065,
                 "name": "丢丢",
-                "model_id": 3098001,
+                "model_id": 3290001,
                 "hatch_data": 28800,
-                "weight_low": 1225,
-                "weight_high": 2400,
-                "height_low": 20,
-                "height_high": 28,
+                "weight_low": 1505,
+                "weight_high": 2440,
+                "height_low": 15,
+                "height_high": 21,
                 "precious_egg_type": 1,
                 "egg_base_glass_prob_array": null,
                 "egg_add_glass_prob_array": null,
@@ -2016,31 +1974,15 @@
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 97000075,
-                "pet_id": 97000075,
+                "id": 98000063,
+                "pet_id": 98000063,
                 "name": "丢丢",
-                "model_id": 3103001,
-                "hatch_data": 57600,
-                "weight_low": 6475,
-                "weight_high": 13000,
-                "height_low": 18,
-                "height_high": 25,
-                "precious_egg_type": 1,
-                "egg_base_glass_prob_array": null,
-                "egg_add_glass_prob_array": null,
-                "is_contact_add_glass_prob": null,
-                "is_contact_add_shining_prob": null
-            },
-            {
-                "id": 97000077,
-                "pet_id": 97000077,
-                "name": "丢丢",
-                "model_id": 3050001,
-                "hatch_data": 72000,
-                "weight_low": 31570,
-                "weight_high": 44800,
-                "height_low": 41,
-                "height_high": 58,
+                "model_id": 3040001,
+                "hatch_data": 28800,
+                "weight_low": 1505,
+                "weight_high": 2440,
+                "height_low": 15,
+                "height_high": 21,
                 "precious_egg_type": 1,
                 "egg_base_glass_prob_array": null,
                 "egg_add_glass_prob_array": null,
@@ -2050,7 +1992,7 @@
             {
                 "id": 98000064,
                 "pet_id": 98000064,
-                "name": "小星光",
+                "name": "丢丢",
                 "model_id": 3289001,
                 "hatch_data": 28800,
                 "weight_low": 1505,
@@ -2064,15 +2006,15 @@
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 98000073,
-                "pet_id": 98000073,
+                "id": 98000065,
+                "pet_id": 98000065,
                 "name": "丢丢",
-                "model_id": 3098001,
+                "model_id": 3290001,
                 "hatch_data": 28800,
-                "weight_low": 1225,
-                "weight_high": 2400,
-                "height_low": 20,
-                "height_high": 28,
+                "weight_low": 1505,
+                "weight_high": 2440,
+                "height_low": 15,
+                "height_high": 21,
                 "precious_egg_type": 1,
                 "egg_base_glass_prob_array": null,
                 "egg_add_glass_prob_array": null,
@@ -2080,47 +2022,15 @@
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 98000075,
-                "pet_id": 98000075,
+                "id": 99000006,
+                "pet_id": 99000006,
                 "name": "丢丢",
-                "model_id": 3103001,
-                "hatch_data": 57600,
-                "weight_low": 6475,
-                "weight_high": 13000,
-                "height_low": 18,
-                "height_high": 25,
-                "precious_egg_type": 1,
-                "egg_base_glass_prob_array": null,
-                "egg_add_glass_prob_array": null,
-                "is_contact_add_glass_prob": null,
-                "is_contact_add_shining_prob": null
-            },
-            {
-                "id": 98000077,
-                "pet_id": 98000077,
-                "name": "丢丢",
-                "model_id": 3050001,
-                "hatch_data": 72000,
-                "weight_low": 31570,
-                "weight_high": 44800,
-                "height_low": 41,
-                "height_high": 58,
-                "precious_egg_type": 1,
-                "egg_base_glass_prob_array": null,
-                "egg_add_glass_prob_array": null,
-                "is_contact_add_glass_prob": null,
-                "is_contact_add_shining_prob": null
-            },
-            {
-                "id": 99000021,
-                "pet_id": 99000021,
-                "name": "丢丢",
-                "model_id": 3178001,
+                "model_id": 3040001,
                 "hatch_data": 28800,
-                "weight_low": 1155,
-                "weight_high": 1680,
-                "height_low": 12,
-                "height_high": 18,
+                "weight_low": 1505,
+                "weight_high": 2440,
+                "height_low": 15,
+                "height_high": 21,
                 "precious_egg_type": 1,
                 "egg_base_glass_prob_array": [
                     531,
@@ -2136,7 +2046,7 @@
             {
                 "id": 99000034,
                 "pet_id": 99000034,
-                "name": "矮脚爬爬",
+                "name": "丢丢",
                 "model_id": 3289001,
                 "hatch_data": 28800,
                 "weight_low": 1505,
@@ -2156,15 +2066,15 @@
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 99000044,
-                "pet_id": 99000044,
+                "id": 99000035,
+                "pet_id": 99000035,
                 "name": "丢丢",
-                "model_id": 3484001,
+                "model_id": 3290001,
                 "hatch_data": 28800,
-                "weight_low": 728,
-                "weight_high": 1740,
+                "weight_low": 1505,
+                "weight_high": 2440,
                 "height_low": 15,
-                "height_high": 19,
+                "height_high": 21,
                 "precious_egg_type": 1,
                 "egg_base_glass_prob_array": [
                     531,
@@ -2178,37 +2088,15 @@
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 99000046,
-                "pet_id": 99000046,
+                "id": 99000112,
+                "pet_id": 99000112,
                 "name": "丢丢",
-                "model_id": 3508001,
-                "hatch_data": 57600,
-                "weight_low": 1698,
-                "weight_high": 2260,
-                "height_low": 14,
-                "height_high": 17,
-                "precious_egg_type": 1,
-                "egg_base_glass_prob_array": [
-                    395,
-                    2000
-                ],
-                "egg_add_glass_prob_array": [
-                    1,
-                    80
-                ],
-                "is_contact_add_glass_prob": true,
-                "is_contact_add_shining_prob": null
-            },
-            {
-                "id": 99000128,
-                "pet_id": 99000128,
-                "name": "丢丢",
-                "model_id": 3382001,
+                "model_id": 3040001,
                 "hatch_data": 72000,
-                "weight_low": 5215,
-                "weight_high": 7120,
-                "height_low": 21,
-                "height_high": 30,
+                "weight_low": 1505,
+                "weight_high": 2440,
+                "height_low": 15,
+                "height_high": 21,
                 "precious_egg_type": 4,
                 "egg_base_glass_prob_array": null,
                 "egg_add_glass_prob_array": null,

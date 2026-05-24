@@ -499,5 +499,6 @@
       "icon": "PaperSprite'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/Combat/Frames/img_emengtian2_png.img_emengtian2_png'",
       "show_icon": "PaperSprite'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/Combat/Frames/img_emengtian_png.img_emengtian_png'"
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

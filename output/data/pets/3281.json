@@ -89,7 +89,7 @@
         },
         {
             "id": 7150050,
-            "name": "应对！防御反击",
+            "name": "啄击",
             "icon_id": "715001",
             "move_type": {
                 "id": 13,
@@ -100,14 +100,14 @@
             },
             "localized": {
                 "zh": {
-                    "name": "应对！防御反击",
-                    "description": "减伤80%，应对攻击：自己获得全技能威力+40。"
+                    "name": "啄击",
+                    "description": "造成物伤，2连击。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 0,
             "power": 15,
-            "description": "减伤80%，应对攻击：自己获得全技能威力+40。"
+            "description": "造成物伤，2连击。"
         },
         {
             "id": 7020970,
@@ -133,7 +133,7 @@
         },
         {
             "id": 7150120,
-            "name": "S3稻草守护者B",
+            "name": "乘风",
             "icon_id": "715009",
             "move_type": {
                 "id": 13,
@@ -144,14 +144,14 @@
             },
             "localized": {
                 "zh": {
-                    "name": "S3稻草守护者B",
-                    "description": "回旋踢"
+                    "name": "乘风",
+                    "description": "自己获得速度+120。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 2,
             "power": null,
-            "description": "回旋踢"
+            "description": "自己获得速度+120。"
         },
         {
             "id": 7020780,
@@ -177,7 +177,7 @@
         },
         {
             "id": 7150060,
-            "name": "对战课的某个老师，认为精灵对战中存在一种流体力学，感受空气中魔法的流动，能预测和防御对手的招式。",
+            "name": "扇风",
             "icon_id": "715002",
             "move_type": {
                 "id": 13,
@@ -188,18 +188,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "对战课的某个老师，认为精灵对战中存在一种流体力学，感受空气中魔法的流动，能预测和防御对手的招式。",
-                    "description": "武1"
+                    "name": "扇风",
+                    "description": "造成物伤，若先于敌方攻击，本次技能威力+50%。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 3,
             "power": 75,
-            "description": "武1"
+            "description": "造成物伤，若先于敌方攻击，本次技能威力+50%。"
         },
         {
             "id": 7150300,
-            "name": "风矢",
+            "name": "羽化加速",
             "icon_id": "114025",
             "move_type": {
                 "id": 13,
@@ -210,18 +210,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "风矢",
-                    "description": "造成物伤，应对状态：回合结束使敌方紧急脱离。"
+                    "name": "羽化加速",
+                    "description": "自己获得全技能威力+20，迅捷。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 2,
             "power": null,
-            "description": "造成物伤，应对状态：回合结束使敌方紧急脱离。"
+            "description": "自己获得全技能威力+20，迅捷。"
         },
         {
             "id": 7150250,
-            "name": "疾风涡轮",
+            "name": "闪击",
             "icon_id": "114020",
             "move_type": {
                 "id": 13,
@@ -232,18 +232,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "疾风涡轮",
-                    "description": "减伤50%，迅捷，应对攻击。"
+                    "name": "闪击",
+                    "description": "造成物伤，速度比敌方越高，本次技能威力越高。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 4,
             "power": 60,
-            "description": "减伤50%，迅捷，应对攻击。"
+            "description": "造成物伤，速度比敌方越高，本次技能威力越高。"
         },
         {
             "id": 7150130,
-            "name": "啄击",
+            "name": "风起",
             "icon_id": "715003",
             "move_type": {
                 "id": 13,
@@ -254,18 +254,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "啄击",
-                    "description": "造成物伤，若敌方本回合更换精灵，本次技能威力翻倍。"
+                    "name": "风起",
+                    "description": "自己获得1层风起印记。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 4,
             "power": null,
-            "description": "造成物伤，若敌方本回合更换精灵，本次技能威力翻倍。"
+            "description": "自己获得1层风起印记。"
         },
         {
             "id": 7150240,
-            "name": "减伤50%，迅捷，应对攻击。",
+            "name": "俯冲猛击",
             "icon_id": "114019",
             "move_type": {
                 "id": 13,
@@ -276,14 +276,14 @@
             },
             "localized": {
                 "zh": {
-                    "name": "减伤50%，迅捷，应对攻击。",
-                    "description": "应对！风墙"
+                    "name": "俯冲猛击",
+                    "description": "对敌方精灵造成物理伤害。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 5,
             "power": 140,
-            "description": "应对！风墙"
+            "description": "对敌方精灵造成物理伤害。"
         },
         {
             "id": 7020690,
@@ -309,7 +309,7 @@
         },
         {
             "id": 7150200,
-            "name": "风起",
+            "name": "羽刃",
             "icon_id": "114015",
             "move_type": {
                 "id": 13,
@@ -320,18 +320,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "风起",
-                    "description": "自己获得速度+120。"
+                    "name": "羽刃",
+                    "description": "造成物伤，应对状态：回合结束使敌方紧急脱离。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 2,
             "power": 75,
-            "description": "自己获得速度+120。"
+            "description": "造成物伤，应对状态：回合结束使敌方紧急脱离。"
         },
         {
             "id": 7150110,
-            "name": "S3深渊蛙B",
+            "name": "龙卷风",
             "icon_id": "715005",
             "move_type": {
                 "id": 13,
@@ -342,43 +342,21 @@
             },
             "localized": {
                 "zh": {
-                    "name": "S3深渊蛙B",
-                    "description": "驱赶"
+                    "name": "龙卷风",
+                    "description": "造成物伤，迅捷，应对状态：本次技能威力变为1.5倍。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 5,
             "power": 70,
-            "description": "驱赶"
+            "description": "造成物伤，迅捷，应对状态：本次技能威力变为1.5倍。"
         }
     ],
     "move_stones": [
         {
             "id": 7050360,
-            "name": "咕嘟咕嘟浅滩的温泉里不可以跳水哦。",
-            "icon_id": "104025",
-            "move_type": {
-                "id": 4,
-                "name": "Water",
-                "localized": {
-                    "zh": "水"
-                }
-            },
-            "localized": {
-                "zh": {
-                    "name": "咕嘟咕嘟浅滩的温泉里不可以跳水哦。",
-                    "description": "造成魔伤，4连击。"
-                }
-            },
-            "move_category": "Physical Attack",
-            "energy_cost": 2,
-            "power": 80,
-            "description": "造成魔伤，4连击。"
-        },
-        {
-            "id": 7050370,
             "name": "潮涌",
-            "icon_id": "104026",
+            "icon_id": "104025",
             "move_type": {
                 "id": 4,
                 "name": "Water",
@@ -393,13 +371,35 @@
                 }
             },
             "move_category": "Physical Attack",
+            "energy_cost": 2,
+            "power": 80,
+            "description": "对敌方精灵造成物理伤害。"
+        },
+        {
+            "id": 7050370,
+            "name": "水幕冲击",
+            "icon_id": "104026",
+            "move_type": {
+                "id": 4,
+                "name": "Water",
+                "localized": {
+                    "zh": "水"
+                }
+            },
+            "localized": {
+                "zh": {
+                    "name": "水幕冲击",
+                    "description": "对敌方精灵造成物理伤害。"
+                }
+            },
+            "move_category": "Physical Attack",
             "energy_cost": 3,
             "power": 100,
             "description": "对敌方精灵造成物理伤害。"
         },
         {
             "id": 7050200,
-            "name": "水炮",
+            "name": "水刃",
             "icon_id": "705010",
             "move_type": {
                 "id": 4,
@@ -410,14 +410,14 @@
             },
             "localized": {
                 "zh": {
-                    "name": "水炮",
-                    "description": "造成魔伤，每次使用后，本技能能耗永久-1。"
+                    "name": "水刃",
+                    "description": "造成物伤，应对状态：本技能能耗永久-3。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 4,
             "power": 115,
-            "description": "造成魔伤，每次使用后，本技能能耗永久-1。"
+            "description": "造成物伤，应对状态：本技能能耗永久-3。"
         },
         {
             "id": 7021090,
@@ -443,7 +443,7 @@
         },
         {
             "id": 7080350,
-            "name": "地系部族会把敌人和秘密一同用沙土掩埋。",
+            "name": "震击",
             "icon_id": "107032",
             "move_type": {
                 "id": 6,
@@ -454,18 +454,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "地系部族会把敌人和秘密一同用沙土掩埋。",
-                    "description": "造成物伤，物防比敌方越高，本次技能威力越高。"
+                    "name": "震击",
+                    "description": "造成物伤，敌方获得连击数-3。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 3,
             "power": 80,
-            "description": "造成物伤，物防比敌方越高，本次技能威力越高。"
+            "description": "造成物伤，敌方获得连击数-3。"
         },
         {
             "id": 7080200,
-            "name": "大地伸着懒腰，翻了个身。",
+            "name": "泥浆铠甲",
             "icon_id": "708018",
             "move_type": {
                 "id": 6,
@@ -476,18 +476,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "大地伸着懒腰，翻了个身。",
-                    "description": "对敌方精灵造成物理伤害。"
+                    "name": "泥浆铠甲",
+                    "description": "自己获得物攻和物防+60%，应对防御：额外使自己的增益翻倍。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 2,
             "power": null,
-            "description": "对敌方精灵造成物理伤害。"
+            "description": "自己获得物攻和物防+60%，应对防御：额外使自己的增益翻倍。"
         },
         {
             "id": 7080360,
-            "name": "地陷",
+            "name": "石肤术",
             "icon_id": "107033",
             "move_type": {
                 "id": 6,
@@ -498,18 +498,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "地陷",
-                    "description": "造成物伤，自己获得物防+70%，应对状态：本次技能威力翻倍，且物防额外+70%。"
+                    "name": "石肤术",
+                    "description": "自己获得物防+160%和魔防-60%。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 3,
             "power": null,
-            "description": "造成物伤，自己获得物防+70%，应对状态：本次技能威力翻倍，且物防额外+70%。"
+            "description": "自己获得物防+160%和魔防-60%。"
         },
         {
             "id": 7180110,
-            "name": "镜影",
+            "name": "撕咬",
             "icon_id": "718015",
             "move_type": {
                 "id": 16,
@@ -520,14 +520,14 @@
             },
             "localized": {
                 "zh": {
-                    "name": "镜影",
-                    "description": "S3半朽蜜果灵A"
+                    "name": "撕咬",
+                    "description": "造成物伤，3连击，若自己的生命低于50%，本次技能连击数+2。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 3,
             "power": 30,
-            "description": "S3半朽蜜果灵A"
+            "description": "造成物伤，3连击，若自己的生命低于50%，本次技能连击数+2。"
         },
         {
             "id": 7021000,
@@ -619,7 +619,7 @@
         },
         {
             "id": 7150090,
-            "name": "造成魔伤，应对状态：自身魔攻增益翻倍",
+            "name": "疾风刺",
             "icon_id": "715010",
             "move_type": {
                 "id": 13,
@@ -630,18 +630,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "造成魔伤，应对状态：自身魔攻增益翻倍",
-                    "description": "应对！格斗小七2"
+                    "name": "疾风刺",
+                    "description": "造成物伤，1连击，若先于敌方攻击，改为3连击。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 2,
             "power": 25,
-            "description": "应对！格斗小七2"
+            "description": "造成物伤，1连击，若先于敌方攻击，改为3连击。"
         },
         {
             "id": 7050230,
-            "name": "水就挨着陆地，摸到水就摸到了世界的尽头。",
+            "name": "蓄水",
             "icon_id": "705024",
             "move_type": {
                 "id": 4,
@@ -652,14 +652,14 @@
             },
             "localized": {
                 "zh": {
-                    "name": "水就挨着陆地，摸到水就摸到了世界的尽头。",
-                    "description": "自己获得魔攻+190%。"
+                    "name": "蓄水",
+                    "description": "下次使用的技能能耗-6。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 1,
             "power": null,
-            "description": "自己获得魔攻+190%。"
+            "description": "下次使用的技能能耗-6。"
         },
         {
             "id": 7021110,
@@ -682,28 +682,6 @@
             "energy_cost": 1,
             "power": null,
             "description": "减伤50%，应对攻击：下一次行动获得先手+1。"
-        },
-        {
-            "id": 7150390,
-            "name": "颠簸",
-            "icon_id": "114025",
-            "move_type": {
-                "id": 13,
-                "name": "Flying",
-                "localized": {
-                    "zh": "翼"
-                }
-            },
-            "localized": {
-                "zh": {
-                    "name": "颠簸",
-                    "description": "释放自己释放过的迅捷技能，其能耗之和的二分之一加至本技能能耗，每次使用后能耗+1。"
-                }
-            },
-            "move_category": "Physical Attack",
-            "energy_cost": 7,
-            "power": 170,
-            "description": "释放自己释放过的迅捷技能，其能耗之和的二分之一加至本技能能耗，每次使用后能耗+1。"
         }
     ],
     "legacy_moves": [
@@ -740,7 +718,7 @@
             "move_id": 7030430,
             "move": {
                 "id": 7030430,
-                "name": "下周野外考察课的考察对象有些危险，大家穿上能防弹的魔法袍再来。",
+                "name": "花香",
                 "icon_id": "102026",
                 "move_type": {
                     "id": 2,
@@ -751,14 +729,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "下周野外考察课的考察对象有些危险，大家穿上能防弹的魔法袍再来。",
-                        "description": "花香"
+                        "name": "花香",
+                        "description": "对敌方精灵造成魔法伤害。"
                     }
                 },
                 "move_category": "Magic Attack",
                 "energy_cost": 1,
                 "power": 60,
-                "description": "花香"
+                "description": "对敌方精灵造成魔法伤害。"
             }
         },
         {
@@ -779,13 +757,13 @@
                 "localized": {
                     "zh": {
                         "name": "火焰冲锋",
-                        "description": "造成物伤，若敌方本回合更换精灵，自己回复7点能量。"
+                        "description": "对敌方精灵造成物理伤害。"
                     }
                 },
                 "move_category": "Physical Attack",
                 "energy_cost": 1,
                 "power": 60,
-                "description": "造成物伤，若敌方本回合更换精灵，自己回复7点能量。"
+                "description": "对敌方精灵造成物理伤害。"
             }
         },
         {
@@ -794,7 +772,7 @@
             "move_id": 7050330,
             "move": {
                 "id": 7050330,
-                "name": "水弹",
+                "name": "泡沫",
                 "icon_id": "104022",
                 "move_type": {
                     "id": 4,
@@ -805,14 +783,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "水弹",
-                        "description": "对敌方精灵造成魔法伤害。"
+                        "name": "泡沫",
+                        "description": "对敌方精灵造成物理伤害。"
                     }
                 },
                 "move_category": "Physical Attack",
                 "energy_cost": 1,
                 "power": 60,
-                "description": "对敌方精灵造成魔法伤害。"
+                "description": "对敌方精灵造成物理伤害。"
             }
         },
         {
@@ -821,7 +799,7 @@
             "move_id": 7060230,
             "move": {
                 "id": 7060230,
-                "name": "天光",
+                "name": "透射",
                 "icon_id": "105015",
                 "move_type": {
                     "id": 5,
@@ -832,14 +810,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "天光",
-                        "description": "造成魔伤，本技能系别和天气系别相同。"
+                        "name": "透射",
+                        "description": "对敌方精灵造成物理伤害。"
                     }
                 },
                 "move_category": "Physical Attack",
                 "energy_cost": 1,
                 "power": 60,
-                "description": "造成魔伤，本技能系别和天气系别相同。"
+                "description": "对敌方精灵造成物理伤害。"
             }
         },
         {
@@ -848,7 +826,7 @@
             "move_id": 7080120,
             "move": {
                 "id": 7080120,
-                "name": "造成魔伤，自己每​受​到​一​次​抵抗​伤害，​本技​能​威力​永久​+20。",
+                "name": "跺地",
                 "icon_id": "708012",
                 "move_type": {
                     "id": 6,
@@ -859,14 +837,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "造成魔伤，自己每​受​到​一​次​抵抗​伤害，​本技​能​威力​永久​+20。",
-                        "description": "正在评估——【威胁等级】，嘀嗒，威胁等级评估为——【极高】，判断小洛克需要被保护，正在提高本技能威力。"
+                        "name": "跺地",
+                        "description": "对敌方精灵造成物理伤害。"
                     }
                 },
                 "move_category": "Physical Attack",
                 "energy_cost": 2,
                 "power": 80,
-                "description": "正在评估——【威胁等级】，嘀嗒，威胁等级评估为——【极高】，判断小洛克需要被保护，正在提高本技能威力。"
+                "description": "对敌方精灵造成物理伤害。"
             }
         },
         {
@@ -875,7 +853,7 @@
             "move_id": 7090250,
             "move": {
                 "id": 7090250,
-                "name": "冰墙",
+                "name": "冰爪",
                 "icon_id": "108020",
                 "move_type": {
                     "id": 7,
@@ -886,14 +864,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "冰墙",
-                        "description": "减伤80%，应对攻击：敌方获得2层冻结。"
+                        "name": "冰爪",
+                        "description": "对敌方精灵造成物理伤害。"
                     }
                 },
                 "move_category": "Physical Attack",
                 "energy_cost": 2,
                 "power": 80,
-                "description": "减伤80%，应对攻击：敌方获得2层冻结。"
+                "description": "对敌方精灵造成物理伤害。"
             }
         },
         {
@@ -902,7 +880,7 @@
             "move_id": 7100150,
             "move": {
                 "id": 7100150,
-                "name": "龙吼",
+                "name": "升龙咆哮",
                 "icon_id": "710004",
                 "move_type": {
                     "id": 8,
@@ -913,14 +891,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "龙吼",
-                        "description": "精灵蓄力中"
+                        "name": "升龙咆哮",
+                        "description": "蓄力，对敌方造成魔法伤害。"
                     }
                 },
                 "move_category": "Magic Attack",
                 "energy_cost": 3,
                 "power": 200,
-                "description": "精灵蓄力中"
+                "description": "蓄力，对敌方造成魔法伤害。"
             }
         },
         {
@@ -929,7 +907,7 @@
             "move_id": 7110300,
             "move": {
                 "id": 7110300,
-                "name": "应对！麻痹",
+                "name": "球状闪电",
                 "icon_id": "110015",
                 "move_type": {
                     "id": 9,
@@ -940,14 +918,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "应对！麻痹",
-                        "description": "敌方先手-1，应对防御：额外使敌方获得双攻-70%。"
+                        "name": "球状闪电",
+                        "description": "对敌方精灵造成物理伤害。"
                     }
                 },
                 "move_category": "Physical Attack",
                 "energy_cost": 1,
                 "power": 60,
-                "description": "敌方先手-1，应对防御：额外使敌方获得双攻-70%。"
+                "description": "对敌方精灵造成物理伤害。"
             }
         },
         {
@@ -956,7 +934,7 @@
             "move_id": 7120200,
             "move": {
                 "id": 7120200,
-                "name": "中毒之后，你能做的还有祈祷。",
+                "name": "毒沼",
                 "icon_id": "111017",
                 "move_type": {
                     "id": 10,
@@ -967,14 +945,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "中毒之后，你能做的还有祈祷。",
-                        "description": "应对！剧毒"
+                        "name": "毒沼",
+                        "description": "对敌方精灵造成物理伤害。"
                     }
                 },
                 "move_category": "Physical Attack",
                 "energy_cost": 2,
                 "power": 80,
-                "description": "应对！剧毒"
+                "description": "对敌方精灵造成物理伤害。"
             }
         },
         {
@@ -983,7 +961,7 @@
             "move_id": 7130260,
             "move": {
                 "id": 7130260,
-                "name": "研究手记：我在巢中坠入无光之梦，听见黑暗深处传来虫群的轰鸣。",
+                "name": "噬心",
                 "icon_id": "112018",
                 "move_type": {
                     "id": 11,
@@ -994,14 +972,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "研究手记：我在巢中坠入无光之梦，听见黑暗深处传来虫群的轰鸣。",
-                        "description": "虫茧"
+                        "name": "噬心",
+                        "description": "对敌方精灵造成物理伤害。"
                     }
                 },
                 "move_category": "Physical Attack",
                 "energy_cost": 1,
                 "power": 60,
-                "description": "虫茧"
+                "description": "对敌方精灵造成物理伤害。"
             }
         },
         {
@@ -1010,7 +988,7 @@
             "move_id": 7140230,
             "move": {
                 "id": 7140230,
-                "name": "硬门",
+                "name": "缠丝劲",
                 "icon_id": "113027",
                 "move_type": {
                     "id": 12,
@@ -1021,14 +999,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "硬门",
-                        "description": "应对攻击：打断被应对技能，并造成90威力物伤。"
+                        "name": "缠丝劲",
+                        "description": "造成物伤，2连击。"
                     }
                 },
                 "move_category": "Physical Attack",
                 "energy_cost": 1,
                 "power": 25,
-                "description": "应对攻击：打断被应对技能，并造成90威力物伤。"
+                "description": "造成物伤，2连击。"
             }
         },
         {
@@ -1037,7 +1015,7 @@
             "move_id": 7150210,
             "move": {
                 "id": 7150210,
-                "name": "暴风眼",
+                "name": "风矢",
                 "icon_id": "114016",
                 "move_type": {
                     "id": 13,
@@ -1048,14 +1026,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "暴风眼",
-                        "description": "获得连击数+100%。"
+                        "name": "风矢",
+                        "description": "对敌方精灵造成物理伤害。"
                     }
                 },
                 "move_category": "Physical Attack",
                 "energy_cost": 2,
                 "power": 80,
-                "description": "获得连击数+100%。"
+                "description": "对敌方精灵造成物理伤害。"
             }
         },
         {
@@ -1064,7 +1042,7 @@
             "move_id": 7160240,
             "move": {
                 "id": 7160240,
-                "name": "生日蛋糕",
+                "name": "碰爪",
                 "icon_id": "115012",
                 "move_type": {
                     "id": 14,
@@ -1075,14 +1053,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "生日蛋糕",
-                        "description": "驱散自己的减益，自己的增益翻倍。"
+                        "name": "碰爪",
+                        "description": "对敌方精灵造成物理伤害。"
                     }
                 },
                 "move_category": "Physical Attack",
                 "energy_cost": 1,
                 "power": 60,
-                "description": "驱散自己的减益，自己的增益翻倍。"
+                "description": "对敌方精灵造成物理伤害。"
             }
         },
         {
@@ -1091,7 +1069,7 @@
             "move_id": 7170220,
             "move": {
                 "id": 7170220,
-                "name": "为报答学长的照顾，今天在他的炼金药剂里面加了一些汽水儿。",
+                "name": "灵媒",
                 "icon_id": "116016",
                 "move_type": {
                     "id": 15,
@@ -1102,14 +1080,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "为报答学长的照顾，今天在他的炼金药剂里面加了一些汽水儿。",
-                        "description": "减伤70%，应对攻击：敌方失去3能量。"
+                        "name": "灵媒",
+                        "description": "对敌方精灵造成魔法伤害。"
                     }
                 },
                 "move_category": "Magic Attack",
                 "energy_cost": 3,
                 "power": 100,
-                "description": "减伤70%，应对攻击：敌方失去3能量。"
+                "description": "对敌方精灵造成魔法伤害。"
             }
         },
         {
@@ -1118,7 +1096,7 @@
             "move_id": 7180080,
             "move": {
                 "id": 7180080,
-                "name": "真的有鬼，月圆夜的时候，魔法学院2楼厕所的卫生纸会全部消失，太可怕了。",
+                "name": "恶能量",
                 "icon_id": "718013",
                 "move_type": {
                     "id": 16,
@@ -1129,14 +1107,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "真的有鬼，月圆夜的时候，魔法学院2楼厕所的卫生纸会全部消失，太可怕了。",
-                        "description": "虚化"
+                        "name": "恶能量",
+                        "description": "对敌方精灵造成物理伤害。"
                     }
                 },
                 "move_category": "Physical Attack",
                 "energy_cost": 1,
                 "power": 60,
-                "description": "虚化"
+                "description": "对敌方精灵造成物理伤害。"
             }
         },
         {
@@ -1145,7 +1123,7 @@
             "move_id": 7070010,
             "move": {
                 "id": 7070010,
-                "name": "S3流明坎德拉B",
+                "name": "械斗",
                 "icon_id": "720001",
                 "move_type": {
                     "id": 17,
@@ -1156,14 +1134,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "S3流明坎德拉B",
-                        "description": "色散"
+                        "name": "械斗",
+                        "description": "造成物伤，本技能位于1号位时威力+60，传动1。"
                     }
                 },
                 "move_category": "Physical Attack",
                 "energy_cost": 1,
                 "power": 45,
-                "description": "色散"
+                "description": "造成物伤，本技能位于1号位时威力+60，传动1。"
             }
         },
         {
@@ -1172,7 +1150,7 @@
             "move_id": 7190360,
             "move": {
                 "id": 7190360,
-                "name": "超维投射",
+                "name": "星云漩涡",
                 "icon_id": "118018",
                 "move_type": {
                     "id": 18,
@@ -1183,14 +1161,14 @@
                 },
                 "localized": {
                     "zh": {
-                        "name": "超维投射",
-                        "description": "敌方获得4层星陨印记。"
+                        "name": "星云漩涡",
+                        "description": "对敌方精灵造成物理伤害。"
                     }
                 },
                 "move_category": "Physical Attack",
                 "energy_cost": 1,
                 "power": 60,
-                "description": "敌方获得4层星陨印记。"
+                "description": "对敌方精灵造成物理伤害。"
             }
         }
     ],
@@ -1509,10 +1487,10 @@
         "catch_ball_level": 1
     },
     "breeding": {
-        "id": 3281001,
-        "pet_id": 3281001,
-        "name": "春天的样子",
-        "model_id": 3281001,
+        "id": 3279001,
+        "pet_id": 3279001,
+        "name": "雪绒鸟",
+        "model_id": 3279001,
         "hatch_data": 28800,
         "weight_low": 970,
         "weight_high": 1800,
@@ -1531,9 +1509,53 @@
         "is_contact_add_shining_prob": null,
         "variants": [
             {
+                "id": 3279001,
+                "pet_id": 3279001,
+                "name": "雪绒鸟",
+                "model_id": 3279001,
+                "hatch_data": 28800,
+                "weight_low": 970,
+                "weight_high": 1800,
+                "height_low": 16,
+                "height_high": 21,
+                "precious_egg_type": null,
+                "egg_base_glass_prob_array": [
+                    531,
+                    500
+                ],
+                "egg_add_glass_prob_array": [
+                    0,
+                    24
+                ],
+                "is_contact_add_glass_prob": true,
+                "is_contact_add_shining_prob": null
+            },
+            {
+                "id": 3280001,
+                "pet_id": 3280001,
+                "name": "雪绒鸟",
+                "model_id": 3280001,
+                "hatch_data": 28800,
+                "weight_low": 970,
+                "weight_high": 1800,
+                "height_low": 16,
+                "height_high": 21,
+                "precious_egg_type": null,
+                "egg_base_glass_prob_array": [
+                    531,
+                    500
+                ],
+                "egg_add_glass_prob_array": [
+                    0,
+                    24
+                ],
+                "is_contact_add_glass_prob": true,
+                "is_contact_add_shining_prob": null
+            },
+            {
                 "id": 3281001,
                 "pet_id": 3281001,
-                "name": "春天的样子",
+                "name": "雪绒鸟",
                 "model_id": 3281001,
                 "hatch_data": 28800,
                 "weight_low": 970,
@@ -1555,7 +1577,7 @@
             {
                 "id": 3281002,
                 "pet_id": 3281002,
-                "name": "夏天的样子",
+                "name": "雪绒鸟（首领血脉）",
                 "model_id": 3281001,
                 "hatch_data": 300,
                 "weight_low": 970,
@@ -1577,7 +1599,7 @@
             {
                 "id": 3281003,
                 "pet_id": 3281003,
-                "name": "夏天的样子",
+                "name": "雪绒鸟（首领血脉）",
                 "model_id": 3281001,
                 "hatch_data": 300,
                 "weight_low": 970,
@@ -1597,31 +1619,63 @@
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 3539001,
-                "pet_id": 3539001,
+                "id": 3533001,
+                "pet_id": 3533001,
                 "name": "雪绒鸟",
-                "model_id": 3539001,
-                "hatch_data": 43200,
-                "weight_low": 1610,
-                "weight_high": 2440,
-                "height_low": 19,
-                "height_high": 24,
+                "model_id": 3533001,
+                "hatch_data": 28800,
+                "weight_low": 970,
+                "weight_high": 1800,
+                "height_low": 16,
+                "height_high": 21,
                 "precious_egg_type": null,
                 "egg_base_glass_prob_array": [
-                    8,
-                    1125
+                    531,
+                    500
                 ],
                 "egg_add_glass_prob_array": [
-                    1,
-                    50
+                    0,
+                    24
                 ],
                 "is_contact_add_glass_prob": true,
+                "is_contact_add_shining_prob": null
+            },
+            {
+                "id": 32790001,
+                "pet_id": 32790001,
+                "name": "雪绒鸟",
+                "model_id": 3279001,
+                "hatch_data": 300,
+                "weight_low": 970,
+                "weight_high": 1800,
+                "height_low": 16,
+                "height_high": 21,
+                "precious_egg_type": 7,
+                "egg_base_glass_prob_array": null,
+                "egg_add_glass_prob_array": null,
+                "is_contact_add_glass_prob": null,
+                "is_contact_add_shining_prob": null
+            },
+            {
+                "id": 32800001,
+                "pet_id": 32800001,
+                "name": "雪绒鸟",
+                "model_id": 3280001,
+                "hatch_data": 300,
+                "weight_low": 970,
+                "weight_high": 1800,
+                "height_low": 16,
+                "height_high": 21,
+                "precious_egg_type": 7,
+                "egg_base_glass_prob_array": null,
+                "egg_add_glass_prob_array": null,
+                "is_contact_add_glass_prob": null,
                 "is_contact_add_shining_prob": null
             },
             {
                 "id": 32810001,
                 "pet_id": 32810001,
-                "name": "绒绒",
+                "name": "雪绒鸟",
                 "model_id": 3281001,
                 "hatch_data": 300,
                 "weight_low": 970,
@@ -1635,15 +1689,15 @@
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 32990001,
-                "pet_id": 32990001,
+                "id": 35330001,
+                "pet_id": 35330001,
                 "name": "雪绒鸟",
-                "model_id": 3299001,
+                "model_id": 3533001,
                 "hatch_data": 300,
-                "weight_low": 1505,
-                "weight_high": 2240,
-                "height_low": 20,
-                "height_high": 28,
+                "weight_low": 970,
+                "weight_high": 1800,
+                "height_low": 16,
+                "height_high": 21,
                 "precious_egg_type": 7,
                 "egg_base_glass_prob_array": null,
                 "egg_add_glass_prob_array": null,
@@ -1651,57 +1705,75 @@
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 33070001,
-                "pet_id": 33070001,
+                "id": 91000091,
+                "pet_id": 91000091,
                 "name": "雪绒鸟",
-                "model_id": 3307001,
-                "hatch_data": 300,
-                "weight_low": 2030,
-                "weight_high": 2520,
-                "height_low": 23,
-                "height_high": 32,
-                "precious_egg_type": 7,
-                "egg_base_glass_prob_array": null,
-                "egg_add_glass_prob_array": null,
-                "is_contact_add_glass_prob": null,
+                "model_id": 3533001,
+                "hatch_data": 28800,
+                "weight_low": 970,
+                "weight_high": 1800,
+                "height_low": 16,
+                "height_high": 21,
+                "precious_egg_type": null,
+                "egg_base_glass_prob_array": [
+                    531,
+                    500
+                ],
+                "egg_add_glass_prob_array": [
+                    0,
+                    24
+                ],
+                "is_contact_add_glass_prob": true,
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 33120001,
-                "pet_id": 33120001,
+                "id": 91000092,
+                "pet_id": 91000092,
                 "name": "雪绒鸟",
-                "model_id": 3312001,
-                "hatch_data": 300,
-                "weight_low": 840,
-                "weight_high": 1808,
-                "height_low": 19,
-                "height_high": 23,
-                "precious_egg_type": 7,
-                "egg_base_glass_prob_array": null,
-                "egg_add_glass_prob_array": null,
-                "is_contact_add_glass_prob": null,
+                "model_id": 3279001,
+                "hatch_data": 28800,
+                "weight_low": 970,
+                "weight_high": 1800,
+                "height_low": 16,
+                "height_high": 21,
+                "precious_egg_type": null,
+                "egg_base_glass_prob_array": [
+                    531,
+                    500
+                ],
+                "egg_add_glass_prob_array": [
+                    0,
+                    24
+                ],
+                "is_contact_add_glass_prob": true,
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 35770001,
-                "pet_id": 35770001,
+                "id": 91000093,
+                "pet_id": 91000093,
                 "name": "雪绒鸟",
-                "model_id": 3577001,
-                "hatch_data": 300,
-                "weight_low": 1138,
-                "weight_high": 2008,
-                "height_low": 15,
-                "height_high": 19,
-                "precious_egg_type": 7,
-                "egg_base_glass_prob_array": null,
-                "egg_add_glass_prob_array": null,
-                "is_contact_add_glass_prob": null,
+                "model_id": 3280001,
+                "hatch_data": 28800,
+                "weight_low": 970,
+                "weight_high": 1800,
+                "height_low": 16,
+                "height_high": 21,
+                "precious_egg_type": null,
+                "egg_base_glass_prob_array": [
+                    531,
+                    500
+                ],
+                "egg_add_glass_prob_array": [
+                    0,
+                    24
+                ],
+                "is_contact_add_glass_prob": true,
                 "is_contact_add_shining_prob": null
             },
             {
                 "id": 91000094,
                 "pet_id": 91000094,
-                "name": "海盔虫",
+                "name": "雪绒鸟",
                 "model_id": 3281001,
                 "hatch_data": 28800,
                 "weight_low": 970,
@@ -1721,75 +1793,57 @@
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 91000103,
-                "pet_id": 91000103,
+                "id": 92000091,
+                "pet_id": 92000091,
                 "name": "雪绒鸟",
-                "model_id": 3060001,
+                "model_id": 3533001,
                 "hatch_data": 28800,
-                "weight_low": 35,
-                "weight_high": 60,
+                "weight_low": 970,
+                "weight_high": 1800,
                 "height_low": 16,
-                "height_high": 23,
-                "precious_egg_type": null,
-                "egg_base_glass_prob_array": [
-                    531,
-                    500
-                ],
-                "egg_add_glass_prob_array": [
-                    0,
-                    24
-                ],
-                "is_contact_add_glass_prob": true,
+                "height_high": 21,
+                "precious_egg_type": 1,
+                "egg_base_glass_prob_array": null,
+                "egg_add_glass_prob_array": null,
+                "is_contact_add_glass_prob": null,
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 91000105,
-                "pet_id": 91000105,
+                "id": 92000092,
+                "pet_id": 92000092,
                 "name": "雪绒鸟",
-                "model_id": 3738001,
-                "hatch_data": 43200,
-                "weight_low": 6860,
-                "weight_high": 9000,
-                "height_low": 25,
-                "height_high": 35,
-                "precious_egg_type": null,
-                "egg_base_glass_prob_array": [
-                    8,
-                    1125
-                ],
-                "egg_add_glass_prob_array": [
-                    1,
-                    50
-                ],
-                "is_contact_add_glass_prob": true,
+                "model_id": 3279001,
+                "hatch_data": 28800,
+                "weight_low": 970,
+                "weight_high": 1800,
+                "height_low": 16,
+                "height_high": 21,
+                "precious_egg_type": 1,
+                "egg_base_glass_prob_array": null,
+                "egg_add_glass_prob_array": null,
+                "is_contact_add_glass_prob": null,
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 91000106,
-                "pet_id": 91000106,
+                "id": 92000093,
+                "pet_id": 92000093,
                 "name": "雪绒鸟",
-                "model_id": 3215001,
-                "hatch_data": 72000,
-                "weight_low": 24325,
-                "weight_high": 35040,
-                "height_low": 27,
-                "height_high": 38,
-                "precious_egg_type": null,
-                "egg_base_glass_prob_array": [
-                    400,
-                    3125
-                ],
-                "egg_add_glass_prob_array": [
-                    2,
-                    113
-                ],
-                "is_contact_add_glass_prob": true,
+                "model_id": 3280001,
+                "hatch_data": 28800,
+                "weight_low": 970,
+                "weight_high": 1800,
+                "height_low": 16,
+                "height_high": 21,
+                "precious_egg_type": 1,
+                "egg_base_glass_prob_array": null,
+                "egg_add_glass_prob_array": null,
+                "is_contact_add_glass_prob": null,
                 "is_contact_add_shining_prob": null
             },
             {
                 "id": 92000094,
                 "pet_id": 92000094,
-                "name": "海盔虫",
+                "name": "雪绒鸟",
                 "model_id": 3281001,
                 "hatch_data": 28800,
                 "weight_low": 970,
@@ -1803,15 +1857,15 @@
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 92000103,
-                "pet_id": 92000103,
+                "id": 93000091,
+                "pet_id": 93000091,
                 "name": "雪绒鸟",
-                "model_id": 3060001,
+                "model_id": 3533001,
                 "hatch_data": 28800,
-                "weight_low": 35,
-                "weight_high": 60,
+                "weight_low": 970,
+                "weight_high": 1800,
                 "height_low": 16,
-                "height_high": 23,
+                "height_high": 21,
                 "precious_egg_type": 1,
                 "egg_base_glass_prob_array": null,
                 "egg_add_glass_prob_array": null,
@@ -1819,15 +1873,15 @@
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 92000105,
-                "pet_id": 92000105,
+                "id": 93000092,
+                "pet_id": 93000092,
                 "name": "雪绒鸟",
-                "model_id": 3738001,
-                "hatch_data": 43200,
-                "weight_low": 6860,
-                "weight_high": 9000,
-                "height_low": 25,
-                "height_high": 35,
+                "model_id": 3279001,
+                "hatch_data": 28800,
+                "weight_low": 970,
+                "weight_high": 1800,
+                "height_low": 16,
+                "height_high": 21,
                 "precious_egg_type": 1,
                 "egg_base_glass_prob_array": null,
                 "egg_add_glass_prob_array": null,
@@ -1835,15 +1889,15 @@
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 92000106,
-                "pet_id": 92000106,
+                "id": 93000093,
+                "pet_id": 93000093,
                 "name": "雪绒鸟",
-                "model_id": 3215001,
-                "hatch_data": 72000,
-                "weight_low": 24325,
-                "weight_high": 35040,
-                "height_low": 27,
-                "height_high": 38,
+                "model_id": 3280001,
+                "hatch_data": 28800,
+                "weight_low": 970,
+                "weight_high": 1800,
+                "height_low": 16,
+                "height_high": 21,
                 "precious_egg_type": 1,
                 "egg_base_glass_prob_array": null,
                 "egg_add_glass_prob_array": null,
@@ -1853,7 +1907,7 @@
             {
                 "id": 93000094,
                 "pet_id": 93000094,
-                "name": "海盔虫",
+                "name": "雪绒鸟",
                 "model_id": 3281001,
                 "hatch_data": 28800,
                 "weight_low": 970,
@@ -1867,15 +1921,15 @@
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 93000103,
-                "pet_id": 93000103,
+                "id": 94000091,
+                "pet_id": 94000091,
                 "name": "雪绒鸟",
-                "model_id": 3060001,
+                "model_id": 3533001,
                 "hatch_data": 28800,
-                "weight_low": 35,
-                "weight_high": 60,
+                "weight_low": 970,
+                "weight_high": 1800,
                 "height_low": 16,
-                "height_high": 23,
+                "height_high": 21,
                 "precious_egg_type": 1,
                 "egg_base_glass_prob_array": null,
                 "egg_add_glass_prob_array": null,
@@ -1883,15 +1937,15 @@
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 93000105,
-                "pet_id": 93000105,
+                "id": 94000092,
+                "pet_id": 94000092,
                 "name": "雪绒鸟",
-                "model_id": 3738001,
-                "hatch_data": 43200,
-                "weight_low": 6860,
-                "weight_high": 9000,
-                "height_low": 25,
-                "height_high": 35,
+                "model_id": 3279001,
+                "hatch_data": 28800,
+                "weight_low": 970,
+                "weight_high": 1800,
+                "height_low": 16,
+                "height_high": 21,
                 "precious_egg_type": 1,
                 "egg_base_glass_prob_array": null,
                 "egg_add_glass_prob_array": null,
@@ -1899,15 +1953,15 @@
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 93000106,
-                "pet_id": 93000106,
+                "id": 94000093,
+                "pet_id": 94000093,
                 "name": "雪绒鸟",
-                "model_id": 3215001,
-                "hatch_data": 72000,
-                "weight_low": 24325,
-                "weight_high": 35040,
-                "height_low": 27,
-                "height_high": 38,
+                "model_id": 3280001,
+                "hatch_data": 28800,
+                "weight_low": 970,
+                "weight_high": 1800,
+                "height_low": 16,
+                "height_high": 21,
                 "precious_egg_type": 1,
                 "egg_base_glass_prob_array": null,
                 "egg_add_glass_prob_array": null,
@@ -1917,7 +1971,7 @@
             {
                 "id": 94000094,
                 "pet_id": 94000094,
-                "name": "海盔虫",
+                "name": "雪绒鸟",
                 "model_id": 3281001,
                 "hatch_data": 28800,
                 "weight_low": 970,
@@ -1931,57 +1985,53 @@
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 94000103,
-                "pet_id": 94000103,
+                "id": 95000031,
+                "pet_id": 95000031,
                 "name": "雪绒鸟",
-                "model_id": 3060001,
+                "model_id": 3279001,
                 "hatch_data": 28800,
-                "weight_low": 35,
-                "weight_high": 60,
+                "weight_low": 970,
+                "weight_high": 1800,
                 "height_low": 16,
-                "height_high": 23,
+                "height_high": 21,
                 "precious_egg_type": 1,
-                "egg_base_glass_prob_array": null,
-                "egg_add_glass_prob_array": null,
-                "is_contact_add_glass_prob": null,
+                "egg_base_glass_prob_array": [
+                    531,
+                    500
+                ],
+                "egg_add_glass_prob_array": [
+                    0,
+                    24
+                ],
+                "is_contact_add_glass_prob": true,
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 94000105,
-                "pet_id": 94000105,
+                "id": 95000032,
+                "pet_id": 95000032,
                 "name": "雪绒鸟",
-                "model_id": 3738001,
-                "hatch_data": 43200,
-                "weight_low": 6860,
-                "weight_high": 9000,
-                "height_low": 25,
-                "height_high": 35,
+                "model_id": 3280001,
+                "hatch_data": 28800,
+                "weight_low": 970,
+                "weight_high": 1800,
+                "height_low": 16,
+                "height_high": 21,
                 "precious_egg_type": 1,
-                "egg_base_glass_prob_array": null,
-                "egg_add_glass_prob_array": null,
-                "is_contact_add_glass_prob": null,
-                "is_contact_add_shining_prob": null
-            },
-            {
-                "id": 94000106,
-                "pet_id": 94000106,
-                "name": "雪绒鸟",
-                "model_id": 3215001,
-                "hatch_data": 72000,
-                "weight_low": 24325,
-                "weight_high": 35040,
-                "height_low": 27,
-                "height_high": 38,
-                "precious_egg_type": 1,
-                "egg_base_glass_prob_array": null,
-                "egg_add_glass_prob_array": null,
-                "is_contact_add_glass_prob": null,
+                "egg_base_glass_prob_array": [
+                    531,
+                    500
+                ],
+                "egg_add_glass_prob_array": [
+                    0,
+                    24
+                ],
+                "is_contact_add_glass_prob": true,
                 "is_contact_add_shining_prob": null
             },
             {
                 "id": 95000033,
                 "pet_id": 95000033,
-                "name": "石石",
+                "name": "雪绒鸟",
                 "model_id": 3281001,
                 "hatch_data": 28800,
                 "weight_low": 970,
@@ -2001,37 +2051,15 @@
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 95000039,
-                "pet_id": 95000039,
+                "id": 95000048,
+                "pet_id": 95000048,
                 "name": "雪绒鸟",
-                "model_id": 3357001,
-                "hatch_data": 57600,
-                "weight_low": 10430,
-                "weight_high": 14720,
-                "height_low": 30,
-                "height_high": 42,
-                "precious_egg_type": 1,
-                "egg_base_glass_prob_array": [
-                    395,
-                    2000
-                ],
-                "egg_add_glass_prob_array": [
-                    1,
-                    80
-                ],
-                "is_contact_add_glass_prob": true,
-                "is_contact_add_shining_prob": null
-            },
-            {
-                "id": 95000041,
-                "pet_id": 95000041,
-                "name": "雪绒鸟",
-                "model_id": 3384001,
+                "model_id": 3533001,
                 "hatch_data": 28800,
-                "weight_low": 420,
-                "weight_high": 600,
-                "height_low": 13,
-                "height_high": 18,
+                "weight_low": 970,
+                "weight_high": 1800,
+                "height_low": 16,
+                "height_high": 21,
                 "precious_egg_type": 1,
                 "egg_base_glass_prob_array": [
                     531,
@@ -2045,37 +2073,47 @@
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 95000043,
-                "pet_id": 95000043,
+                "id": 96000091,
+                "pet_id": 96000091,
                 "name": "雪绒鸟",
-                "model_id": 3467001,
-                "hatch_data": 43200,
-                "weight_low": 4025,
-                "weight_high": 7000,
-                "height_low": 30,
-                "height_high": 42,
+                "model_id": 3533001,
+                "hatch_data": 28800,
+                "weight_low": 970,
+                "weight_high": 1800,
+                "height_low": 16,
+                "height_high": 21,
                 "precious_egg_type": 1,
-                "egg_base_glass_prob_array": [
-                    8,
-                    1125
-                ],
-                "egg_add_glass_prob_array": [
-                    1,
-                    50
-                ],
-                "is_contact_add_glass_prob": true,
+                "egg_base_glass_prob_array": null,
+                "egg_add_glass_prob_array": null,
+                "is_contact_add_glass_prob": null,
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 96000007,
-                "pet_id": 96000007,
+                "id": 96000092,
+                "pet_id": 96000092,
                 "name": "雪绒鸟",
-                "model_id": 3434001,
-                "hatch_data": 57600,
-                "weight_low": 1337,
-                "weight_high": 2156,
-                "height_low": 19,
-                "height_high": 23,
+                "model_id": 3279001,
+                "hatch_data": 28800,
+                "weight_low": 970,
+                "weight_high": 1800,
+                "height_low": 16,
+                "height_high": 21,
+                "precious_egg_type": 1,
+                "egg_base_glass_prob_array": null,
+                "egg_add_glass_prob_array": null,
+                "is_contact_add_glass_prob": null,
+                "is_contact_add_shining_prob": null
+            },
+            {
+                "id": 96000093,
+                "pet_id": 96000093,
+                "name": "雪绒鸟",
+                "model_id": 3280001,
+                "hatch_data": 28800,
+                "weight_low": 970,
+                "weight_high": 1800,
+                "height_low": 16,
+                "height_high": 21,
                 "precious_egg_type": 1,
                 "egg_base_glass_prob_array": null,
                 "egg_add_glass_prob_array": null,
@@ -2085,7 +2123,7 @@
             {
                 "id": 96000094,
                 "pet_id": 96000094,
-                "name": "海盔虫",
+                "name": "雪绒鸟",
                 "model_id": 3281001,
                 "hatch_data": 28800,
                 "weight_low": 970,
@@ -2099,15 +2137,15 @@
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 96000103,
-                "pet_id": 96000103,
+                "id": 97000091,
+                "pet_id": 97000091,
                 "name": "雪绒鸟",
-                "model_id": 3060001,
+                "model_id": 3533001,
                 "hatch_data": 28800,
-                "weight_low": 35,
-                "weight_high": 60,
+                "weight_low": 970,
+                "weight_high": 1800,
                 "height_low": 16,
-                "height_high": 23,
+                "height_high": 21,
                 "precious_egg_type": 1,
                 "egg_base_glass_prob_array": null,
                 "egg_add_glass_prob_array": null,
@@ -2115,15 +2153,15 @@
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 96000105,
-                "pet_id": 96000105,
+                "id": 97000092,
+                "pet_id": 97000092,
                 "name": "雪绒鸟",
-                "model_id": 3738001,
-                "hatch_data": 43200,
-                "weight_low": 6860,
-                "weight_high": 9000,
-                "height_low": 25,
-                "height_high": 35,
+                "model_id": 3279001,
+                "hatch_data": 28800,
+                "weight_low": 970,
+                "weight_high": 1800,
+                "height_low": 16,
+                "height_high": 21,
                 "precious_egg_type": 1,
                 "egg_base_glass_prob_array": null,
                 "egg_add_glass_prob_array": null,
@@ -2131,15 +2169,15 @@
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 96000106,
-                "pet_id": 96000106,
+                "id": 97000093,
+                "pet_id": 97000093,
                 "name": "雪绒鸟",
-                "model_id": 3215001,
-                "hatch_data": 72000,
-                "weight_low": 24325,
-                "weight_high": 35040,
-                "height_low": 27,
-                "height_high": 38,
+                "model_id": 3280001,
+                "hatch_data": 28800,
+                "weight_low": 970,
+                "weight_high": 1800,
+                "height_low": 16,
+                "height_high": 21,
                 "precious_egg_type": 1,
                 "egg_base_glass_prob_array": null,
                 "egg_add_glass_prob_array": null,
@@ -2149,7 +2187,7 @@
             {
                 "id": 97000094,
                 "pet_id": 97000094,
-                "name": "海盔虫",
+                "name": "雪绒鸟",
                 "model_id": 3281001,
                 "hatch_data": 28800,
                 "weight_low": 970,
@@ -2163,15 +2201,15 @@
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 97000103,
-                "pet_id": 97000103,
+                "id": 98000091,
+                "pet_id": 98000091,
                 "name": "雪绒鸟",
-                "model_id": 3060001,
+                "model_id": 3533001,
                 "hatch_data": 28800,
-                "weight_low": 35,
-                "weight_high": 60,
+                "weight_low": 970,
+                "weight_high": 1800,
                 "height_low": 16,
-                "height_high": 23,
+                "height_high": 21,
                 "precious_egg_type": 1,
                 "egg_base_glass_prob_array": null,
                 "egg_add_glass_prob_array": null,
@@ -2179,15 +2217,15 @@
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 97000105,
-                "pet_id": 97000105,
+                "id": 98000092,
+                "pet_id": 98000092,
                 "name": "雪绒鸟",
-                "model_id": 3738001,
-                "hatch_data": 43200,
-                "weight_low": 6860,
-                "weight_high": 9000,
-                "height_low": 25,
-                "height_high": 35,
+                "model_id": 3279001,
+                "hatch_data": 28800,
+                "weight_low": 970,
+                "weight_high": 1800,
+                "height_low": 16,
+                "height_high": 21,
                 "precious_egg_type": 1,
                 "egg_base_glass_prob_array": null,
                 "egg_add_glass_prob_array": null,
@@ -2195,15 +2233,15 @@
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 97000106,
-                "pet_id": 97000106,
+                "id": 98000093,
+                "pet_id": 98000093,
                 "name": "雪绒鸟",
-                "model_id": 3215001,
-                "hatch_data": 72000,
-                "weight_low": 24325,
-                "weight_high": 35040,
-                "height_low": 27,
-                "height_high": 38,
+                "model_id": 3280001,
+                "hatch_data": 28800,
+                "weight_low": 970,
+                "weight_high": 1800,
+                "height_low": 16,
+                "height_high": 21,
                 "precious_egg_type": 1,
                 "egg_base_glass_prob_array": null,
                 "egg_add_glass_prob_array": null,
@@ -2213,7 +2251,7 @@
             {
                 "id": 98000094,
                 "pet_id": 98000094,
-                "name": "海盔虫",
+                "name": "雪绒鸟",
                 "model_id": 3281001,
                 "hatch_data": 28800,
                 "weight_low": 970,
@@ -2227,57 +2265,53 @@
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 98000103,
-                "pet_id": 98000103,
+                "id": 99000031,
+                "pet_id": 99000031,
                 "name": "雪绒鸟",
-                "model_id": 3060001,
+                "model_id": 3279001,
                 "hatch_data": 28800,
-                "weight_low": 35,
-                "weight_high": 60,
+                "weight_low": 970,
+                "weight_high": 1800,
                 "height_low": 16,
-                "height_high": 23,
+                "height_high": 21,
                 "precious_egg_type": 1,
-                "egg_base_glass_prob_array": null,
-                "egg_add_glass_prob_array": null,
-                "is_contact_add_glass_prob": null,
+                "egg_base_glass_prob_array": [
+                    531,
+                    500
+                ],
+                "egg_add_glass_prob_array": [
+                    0,
+                    24
+                ],
+                "is_contact_add_glass_prob": true,
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 98000105,
-                "pet_id": 98000105,
+                "id": 99000032,
+                "pet_id": 99000032,
                 "name": "雪绒鸟",
-                "model_id": 3738001,
-                "hatch_data": 43200,
-                "weight_low": 6860,
-                "weight_high": 9000,
-                "height_low": 25,
-                "height_high": 35,
+                "model_id": 3280001,
+                "hatch_data": 28800,
+                "weight_low": 970,
+                "weight_high": 1800,
+                "height_low": 16,
+                "height_high": 21,
                 "precious_egg_type": 1,
-                "egg_base_glass_prob_array": null,
-                "egg_add_glass_prob_array": null,
-                "is_contact_add_glass_prob": null,
-                "is_contact_add_shining_prob": null
-            },
-            {
-                "id": 98000106,
-                "pet_id": 98000106,
-                "name": "雪绒鸟",
-                "model_id": 3215001,
-                "hatch_data": 72000,
-                "weight_low": 24325,
-                "weight_high": 35040,
-                "height_low": 27,
-                "height_high": 38,
-                "precious_egg_type": 1,
-                "egg_base_glass_prob_array": null,
-                "egg_add_glass_prob_array": null,
-                "is_contact_add_glass_prob": null,
+                "egg_base_glass_prob_array": [
+                    531,
+                    500
+                ],
+                "egg_add_glass_prob_array": [
+                    0,
+                    24
+                ],
+                "is_contact_add_glass_prob": true,
                 "is_contact_add_shining_prob": null
             },
             {
                 "id": 99000033,
                 "pet_id": 99000033,
-                "name": "石石",
+                "name": "雪绒鸟",
                 "model_id": 3281001,
                 "hatch_data": 28800,
                 "weight_low": 970,
@@ -2297,37 +2331,15 @@
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 99000039,
-                "pet_id": 99000039,
+                "id": 99000048,
+                "pet_id": 99000048,
                 "name": "雪绒鸟",
-                "model_id": 3357001,
-                "hatch_data": 57600,
-                "weight_low": 10430,
-                "weight_high": 14720,
-                "height_low": 30,
-                "height_high": 42,
-                "precious_egg_type": 1,
-                "egg_base_glass_prob_array": [
-                    395,
-                    2000
-                ],
-                "egg_add_glass_prob_array": [
-                    1,
-                    80
-                ],
-                "is_contact_add_glass_prob": true,
-                "is_contact_add_shining_prob": null
-            },
-            {
-                "id": 99000041,
-                "pet_id": 99000041,
-                "name": "雪绒鸟",
-                "model_id": 3384001,
+                "model_id": 3533001,
                 "hatch_data": 28800,
-                "weight_low": 420,
-                "weight_high": 600,
-                "height_low": 13,
-                "height_high": 18,
+                "weight_low": 970,
+                "weight_high": 1800,
+                "height_low": 16,
+                "height_high": 21,
                 "precious_egg_type": 1,
                 "egg_base_glass_prob_array": [
                     531,
@@ -2341,53 +2353,15 @@
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 99000043,
-                "pet_id": 99000043,
+                "id": 99000107,
+                "pet_id": 99000107,
                 "name": "雪绒鸟",
-                "model_id": 3467001,
-                "hatch_data": 43200,
-                "weight_low": 4025,
-                "weight_high": 7000,
-                "height_low": 30,
-                "height_high": 42,
-                "precious_egg_type": 1,
-                "egg_base_glass_prob_array": [
-                    8,
-                    1125
-                ],
-                "egg_add_glass_prob_array": [
-                    1,
-                    50
-                ],
-                "is_contact_add_glass_prob": true,
-                "is_contact_add_shining_prob": null
-            },
-            {
-                "id": 99000061,
-                "pet_id": 99000061,
-                "name": "雪绒鸟",
-                "model_id": 3148001,
+                "model_id": 3533001,
                 "hatch_data": 72000,
-                "weight_low": 1960,
-                "weight_high": 3480,
-                "height_low": 18,
-                "height_high": 25,
-                "precious_egg_type": 4,
-                "egg_base_glass_prob_array": null,
-                "egg_add_glass_prob_array": null,
-                "is_contact_add_glass_prob": null,
-                "is_contact_add_shining_prob": null
-            },
-            {
-                "id": 99000123,
-                "pet_id": 99000123,
-                "name": "雪绒鸟",
-                "model_id": 3139001,
-                "hatch_data": 72000,
-                "weight_low": 735,
-                "weight_high": 1360,
-                "height_low": 20,
-                "height_high": 28,
+                "weight_low": 970,
+                "weight_high": 1800,
+                "height_low": 16,
+                "height_high": 21,
                 "precious_egg_type": 4,
                 "egg_base_glass_prob_array": null,
                 "egg_add_glass_prob_array": null,

@@ -185,5 +185,6 @@
       "tab_name": "地板",
       "tab_icon": "PaperSprite'/Game/NewRoco/Modules/System/Home/Raw/HomeMain/Frames/img_TabIcon18_png.img_TabIcon18_png'"
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

@@ -85,6 +85,7 @@
       "lock_on_ground": 1,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -1127,7 +1128,7 @@
     "100018": {
       "id": 100018,
       "editor_name": [
-        "恶魔狼",
+        "恶魔狼（npc_id为10044这个id暂没有地方调用，庇护所用的是10009）",
         "colliershi",
         "野生精灵刷新与行为树模板"
       ],
@@ -1597,6 +1598,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -4582,6 +4584,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -5000,6 +5003,7 @@
       "lock_on_ground": 1,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -7476,6 +7480,7 @@
       "lock_on_ground": 1,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -9187,6 +9192,8 @@
         "colliershi",
         "野生精灵刷新与行为树模板"
       ],
+      "version": 2026013101,
+      "refresh_update_type": 2,
       "refresh_type": 1,
       "refresh_param": 11032878,
       "refresh_rule": 3,
@@ -9201,6 +9208,7 @@
       "lock_on_ground": 1,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -11784,6 +11792,7 @@
       "lock_on_ground": 1,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -12455,6 +12464,7 @@
       "lock_on_ground": 1,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -12574,6 +12584,7 @@
       "lock_on_ground": 1,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -12778,6 +12789,7 @@
       "lock_on_ground": 1,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -14990,6 +15002,7 @@
       "lock_on_ground": 1,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -16009,6 +16022,7 @@
       "lock_on_ground": 1,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -18609,6 +18623,7 @@
       "lock_on_ground": 1,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -19136,6 +19151,7 @@
       ],
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -22500,6 +22516,7 @@
       ],
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -25330,6 +25347,7 @@
       "lock_on_ground": 1,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -26610,6 +26628,7 @@
       "lock_on_ground": 1,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -35649,6 +35668,7 @@
       "lock_on_ground": 1,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -42709,6 +42729,7 @@
       "lock_on_ground": 1,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -55407,6 +55428,9 @@
         "colliershi",
         "连续捕捉刷新-本地极少噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -55458,6 +55482,9 @@
         "colliershi",
         "连续捕捉刷新-本地极少噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -55509,6 +55536,9 @@
         "colliershi",
         "连续捕捉刷新-本地极少噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -55560,6 +55590,9 @@
         "colliershi",
         "连续捕捉刷新-本地极少噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -55611,6 +55644,9 @@
         "colliershi",
         "连续捕捉刷新-本地极少噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -55662,6 +55698,9 @@
         "colliershi",
         "连续捕捉刷新-本地极少噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -55713,6 +55752,9 @@
         "colliershi",
         "连续捕捉刷新-本地极少噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -55764,6 +55806,9 @@
         "colliershi",
         "连续捕捉刷新-本地极少噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -55815,6 +55860,9 @@
         "colliershi",
         "连续捕捉刷新-本地极少噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -55866,6 +55914,9 @@
         "colliershi",
         "连续捕捉刷新-本地极少噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -55917,6 +55968,9 @@
         "colliershi",
         "连续捕捉刷新-本地极少噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -55968,6 +56022,9 @@
         "colliershi",
         "连续捕捉刷新-本地极少噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -56019,6 +56076,9 @@
         "colliershi",
         "连续捕捉刷新-本地极少噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -56070,6 +56130,9 @@
         "colliershi",
         "连续捕捉刷新-本地极少噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -56121,6 +56184,9 @@
         "colliershi",
         "连续捕捉刷新-本地极少噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -56172,6 +56238,9 @@
         "colliershi",
         "连续捕捉刷新-本地极少噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -56223,6 +56292,9 @@
         "colliershi",
         "连续捕捉刷新-本地极少噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -56274,6 +56346,9 @@
         "colliershi",
         "连续捕捉刷新-本地极少噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -56325,6 +56400,9 @@
         "colliershi",
         "连续捕捉刷新-本地极少噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -56376,6 +56454,9 @@
         "colliershi",
         "连续捕捉刷新-本地极少噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -56427,6 +56508,9 @@
         "colliershi",
         "连续捕捉刷新-本地极少噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -56478,6 +56562,9 @@
         "colliershi",
         "连续捕捉刷新-本地极少噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -56529,6 +56616,9 @@
         "colliershi",
         "连续捕捉刷新-本地极少噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -56580,6 +56670,9 @@
         "colliershi",
         "连续捕捉刷新-本地极少噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -56631,6 +56724,9 @@
         "colliershi",
         "连续捕捉刷新-本地极少噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -56682,6 +56778,9 @@
         "colliershi",
         "连续捕捉刷新-本地极少噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -56733,6 +56832,9 @@
         "colliershi",
         "连续捕捉刷新-本地极少噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -56784,6 +56886,9 @@
         "colliershi",
         "连续捕捉刷新-本地极少噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -56835,6 +56940,9 @@
         "colliershi",
         "连续捕捉刷新-本地极少噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -56886,6 +56994,9 @@
         "colliershi",
         "连续捕捉刷新-本地极少噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -56937,6 +57048,9 @@
         "colliershi",
         "连续捕捉刷新-大世界特供（噩梦）"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -56988,6 +57102,9 @@
         "colliershi",
         "连续捕捉刷新-大世界特供（噩梦）"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -57039,6 +57156,9 @@
         "colliershi",
         "连续捕捉刷新-大世界特供（噩梦）"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -57090,6 +57210,9 @@
         "colliershi",
         "连续捕捉刷新-大世界特供（噩梦）"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -57141,6 +57264,9 @@
         "colliershi",
         "连续捕捉刷新-大世界特供（噩梦）"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -57192,6 +57318,9 @@
         "colliershi",
         "连续捕捉刷新-大世界特供（噩梦）"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -57243,6 +57372,9 @@
         "colliershi",
         "连续捕捉刷新-大世界特供（噩梦）"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -57294,6 +57426,9 @@
         "colliershi",
         "连续捕捉刷新-大世界特供（噩梦）"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -57345,6 +57480,9 @@
         "colliershi",
         "连续捕捉刷新-大世界特供（噩梦）"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -57396,6 +57534,9 @@
         "colliershi",
         "连续捕捉刷新-大世界特供（噩梦）"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -57447,6 +57588,9 @@
         "colliershi",
         "连续捕捉刷新-大世界特供（噩梦）"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -57498,6 +57642,9 @@
         "colliershi",
         "连续捕捉刷新-大世界特供（噩梦）"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -57549,6 +57696,9 @@
         "colliershi",
         "连续捕捉刷新-大世界特供（噩梦）"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -57600,6 +57750,9 @@
         "colliershi",
         "连续捕捉刷新-大世界特供（噩梦）"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -57651,6 +57804,9 @@
         "colliershi",
         "连续捕捉刷新-大世界特供（噩梦）"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -57702,6 +57858,9 @@
         "colliershi",
         "连续捕捉刷新-大世界特供（噩梦）"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -57753,6 +57912,9 @@
         "colliershi",
         "连续捕捉刷新-大世界特供（噩梦）"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -57804,6 +57966,9 @@
         "colliershi",
         "连续捕捉刷新-大世界特供（噩梦）"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -57855,6 +58020,9 @@
         "colliershi",
         "连续捕捉刷新-大世界特供（噩梦）"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -57906,6 +58074,9 @@
         "colliershi",
         "连续捕捉刷新-大世界特供（噩梦）"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -57957,6 +58128,9 @@
         "colliershi",
         "连续捕捉刷新-大世界特供（异色/噩梦）"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -58010,6 +58184,9 @@
         "colliershi",
         "连续捕捉刷新-大世界特供（异色/噩梦）"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -58063,6 +58240,9 @@
         "colliershi",
         "连续捕捉刷新-大世界特供（异色/噩梦）"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -58116,6 +58296,9 @@
         "colliershi",
         "连续捕捉刷新-大世界特供（异色/噩梦）"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -58169,6 +58352,9 @@
         "colliershi",
         "连续捕捉刷新-大世界特供（异色/噩梦）"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -58222,6 +58408,9 @@
         "colliershi",
         "连续捕捉刷新-大世界特供（异色/噩梦）"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -58275,6 +58464,9 @@
         "colliershi",
         "连续捕捉刷新-大世界特供（异色/噩梦）"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -58328,6 +58520,9 @@
         "colliershi",
         "连续捕捉刷新-大世界特供（异色/噩梦）"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -58381,6 +58576,9 @@
         "colliershi",
         "连续捕捉刷新-大世界特供（异色/噩梦）"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -58434,6 +58632,9 @@
         "colliershi",
         "连续捕捉刷新-大世界特供（异色/噩梦）"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -58487,6 +58688,9 @@
         "colliershi",
         "连续捕捉刷新-大世界特供（异色/噩梦）"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -58540,6 +58744,9 @@
         "colliershi",
         "连续捕捉刷新-大世界特供（异色/噩梦）"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -58593,6 +58800,9 @@
         "colliershi",
         "连续捕捉刷新-大世界特供（异色/噩梦）"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -58646,6 +58856,9 @@
         "colliershi",
         "连续捕捉刷新-大世界特供（异色/噩梦）"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -58699,6 +58912,9 @@
         "colliershi",
         "连续捕捉刷新-大世界特供（异色/噩梦）"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -58752,6 +58968,9 @@
         "colliershi",
         "连续捕捉刷新-大世界特供（异色/噩梦）"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -58805,6 +59024,9 @@
         "colliershi",
         "连续捕捉刷新-大世界特供（异色/噩梦）"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -58858,6 +59080,9 @@
         "colliershi",
         "连续捕捉刷新-大世界特供（异色/噩梦）"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -58911,6 +59136,9 @@
         "colliershi",
         "连续捕捉刷新-大世界特供（异色/噩梦）"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -58964,6 +59192,9 @@
         "colliershi",
         "连续捕捉刷新-大世界特供（异色/噩梦）"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -59017,6 +59248,9 @@
         "colliershi",
         "连续捕捉刷新-恒常噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -59068,6 +59302,9 @@
         "colliershi",
         "连续捕捉刷新-恒常噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -59119,6 +59356,9 @@
         "colliershi",
         "连续捕捉刷新-恒常噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -59170,6 +59410,9 @@
         "colliershi",
         "连续捕捉刷新-恒常噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -59221,6 +59464,9 @@
         "colliershi",
         "连续捕捉刷新-恒常噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -59272,6 +59518,9 @@
         "colliershi",
         "连续捕捉刷新-恒常噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -59323,6 +59572,9 @@
         "colliershi",
         "连续捕捉刷新-恒常噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -59374,6 +59626,9 @@
         "colliershi",
         "连续捕捉刷新-恒常噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -59425,6 +59680,9 @@
         "colliershi",
         "连续捕捉刷新-恒常噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -59476,6 +59734,9 @@
         "colliershi",
         "连续捕捉刷新-恒常噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -59527,6 +59788,9 @@
         "colliershi",
         "连续捕捉刷新-恒常噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -59578,6 +59842,9 @@
         "colliershi",
         "连续捕捉刷新-恒常噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -59629,6 +59896,9 @@
         "colliershi",
         "连续捕捉刷新-恒常噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -59680,6 +59950,9 @@
         "colliershi",
         "连续捕捉刷新-恒常噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -59731,6 +60004,9 @@
         "colliershi",
         "连续捕捉刷新-恒常噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -59782,6 +60058,9 @@
         "colliershi",
         "连续捕捉刷新-恒常噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -59833,6 +60112,9 @@
         "colliershi",
         "连续捕捉刷新-赛季噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -59884,6 +60166,9 @@
         "colliershi",
         "连续捕捉刷新-赛季噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -59935,6 +60220,9 @@
         "colliershi",
         "连续捕捉刷新-赛季噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -59986,6 +60274,9 @@
         "colliershi",
         "连续捕捉刷新-赛季噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -60037,6 +60328,9 @@
         "colliershi",
         "连续捕捉刷新-赛季噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -60088,6 +60382,9 @@
         "colliershi",
         "连续捕捉刷新-赛季噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -60139,6 +60436,9 @@
         "colliershi",
         "连续捕捉刷新-赛季噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -60190,6 +60490,9 @@
         "colliershi",
         "连续捕捉刷新-赛季噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -60241,6 +60544,9 @@
         "colliershi",
         "连续捕捉刷新-赛季噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -60292,6 +60598,9 @@
         "colliershi",
         "连续捕捉刷新-赛季噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -60343,6 +60652,9 @@
         "colliershi",
         "连续捕捉刷新-赛季噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -60394,6 +60706,9 @@
         "colliershi",
         "连续捕捉刷新-赛季噩梦"
       ],
+      "disable": true,
+      "version": 2026013101,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -60445,6 +60760,9 @@
         "colliershi",
         "连续捕捉刷新-赛季噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -60496,6 +60814,9 @@
         "colliershi",
         "连续捕捉刷新-赛季噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -60547,6 +60868,9 @@
         "colliershi",
         "连续捕捉刷新-赛季噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -60598,6 +60922,9 @@
         "colliershi",
         "连续捕捉刷新-赛季噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -60649,6 +60976,9 @@
         "colliershi",
         "连续捕捉刷新-赛季噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -60700,6 +61030,9 @@
         "colliershi",
         "连续捕捉刷新-赛季（异色/噩梦）"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -60753,6 +61086,9 @@
         "colliershi",
         "连续捕捉刷新-赛季（异色/噩梦）"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -60806,6 +61142,9 @@
         "colliershi",
         "连续捕捉刷新-赛季（异色/噩梦）"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -60859,6 +61198,9 @@
         "colliershi",
         "连续捕捉刷新-赛季（异色/噩梦）"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -60912,6 +61254,9 @@
         "colliershi",
         "连续捕捉刷新-赛季（异色/噩梦）"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -60965,6 +61310,9 @@
         "colliershi",
         "连续捕捉刷新-赛季（异色/噩梦）"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -61018,6 +61366,9 @@
         "colliershi",
         "连续捕捉刷新-赛季（异色/噩梦）"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -61071,6 +61422,9 @@
         "colliershi",
         "连续捕捉刷新-赛季（异色/噩梦）"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -61124,6 +61478,9 @@
         "colliershi",
         "连续捕捉刷新-赛季（异色/噩梦）"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -61177,6 +61534,9 @@
         "colliershi",
         "连续捕捉刷新-赛季（异色/噩梦）"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -61230,6 +61590,9 @@
         "colliershi",
         "连续捕捉刷新-赛季（异色/噩梦）"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -61283,6 +61646,9 @@
         "colliershi",
         "连续捕捉刷新-赛季（异色/噩梦）"
       ],
+      "disable": true,
+      "version": 2026013101,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -61336,6 +61702,9 @@
         "colliershi",
         "连续捕捉刷新-赛季（异色/噩梦）"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -61389,6 +61758,9 @@
         "colliershi",
         "连续捕捉刷新-赛季（异色/噩梦）"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -61442,6 +61814,9 @@
         "colliershi",
         "连续捕捉刷新-赛季（异色/噩梦）"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -61495,6 +61870,9 @@
         "colliershi",
         "连续捕捉刷新-赛季（异色/噩梦）"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -61548,6 +61926,9 @@
         "colliershi",
         "连续捕捉刷新-赛季（异色/噩梦）"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -61601,6 +61982,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -61649,6 +62033,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -61697,6 +62084,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -61745,6 +62135,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -61793,6 +62186,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -61841,6 +62237,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -61889,6 +62288,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -61937,6 +62339,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -61985,6 +62390,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -62033,6 +62441,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -62081,6 +62492,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -62129,6 +62543,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -62177,6 +62594,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -62225,6 +62645,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -62273,6 +62696,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -62321,6 +62747,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -62369,6 +62798,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -62417,6 +62849,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026013101,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -62465,6 +62900,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -62513,6 +62951,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -62561,6 +63002,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -62609,6 +63053,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -62657,6 +63104,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -62705,6 +63155,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -62753,6 +63206,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -62801,6 +63257,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -62849,6 +63308,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -62897,6 +63359,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -62945,6 +63410,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -62993,6 +63461,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -63041,6 +63512,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -63089,6 +63563,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -63137,6 +63614,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -63185,6 +63665,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -63233,6 +63716,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -63281,6 +63767,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -63329,6 +63818,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -63377,6 +63869,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -63425,6 +63920,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -63473,6 +63971,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -63521,6 +64022,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -63569,6 +64073,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -63617,6 +64124,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -63665,6 +64175,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -63713,6 +64226,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -63761,6 +64277,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -63809,6 +64328,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -63857,6 +64379,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -63905,6 +64430,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -63953,6 +64481,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -64001,6 +64532,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -64049,6 +64583,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -64097,6 +64634,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -64145,6 +64685,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -64193,6 +64736,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -64241,6 +64787,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -64289,6 +64838,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -64337,6 +64889,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -64385,6 +64940,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -64433,6 +64991,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -64481,6 +65042,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -64529,6 +65093,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -64577,6 +65144,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -64625,6 +65195,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -64673,6 +65246,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -64721,6 +65297,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -64769,6 +65348,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -64817,6 +65399,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -64865,6 +65450,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -64913,6 +65501,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -64961,6 +65552,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -65009,6 +65603,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -65057,6 +65654,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -65105,6 +65705,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -65153,6 +65756,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -65201,6 +65807,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -65249,6 +65858,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -65297,6 +65909,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -65345,6 +65960,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -65393,6 +66011,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -65441,6 +66062,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -65489,6 +66113,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -65537,6 +66164,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -65585,6 +66215,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -65633,6 +66266,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -65681,6 +66317,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -65729,6 +66368,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -65777,6 +66419,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -65825,6 +66470,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -65873,6 +66521,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -65921,6 +66572,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -65969,6 +66623,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -66017,6 +66674,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -66065,6 +66725,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -66113,6 +66776,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -66161,6 +66827,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -66209,6 +66878,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -66257,6 +66929,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -66305,6 +66980,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -66353,6 +67031,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -66401,6 +67082,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -66449,6 +67133,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -66497,6 +67184,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -66545,6 +67235,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -66593,6 +67286,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -66641,6 +67337,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -66689,6 +67388,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -66737,6 +67439,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -66785,6 +67490,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -66833,6 +67541,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -66881,6 +67592,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -66929,6 +67643,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -66977,6 +67694,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -67025,6 +67745,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -67073,6 +67796,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -67121,6 +67847,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -67169,6 +67898,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -67217,6 +67949,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -67265,6 +68000,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -67313,6 +68051,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -67361,6 +68102,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -67409,6 +68153,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -67457,6 +68204,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -67505,6 +68255,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -67553,6 +68306,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -67601,6 +68357,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -67649,6 +68408,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -67697,6 +68459,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -67745,6 +68510,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -67793,6 +68561,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -67841,6 +68612,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -67889,6 +68663,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -67937,6 +68714,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -67985,6 +68765,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -68033,6 +68816,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -68081,6 +68867,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -68129,6 +68918,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -68177,6 +68969,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -68225,6 +69020,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -68273,6 +69071,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -68321,6 +69122,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -68369,6 +69173,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -68417,6 +69224,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -68465,6 +69275,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -68513,6 +69326,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -68561,6 +69377,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -68609,6 +69428,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -68657,6 +69479,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -68705,6 +69530,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -68753,6 +69581,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -68801,6 +69632,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -68849,6 +69683,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -68897,6 +69734,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -68945,6 +69785,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -68993,6 +69836,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -69041,6 +69887,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -69089,6 +69938,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -69137,6 +69989,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -69185,6 +70040,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -69233,6 +70091,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -69281,6 +70142,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -69329,6 +70193,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -69377,6 +70244,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -69425,6 +70295,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -69473,6 +70346,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -69521,6 +70397,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -69569,6 +70448,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -69617,6 +70499,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -69665,6 +70550,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -69713,6 +70601,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -69761,6 +70652,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -69809,6 +70703,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -69857,6 +70754,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -69905,6 +70805,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -69953,6 +70856,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -70001,6 +70907,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -70049,6 +70958,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -70097,6 +71009,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -70145,6 +71060,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -70193,6 +71111,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -70241,6 +71162,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -70289,6 +71213,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -70337,6 +71264,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -70385,6 +71315,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -70433,6 +71366,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -70481,6 +71417,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -70529,6 +71468,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -70577,6 +71519,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -70625,6 +71570,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -70673,6 +71621,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -70721,6 +71672,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -70769,6 +71723,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -70817,6 +71774,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -70865,6 +71825,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -70913,6 +71876,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -70961,6 +71927,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -71009,6 +71978,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -71057,6 +72029,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -71105,6 +72080,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -71153,6 +72131,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -71201,6 +72182,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -71249,6 +72233,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -71297,6 +72284,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -71345,6 +72335,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -71393,6 +72386,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -71441,6 +72437,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -71489,6 +72488,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -71537,6 +72539,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -71585,6 +72590,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -71633,6 +72641,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -71681,6 +72692,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -71729,6 +72743,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -71777,6 +72794,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -71825,6 +72845,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -71873,6 +72896,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -71921,6 +72947,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -71969,6 +72998,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -72017,6 +73049,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -72065,6 +73100,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -72113,6 +73151,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -72161,6 +73202,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -72209,6 +73253,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -72257,6 +73304,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -72305,6 +73355,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -72353,6 +73406,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -72401,6 +73457,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -72449,6 +73508,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -72497,6 +73559,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -72545,6 +73610,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -72593,6 +73661,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -72641,6 +73712,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -72689,6 +73763,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -72737,6 +73814,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -72785,6 +73865,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -72833,6 +73916,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -72881,6 +73967,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -72929,6 +74018,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -72977,6 +74069,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -73025,6 +74120,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -73073,6 +74171,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -73121,6 +74222,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -73169,6 +74273,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -73217,6 +74324,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -73265,6 +74375,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -73313,6 +74426,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -73361,6 +74477,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -73409,6 +74528,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -73457,6 +74579,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -73505,6 +74630,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -73553,6 +74681,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -73601,6 +74732,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -73649,6 +74783,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -73697,6 +74834,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -73745,6 +74885,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -73793,6 +74936,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -73841,6 +74987,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -73889,6 +75038,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -73937,6 +75089,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -73985,6 +75140,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -74033,6 +75191,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -74081,6 +75242,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -74129,6 +75293,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -74177,6 +75344,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -74225,6 +75395,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -74273,6 +75446,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -74321,6 +75497,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -74369,6 +75548,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -74417,6 +75599,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -74465,6 +75650,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -74513,6 +75701,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -74561,6 +75752,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -74609,6 +75803,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -74657,6 +75854,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -74705,6 +75905,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -74753,6 +75956,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -74801,6 +76007,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -74849,6 +76058,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -74897,6 +76109,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -74945,6 +76160,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -74993,6 +76211,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -75041,6 +76262,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -75089,6 +76313,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -75137,6 +76364,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -75185,6 +76415,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -75233,6 +76466,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -75281,6 +76517,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -75329,6 +76568,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -75377,6 +76619,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -75425,6 +76670,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -75473,6 +76721,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -75521,6 +76772,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -75569,6 +76823,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -75617,6 +76874,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -75665,6 +76925,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -75713,6 +76976,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -75761,6 +77027,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -75809,6 +77078,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -75857,6 +77129,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -75905,6 +77180,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -75953,6 +77231,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -76001,6 +77282,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -76049,6 +77333,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -76097,6 +77384,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -76145,6 +77435,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -76193,6 +77486,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -76241,6 +77537,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -76289,6 +77588,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -76337,6 +77639,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -76385,6 +77690,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -76433,6 +77741,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -76481,6 +77792,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -76529,6 +77843,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -76577,6 +77894,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -76625,6 +77945,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -76673,6 +77996,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -76721,6 +78047,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -76769,6 +78098,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -76817,6 +78149,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -76865,6 +78200,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -76913,6 +78251,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -76961,6 +78302,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -77009,6 +78353,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -77057,6 +78404,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -77105,6 +78455,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -77153,6 +78506,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -77201,6 +78557,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -77249,6 +78608,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -77297,6 +78659,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -77345,6 +78710,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -77393,6 +78761,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -77441,6 +78812,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -77489,6 +78863,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -77537,6 +78914,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -77585,6 +78965,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -77633,6 +79016,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -77681,6 +79067,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -77729,6 +79118,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -77777,6 +79169,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -77825,6 +79220,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -77873,6 +79271,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -77921,6 +79322,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -77969,6 +79373,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -78017,6 +79424,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -78065,6 +79475,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -78113,6 +79526,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -78161,6 +79577,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -78209,6 +79628,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -78257,6 +79679,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -78305,6 +79730,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -78353,6 +79781,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -78401,6 +79832,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -78449,6 +79883,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -78497,6 +79934,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -78545,6 +79985,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -78593,6 +80036,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -78641,6 +80087,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -78689,6 +80138,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -78737,6 +80189,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -78785,6 +80240,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -78833,6 +80291,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -78881,6 +80342,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -78929,6 +80393,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -78977,6 +80444,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -79025,6 +80495,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -79073,6 +80546,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -79121,6 +80597,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -79169,6 +80648,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -79217,6 +80699,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -79265,6 +80750,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -79313,6 +80801,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -79361,6 +80852,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -79409,6 +80903,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -79457,6 +80954,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -79505,6 +81005,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -79553,6 +81056,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -79601,6 +81107,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -79649,6 +81158,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -79697,6 +81209,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -79745,6 +81260,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -79793,6 +81311,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -79841,6 +81362,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -79889,6 +81413,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -79937,6 +81464,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -79985,6 +81515,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -80033,6 +81566,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -80081,6 +81617,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -80129,6 +81668,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -80177,6 +81719,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -80225,6 +81770,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -80273,6 +81821,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -80321,6 +81872,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -80369,6 +81923,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -80417,6 +81974,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -80465,6 +82025,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -80513,6 +82076,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -80561,6 +82127,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -80609,6 +82178,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -80657,6 +82229,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -80705,6 +82280,9 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
+      "version": 2026012601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -80831,6 +82409,7 @@
         "colliershi",
         "连续捕捉刷新-BP异色"
       ],
+      "disable": true,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -80881,6 +82460,7 @@
         "colliershi",
         "连续捕捉刷新-BP异色"
       ],
+      "disable": true,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -80931,6 +82511,7 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -80979,6 +82560,7 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -81027,6 +82609,7 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -81075,6 +82658,7 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -81123,6 +82707,7 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -81171,6 +82756,7 @@
         "colliershi",
         "连续捕捉刷新-原精灵噩梦"
       ],
+      "disable": true,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -81219,6 +82805,7 @@
         "colliershi",
         "连续捕捉刷新-BP异色"
       ],
+      "disable": true,
       "overlap_processing_type": 2,
       "refresh_type": 6,
       "refresh_param": 103,
@@ -129796,6 +131383,7 @@
       "lock_on_ground": 1,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -129869,6 +131457,7 @@
       "lock_on_ground": 1,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -133181,6 +134770,7 @@
       "lock_on_ground": 1,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -133254,6 +134844,7 @@
       "lock_on_ground": 1,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -134474,6 +136065,8 @@
         "晨曦山"
       ],
       "disable": true,
+      "version": 2026013101,
+      "refresh_update_type": 2,
       "refresh_type": 1,
       "refresh_param": 11020275,
       "refresh_rule": 53,
@@ -134527,6 +136120,8 @@
         "晨曦山"
       ],
       "disable": true,
+      "version": 2026013101,
+      "refresh_update_type": 2,
       "refresh_type": 1,
       "refresh_param": 11020276,
       "refresh_rule": 53,
@@ -146092,6 +147687,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -146165,6 +147761,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -146237,6 +147834,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -177444,6 +179042,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -206182,6 +207781,7 @@
       "lock_on_ground": 1,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -206353,6 +207953,7 @@
       "lock_on_ground": 1,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -206410,6 +208011,7 @@
       "lock_on_ground": 1,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -206581,6 +208183,7 @@
       "lock_on_ground": 1,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -208321,6 +209924,7 @@
       "lock_on_ground": 1,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -208378,6 +209982,7 @@
       "lock_on_ground": 1,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -217663,6 +219268,7 @@
       "lock_on_ground": 1,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -217720,6 +219326,7 @@
       "lock_on_ground": 1,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -217777,6 +219384,7 @@
       "lock_on_ground": 1,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -217834,6 +219442,7 @@
       "lock_on_ground": 1,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -217891,6 +219500,7 @@
       "lock_on_ground": 1,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -217948,6 +219558,7 @@
       "lock_on_ground": 1,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -221807,6 +223418,7 @@
       "lock_on_ground": 1,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -230385,6 +231997,8 @@
         "xinyuezou",
         "地编自动生成"
       ],
+      "version": 2026013101,
+      "refresh_update_type": 2,
       "refresh_type": 1,
       "refresh_param": 21031014,
       "refresh_rule": 2,
@@ -310093,6 +311707,8 @@
         "roccofan改成了任务召出",
         "地编自动生成"
       ],
+      "version": 2026020601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
       "refresh_type": 1,
@@ -377699,6 +379315,8 @@
       "editor_name": [
         "商店街-佩西阿姨"
       ],
+      "version": 2026012402,
+      "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
       "refresh_type": 1,
@@ -379353,6 +380971,8 @@
         "penelopeli",
         "地编自动生成"
       ],
+      "version": 2026020702,
+      "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
       "refresh_type": 1,
@@ -383431,6 +385051,8 @@
       "editor_name": [
         "白树空间-漂浮逗逗"
       ],
+      "version": 2026013101,
+      "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
       "refresh_type": 1,
@@ -383459,6 +385081,8 @@
       "editor_name": [
         "白树空间-漂浮逗逗"
       ],
+      "version": 2026013101,
+      "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
       "refresh_type": 1,
@@ -383487,6 +385111,8 @@
       "editor_name": [
         "白树空间-漂浮逗逗"
       ],
+      "version": 2026013101,
+      "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
       "refresh_type": 1,
@@ -384099,7 +385725,7 @@
       "editor_name": [
         "学院驻地-路易斯"
       ],
-      "version": 2026020701,
+      "version": 2026022802,
       "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
@@ -384143,6 +385769,8 @@
         "penelopeli",
         "地编自动生成"
       ],
+      "version": 2026020702,
+      "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
       "refresh_type": 1,
@@ -384170,6 +385798,8 @@
       "editor_name": [
         "学院驻地-可丽希亚"
       ],
+      "version": 2026020702,
+      "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
       "refresh_type": 1,
@@ -384207,6 +385837,8 @@
       "editor_name": [
         "学院驻地-菲尔特"
       ],
+      "version": 2026020702,
+      "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
       "refresh_type": 1,
@@ -384477,6 +386109,8 @@
         "penelopeli",
         "地编自动生成"
       ],
+      "version": 2026020702,
+      "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
       "refresh_type": 1,
@@ -404604,6 +406238,8 @@
         "gameliu",
         "地编自动生成"
       ],
+      "version": 2026012102,
+      "refresh_update_type": 2,
       "Application_type": 2,
       "refresh_type": 1,
       "refresh_param": 201030607,
@@ -404807,6 +406443,8 @@
         "gameliu",
         "地编自动生成"
       ],
+      "version": 2026022501,
+      "refresh_update_type": 2,
       "Application_type": 2,
       "refresh_type": 1,
       "refresh_param": 201030614,
@@ -414929,6 +416567,8 @@
         "gameliu",
         "地编自动生成"
       ],
+      "version": 2026013102,
+      "refresh_update_type": 2,
       "Application_type": 2,
       "refresh_type": 1,
       "refresh_param": 201031063,
@@ -414961,6 +416601,8 @@
         "gameliu",
         "地编自动生成"
       ],
+      "version": 2026013102,
+      "refresh_update_type": 2,
       "Application_type": 2,
       "refresh_type": 1,
       "refresh_param": 201031064,
@@ -415177,6 +416819,8 @@
         "gameliu",
         "地编自动生成"
       ],
+      "version": 2026013102,
+      "refresh_update_type": 2,
       "Application_type": 2,
       "refresh_type": 1,
       "refresh_param": 201031072,
@@ -417152,6 +418796,8 @@
         "gameliu",
         "地编自动生成"
       ],
+      "version": 2026012802,
+      "refresh_update_type": 2,
       "Application_type": 2,
       "refresh_type": 1,
       "refresh_param": 201031166,
@@ -417395,6 +419041,8 @@
         "gameliu",
         "地编自动生成"
       ],
+      "version": 2026012802,
+      "refresh_update_type": 2,
       "Application_type": 2,
       "refresh_type": 1,
       "refresh_param": 201031176,
@@ -417881,6 +419529,8 @@
         "gameliu",
         "地编自动生成"
       ],
+      "version": 2026012802,
+      "refresh_update_type": 2,
       "Application_type": 2,
       "refresh_type": 1,
       "refresh_param": 201031194,
@@ -417908,6 +419558,8 @@
         "gameliu",
         "地编自动生成"
       ],
+      "version": 2026012802,
+      "refresh_update_type": 2,
       "Application_type": 2,
       "refresh_type": 1,
       "refresh_param": 201031195,
@@ -417935,6 +419587,8 @@
         "gameliu",
         "地编自动生成"
       ],
+      "version": 2026012802,
+      "refresh_update_type": 2,
       "Application_type": 2,
       "refresh_type": 1,
       "refresh_param": 201031196,
@@ -418317,6 +419971,8 @@
         "gameliu",
         "地编自动生成"
       ],
+      "version": 2026013102,
+      "refresh_update_type": 2,
       "Application_type": 2,
       "refresh_type": 1,
       "refresh_param": 201031212,
@@ -423702,6 +425358,8 @@
         "gameliu",
         "地编自动生成"
       ],
+      "version": 2026013102,
+      "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
       "refresh_type": 1,
@@ -424280,6 +425938,8 @@
         "gameliu",
         "地编自动生成"
       ],
+      "version": 2026020501,
+      "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
       "refresh_type": 1,
@@ -424679,6 +426339,7 @@
         "A2-贵族餐厅-入口",
         "gameliu"
       ],
+      "disable": true,
       "overlap_processing_type": 3,
       "refresh_type": 1,
       "refresh_param": 201031416,
@@ -424702,6 +426363,7 @@
         "A2-贵族餐厅-出口",
         "gameliu"
       ],
+      "disable": true,
       "overlap_processing_type": 3,
       "refresh_type": 1,
       "refresh_param": 201031417,
@@ -424725,6 +426387,7 @@
         "A2-温馨小屋-入口",
         "gameliu"
       ],
+      "disable": true,
       "overlap_processing_type": 3,
       "refresh_type": 1,
       "refresh_param": 201031418,
@@ -424748,6 +426411,7 @@
         "A2-温馨小屋-出口",
         "gameliu"
       ],
+      "disable": true,
       "overlap_processing_type": 3,
       "refresh_type": 1,
       "refresh_param": 201031419,
@@ -424771,6 +426435,7 @@
         "A2-舒适餐厅-入口",
         "gameliu"
       ],
+      "disable": true,
       "overlap_processing_type": 3,
       "refresh_type": 1,
       "refresh_param": 201031420,
@@ -424794,6 +426459,7 @@
         "A2-舒适餐厅-出口",
         "gameliu"
       ],
+      "disable": true,
       "overlap_processing_type": 3,
       "refresh_type": 1,
       "refresh_param": 201031421,
@@ -424817,6 +426483,7 @@
         "A2-书店-入口",
         "gameliu"
       ],
+      "disable": true,
       "overlap_processing_type": 3,
       "refresh_type": 1,
       "refresh_param": 201031422,
@@ -424840,6 +426507,7 @@
         "A2-书店-出口",
         "gameliu"
       ],
+      "disable": true,
       "overlap_processing_type": 3,
       "refresh_type": 1,
       "refresh_param": 201031423,
@@ -440582,6 +442250,8 @@
       "editor_name": [
         "萌萌"
       ],
+      "version": 2026020702,
+      "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
       "refresh_type": 1,
@@ -443615,6 +445285,8 @@
       "editor_name": [
         "骨片"
       ],
+      "version": 2026020301,
+      "refresh_update_type": 2,
       "refresh_type": 1,
       "refresh_param": 225010013,
       "refresh_rule": 5,
@@ -447904,6 +449576,8 @@
       "editor_name": [
         "月牙镇-萌萌"
       ],
+      "version": 2026020702,
+      "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
       "refresh_type": 1,
@@ -452696,6 +454370,8 @@
         "A2主线—假扮成人的空空颅",
         "王国城堡"
       ],
+      "version": 2026013101,
+      "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
       "refresh_type": 1,
@@ -456002,6 +457678,8 @@
         "B1-新环境叙事-水池迷踪魔偶1",
         "魔法学院"
       ],
+      "version": 2026022701,
+      "refresh_update_type": 2,
       "Application_type": 2,
       "refresh_type": 1,
       "refresh_param": 191030484,
@@ -456035,6 +457713,8 @@
         "B1-新环境叙事-·连廊迷踪魔偶2",
         "魔法学院"
       ],
+      "version": 2026022701,
+      "refresh_update_type": 2,
       "Application_type": 2,
       "refresh_type": 1,
       "refresh_param": 191030485,
@@ -456164,6 +457844,8 @@
         "B1-新环境叙事-宿舍迷踪魔偶6",
         "魔法学院"
       ],
+      "version": 2026022701,
+      "refresh_update_type": 2,
       "Application_type": 2,
       "refresh_type": 1,
       "refresh_param": 191030489,
@@ -456197,6 +457879,8 @@
         "B1-新环境叙事-长袍迷踪魔偶7",
         "魔法学院"
       ],
+      "version": 2026022701,
+      "refresh_update_type": 2,
       "Application_type": 2,
       "refresh_type": 1,
       "refresh_param": 191030490,
@@ -456622,6 +458306,8 @@
         "B1-新环境叙事-医生斯凯勒（常驻）",
         "魔法学院"
       ],
+      "version": 2026030303,
+      "refresh_update_type": 2,
       "Application_type": 2,
       "refresh_type": 1,
       "refresh_param": 191030505,
@@ -456654,6 +458340,8 @@
         "B1-新环境叙事-化石妹梅莉安（常驻）",
         "魔法学院"
       ],
+      "version": 2026030303,
+      "refresh_update_type": 2,
       "Application_type": 2,
       "refresh_type": 1,
       "refresh_param": 191030506,
@@ -456686,6 +458374,8 @@
         "B1-新环境叙事-赛奇",
         "魔法学院"
       ],
+      "version": 2026030303,
+      "refresh_update_type": 2,
       "Application_type": 2,
       "refresh_type": 1,
       "refresh_param": 191030507,
@@ -456718,6 +458408,8 @@
         "B1-新环境叙事-魔典女王伊拉（常驻）",
         "魔法学院"
       ],
+      "version": 2026030303,
+      "refresh_update_type": 2,
       "Application_type": 2,
       "refresh_type": 1,
       "refresh_param": 191030508,
@@ -456750,6 +458442,8 @@
         "B1-新环境叙事-玻璃箱交互三角",
         "魔法学院"
       ],
+      "version": 2026030303,
+      "refresh_update_type": 2,
       "Application_type": 2,
       "refresh_type": 1,
       "refresh_param": 191030509,
@@ -456778,6 +458472,8 @@
         "B1-新环境叙事-化石交互三角",
         "魔法学院"
       ],
+      "version": 2026030303,
+      "refresh_update_type": 2,
       "Application_type": 2,
       "refresh_type": 1,
       "refresh_param": 191030510,
@@ -456806,6 +458502,8 @@
         "B1-新环境叙事-魔典交互三角",
         "魔法学院"
       ],
+      "version": 2026030303,
+      "refresh_update_type": 2,
       "Application_type": 2,
       "refresh_type": 1,
       "refresh_param": 191030511,
@@ -456834,6 +458532,8 @@
         "B1-新环境叙事-水晶球交互三角",
         "魔法学院"
       ],
+      "version": 2026030303,
+      "refresh_update_type": 2,
       "Application_type": 2,
       "refresh_type": 1,
       "refresh_param": 191030512,
@@ -456862,6 +458562,8 @@
         "B1-新环境叙事-怪谈宣言交互三角",
         "魔法学院"
       ],
+      "version": 2026030303,
+      "refresh_update_type": 2,
       "Application_type": 2,
       "refresh_type": 1,
       "refresh_param": 191030513,
@@ -456890,6 +458592,8 @@
         "B1-新环境叙事-传送门交互三角",
         "魔法学院"
       ],
+      "version": 2026030303,
+      "refresh_update_type": 2,
       "Application_type": 2,
       "refresh_type": 1,
       "refresh_param": 191030514,
@@ -456922,6 +458626,8 @@
         "B1-新环境叙事-社内留言板交互三角",
         "魔法学院"
       ],
+      "version": 2026030303,
+      "refresh_update_type": 2,
       "Application_type": 2,
       "refresh_type": 1,
       "refresh_param": 191030515,
@@ -456950,6 +458656,8 @@
         "B1-新环境叙事-魔石交互三角",
         "魔法学院"
       ],
+      "version": 2026030303,
+      "refresh_update_type": 2,
       "Application_type": 2,
       "refresh_type": 1,
       "refresh_param": 191030516,
@@ -456982,6 +458690,8 @@
         "B1-新环境叙事-星盘交互三角",
         "魔法学院"
       ],
+      "version": 2026030303,
+      "refresh_update_type": 2,
       "Application_type": 2,
       "refresh_type": 1,
       "refresh_param": 191030517,
@@ -457010,6 +458720,8 @@
         "B1-新环境叙事-沙发床交互三角",
         "魔法学院"
       ],
+      "version": 2026030303,
+      "refresh_update_type": 2,
       "Application_type": 2,
       "refresh_type": 1,
       "refresh_param": 191030518,
@@ -457038,6 +458750,8 @@
         "B1-新环境叙事-DAY2化石妹",
         "魔法学院"
       ],
+      "version": 2026030303,
+      "refresh_update_type": 2,
       "Application_type": 2,
       "refresh_type": 1,
       "refresh_param": 191030519,
@@ -457070,6 +458784,8 @@
         "B1-新环境叙事-DAY2魔典女王",
         "魔法学院"
       ],
+      "version": 2026030303,
+      "refresh_update_type": 2,
       "Application_type": 2,
       "refresh_type": 1,
       "refresh_param": 191030520,
@@ -457102,6 +458818,8 @@
         "B1-新环境叙事-采蘑菇魔药学生1",
         "魔法学院"
       ],
+      "version": 2026030303,
+      "refresh_update_type": 2,
       "Application_type": 2,
       "refresh_type": 1,
       "refresh_param": 191030521,
@@ -457134,6 +458852,8 @@
         "B1-新环境叙事-采蘑菇魔药学生2",
         "魔法学院"
       ],
+      "version": 2026030303,
+      "refresh_update_type": 2,
       "Application_type": 2,
       "refresh_type": 1,
       "refresh_param": 191030522,
@@ -457554,6 +459274,8 @@
         "B1-新环境叙事-观察猛犸生态学生1",
         "魔法学院"
       ],
+      "version": 2026030303,
+      "refresh_update_type": 2,
       "Application_type": 2,
       "refresh_type": 1,
       "refresh_param": 191030537,
@@ -457586,6 +459308,8 @@
         "B1-新环境叙事-观察猛犸生态学生3",
         "魔法学院"
       ],
+      "version": 2026030303,
+      "refresh_update_type": 2,
       "Application_type": 2,
       "refresh_type": 1,
       "refresh_param": 191030538,
@@ -457618,6 +459342,8 @@
         "B1-新环境叙事-观察猛犸生态学生2",
         "魔法学院"
       ],
+      "version": 2026030303,
+      "refresh_update_type": 2,
       "Application_type": 2,
       "refresh_type": 1,
       "refresh_param": 191030539,
@@ -458459,6 +460185,8 @@
         "B1-新环境叙事-屋脊迷踪魔偶8",
         "魔法学院"
       ],
+      "version": 2026022701,
+      "refresh_update_type": 2,
       "Application_type": 2,
       "refresh_type": 1,
       "refresh_param": 191030568,
@@ -458492,6 +460220,8 @@
         "B1-新环境叙事-临行船长噜噜",
         "魔法学院"
       ],
+      "version": 2026030303,
+      "refresh_update_type": 2,
       "Application_type": 2,
       "refresh_type": 1,
       "refresh_param": 191030569,
@@ -458520,6 +460250,8 @@
         "B1-新环境叙事-临行路易斯",
         "魔法学院"
       ],
+      "version": 2026030303,
+      "refresh_update_type": 2,
       "Application_type": 2,
       "refresh_type": 1,
       "refresh_param": 191030570,
@@ -458692,6 +460424,8 @@
         "B1-新环境叙事-主线结束常驻珂赛特",
         "魔法学院"
       ],
+      "version": 2026030303,
+      "refresh_update_type": 2,
       "Application_type": 2,
       "refresh_type": 1,
       "refresh_param": 191030576,
@@ -458926,6 +460660,8 @@
         "A1-伊里斯小屋-伊里斯之歌4卷（光点）",
         "伊里斯小屋"
       ],
+      "version": 2026030303,
+      "refresh_update_type": 2,
       "Application_type": 2,
       "refresh_type": 1,
       "refresh_param": 191030598,
@@ -458958,6 +460694,8 @@
         "A1-伊里斯小屋-风灾记录",
         "伊里斯小屋"
       ],
+      "version": 2026030303,
+      "refresh_update_type": 2,
       "Application_type": 2,
       "refresh_type": 1,
       "refresh_param": 191030585,
@@ -458990,6 +460728,8 @@
         "A1-伊里斯小屋-皱巴巴的信",
         "伊里斯小屋"
       ],
+      "version": 2026030303,
+      "refresh_update_type": 2,
       "Application_type": 2,
       "refresh_type": 1,
       "refresh_param": 191030586,
@@ -459022,6 +460762,8 @@
         "A1-伊里斯小屋-洛克风俗研究",
         "伊里斯小屋"
       ],
+      "version": 2026030303,
+      "refresh_update_type": 2,
       "Application_type": 2,
       "refresh_type": 1,
       "refresh_param": 191030587,
@@ -459054,6 +460796,8 @@
         "A1-伊里斯小屋-魔法学院感谢信",
         "伊里斯小屋"
       ],
+      "version": 2026030303,
+      "refresh_update_type": 2,
       "Application_type": 2,
       "refresh_type": 1,
       "refresh_param": 191030588,
@@ -459086,6 +460830,8 @@
         "A1-伊里斯小屋-大魔法师日程",
         "伊里斯小屋"
       ],
+      "version": 2026030303,
+      "refresh_update_type": 2,
       "Application_type": 2,
       "refresh_type": 1,
       "refresh_param": 191030589,
@@ -459118,6 +460864,8 @@
         "A1-伊里斯小屋-伊里斯之歌5卷（光点）",
         "伊里斯小屋"
       ],
+      "version": 2026030303,
+      "refresh_update_type": 2,
       "Application_type": 2,
       "refresh_type": 1,
       "refresh_param": 191030599,
@@ -459318,6 +461066,8 @@
         "A1-伊里斯之歌-卷1（光点）",
         "风眠省"
       ],
+      "version": 2026030303,
+      "refresh_update_type": 2,
       "Application_type": 1,
       "refresh_type": 1,
       "refresh_param": 191030594,
@@ -459350,6 +461100,8 @@
         "A1-伊里斯之歌-卷2（光点）",
         "风眠省"
       ],
+      "version": 2026030303,
+      "refresh_update_type": 2,
       "Application_type": 1,
       "refresh_type": 1,
       "refresh_param": 191030595,
@@ -459410,6 +461162,8 @@
         "A1-伊里斯之歌-卷三（光点）",
         "风眠省"
       ],
+      "version": 2026030303,
+      "refresh_update_type": 2,
       "Application_type": 1,
       "refresh_type": 1,
       "refresh_param": 191030597,
@@ -459442,6 +461196,8 @@
         "A1-伊里斯论文（光点）",
         "伊里斯小屋"
       ],
+      "version": 2026030303,
+      "refresh_update_type": 2,
       "Application_type": 1,
       "refresh_type": 1,
       "refresh_param": 191030584,
@@ -463737,6 +465493,8 @@
         "xinyuezou-黑巫师之影-恩佐（驻地）",
         "轻测版本"
       ],
+      "version": 2026020401,
+      "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
       "refresh_type": 1,
@@ -464367,6 +466125,8 @@
         "xinyuezou-黑巫师之影-恩佐（驻地）（不隐藏版本）",
         "轻测版本"
       ],
+      "version": 2026020401,
+      "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
       "refresh_type": 1,
@@ -464620,6 +466380,8 @@
         "xinyuezou",
         "滋滋-工匠协会拾遗"
       ],
+      "version": 2026020301,
+      "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
       "refresh_type": 1,
@@ -464654,6 +466416,8 @@
         "xinyuezou",
         "旋仔-工匠协会拾遗"
       ],
+      "version": 2026020301,
+      "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
       "refresh_type": 1,
@@ -464688,6 +466452,8 @@
         "xinyuezou",
         "咕噜噜-工匠协会拾遗"
       ],
+      "version": 2026020301,
+      "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
       "refresh_type": 1,
@@ -465154,6 +466920,8 @@
         "工匠协会-升级后滋滋位置-工匠协会拾遗",
         "xinyuezou"
       ],
+      "version": 2026020301,
+      "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
       "refresh_type": 1,
@@ -465187,6 +466955,8 @@
         "工匠协会-升级后旋仔位置-工匠协会拾遗",
         "xinyuezou"
       ],
+      "version": 2026020301,
+      "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
       "refresh_type": 1,
@@ -465220,6 +466990,8 @@
         "工匠协会-升级后咕噜噜位置-工匠协会拾遗",
         "xinyuezou"
       ],
+      "version": 2026020301,
+      "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
       "refresh_type": 1,
@@ -466728,6 +468500,9 @@
         "zhaoqigao",
         "地编自动生成"
       ],
+      "disable": true,
+      "version": 2026052101,
+      "refresh_update_type": 2,
       "refresh_type": 1,
       "refresh_param": 241030060,
       "refresh_rule": 2,
@@ -486713,6 +488488,7 @@
       "lock_on_ground": 1,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -486786,6 +488562,7 @@
       "lock_on_ground": 1,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -486859,6 +488636,7 @@
       "lock_on_ground": 1,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -503202,6 +504980,8 @@
         "晨曦山"
       ],
       "disable": true,
+      "version": 2026013101,
+      "refresh_update_type": 2,
       "refresh_type": 1,
       "refresh_param": 261034713,
       "refresh_rule": 53,
@@ -512239,6 +514019,7 @@
       "lock_on_ground": 1,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -512316,6 +514097,7 @@
       "lock_on_ground": 1,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -513795,6 +515577,7 @@
       "lock_on_ground": 1,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -514807,6 +516590,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -514878,6 +516662,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -518447,6 +520232,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -518518,6 +520304,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -518589,6 +520376,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -524634,6 +526422,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -524705,6 +526494,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -524776,6 +526566,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -524847,6 +526638,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -525598,6 +527390,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -527454,6 +529247,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -527525,6 +529319,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -527596,6 +529391,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -528362,6 +530158,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -530287,6 +532084,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -530834,6 +532632,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -530905,6 +532704,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -530976,6 +532776,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -533189,6 +534990,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -535617,6 +537419,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -535690,6 +537493,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -535763,6 +537567,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -535836,6 +537641,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -535909,6 +537715,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -535982,6 +537789,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -536055,6 +537863,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -536128,6 +537937,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -536201,6 +538011,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -536274,6 +538085,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -536347,6 +538159,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -536420,6 +538233,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -536493,6 +538307,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -536566,6 +538381,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -536639,6 +538455,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -536712,6 +538529,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -536785,6 +538603,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -549939,6 +551758,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -550010,6 +551830,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -551814,6 +553635,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -551885,6 +553707,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -551956,6 +553779,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -563599,6 +565423,7 @@
       "lock_on_ground": 1,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -563656,6 +565481,7 @@
       "lock_on_ground": 1,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -574475,6 +576301,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -576992,6 +578819,8 @@
         "晨曦山-夜晚"
       ],
       "disable": true,
+      "version": 2026013101,
+      "refresh_update_type": 2,
       "refresh_type": 1,
       "refresh_param": 261035831,
       "refresh_rule": 53,
@@ -577045,6 +578874,8 @@
         "晨曦山-夜晚"
       ],
       "disable": true,
+      "version": 2026013101,
+      "refresh_update_type": 2,
       "refresh_type": 1,
       "refresh_param": 261035832,
       "refresh_rule": 53,
@@ -577098,6 +578929,8 @@
         "晨曦山-夜晚"
       ],
       "disable": true,
+      "version": 2026013101,
+      "refresh_update_type": 2,
       "refresh_type": 1,
       "refresh_param": 261035833,
       "refresh_rule": 53,
@@ -577151,6 +578984,8 @@
         "晨曦山-夜晚"
       ],
       "disable": true,
+      "version": 2026013101,
+      "refresh_update_type": 2,
       "refresh_type": 1,
       "refresh_param": 261035834,
       "refresh_rule": 53,
@@ -577204,6 +579039,8 @@
         "晨曦山-夜晚"
       ],
       "disable": true,
+      "version": 2026013101,
+      "refresh_update_type": 2,
       "refresh_type": 1,
       "refresh_param": 261035835,
       "refresh_rule": 53,
@@ -577535,6 +579372,8 @@
         "晨曦山-夜晚"
       ],
       "disable": true,
+      "version": 2026013101,
+      "refresh_update_type": 2,
       "refresh_type": 1,
       "refresh_param": 261035840,
       "refresh_rule": 53,
@@ -583687,6 +585526,8 @@
         "晨曦山-夜晚"
       ],
       "disable": true,
+      "version": 2026013101,
+      "refresh_update_type": 2,
       "refresh_type": 1,
       "refresh_param": 261035928,
       "refresh_rule": 53,
@@ -583740,6 +585581,8 @@
         "晨曦山-夜晚"
       ],
       "disable": true,
+      "version": 2026013101,
+      "refresh_update_type": 2,
       "refresh_type": 1,
       "refresh_param": 261035929,
       "refresh_rule": 53,
@@ -583793,6 +585636,8 @@
         "晨曦山-夜晚"
       ],
       "disable": true,
+      "version": 2026013101,
+      "refresh_update_type": 2,
       "refresh_type": 1,
       "refresh_param": 261035930,
       "refresh_rule": 53,
@@ -583846,6 +585691,8 @@
         "晨曦山-夜晚"
       ],
       "disable": true,
+      "version": 2026013101,
+      "refresh_update_type": 2,
       "refresh_type": 1,
       "refresh_param": 261035931,
       "refresh_rule": 53,
@@ -591018,6 +592865,7 @@
       "lock_on_ground": 1,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -591075,6 +592923,7 @@
       "lock_on_ground": 1,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -756016,6 +757865,8 @@
         "公测",
         "地编自动生成"
       ],
+      "version": 2026012202,
+      "refresh_update_type": 2,
       "refresh_type": 1,
       "refresh_param": 421030397,
       "refresh_rule": 5,
@@ -758282,6 +760133,8 @@
         "公测",
         "地编自动生成"
       ],
+      "version": 2026011901,
+      "refresh_update_type": 2,
       "refresh_type": 1,
       "refresh_param": 421030470,
       "refresh_rule": 5,
@@ -775518,6 +777371,8 @@
         "rocokingli",
         "地编自动生成"
       ],
+      "version": 2026020702,
+      "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
       "refresh_type": 1,
@@ -776207,6 +778062,8 @@
         "rocokingli",
         "地编自动生成"
       ],
+      "version": 2026020702,
+      "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
       "refresh_type": 1,
@@ -776256,6 +778113,8 @@
         "rocokingli",
         "地编自动生成"
       ],
+      "version": 2026020702,
+      "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
       "refresh_type": 1,
@@ -777793,6 +779652,8 @@
         "rocokingli",
         "地编自动生成"
       ],
+      "version": 2026020702,
+      "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
       "refresh_type": 1,
@@ -778053,6 +779914,8 @@
         "rocokingli",
         "地编自动生成"
       ],
+      "version": 2026012301,
+      "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
       "refresh_type": 1,
@@ -778245,6 +780108,8 @@
         "rocokingli",
         "地编自动生成"
       ],
+      "version": 2026012301,
+      "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
       "refresh_type": 1,
@@ -778525,6 +780390,8 @@
         "rocokingli",
         "地编自动生成"
       ],
+      "version": 2026012301,
+      "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
       "refresh_type": 1,
@@ -778548,6 +780415,8 @@
         "rocokingli",
         "地编自动生成"
       ],
+      "version": 2026012301,
+      "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
       "refresh_type": 1,
@@ -778571,6 +780440,8 @@
         "rocokingli",
         "地编自动生成"
       ],
+      "version": 2026012301,
+      "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
       "refresh_type": 1,
@@ -778594,6 +780465,8 @@
         "rocokingli",
         "地编自动生成"
       ],
+      "version": 2026012301,
+      "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
       "refresh_type": 1,
@@ -778617,6 +780490,8 @@
         "rocokingli",
         "地编自动生成"
       ],
+      "version": 2026012301,
+      "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
       "refresh_type": 1,
@@ -778640,6 +780515,8 @@
         "rocokingli",
         "地编自动生成"
       ],
+      "version": 2026012301,
+      "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
       "refresh_type": 1,
@@ -778663,6 +780540,8 @@
         "rocokingli",
         "地编自动生成"
       ],
+      "version": 2026012301,
+      "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
       "refresh_type": 1,
@@ -778686,6 +780565,8 @@
         "rocokingli",
         "地编自动生成"
       ],
+      "version": 2026012301,
+      "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
       "refresh_type": 1,
@@ -778709,6 +780590,8 @@
         "rocokingli",
         "地编自动生成"
       ],
+      "version": 2026012301,
+      "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
       "refresh_type": 1,
@@ -778732,6 +780615,8 @@
         "rocokingli",
         "地编自动生成"
       ],
+      "version": 2026012301,
+      "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
       "refresh_type": 1,
@@ -778826,6 +780711,8 @@
         "rocokingli",
         "地编自动生成"
       ],
+      "version": 2026010701,
+      "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
       "refresh_type": 1,
@@ -778848,6 +780735,8 @@
         "rocokingli",
         "地编自动生成"
       ],
+      "version": 2026010701,
+      "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
       "refresh_type": 1,
@@ -778984,6 +780873,8 @@
         "rocokingli",
         "地编自动生成"
       ],
+      "version": 2026010701,
+      "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
       "refresh_type": 1,
@@ -779033,6 +780924,8 @@
         "rocokingli",
         "地编自动生成"
       ],
+      "version": 2026012301,
+      "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
       "refresh_type": 1,
@@ -780484,6 +782377,8 @@
         "rocokingli",
         "地编自动生成"
       ],
+      "version": 2026012302,
+      "refresh_update_type": 2,
       "refresh_type": 1,
       "refresh_param": 405040028,
       "refresh_rule": 5,
@@ -780806,6 +782701,8 @@
         "rocokingli",
         "地编自动生成"
       ],
+      "version": 2026012301,
+      "refresh_update_type": 2,
       "refresh_type": 1,
       "refresh_param": 405020046,
       "refresh_rule": 5,
@@ -780827,6 +782724,8 @@
         "rocokingli",
         "地编自动生成"
       ],
+      "version": 2026012301,
+      "refresh_update_type": 2,
       "refresh_type": 1,
       "refresh_param": 405020047,
       "refresh_rule": 5,
@@ -785328,6 +787227,8 @@
         "pikofeng",
         "地编自动生成"
       ],
+      "version": 2026020201,
+      "refresh_update_type": 2,
       "refresh_type": 1,
       "refresh_param": 431030053,
       "refresh_rule": 5,
@@ -785561,6 +787462,8 @@
         "pikofeng",
         "地编自动生成"
       ],
+      "version": 2026011901,
+      "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
       "refresh_type": 1,
@@ -789251,7 +791154,7 @@
         "pikofeng",
         "地编自动生成"
       ],
-      "version": 100,
+      "version": 2026030601,
       "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
@@ -790806,6 +792709,8 @@
         "pikofeng",
         "地编自动生成"
       ],
+      "version": 2026030303,
+      "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
       "refresh_type": 1,
@@ -791939,7 +793844,7 @@
         "pikofeng",
         "地编自动生成"
       ],
-      "version": 100,
+      "version": 2026030601,
       "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
@@ -794278,6 +796183,8 @@
         "pikofeng",
         "地编自动生成"
       ],
+      "version": 2026012001,
+      "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
       "refresh_type": 1,
@@ -794300,6 +796207,8 @@
         "pikofeng",
         "地编自动生成"
       ],
+      "version": 2026012001,
+      "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
       "refresh_type": 1,
@@ -794348,6 +796257,8 @@
         "pikofeng",
         "地编自动生成"
       ],
+      "version": 2026020601,
+      "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
       "refresh_type": 1,
@@ -796637,6 +798548,8 @@
         "pikofeng",
         "地编自动生成"
       ],
+      "version": 2026030303,
+      "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
       "refresh_type": 1,
@@ -823875,6 +825788,8 @@
         "elonxu",
         "地编自动生成"
       ],
+      "version": 2026030303,
+      "refresh_update_type": 2,
       "Application_type": 2,
       "refresh_type": 1,
       "refresh_param": 461030218,
@@ -824457,6 +826372,8 @@
         "downeyzhang",
         "地编自动生成"
       ],
+      "version": 2026012301,
+      "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
       "refresh_type": 1,
@@ -836512,6 +838429,8 @@
         "roccofan",
         "常住兰斯洛-多个任务引用"
       ],
+      "version": 2026012801,
+      "refresh_update_type": 2,
       "refresh_type": 1,
       "refresh_param": 521030075,
       "refresh_rule": 2,
@@ -838495,6 +840414,8 @@
         "roccofan",
         "家园常驻-roccofan-家园引导-常驻山姆"
       ],
+      "version": 2026012401,
+      "refresh_update_type": 2,
       "refresher_type": 1,
       "overlap_processing_type": 3,
       "Application_type": 1,
@@ -844303,6 +846224,8 @@
         "echogeng",
         "地编自动生成"
       ],
+      "version": 2026020601,
+      "refresh_update_type": 2,
       "refresh_type": 1,
       "refresh_param": 541030128,
       "refresh_rule": 3,
@@ -851715,6 +853638,9 @@
         "echogeng",
         "地编自动生成"
       ],
+      "disable": true,
+      "version": 2026051101,
+      "refresh_update_type": 2,
       "refresh_type": 1,
       "refresh_param": 541030530,
       "refresh_rule": 2,
@@ -884914,6 +886840,8 @@
         "qingyingguo",
         "三测-许愿星兑换商店常驻萌萌"
       ],
+      "version": 2026022401,
+      "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
       "refresh_type": 1,
@@ -885112,6 +887040,8 @@
         "qingyingguo",
         "三测-间章后兑换商店易西"
       ],
+      "version": 2026020702,
+      "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
       "refresh_type": 1,
@@ -887725,6 +889655,8 @@
         "qingyingguo",
         "公测-许愿星商店-芙蕾雅（虚影）"
       ],
+      "version": 2026020702,
+      "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
       "refresh_type": 1,
@@ -901732,6 +903664,8 @@
         "rocowang",
         "宿敌之战"
       ],
+      "version": 2026020702,
+      "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
       "refresh_type": 1,
@@ -901778,6 +903712,8 @@
         "rocowang",
         "宿敌之战"
       ],
+      "version": 2026020702,
+      "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
       "refresh_type": 1,
@@ -901924,7 +903860,7 @@
         "rocowang",
         "长签活动"
       ],
-      "version": 2026030303,
+      "version": 2026030306,
       "refresh_update_type": 2,
       "overlap_processing_type": 3,
       "Application_type": 1,
@@ -918127,6 +920063,7 @@
         "tenhaozhang",
         "地编自动生成"
       ],
+      "version": 2026022801,
       "refresh_type": 1,
       "refresh_param": 601030973,
       "refresh_rule": 3,
@@ -919059,6 +920996,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -919130,6 +921068,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -919909,6 +921848,7 @@
       "lock_on_ground": 1,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -919986,6 +921926,7 @@
       "lock_on_ground": 1,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -921221,6 +923162,7 @@
       "lock_on_ground": 1,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -925738,6 +927680,7 @@
       "lock_on_ground": 1,
       "npc_initial_status": 4,
       "glass_limit_type": 1,
+      "shining_prob": 1,
       "glass_prob": 90,
       "nature_rand": [
         30
@@ -931951,6 +933894,7 @@
       "lock_on_ground": 1,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -932022,6 +933966,7 @@
       "lock_on_ground": 1,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -934186,6 +936131,7 @@
       "lock_on_ground": 1,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -934263,6 +936209,7 @@
       "lock_on_ground": 1,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -934404,6 +936351,7 @@
       "lock_on_ground": 1,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -934545,6 +936493,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -936109,6 +938058,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -937877,6 +939827,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -938018,6 +939969,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -938937,6 +940889,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -939144,6 +941097,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -942772,6 +944726,7 @@
       "lock_on_ground": 1,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -969886,6 +971841,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -970161,6 +972117,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -970521,6 +972478,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -970592,6 +972550,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -971610,6 +973569,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -972277,6 +974237,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -973407,6 +975368,7 @@
       "npc_initial_status": 4,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -976769,6 +978731,7 @@
       "lock_on_ground": 1,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -976826,6 +978789,7 @@
       "lock_on_ground": 1,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -976883,6 +978847,7 @@
       "lock_on_ground": 1,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -976940,6 +978905,7 @@
       "lock_on_ground": 1,
       "glass_limit_type": 1,
       "chaos_limit_type": 1,
+      "shining_prob": 1,
       "chaos_prob": [
         1,
         0,
@@ -996433,6 +998399,7 @@
         "kervinhe",
         "for地图追踪"
       ],
+      "version": 2026022801,
       "refresh_type": 1,
       "refresh_param": 561030208,
       "refresh_rule": 7,
@@ -996453,6 +998420,7 @@
         "kervinhe",
         "企鹅座椅商店地图图标"
       ],
+      "version": 2026022801,
       "refresh_type": 1,
       "refresh_param": 601030973,
       "refresh_rule": 3,
@@ -996754,25 +998722,6 @@
         100
       ]
     },
-    "40001008": {
-      "id": 40001008,
-      "editor_name": [
-        "【测试】shape类型挂机测试点",
-        "yunlinfeng",
-        "for地图追踪"
-      ],
-      "refresh_type": 1,
-      "refresh_param": 900000108,
-      "refresh_rule": 3,
-      "max_num": 1,
-      "storage_num": 1,
-      "npc_id": 600000,
-      "model_scale": 100,
-      "voice_percent": [
-        0,
-        100
-      ]
-    },
     "41000000": {
       "id": 41000000,
       "editor_name": [
@@ -996792,5 +998741,6 @@
         100
       ]
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

@@ -33222,8 +33222,8 @@
       "id": 30004,
       "editor_name": "知识板凳",
       "path": "Blueprint'/Game/NewRoco/Modules/Core/NPC/Props/BP_NPCSM_EnvComInte_Chair_002.BP_NPCSM_EnvComInte_Chair_002_C'",
-      "capsule_radius": 89637,
-      "capsule_halfheight": 35925,
+      "capsule_radius": 145054,
+      "capsule_halfheight": 70277,
       "model_scale": 100,
       "capsule_as_root": true
     },
@@ -41954,5 +41954,6 @@
       "capsule_halfheight": 100000,
       "model_scale": 100
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

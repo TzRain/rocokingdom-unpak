@@ -156,7 +156,7 @@
     "breeding": {
         "id": 3242001,
         "pet_id": 3242001,
-        "name": "异色牵线木偶",
+        "name": "呆火鸟",
         "model_id": 3242001,
         "hatch_data": 1,
         "weight_low": 1,
@@ -172,7 +172,7 @@
             {
                 "id": 3242001,
                 "pet_id": 3242001,
-                "name": "异色牵线木偶",
+                "name": "呆火鸟",
                 "model_id": 3242001,
                 "hatch_data": 1,
                 "weight_low": 1,
@@ -186,31 +186,9 @@
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 3253001,
-                "pet_id": 3253001,
-                "name": "呆火鸟",
-                "model_id": 3253001,
-                "hatch_data": 57600,
-                "weight_low": 5355,
-                "weight_high": 8600,
-                "height_low": 32,
-                "height_high": 37,
-                "precious_egg_type": null,
-                "egg_base_glass_prob_array": [
-                    395,
-                    2000
-                ],
-                "egg_add_glass_prob_array": [
-                    1,
-                    80
-                ],
-                "is_contact_add_glass_prob": true,
-                "is_contact_add_shining_prob": null
-            },
-            {
                 "id": 32420001,
                 "pet_id": 32420001,
-                "name": "机械方方",
+                "name": "呆火鸟",
                 "model_id": 3242001,
                 "hatch_data": 300,
                 "weight_low": 1,

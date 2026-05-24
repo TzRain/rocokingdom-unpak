@@ -67,52 +67,8 @@
     "move_pool": [
         {
             "id": 7070020,
-            "name": "战斗学科的某位老师，望着彩虹思索配队的时候，领悟到不同系别魔法穿过空气的速率是不一样的。",
-            "icon_id": "720008",
-            "move_type": {
-                "id": 17,
-                "name": "Mechanical",
-                "localized": {
-                    "zh": "机械"
-                }
-            },
-            "localized": {
-                "zh": {
-                    "name": "战斗学科的某位老师，望着彩虹思索配队的时候，领悟到不同系别魔法穿过空气的速率是不一样的。",
-                    "description": "械斗"
-                }
-            },
-            "move_category": "Physical Attack",
-            "energy_cost": 3,
-            "power": 80,
-            "description": "械斗"
-        },
-        {
-            "id": 7070030,
-            "name": "“我要存在，即使以最不优雅的姿态，也要拥有站在这个舞台上的权力。”——第437任盖布族族长",
-            "icon_id": "720006",
-            "move_type": {
-                "id": 17,
-                "name": "Mechanical",
-                "localized": {
-                    "zh": "机械"
-                }
-            },
-            "localized": {
-                "zh": {
-                    "name": "“我要存在，即使以最不优雅的姿态，也要拥有站在这个舞台上的权力。”——第437任盖布族族长",
-                    "description": "造成物伤，本技能位于1号位时威力+60，传动1。"
-                }
-            },
-            "move_category": "Physical Attack",
-            "energy_cost": 4,
-            "power": null,
-            "description": "造成物伤，本技能位于1号位时威力+60，传动1。"
-        },
-        {
-            "id": 7070040,
             "name": "齿轮扭矩",
-            "icon_id": "720005",
+            "icon_id": "720008",
             "move_type": {
                 "id": 17,
                 "name": "Mechanical",
@@ -128,13 +84,35 @@
             },
             "move_category": "Physical Attack",
             "energy_cost": 3,
-            "power": 70,
+            "power": 80,
             "description": "造成物伤，每回合位置发生变化时，本技能威力永久+20。"
         },
         {
-            "id": 7070050,
+            "id": 7070030,
+            "name": "钢钻",
+            "icon_id": "720006",
+            "move_type": {
+                "id": 17,
+                "name": "Mechanical",
+                "localized": {
+                    "zh": "机械"
+                }
+            },
+            "localized": {
+                "zh": {
+                    "name": "钢钻",
+                    "description": "造成物伤，技能威力为两侧技能威力和的三分之一，传动1。"
+                }
+            },
+            "move_category": "Physical Attack",
+            "energy_cost": 4,
+            "power": null,
+            "description": "造成物伤，技能威力为两侧技能威力和的三分之一，传动1。"
+        },
+        {
+            "id": 7070040,
             "name": "钢铁洪流",
-            "icon_id": "206005",
+            "icon_id": "720005",
             "move_type": {
                 "id": 17,
                 "name": "Mechanical",
@@ -145,17 +123,39 @@
             "localized": {
                 "zh": {
                     "name": "钢铁洪流",
-                    "description": "造成物伤，技能威力为两侧技能威力和的三分之一，传动1。"
+                    "description": "造成物伤，本技能位于1号位时威力+90，传动2。"
+                }
+            },
+            "move_category": "Physical Attack",
+            "energy_cost": 3,
+            "power": 70,
+            "description": "造成物伤，本技能位于1号位时威力+90，传动2。"
+        },
+        {
+            "id": 7070050,
+            "name": "杠杆置换",
+            "icon_id": "206005",
+            "move_type": {
+                "id": 17,
+                "name": "Mechanical",
+                "localized": {
+                    "zh": "机械"
+                }
+            },
+            "localized": {
+                "zh": {
+                    "name": "杠杆置换",
+                    "description": "自己回复2能量，交换两侧技能位置。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 0,
             "power": null,
-            "description": "造成物伤，技能威力为两侧技能威力和的三分之一，传动1。"
+            "description": "自己回复2能量，交换两侧技能位置。"
         },
         {
             "id": 7070060,
-            "name": "机械原本没有意志，所行善恶来自造物者的欲望。",
+            "name": "轴承支撑",
             "icon_id": "720004",
             "move_type": {
                 "id": 17,
@@ -166,41 +166,19 @@
             },
             "localized": {
                 "zh": {
-                    "name": "机械原本没有意志，所行善恶来自造物者的欲望。",
-                    "description": "杠杆置换"
+                    "name": "轴承支撑",
+                    "description": "主动：本技能被动永久额外-1能耗，被动：两侧技能能耗-1，传动1。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 3,
             "power": null,
-            "description": "杠杆置换"
+            "description": "主动：本技能被动永久额外-1能耗，被动：两侧技能能耗-1，传动1。"
         },
         {
             "id": 7070070,
-            "name": "想得到些什么，就要付出些什么。想清楚代价是什么再行动。",
-            "icon_id": "106007",
-            "move_type": {
-                "id": 17,
-                "name": "Mechanical",
-                "localized": {
-                    "zh": "机械"
-                }
-            },
-            "localized": {
-                "zh": {
-                    "name": "想得到些什么，就要付出些什么。想清楚代价是什么再行动。",
-                    "description": "轴承支撑"
-                }
-            },
-            "move_category": "Status",
-            "energy_cost": 0,
-            "power": null,
-            "description": "轴承支撑"
-        },
-        {
-            "id": 7070080,
             "name": "联动装置",
-            "icon_id": "206008",
+            "icon_id": "106007",
             "move_type": {
                 "id": 17,
                 "name": "Mechanical",
@@ -214,14 +192,36 @@
                     "description": "使用后两侧技能的威力永久+20，应对防御：变为威力永久+30。"
                 }
             },
-            "move_category": "Defense",
-            "energy_cost": 2,
+            "move_category": "Status",
+            "energy_cost": 0,
             "power": null,
             "description": "使用后两侧技能的威力永久+20，应对防御：变为威力永久+30。"
         },
         {
+            "id": 7070080,
+            "name": "能量守恒",
+            "icon_id": "206008",
+            "move_type": {
+                "id": 17,
+                "name": "Mechanical",
+                "localized": {
+                    "zh": "机械"
+                }
+            },
+            "localized": {
+                "zh": {
+                    "name": "能量守恒",
+                    "description": "减伤80%，应对攻击：两侧技能能耗永久-1。"
+                }
+            },
+            "move_category": "Defense",
+            "energy_cost": 2,
+            "power": null,
+            "description": "减伤80%，应对攻击：两侧技能能耗永久-1。"
+        },
+        {
             "id": 7070160,
-            "name": "磁暴",
+            "name": "主轴",
             "icon_id": "106016",
             "move_type": {
                 "id": 17,
@@ -232,18 +232,18 @@
             },
             "localized": {
                 "zh": {
-                    "name": "磁暴",
-                    "description": "造成魔伤，本技能位于1号或3号位时威力+30，传动1。"
+                    "name": "主轴",
+                    "description": "造成物伤，此技能位置不会改变。"
                 }
             },
             "move_category": "Physical Attack",
             "energy_cost": 2,
             "power": 75,
-            "description": "造成魔伤，本技能位于1号或3号位时威力+30，传动1。"
+            "description": "造成物伤，此技能位置不会改变。"
         },
         {
             "id": 7070170,
-            "name": "主轴",
+            "name": "啮合传递",
             "icon_id": "106017",
             "move_type": {
                 "id": 17,
@@ -254,14 +254,14 @@
             },
             "localized": {
                 "zh": {
-                    "name": "主轴",
-                    "description": "造成物伤，本技能位于1号或3号位时能耗-2，传动1。"
+                    "name": "啮合传递",
+                    "description": "自己获得速度+30，本技能位于1号或3号位时额外获得物攻+80%，传动1。"
                 }
             },
             "move_category": "Status",
             "energy_cost": 1,
             "power": null,
-            "description": "造成物伤，本技能位于1号或3号位时能耗-2，传动1。"
+            "description": "自己获得速度+30，本技能位于1号或3号位时额外获得物攻+80%，传动1。"
         }
     ],
     "move_stones": [],

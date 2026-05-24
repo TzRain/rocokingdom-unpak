@@ -220,5 +220,6 @@
       "icon_selected": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_lilian2_png.img_lilian2_png'",
       "cover_page": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivitySurvey/Frames/img_kapian2_png.img_kapian2_png'"
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

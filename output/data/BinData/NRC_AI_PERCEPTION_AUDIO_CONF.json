@@ -9316,5 +9316,6 @@
       "alert_threshold": 100,
       "perceiving_threshold": 100
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

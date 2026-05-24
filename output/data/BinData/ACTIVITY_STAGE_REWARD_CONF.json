@@ -6,8 +6,8 @@
       "change_goods_type": 1,
       "change_goods_id": 320020,
       "points_condition": 10,
-      "reward_type": 17,
-      "reward_id": 16,
+      "reward_type": 1,
+      "reward_id": 320064,
       "reward_count": 1
     },
     "1002": {
@@ -15,9 +15,9 @@
       "group_id": 3500002,
       "change_goods_type": 1,
       "change_goods_id": 320020,
-      "points_condition": 100,
-      "reward_type": 1,
-      "reward_id": 310046,
+      "points_condition": 50,
+      "reward_type": 17,
+      "reward_id": 16,
       "reward_count": 1
     },
     "1003": {
@@ -25,7 +25,7 @@
       "group_id": 3500002,
       "change_goods_type": 1,
       "change_goods_id": 320020,
-      "points_condition": 150,
+      "points_condition": 100,
       "reward_type": 1,
       "reward_id": 107208,
       "reward_count": 1
@@ -36,8 +36,8 @@
       "change_goods_type": 1,
       "change_goods_id": 320020,
       "points_condition": 200,
-      "reward_type": 15,
-      "reward_id": 3005,
+      "reward_type": 1,
+      "reward_id": 310046,
       "reward_count": 1
     },
     "1005": {
@@ -55,11 +55,12 @@
       "group_id": 3500002,
       "change_goods_type": 1,
       "change_goods_id": 320020,
-      "points_condition": 400,
-      "reward_type": 1,
-      "reward_id": 100206,
+      "points_condition": 450,
+      "reward_type": 15,
+      "reward_id": 3005,
       "reward_count": 1,
       "if_reward_jackpot": true
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

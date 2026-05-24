@@ -168,5 +168,6 @@
       "hp_recover_value": 3,
       "pet_recover": true
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

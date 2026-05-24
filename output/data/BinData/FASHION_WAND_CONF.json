@@ -32,6 +32,8 @@
       "magic_icon": "PaperSprite'/Game/NewRoco/Modules/System/Appearance/Raw/Frames/img_magic_kind_7_png.img_magic_kind_7_png'",
       "WandMesh": "/Game/ArtRes/AnimSequence/Human/PC/PC3/Avatar/Mw/32500301/SKM_PC3_Mw_32500301.SKM_PC3_Mw_32500301",
       "wand_tips_text": "更换上飓风行迹法杖后，使用风魔法可以看到独特的魔法效果。",
+      "wand_video_male": "https://video.nrc.qq.com/MoviesMobile/Operations/Male/wand_32500301_male.mp4",
+      "wand_video_female": "https://video.nrc.qq.com/MoviesMobile/Operations/Female/wand_32500301_female.mp4",
       "magic_list": [
         0,
         2
@@ -150,5 +152,6 @@
       "magic_btn_icon": "PaperSprite'/Game/NewRoco/Modules/System/Appearance/Raw/AppearanceNew/Frames/img_mofa_liuhen_png.img_mofa_liuhen_png'",
       "wand_source": 3
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

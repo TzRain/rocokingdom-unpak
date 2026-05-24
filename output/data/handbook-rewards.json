@@ -5318,14 +5318,14 @@
             "type": 1,
             "id": 246018,
             "name": "撞鬼",
-            "icon_id": "learning_demon_02",
+            "icon_id": "learning_ghost_02",
             "count": 1
         },
         {
             "type": 1,
             "id": 226018,
             "name": "配方-撞鬼",
-            "icon_id": "learning_demon_03",
+            "icon_id": "learning_ghost_03",
             "count": 1
         },
         {
@@ -9044,14 +9044,14 @@
             "type": 1,
             "id": 246019,
             "name": "入梦",
-            "icon_id": "learning_demon_02",
+            "icon_id": "learning_ghost_02",
             "count": 1
         },
         {
             "type": 1,
             "id": 226019,
             "name": "配方-入梦",
-            "icon_id": "learning_demon_03",
+            "icon_id": "learning_ghost_03",
             "count": 1
         },
         {

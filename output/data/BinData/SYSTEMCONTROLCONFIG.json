@@ -2058,7 +2058,6 @@
       "id": 53000011,
       "editor_name": "快手",
       "parent_id": 53,
-      "is_open": 1,
       "login_plat_limit": [
         4,
         4096,
@@ -2706,5 +2705,6 @@
       "version_rule": 1,
       "channel": 1
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

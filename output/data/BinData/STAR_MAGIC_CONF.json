@@ -1,0 +1,17 @@
+{
+  "RocoDataRows": {
+    "5": {
+      "id": 5,
+      "name": "星星魔法-深海的馈赠催眠魔法",
+      "effect_struct": [
+        {
+          "effect": 2
+        },
+        {
+          "effect": 6
+        }
+      ]
+    }
+  },
+  "LocalizationStrings": {}
+}

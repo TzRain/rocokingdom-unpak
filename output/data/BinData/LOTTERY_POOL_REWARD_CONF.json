@@ -23,7 +23,7 @@
     "1001202": {
       "id": 1001202,
       "lottery_item": 200300203,
-      "num_total_max": 3,
+      "num_total_max": 10,
       "num_daily_max": 1,
       "base_drop_weight": 2970,
       "reward_skill_blueprint": "/Game/ArtRes/Effects/G6Skill/SceneEffect/G6_Scene_Activities_niudanji02",
@@ -164,5 +164,6 @@
       "reward_skill_blueprint": "/Game/ArtRes/Effects/G6Skill/SceneEffect/G6_NiuDanJi_BenBoShu2",
       "is_reward_pop": true
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

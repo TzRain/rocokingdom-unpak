@@ -59226,5 +59226,6 @@
       "description": "%s将于%s回合后逃跑！",
       "icon": "PaperSprite'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/Combat/Frames/img_star_bg_png.img_star_bg_png'"
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

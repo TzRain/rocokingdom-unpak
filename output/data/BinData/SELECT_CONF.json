@@ -79722,12 +79722,11 @@
         300000200
       ],
       "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-      "times": -1,
-      "times_decrease_cond": 4,
+      "times": 1,
+      "times_decrease_cond": 3,
+      "times_decrease_cond_params": "316051",
       "notimes_disable": 1,
-      "select_next_dialogue": 189000050,
-      "disable_cond": 1,
-      "disable_cond_params": "7041"
+      "select_next_dialogue": 189000050
     },
     "200000022": {
       "id": 200000022,
@@ -79739,12 +79738,11 @@
       "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
       "enable_cond": 1,
       "enable_cond_params": "7041",
-      "times": -1,
-      "times_decrease_cond": 4,
+      "times": 1,
+      "times_decrease_cond": 3,
+      "times_decrease_cond_params": "316052",
       "notimes_disable": 1,
-      "select_next_dialogue": 189000060,
-      "disable_cond": 1,
-      "disable_cond_params": "7042"
+      "select_next_dialogue": 189000060
     },
     "200000023": {
       "id": 200000023,
@@ -79756,12 +79754,11 @@
       "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
       "enable_cond": 1,
       "enable_cond_params": "7042",
-      "times": -1,
-      "times_decrease_cond": 4,
+      "times": 1,
+      "times_decrease_cond": 3,
+      "times_decrease_cond_params": "316053",
       "notimes_disable": 1,
-      "select_next_dialogue": 189000070,
-      "disable_cond": 1,
-      "disable_cond_params": "7043"
+      "select_next_dialogue": 189000070
     },
     "200000024": {
       "id": 200000024,
@@ -79773,12 +79770,11 @@
       "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
       "enable_cond": 1,
       "enable_cond_params": "7043",
-      "times": -1,
-      "times_decrease_cond": 4,
+      "times": 1,
+      "times_decrease_cond": 3,
+      "times_decrease_cond_params": "316054",
       "notimes_disable": 1,
-      "select_next_dialogue": 189000080,
-      "disable_cond": 1,
-      "disable_cond_params": "7044"
+      "select_next_dialogue": 189000080
     },
     "200000025": {
       "id": 200000025,
@@ -79790,12 +79786,11 @@
       "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
       "enable_cond": 1,
       "enable_cond_params": "7044",
-      "times": -1,
-      "times_decrease_cond": 4,
+      "times": 1,
+      "times_decrease_cond": 3,
+      "times_decrease_cond_params": "316055",
       "notimes_disable": 1,
-      "select_next_dialogue": 189000090,
-      "disable_cond": 1,
-      "disable_cond_params": "7045"
+      "select_next_dialogue": 189000090
     },
     "200000026": {
       "id": 200000026,
@@ -79807,12 +79802,11 @@
       "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
       "enable_cond": 1,
       "enable_cond_params": "7045",
-      "times": -1,
-      "times_decrease_cond": 4,
+      "times": 1,
+      "times_decrease_cond": 3,
+      "times_decrease_cond_params": "316056",
       "notimes_disable": 1,
-      "select_next_dialogue": 189000100,
-      "disable_cond": 1,
-      "disable_cond_params": "7046"
+      "select_next_dialogue": 189000100
     },
     "200000027": {
       "id": 200000027,
@@ -79824,12 +79818,11 @@
       "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
       "enable_cond": 1,
       "enable_cond_params": "7046",
-      "times": -1,
-      "times_decrease_cond": 4,
+      "times": 1,
+      "times_decrease_cond": 3,
+      "times_decrease_cond_params": "316057",
       "notimes_disable": 1,
-      "select_next_dialogue": 189000110,
-      "disable_cond": 1,
-      "disable_cond_params": "7047"
+      "select_next_dialogue": 189000110
     },
     "200000028": {
       "id": 200000028,
@@ -79841,12 +79834,11 @@
       "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
       "enable_cond": 1,
       "enable_cond_params": "7047",
-      "times": -1,
-      "times_decrease_cond": 4,
+      "times": 1,
+      "times_decrease_cond": 3,
+      "times_decrease_cond_params": "316058",
       "notimes_disable": 1,
-      "select_next_dialogue": 189000120,
-      "disable_cond": 1,
-      "disable_cond_params": "7048"
+      "select_next_dialogue": 189000120
     },
     "200000029": {
       "id": 200000029,
@@ -79858,12 +79850,11 @@
       "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
       "enable_cond": 1,
       "enable_cond_params": "7048",
-      "times": -1,
-      "times_decrease_cond": 4,
+      "times": 1,
+      "times_decrease_cond": 3,
+      "times_decrease_cond_params": "316059",
       "notimes_disable": 1,
-      "select_next_dialogue": 189000130,
-      "disable_cond": 1,
-      "disable_cond_params": "7049"
+      "select_next_dialogue": 189000130
     },
     "200000030": {
       "id": 200000030,
@@ -79875,12 +79866,11 @@
       "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
       "enable_cond": 1,
       "enable_cond_params": "7049",
-      "times": -1,
-      "times_decrease_cond": 4,
+      "times": 1,
+      "times_decrease_cond": 3,
+      "times_decrease_cond_params": "316060",
       "notimes_disable": 1,
-      "select_next_dialogue": 189000140,
-      "disable_cond": 1,
-      "disable_cond_params": "7050"
+      "select_next_dialogue": 189000140
     },
     "200000031": {
       "id": 200000031,
@@ -79892,12 +79882,11 @@
       "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
       "enable_cond": 1,
       "enable_cond_params": "7050",
-      "times": -1,
-      "times_decrease_cond": 4,
+      "times": 1,
+      "times_decrease_cond": 3,
+      "times_decrease_cond_params": "316061",
       "notimes_disable": 1,
-      "select_next_dialogue": 189000150,
-      "disable_cond": 1,
-      "disable_cond_params": "7051"
+      "select_next_dialogue": 189000150
     },
     "200000032": {
       "id": 200000032,
@@ -79909,12 +79898,11 @@
       "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
       "enable_cond": 1,
       "enable_cond_params": "7051",
-      "times": -1,
-      "times_decrease_cond": 4,
+      "times": 1,
+      "times_decrease_cond": 3,
+      "times_decrease_cond_params": "316062",
       "notimes_disable": 1,
-      "select_next_dialogue": 189000160,
-      "disable_cond": 1,
-      "disable_cond_params": "7064"
+      "select_next_dialogue": 189000160
     },
     "200000053": {
       "id": 200000053,
@@ -107711,5 +107699,6 @@
       "times": -1,
       "select_next_dialogue": 516003078
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

@@ -40,7 +40,7 @@
       "need_exchange_goods_id": 51,
       "exchange_goods_type": 2,
       "exchange_goods_id": 1,
-      "exchange_rate": 100,
+      "exchange_rate": 1600,
       "exchange_mail_id": 200005
     },
     "1006": {
@@ -83,5 +83,6 @@
       "exchange_rate": 1000,
       "exchange_mail_id": 80080
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

@@ -111,5 +111,6 @@
       "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_Icondan_Nightmare_png.img_Icondan_Nightmare_png'",
       "small_icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_Icondan_Nightmare2_png.img_Icondan_Nightmare2_png'"
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

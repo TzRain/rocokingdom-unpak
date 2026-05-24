@@ -315,5 +315,6 @@
       "loading_end": 10003,
       "res_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/LoadingUIModule/Res/UMG_Loding_MagicAcademy.UMG_Loding_MagicAcademy'"
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

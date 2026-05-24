@@ -4,7 +4,7 @@
       "id": 1,
       "scene_res_id": 10003,
       "list_order": 1,
-      "list_name": "",
+      "list_name": "卡洛西亚大陆",
       "min_scale": 50,
       "max_scale": 280,
       "map_switch_fix_point": 1,
@@ -35,7 +35,7 @@
       "id": 2,
       "scene_res_id": 10018,
       "list_order": 2,
-      "list_name": "",
+      "list_name": "魔法学院",
       "min_scale": 60,
       "max_scale": 200,
       "map_switch_fix_point": 1,
@@ -64,7 +64,7 @@
       "id": 3,
       "scene_res_id": 30001,
       "list_order": 3,
-      "list_name": "",
+      "list_name": "家园室内",
       "min_scale": 50,
       "max_scale": 150,
       "map_switch_fix_point": 2,
@@ -103,7 +103,7 @@
       "id": 4,
       "scene_res_id": 30002,
       "list_order": 4,
-      "list_name": "",
+      "list_name": "家园种植园",
       "min_scale": 39,
       "max_scale": 90,
       "map_switch_fix_point": 1,
@@ -131,5 +131,6 @@
       "main_map_big_radius": 1000,
       "main_map_small_radius": 800
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

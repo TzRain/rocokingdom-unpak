@@ -51,13 +51,13 @@
     "1010": {
       "id": 1010,
       "behavior_type": 7,
-      "action_param1": "https://m.mall.qq.com/rocom/detail/35661",
+      "action_param1": "https://mall.qq.com/rocom/detail.shtml?id=35661",
       "param1": "1"
     },
     "1011": {
       "id": 1011,
       "behavior_type": 7,
-      "action_param1": "https://m.mall.qq.com/rocom/detail/35662",
+      "action_param1": "https://mall.qq.com/rocom/detail.shtml?id=35662",
       "param1": "1"
     },
     "1012": {
@@ -78,5 +78,6 @@
       "action_param1": "https://mall.qq.com/rocom/detail.shtml?id=35602",
       "param1": "1"
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

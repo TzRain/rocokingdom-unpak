@@ -138,7 +138,7 @@
     "breeding": {
         "id": 3421001,
         "pet_id": 3421001,
-        "name": "齿轮小子",
+        "name": "破梦者",
         "model_id": 3421001,
         "hatch_data": 28800,
         "weight_low": 263,
@@ -160,7 +160,7 @@
             {
                 "id": 3421001,
                 "pet_id": 3421001,
-                "name": "齿轮小子",
+                "name": "破梦者",
                 "model_id": 3421001,
                 "hatch_data": 28800,
                 "weight_low": 263,
@@ -180,31 +180,9 @@
                 "is_contact_add_shining_prob": null
             },
             {
-                "id": 3431001,
-                "pet_id": 3431001,
-                "name": "破梦者",
-                "model_id": 3431001,
-                "hatch_data": 43200,
-                "weight_low": 1229,
-                "weight_high": 2728,
-                "height_low": 32,
-                "height_high": 35,
-                "precious_egg_type": null,
-                "egg_base_glass_prob_array": [
-                    8,
-                    1125
-                ],
-                "egg_add_glass_prob_array": [
-                    1,
-                    50
-                ],
-                "is_contact_add_glass_prob": true,
-                "is_contact_add_shining_prob": null
-            },
-            {
                 "id": 34210001,
                 "pet_id": 34210001,
-                "name": "深蓝鲸",
+                "name": "破梦者",
                 "model_id": 3421001,
                 "hatch_data": 300,
                 "weight_low": 263,

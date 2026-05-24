@@ -120,5 +120,6 @@
       "season": 2,
       "ui": "PrimaryDataAsset'/Game/NewRoco/Modules/System/PVPQualifier/Res/SeasonSkill/PDA_SeasonSkillUiConfiguration_S2.PDA_SeasonSkillUiConfiguration_S2'"
     }
-  }
+  },
+  "LocalizationStrings": {}
 }

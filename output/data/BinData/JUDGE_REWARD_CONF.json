@@ -2,22 +2,22 @@
   "RocoDataRows": {
     "1001": {
       "id": 1001,
-      "accuracy_max": 5,
+      "accuracy_max": 10,
       "reward_id": 1040001
     },
     "1002": {
       "id": 1002,
-      "accuracy_max": 15,
+      "accuracy_max": 20,
       "reward_id": 1040002
     },
     "1003": {
       "id": 1003,
-      "accuracy_max": 25,
+      "accuracy_max": 30,
       "reward_id": 1040003
     },
     "1004": {
       "id": 1004,
-      "accuracy_max": 35,
+      "accuracy_max": 40,
       "reward_id": 1040004
     },
     "1005": {
@@ -27,33 +27,54 @@
     },
     "1006": {
       "id": 1006,
-      "accuracy_max": 65,
+      "accuracy_max": 60,
       "reward_id": 1040006
     },
     "1007": {
       "id": 1007,
-      "accuracy_max": 80,
+      "accuracy_max": 70,
       "reward_id": 1040007
     },
     "1008": {
       "id": 1008,
-      "accuracy_max": 100,
+      "accuracy_max": 80,
       "reward_id": 1040008
     },
     "1009": {
       "id": 1009,
-      "accuracy_max": 120,
+      "accuracy_max": 90,
       "reward_id": 1040009
     },
     "1010": {
       "id": 1010,
-      "accuracy_max": 140,
+      "accuracy_max": 100,
       "reward_id": 1040010
     },
     "1011": {
       "id": 1011,
-      "accuracy_max": 160,
+      "accuracy_max": 120,
       "reward_id": 1040011
+    },
+    "1012": {
+      "id": 1012,
+      "accuracy_max": 140,
+      "reward_id": 1040012
+    },
+    "1013": {
+      "id": 1013,
+      "accuracy_max": 160,
+      "reward_id": 1040013
+    },
+    "1014": {
+      "id": 1014,
+      "accuracy_max": 180,
+      "reward_id": 1040014
+    },
+    "1015": {
+      "id": 1015,
+      "accuracy_max": 200,
+      "reward_id": 1040015
     }
-  }
+  },
+  "LocalizationStrings": {}
 }
