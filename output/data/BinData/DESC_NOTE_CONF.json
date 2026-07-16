@@ -906,221 +906,302 @@
       "desc": "通过完成洛克里安四大阵营的任务获得，可以在阵营商店中兑换各种道具。",
       "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/gongce_shanshanlingyu.gongce_shanshanlingyu'"
     },
-    "2301": {
-      "id": 2301,
+    "2122": {
+      "id": 2122,
       "note": "赛季奇遇",
       "desc": "赛季持续期间，捕捉精灵有概率触发赛季奇遇。小洛克们会因此遇到各式各样仅在赛季期间才会出现的稀有精灵，甚至有机会见到更为稀有的异色精灵。",
-      "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s2_c03.s2_c03'"
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/shouce_dashijieshoulinghua.shouce_dashijieshoulinghua'"
+    },
+    "2123": {
+      "id": 2123,
+      "note": "稀有遭遇",
+      "desc": "连锁捕捉并发生稀有遭遇时，周围的环境会产生明显变化。有传言说，是魔力在短时间内大量聚集，精灵得以从噩梦空间中逃脱，从而造成了这一现象。",
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/shouce_tanxianxiehui.shouce_tanxianxiehui'"
+    },
+    "2124": {
+      "id": 2124,
+      "note": "赛季对战",
+      "desc": "魔法学院里有一群专注于研究特殊精灵的精英学者，他们常年游历各地调查魔力波动、捕捉特殊精灵。\n与他们对战切磋将有机会一睹赛季精灵的样貌、体验不同的战斗策略。",
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/mofashouce.mofashouce'"
+    },
+    "2125": {
+      "id": 2125,
+      "note": "赛季动作",
+      "desc": "赛季持续期间，小洛克们可以在方舟马戏团中选购全新的时装、动作和玩具。多多留意方舟马戏团里的新货品吧~~",
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/shouce_meiyuanshu.shouce_meiyuanshu'"
+    },
+    "2126": {
+      "id": 2126,
+      "note": "赛季玩具",
+      "desc": "赛季持续期间，小洛克们可以在方舟马戏团中选购全新的时装、动作和玩具。多多留意方舟马戏团里的新货品吧~~",
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/shouce_mofafeng.shouce_mofafeng'"
+    },
+    "2127": {
+      "id": 2127,
+      "note": "赛季家具",
+      "desc": "赛季持续期间，小洛克们可以在方舟马戏团中选购全新的时装、动作和玩具。多多留意方舟马戏团里的新货品吧~~",
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/shouce_nvshenjitan.shouce_nvshenjitan'"
+    },
+    "2301": {
+      "id": 2301,
+      "note": "赛季传说精灵",
+      "desc": "与镇守一方的精灵王不同，传说中的精灵可能会因为各种各样的原因出现在卡洛西亚大陆。\n赛季持续期间，小洛克们有机会与强大的赛季传说精灵成为伙伴。",
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s3_c02.s3_c02'"
     },
     "2302": {
       "id": 2302,
-      "note": "稀有遭遇",
-      "desc": "连锁捕捉并发生稀有遭遇时，周围的环境会产生明显变化。有传言说，是魔力在短时间内大量聚集，精灵得以从噩梦空间中逃脱，从而造成了这一现象。",
+      "note": "奇遇精灵",
+      "desc": "特定赛季中才会出现在大世界中的特殊精灵，通过连续捕捉触发赛季奇遇，就有可能与它们相遇！\n本赛季的奇遇精灵有以下8种：<span color=\"#7f4dffff\">猴麦仔</>、<span color=\"#7f4dffff\">烟花团</>、<span color=\"#7f4dffff\">加油海葵</>、<span color=\"#7f4dffff\">炫光迪迪</>、<span color=\"#7f4dffff\">咕咕帽</>、<span color=\"#7f4dffff\">小丑豆豆</>、<span color=\"#7f4dffff\">小鼓象</>、<span color=\"#7f4dffff\">牵线木偶</>。",
       "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/ZS1_DESC_xiyouzaoyu.ZS1_DESC_xiyouzaoyu'"
     },
     "2303": {
       "id": 2303,
-      "note": "赛季对战",
-      "desc": "魔法学院里有一群专注于研究特殊精灵的精英学者，他们常年游历各地调查魔力波动、捕捉特殊精灵。\n与他们对战切磋将有机会一睹赛季精灵的样貌、体验不同的战斗策略。",
+      "note": "污染血脉",
+      "desc": "在赛季奇遇中出现的精灵刚刚从噩梦空间逃脱，尚未摆脱噩梦侵蚀。削弱精灵的魔力后，一部分噩梦能量可能会残留在精灵身上，形成独特的污染血脉。",
       "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/ZS1_DESC_saijilutian.ZS1_DESC_saijilutian'"
     },
     "2304": {
       "id": 2304,
-      "note": "赛季动作",
-      "desc": "赛季持续期间，小洛克们可以在方舟马戏团中选购全新的时装、动作和玩具。多多留意方舟马戏团里的新货品吧~~",
+      "note": "精灵性格",
+      "desc": "性格会影响精灵的资质，带来某种正面效果的同时，也一定会有负面效果。据说某种魔法道具可以改变精灵性格的影响。",
       "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/ZS1_DESC_saijidating.ZS1_DESC_saijidating'"
     },
     "2305": {
       "id": 2305,
-      "note": "赛季玩具",
-      "desc": "赛季持续期间，小洛克们可以在方舟马戏团中选购全新的时装、动作和玩具。多多留意方舟马戏团里的新货品吧~~",
+      "note": "精灵天分",
+      "desc": "天分会决定精灵所擅长的资质，拥有3种资质加成的被称为「相当好的天分」，而当精灵性格的正面效果与3种加成中的一种重叠时，即为「了不起的天分」。",
       "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/ZS1_DESC_saijidating.ZS1_DESC_saijidating'"
     },
     "2306": {
       "id": 2306,
-      "note": "赛季家具",
-      "desc": "赛季持续期间，小洛克们可以在方舟马戏团中选购全新的时装、动作和玩具。多多留意方舟马戏团里的新货品吧~~",
+      "note": "通行证精灵",
+      "desc": "通过赛季通行证获取果实或精灵蛋，就能得到当前赛季的通行证精灵。通过与朋友交换，或者前往朋友的世界捕捉，还能得到另一种精灵。",
       "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/ZS1_DESC_saijidating.ZS1_DESC_saijidating'"
     },
     "2307": {
       "id": 2307,
-      "note": "赛季传说精灵",
-      "desc": "与镇守一方的精灵王不同，传说中的精灵可能会因为各种各样的原因出现在卡洛西亚大陆。\n赛季持续期间，小洛克们有机会与强大的赛季传说精灵成为伙伴。",
-      "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s2_c04.s2_c04'"
+      "note": "好感度",
+      "desc": "和喜爱的精灵一同冒险或并肩作战，都会增加精灵的好感。当好感度提升到一定程度，就可以给精灵起一个专属于你们之间的独特外号。",
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s3_c04.s3_c04'"
     },
     "2308": {
       "id": 2308,
-      "note": "奇遇精灵",
-      "desc": "特定赛季中才会出现在大世界中的特殊精灵，通过连续捕捉触发赛季奇遇，就有可能与它们相遇！\n本赛季的奇遇精灵有以下8种：<span color=\"#7f4dffff\">猴麦仔</>、<span color=\"#7f4dffff\">烟花团</>、<span color=\"#7f4dffff\">加油海葵</>、<span color=\"#7f4dffff\">炫光迪迪</>、<span color=\"#7f4dffff\">咕咕帽</>、<span color=\"#7f4dffff\">小丑豆豆</>、<span color=\"#7f4dffff\">小鼓象</>、<span color=\"#7f4dffff\">牵线木偶</>。",
-      "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s2_c03.s2_c03'"
+      "note": "战斗中力竭",
+      "desc": "在战斗过程中，当精灵魔力耗尽就会力竭，并回到咕噜球中休息。而魔法师们为了精灵的健康，则会消耗自身的魔力保护精灵。",
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s3_c03.s3_c03'"
     },
     "2309": {
       "id": 2309,
-      "note": "污染血脉",
-      "desc": "在赛季奇遇中出现的精灵刚刚从噩梦空间逃脱，尚未摆脱噩梦侵蚀。削弱精灵的魔力后，一部分噩梦能量可能会残留在精灵身上，形成独特的污染血脉。",
+      "note": "敌方行动次数",
+      "desc": "在战斗过程中，敌我双方每行动一次，即为一「回合」。而在稀兽花种与传说精灵对战中，如果持续不行动，敌方也会针对其它参战洛克发动攻击。",
       "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/ZS1_DESC_emengcanliu.ZS1_DESC_emengcanliu'"
     },
     "2310": {
       "id": 2310,
-      "note": "精灵性格",
-      "desc": "性格会影响精灵的资质，带来某种正面效果的同时，也一定会有负面效果。据说某种魔法道具可以改变精灵性格的影响。",
+      "note": "匹配挑战",
+      "desc": "在挑战传说精灵前，可以选择与其他世界中的小洛克匹配，共同攻克强大的传说精灵。",
       "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/ZS1_DESC_xingge.ZS1_DESC_xingge'"
     },
     "2311": {
       "id": 2311,
-      "note": "精灵天分",
-      "desc": "天分会决定精灵所擅长的资质，拥有3种资质加成的被称为「相当好的天分」，而当精灵性格的正面效果与3种加成中的一种重叠时，即为「了不起的天分」。",
+      "note": "异色突变精灵",
+      "desc": "在连锁捕捉精灵发生稀有遭遇时，会有一定可能遇到极其罕见的异色突变精灵。虽然身体素质并无差异，但独特的皮毛颜色让它们在族群中显得非常与众不同。",
       "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/ZS1_DESC_tianfen.ZS1_DESC_tianfen'"
     },
     "2312": {
       "id": 2312,
-      "note": "通行证精灵",
-      "desc": "通过赛季通行证获取果实或精灵蛋，就能得到当前赛季的通行证精灵。通过与朋友交换，或者前往朋友的世界捕捉，还能得到另一种精灵。",
+      "note": "赛季大厅",
+      "desc": "赛季持续期间，小洛克们可以前往方舟马戏团协助开展魔力波动与传说精灵的调查。\n并可在这个特殊的空间种选购全新藏品、与各种可爱的精灵互动。",
       "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/ZS1_DESC_BPjingling.ZS1_DESC_BPjingling'"
     },
     "2313": {
       "id": 2313,
-      "note": "好感度",
-      "desc": "和喜爱的精灵一同冒险或并肩作战，都会增加精灵的好感。当好感度提升到一定程度，就可以给精灵起一个专属于你们之间的独特外号。",
+      "note": "奇异血脉精灵",
+      "desc": "奇异血脉拥有额外的「奇异技能」，这是由于血脉突变，精灵学会了原本无法习得的技能。\n赛季奇遇中，幸运惊喜盒有概率出现野生的奇异血脉精灵。",
       "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/ZS1_DESC_haogandu.ZS1_DESC_haogandu'"
     },
     "2314": {
       "id": 2314,
-      "note": "战斗中力竭",
-      "desc": "在战斗过程中，当精灵魔力耗尽就会力竭，并回到咕噜球中休息。而魔法师们为了精灵的健康，则会消耗自身的魔力保护精灵。",
+      "note": "家具商人",
+      "desc": "赛季委托达到一定进度后，神秘的魔法师古拉拉会在出现在赛季大厅中，她的家具商店会售卖最为特别的装潢和家具。\n赛季结束后，古拉拉将会暂时离开，并在下一个赛季带来全新风格的家具套装。",
       "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/ZS1_DESC_lijie.ZS1_DESC_lijie'"
     },
     "2315": {
       "id": 2315,
-      "note": "敌方行动次数",
-      "desc": "在战斗过程中，敌我双方每行动一次，即为一「回合」。而在稀兽花种与传说精灵对战中，如果持续不行动，敌方也会针对其它参战洛克发动攻击。",
+      "note": "赛季代币",
+      "desc": "赛季代币可通过完成赛季作业、赛季对战、星光对决每周欢呼声奖励、闪耀大赛每周挑战来获取狂欢代币。\n本赛季中，还可通过捕捉奇遇精灵和奇遇限定异色精灵来获取更多的代币。",
       "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/ZS1_DESC_xingdongcishu.ZS1_DESC_xingdongcishu'"
     },
     "2316": {
       "id": 2316,
-      "note": "匹配挑战",
-      "desc": "在挑战传说精灵前，可以选择与其他世界中的小洛克匹配，共同攻克强大的传说精灵。",
+      "note": "代币商店",
+      "desc": "代币商店中，可使用狂欢代币兑换拥有赛季炫彩外观的随机精灵蛋、8种赛季奇遇的珍贵精灵蛋、精灵养成道具。\n兑换完所有「赛季炫彩精灵蛋」后，还可额外无限兑换「奇趣球」和「方舟印记」。",
       "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/ZS1_DESC_pipei.ZS1_DESC_pipei'"
     },
     "2317": {
       "id": 2317,
-      "note": "异色突变精灵",
-      "desc": "在连锁捕捉精灵发生稀有遭遇时，会有一定可能遇到极其罕见的异色突变精灵。虽然身体素质并无差异，但独特的皮毛颜色让它们在族群中显得非常与众不同。",
+      "note": "赛季纪念咕噜球",
+      "desc": "赛季持续期间，小洛克们可获得赛季特制的纪念咕噜球，本赛季的特制咕噜球为必定捕捉精灵的奇趣球。\n可通过完成赛季作业、提升通行证等级、完成赛季对战、在赛季代币商店和方舟马戏团的兑换商店购买获得。",
       "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/ZS1_DESC_yisejingling.ZS1_DESC_yisejingling'"
     },
     "2318": {
       "id": 2318,
-      "note": "赛季大厅",
-      "desc": "赛季持续期间，小洛克们可以前往方舟马戏团协助开展魔力波动与传说精灵的调查。\n并可在这个特殊的空间种选购全新藏品、与各种可爱的精灵互动。",
-      "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s2_saijidating.s2_saijidating'"
+      "note": "惊喜奇遇精灵",
+      "desc": "一些奇遇精灵的出现方式更为特殊，本赛季的<span color=\"#7f4dffff\">烟花团</>、<span color=\"#7f4dffff\">炫光迪迪</>、<span color=\"#7f4dffff\">小丑豆豆</>需要用更特殊的手段才能在奇遇中与它们相遇。\n也许，它们与奇遇中出现的幸运惊喜盒有些关系？",
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s3_c01.s3_c01'"
     },
     "2319": {
       "id": 2319,
-      "note": "奇异血脉精灵",
-      "desc": "奇异血脉拥有额外的「奇异技能」，这是由于血脉突变，精灵学会了原本无法习得的技能。\n赛季奇遇中，幸运惊喜盒有概率出现野生的奇异血脉精灵。",
+      "note": "赛季大厅藏品",
+      "desc": "赛季持续期间，小洛克们可以在方舟马戏团中选购全新的时装、动作和玩具。多多留意方舟马戏团里的新货品吧~~",
       "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/ZS1_DESC_qiyi.ZS1_DESC_qiyi'"
     },
     "2320": {
       "id": 2320,
-      "note": "家具商人",
-      "desc": "赛季委托达到一定进度后，神秘的魔法师古拉拉会在出现在赛季大厅中，她的家具商店会售卖最为特别的装潢和家具。\n赛季结束后，古拉拉将会暂时离开，并在下一个赛季带来全新风格的家具套装。",
+      "note": "赛季传说精灵挑战",
+      "desc": "赛季委托达到一定进度后，会开启「机幕方舟」的传说精灵挑战，通过消耗「契约印记」或「方舟印记」可与其签订契约。\n千万不要错过让传说精灵成为伙伴的机会哦！",
       "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s2_gulala.s2_gulala'"
     },
     "2321": {
       "id": 2321,
-      "note": "赛季代币",
-      "desc": "赛季代币可通过完成赛季作业、赛季对战、星光对决每周欢呼声奖励、闪耀大赛每周挑战来获取狂欢代币。\n本赛季中，还可通过捕捉奇遇精灵和奇遇限定异色精灵来获取更多的代币。",
-      "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s2_c01.s2_c01'"
+      "note": "积蓄",
+      "desc": "可继续蓄力一回合，最终技能可额外释放次数+1。",
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s3_coin.s3_coin'"
     },
     "2322": {
       "id": 2322,
-      "note": "代币商店",
-      "desc": "代币商店中，可使用狂欢代币兑换拥有赛季炫彩外观的随机精灵蛋、8种赛季奇遇的珍贵精灵蛋、精灵养成道具。\n兑换完所有「赛季炫彩精灵蛋」后，还可额外无限兑换「奇趣球」和「方舟印记」。",
-      "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/ZS1_DESC_tokenshop.ZS1_DESC_tokenshop'"
+      "note": "连击数",
+      "desc": "改变连击次数，仅对有连击的技能生效。",
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s3_coin.s3_coin'"
     },
     "2323": {
       "id": 2323,
-      "note": "赛季纪念咕噜球",
-      "desc": "赛季持续期间，小洛克们可获得赛季特制的纪念咕噜球，本赛季的特制咕噜球为必定捕捉精灵的奇趣球。\n可通过完成赛季作业、提升通行证等级、完成赛季对战、在赛季代币商店和方舟马戏团的兑换商店购买获得。",
-      "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s2_ball.s2_ball'"
+      "note": "沙暴",
+      "desc": "天气为沙暴时，双方的地系技能能耗减半。",
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s3_ball.s3_ball'"
     },
     "2324": {
       "id": 2324,
-      "note": "惊喜奇遇精灵",
-      "desc": "一些奇遇精灵的出现方式更为特殊，本赛季的<span color=\"#7f4dffff\">烟花团</>、<span color=\"#7f4dffff\">炫光迪迪</>、<span color=\"#7f4dffff\">小丑豆豆</>需要用更特殊的手段才能在奇遇中与它们相遇。\n也许，它们与奇遇中出现的幸运惊喜盒有些关系？",
-      "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s2_c03.s2_c03'"
+      "note": "暴风雪",
+      "desc": "天气为暴风雪时，双方每回合结束获得2层冻结。（冰系精灵免疫此效果）",
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s3_c03.s3_c03'"
     },
     "2325": {
       "id": 2325,
-      "note": "赛季大厅藏品",
-      "desc": "赛季持续期间，小洛克们可以在方舟马戏团中选购全新的时装、动作和玩具。多多留意方舟马戏团里的新货品吧~~",
-      "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s2_saijidating.s2_saijidating'"
+      "note": "雨天",
+      "desc": "天气为雨天时，双方的水系技能威力+75%。",
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s3_c01.s3_c01'"
     },
     "2326": {
       "id": 2326,
-      "note": "赛季传说精灵挑战",
-      "desc": "赛季委托达到一定进度后，会开启「机幕方舟」的传说精灵挑战，通过消耗「契约印记」或「方舟印记」可与其签订契约。\n千万不要错过让传说精灵成为伙伴的机会哦！",
-      "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s2_c05.s2_c05'"
+      "note": "离场",
+      "desc": "通过主动更换精灵或触发脱离效果的方式下场。（不包括精灵力竭后下场）",
+      "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s3_c05.s3_c05'"
     },
     "3003": {
       "id": 3003,
-      "note": "积蓄",
-      "desc": "可继续蓄力一回合，最终技能可额外释放次数+1。"
-    },
-    "3005": {
-      "id": 3005,
-      "note": "连击数",
-      "desc": "改变连击次数，仅对有连击的技能生效。"
-    },
-    "3006": {
-      "id": 3006,
-      "note": "沙暴",
-      "desc": "天气为沙暴时，双方的地系技能能耗减半。"
-    },
-    "3007": {
-      "id": 3007,
-      "note": "暴风雪",
-      "desc": "天气为暴风雪时，双方每回合结束获得2层冻结。（冰系精灵免疫此效果）"
-    },
-    "3008": {
-      "id": 3008,
-      "note": "雨天",
-      "desc": "天气为雨天时，双方的水系技能威力+75%。"
-    },
-    "3009": {
-      "id": 3009,
-      "note": "离场",
-      "desc": "通过主动更换精灵或触发脱离效果的方式下场。（不包括精灵力竭后下场）"
-    },
-    "3010": {
-      "id": 3010,
       "note": "印记",
       "desc": "精灵下场后印记不会消失，新入场的精灵会继承印记效果。精灵最多同时拥有1种正面印记和1种负面印记。"
     },
-    "3011": {
-      "id": 3011,
+    "3005": {
+      "id": 3005,
       "note": "巧变",
       "desc": "使用后会变为指定范围内的随机技能，且能耗-1。使用该随机技能后会变回原技能。"
     },
-    "3012": {
-      "id": 3012,
+    "3006": {
+      "id": 3006,
       "note": "萌芽印记",
       "desc": "获得<desc_id=1012>增益</>时，会额外获得1层。"
     },
-    "3013": {
-      "id": 3013,
+    "3007": {
+      "id": 3007,
       "note": "附加中毒",
       "desc": "使用附加<desc_id=1001>中毒</>X的技能会使敌方获得X层<desc_id=1001>中毒</>。"
     },
-    "3014": {
-      "id": 3014,
+    "3008": {
+      "id": 3008,
       "note": "属性增益",
       "desc": "增益的其中一种类型，指提升物攻、魔攻、物防、魔防、速度的增益。"
     },
-    "3015": {
-      "id": 3015,
+    "3009": {
+      "id": 3009,
       "note": "混血精灵",
       "desc": "非本系血脉的精灵，包括非本系的系别血脉、首领血脉、奇异血脉、污染血脉等。"
+    },
+    "3010": {
+      "id": 3010,
+      "note": "",
+      "desc": ""
+    },
+    "3011": {
+      "id": 3011,
+      "note": "",
+      "desc": ""
+    },
+    "3012": {
+      "id": 3012,
+      "note": "",
+      "desc": ""
+    },
+    "3013": {
+      "id": 3013,
+      "note": "",
+      "desc": ""
+    },
+    "3014": {
+      "id": 3014,
+      "note": "",
+      "desc": ""
+    },
+    "3015": {
+      "id": 3015,
+      "note": "",
+      "desc": ""
+    },
+    "3016": {
+      "id": 3016,
+      "note": "",
+      "desc": ""
+    },
+    "3017": {
+      "id": 3017,
+      "note": "",
+      "desc": ""
+    },
+    "3018": {
+      "id": 3018,
+      "note": "",
+      "desc": ""
+    },
+    "3019": {
+      "id": 3019,
+      "note": "",
+      "desc": ""
+    },
+    "3020": {
+      "id": 3020,
+      "note": "",
+      "desc": ""
+    },
+    "3021": {
+      "id": 3021,
+      "note": "",
+      "desc": ""
+    },
+    "3022": {
+      "id": 3022,
+      "note": "",
+      "desc": ""
+    },
+    "3023": {
+      "id": 3023,
+      "note": "",
+      "desc": ""
+    },
+    "8001": {
+      "id": 8001,
+      "note": "",
+      "desc": ""
     }
   },
   "LocalizationStrings": {}
